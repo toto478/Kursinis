@@ -1,0 +1,2217 @@
+1Q 23
+BANCOLOMBIA S.A. (NYSE: CIB; BVC: BCOLOMBIA, PFBCOLOM) REPORTS FINANCIAL RESULTS FOR THE FIRST QUARTER
+OF 2023.
+• Net income attributable to shareholders of the parent company in 1Q23 was COP 1.7 trillion. This value represents an increase
+of 4.5% compared to the previous quarter. Annualized return on equity (“ROE”) at the consolidated level was 17.7% for the
+quarter and 19.0% for the last twelve months.
+• Gross loans amount to COP 267 trillion, decreasing 1.0% compared to the last quarter of 2022. It is important to highlight the
+3.4% appreciation of the Colombian Peso against the US dollar that impacted the loan balance. The operation in Colombia and
+Banistmo in Panama were the main contributors for the credit portfolio contraction on a consolidated basis.
+• 30-day past due loans stood at 4.25% and 90-day past due loans at 2.70%. Total provision charges, net for 1Q23 were COP 2,046
+billion that represented an increase of 17.5% when compared to 4Q22, led by credit deterioration mainly in the consumer
+portfolio.
+• Shareholders’ equity attributable to the owners of the parent company stood at COP 36.9 trillion as of March 31, 2023,
+decreasing 5.6% compared to the previous quarter. This variation is largely explained by the distribution of profits declared at
+the shareholders' meeting corresponding to 2022 results. Basic solvency stood at 9.75% and the total consolidated solvency ratio
+was 12.01% for 1Q23, complying with the minimum regulatory requirements.
+• In reference to its digital strategy, Bancolombia maintains an encouraging growth trend. As of March 2023, the bank has 7.8
+million active digital customers in the Retail APP (over a period of three months), as well as 22.2 million accounts in its financial
+inclusion platforms (6.6 million users in Bancolombia a la Mano and 15.6 million in NEQUI).
+May 10, 2023. Medellin, Colombia – Today, BANCOLOMBIA S.A. (“Bancolombia” or “the Bank”) announced its earnings results for
+the first quarter of 20231.
+1 This report corresponds to the interim unaudited consolidated financial information of BANCOLOMBIA S.A. and its subsidiaries (“BANCOLOMBIA” or “The Bank”) which Bancolombia controls, amongst others, by owning directly or indirectly,
+more than 50% of the voting capital stock. This financial information has been prepared based on financial records generated in accordance with International Financial Reporting Standards – IFRS. BANCOLOMBIA maintains accounting records
+in Colombian pesos, referred to herein as “Ps.” or “COP”. The financial information for the quarter ended March 31, 2023 is not necessarily indicative of the results for any other future interim period. For more information, please refer to the Bank's
+filings with the Securities and Exchange Commission, which are available on the Commission's website at www.sec.gov.
+. BANCOLOMBIA’s first IFRS financial statements will cover the year ending in 2015. CAUTIONARY NOTE REGARDING FORWARD LOOKING STATEMENTS: This release contains statements that may be considered forward-looking statements
+within the meaning of Section 27A of the U.S. Securities Act of 1933 and Section 21E of the U.S. Securities Exchange Act of 1934. All forward-looking statements, whether made in this release or in future filings or press releases or orally, address
+matters that involve risks and uncertainties; consequently, there are or will be factors, including, among others, changes in general economic and business conditions, changes in currency exchange rates and interest rates, introduction of
+competing products by other companies, lack of acceptances of new products or services by our targeted customers, changes in business strategy and various others factors, that could cause actual results to differ materially from those indicated
+in such statements. We do not intend, and do not assume any obligation, to update these forward-looking statements. Certain monetary amounts, percentages and other figures included in this report have been subject to rounding adjustments.
+Any reference to BANCOLOMBIA means the Bank together w ith its affiliates, unless otherwise specified.
+Representative Market Rate, April 1, 2023 $4,646.08 = US$ 1
+1
+1Q 23
+BANCOLOMBIA: Summary of consolidated financial quarterly results
+CONSOLIDATED BALANCE SHEET
+Quarter Growth
+AND INCOME STATEMENT
+(COP million) 1Q22 4Q22 1Q23 1Q23 / 4Q22 1Q23 / 1Q22
+ASSETS
+Net Loans 207,491,489 254,444,099 250,756,177 -1.45% 20.85%
+Investments 27,312,673 27,940,140 30,968,605 10.84% 13.39%
+Other assets 56,660,655 70,430,494 67,598,162 -4.02% 19.30%
+Total assets 291,464,817 352,814,733 349,322,944 -0.99% 19.85%
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Deposits 208,462,963 250,992,323 251,007,379 0.01% 20.41%
+Other liabilities 51,055,250 61,824,859 60,461,705 -2.20% 18.42%
+Total liabilities 259,518,213 312,817,182 311,469,084 -0.43% 20.02%
+Non-controlling interest 1,746,342 9 08,648 9 36,297 3.04% -46.39%
+Shareholders' equity 30,200,262 39,088,903 36,917,563 -5.55% 22.24%
+Total liabilities and shareholders' equity 291,464,817 352,814,733 349,322,944 -0.99% 19.85%
+Interest income 4,943,488 8,542,451 9,383,121 9.84% 89.81%
+Interest expense ( 1,243,157) ( 3,187,998) ( 4,025,263) 26.26% 223.79%
+Net interest income 3,700,331 5,354,453 5,357,858 0.06% 44.79%
+Net provisions (267,080) ( 1,741,606) ( 2,045,644) 17.46% 665.93%
+Fees and income from service, net 9 19,171 1,021,323 1,001,596 -1.93% 8.97%
+Other operating income 6 53,660 5 37,340 9 89,880 84.22% 51.44%
+Total Dividends received and equity method 61,015 26,376 1 16,636 342.21% 91.16%
+Total operating expense ( 2,438,615) ( 3,220,003) ( 3,071,662) -4.61% 25.96%
+Profit before tax 2,628,482 1,977,883 2,348,664 18.75% -10.65%
+Income tax (815,100) (311,588) (586,371) 88.19% -28.06%
+Net income before non-controlling interest 1,813,382 1,666,295 1,762,293 5.76% -2.82%
+Non-controlling interest (81,524) (23,600) (45,516) 92.86% -44.17%
+Net income 1,731,858 1,642,695 1,716,777 4.51% -0.87%
+Quarter As of
+PRINCIPAL RATIOS
+1Q22 4Q22 1Q23 1Q22 1Q23
+PROFITABILITY
+Net interest margin (1) from continuing operations 5.97% 7.26% 7.17% 5.97% 7.17%
+Return on average total assets (2) from continuing operations 2.40% 1.90% 1.96% 2.40% 1.96%
+Return on average shareholders´ equity (3) 21.66% 17.30% 17.67% 21.66% 17.67%
+EFFICIENCY
+Operating expenses to net operating income 45.72% 46.40% 41.14% 45.72% 41.14%
+Operating expenses to average total assets 3.38% 3.72% 3.50% 3.38% 3.50%
+Operating expenses to productive assets 3.94% 4.37% 4.11% 3.94% 4.11%
+CAPITAL ADEQUACY
+Shareholders' equity to total assets 10.36% 11.08% 10.57% 10.36% 10.57%
+Technical capital to risk weighted assets 13.49% 12.79% 12.01% 13.49% 12.01%
+KEY FINANCIAL HIGHLIGHTS
+Net income per ADS from continuing operations 1.92 1.42 1.54 1.92 1.54
+Net income per share $COP from continuing operations 1 ,800.59 1 ,707.89 1 ,784.91 1 ,800.59 1 ,784.91
+P/BV ADS (4) 1.28 0.84 0.76 1.28 0.76
+P/BV Local (5) (6) 1.38 1.05 0.91 1.38 0.91
+P/E (7) from continuing operations 5.82 5.66 4.52 5.82 4.52
+ADR price 42.85 28.54 25.13 42.85 25.13
+Common share price (8) 43,380.00 42,500.00 34,990.00 43,380.00 34,990.00
+Weighted average of Preferred Shares outstanding 961,827,000 961,827,000 961,827,000 961,827,000 961,827,000
+USD exchange rate (quarter end) 3 ,756.03 4 ,810.20 4 ,646.08 3 ,756.03 4 ,646.08
+(1) Defined as net interest income divided by monthly average interest-earning assets. (2) Net income divided by monthly average assets. (3) Net income divided by monthly average shareholders'
+equity. (4) Defined as ADS price divided by ADS book value. (5) Defined as share price divided by share book value. (6) Share prices on the Colombian Stock Exchange. (7) Defined as market
+capitalization divided by annualized quarter results. (8) Prices at the end of the respective quarter.
+2
+1Q 23
+1. BALANCE SHEET
+1.
+1.21.. Assets
+3.
+As of March 31, 2023, Bancolombia's assets at the consolidated level totaled COP 349,323 billion, which represents a
+decrease of 1.0% compared to 4Q22 and an increase of 19.9% compared to 1Q22. The variation in total assets during the
+last year is largely explained by loan book growth.
+During the quarter, the peso appreciated 3.4% against the US dollar and depreciated 23.7% in the last 12 months. The
+average exchange rate was 11.8% higher in 1Q23 versus 4Q22, and 21.6% higher in the last 12 months.
+1.2. Loan Portfolio
+The following table shows the composition of Bancolombia loans on a consolidated basis by type and currency:
+(COP Million) Amounts in COP Amounts in USD converted to COP Amounts in USD (thousands) Total
+(1 USD = 4646,08 COP) 1Q23 1Q23 / 4Q22 1Q23 1Q23 / 4Q22 1Q23 1Q23 / 4Q22 1Q23 1Q23 / 4Q22
+Commercial loans 108,461,926 -0.27% 61,111,836 -2.75% 13,153,419 0.68% 169,573,762 -1.18%
+Consumer loans 40,286,234 -0.20% 18,885,109 -2.02% 4,064,740 1.44% 59,171,343 -0.79%
+Mortgage loans 19,874,148 1.46% 17,387,173 -2.23% 3,742,332 1.22% 37,261,321 -0.29%
+Small business loans 556,634 -2.82% 7 23,718 -4.26% 155,770 -0.88% 1,280,352 -3.64%
+Interests paid in advance ( 16,670) -7.52% (993) -21.21% (214) -18.43% (17,663) -8.41%
+Gross loans 169,162,272 -0.06% 98,106,843 -2.53% 21,116,047 0.91% 267,269,115 -0.98%
+In 1Q23, gross loans declined 1.0% compared to 4Q22 (increasing 0.3% when excluding the FX effect) and rose 20.1%
+compared to 1Q22. During the last 12 months peso-denominated loans grew 14.0% and the dollar-denominated loans
+(expressed in USD) grew 7.0%.
+At the end of 1Q23, Banco Agricola operations in El Salvador, Banistmo in Panama and BAM in Guatemala represented 28.7%
+of total gross loans. Gross loans denominated in currencies other than COP, generated by operations in Central America,
+the international operation of Bancolombia Panamá, Puerto Rico and the USD denominated loans in Colombia, accounted
+for 36.7% of the portfolio, and decreased 0.9% in the quarter (when expressed in COP).
+Total reserves (provisions in the balance sheet) for loan losses increased 6.7% during the quarter and totaled COP 16,513
+billion or 6.2% of the gross loans at the end of the quarter.
+During 1Q23, for the first time since 2020 the credit portfolio experienced a quarterly contraction. Such decrease is partially
+explained by the Colombian peso appreciation that impacted the balance on foreign subsidiaries. The largest decrease took
+place in the commercial portfolio both in absolute value and in percentage change (-1.2%). On consumer, the loan reduction
+was led by Bancolombia S.A. in line with the strong pick-up in interest rates and the lower credit demand, which was reflected
+in the decline of personal loans and credit card balances.
+Banco Agromercantil recorded a quarterly growth of 2.6% when calculated in USD and is the only operation with an
+expansion across all loan categories. The best performance on originations involves consumer with a positive growth of 5.9%
+driven largely by credit cards.
+Banco Agricola reports a 0.7% growth when calculated in USD during the quarter, following the last quarters´ deceleration
+trend. Consumer loans expanded 1.1% as the segment with the best performance, highlighting personal loans with an
+important improvement in originations during 1Q23.
+Banistmo recorded a 1.1% decrease calculated in USD during the quarter. Commercial loans contracted 2.6% mainly
+explained by significant prepayments from corporate clients.
+For further explanation regarding coverage of the loan portfolio and credit quality trends, (see section 2.4. Asset Quality,
+Provision Charges and Balance Sheet Strength).
+3
+1Q 23
+The following table summarizes Bancolombia total loan portfolio on a consolidated basis:
+LOAN PORTFOLIO % of total
+1Q22 4Q22 1Q23 1Q23 / 4Q22 1Q23 / 1Q22
+(COP million) loans
+Commercial 140,937,269 171,603,178 169,573,762 -1.18% 20.32% 63.45%
+Consumer 49,707,154 59,639,758 59,171,343 -0.79% 19.04% 22.14%
+Mortgage 30,553,149 37,371,373 37,261,321 -0.29% 21.96% 13.94%
+Microcredit 1,296,041 1,328,715 1,280,352 -3.64% -1.21% 0.48%
+Interests received in advance ( 12,629) ( 19,285) (17,663) -8.41% 39.86% -0.01%
+Total loan portfolio 222,480,984 269,923,739 267,269,115 -0.98% 20.1% 100.0%
+Allowance for loan losses (14,989,495) (15,479,640) (16,512,938) 6.68% 10.16%
+Total loans, net 207,491,489 254,444,099 250,756,177 -1.45% 20.85%
+1.3. Investment Portfolio
+As of March 31, 2023, Bancolombia net investment portfolio at the consolidated level totaled COP 30,969 billion, increasing
+10.8% from the end of 4Q22 and 13.4% from the end of 1Q22. Such growth was a deliberate strategy to allocate resources
+in the market intended to optimize the asset balance. At the end of 1Q23, the debt securities portfolio had a duration of
+13.7 months and a weighted average yield to maturity of 10.0%.
+1.4. Goodwill and intangibles
+At the end of 1Q23, Bancolombia's goodwill and intangibles at the consolidated level totaled COP 10,093 billion, down 3.3%
+compared to 4Q22. This quarterly variation is mainly explained by the appreciation of the COP against the USD.
+1.5. Funding
+As of March 31, 2023, Bancolombia's liabilities at the consolidated level totaled COP 311,469 billion, decreasing 0.4% from
+the end of 4Q22, and increasing 20.0% compared to 1Q22.
+Customer deposits totaled COP 251,007 billion (80.6% of liabilities) at the end of 1Q23, up 0.01% compared to 4Q22 and up
+20.4% over the last 12 months. The net loans to deposits ratio was 99.9% at the end of 1Q23 decreasing compared to 101.4%
+in 4Q22, driven by the credit portfolio contraction.
+Certificates of deposit increased by 11.9% during 1Q23, following the growing trend seen since the first quarter of 2022.
+This performance is explained to a greater extent by the operation in Colombia and represents a significant variation in the
+funding mix on a consolidated basis, going from a 30% share in 4Q22 to 34% in 1Q23. The new funding composition is
+explained by the higher interest rates environment and the clients´ demand for more profitable products. The appreciation
+of the peso against the dollar affected the amount of long-term debt and loans with banks due to the balance of foreign
+subsidiaries.
+FUNDING MIX 1Q22 4Q22 1Q23
+COP Million
+Checking accounts 39,542,426 16% 40,808,856 14% 37,944,551 13%
+Saving accounts 105,315,588 44% 118,443,600 41% 111,021,738 38%
+Time deposits 59,215,988 25% 87,138,067 30% 97,466,462 34%
+Other deposits 6,464,195 3% 4,790,852 2% 5,024,575 2%
+Long term debt 19,921,185 8% 19,575,988 7% 19,061,952 7%
+Loans with banks 11,129,713 5% 20,594,770 7% 19,860,965 7%
+Total Funds 241,589,095 100% 291,352,133 100% 290,380,243 100%
+1.6. Shareholders’ Equity and Regulatory Capital
+Shareholders’ equity attributable to the owners of the parent company at the end of 1Q23 was COP 36,918 billion,
+decreasing by 5.6% compared to 4Q22 and increasing by 22.2% when compared to 1Q22. In March of 2023 the General
+Shareholders’ Meeting approved the proposal for distribution of profits for a total of COP 3.4 trillion. Dividends approved
+mainly explain the quarterly reduction in equity and capital ratio.
+4
+1Q 23
+Bancolombia solvency ratio on a consolidated basis under Basel III was 12.01% in 1Q23 standing 113 basis points above the
+minimum level required by the regulator in Colombia, while the basic capital ratio (Tier 1) stood at 9.75%, 225 basis points
+above the minimum regulatory capital level (value to fully comply with the new capital requirements in the third year of the
+Basel III phase-in period). The tangible capital ratio, defined as shareholders’ equity minus goodwill and intangible assets
+divided by tangible assets, was 7.72% at the end of 1Q23.
+(1) Technical capital is the sum of basic and additional capital, minus deductions ($16,136MM for 4Q22and $15,184MM for 1Q23).
+(2) Operational risk applies to 1Q22, 4Q22 and 1Q23 after the adoption of Basel III regulation.
+(3) Capital adequacy is technical capital divided by risk-weighted assets.
+2. INCO ME STATEMENT
+2.
+Net income attributable to equity holders of the parent company was COP 1,717 billion in 1Q23, or COP 1,784.91 per share
+(USD $ 1.54 per ADR). This profit represents an increase of 4.5% compared to 4Q22. The company´s annualized return on
+equity (“ROE”) was 17.7% for 1Q23 and 19.0% for the last 12 months.
+2.1. Net Interest Income
+Net interest income totaled COP 5,358 billion in 1Q23, 0.1% higher than the income reported in 4Q22, and 44.8% above
+1Q22. The lower expansion in the quarter for the net balance compared to recent periods reflects the gradual impact that
+has been taking place due to the increase in interest expenses following the greater volume in time deposits and the greater
+expense by higher rates in the different funding products. On the other hand, the investment portfolio interest income
+amounted COP 442 billion in 1Q23 with a decrease of 25.9% compared to 4Q22 and an increase of 127.1% compared to
+1Q22.
+Net Interest Margin
+The annualized net interest margin decreased to 7.2% during 1Q23. The annualized net interest margin for investments in
+1Q23 was 2.0%. The good performance in this line is explained in the first quarter by the appreciation on the investment
+portfolio due to an efficient allocation of resources in the fixed income market and an orderly management with clients for
+the distribution of financial instruments in an environment of volatility, both in currencies and interest rates.
+The annualized net interest margin of the loan portfolio was 7.9%, presenting an increase of 28 basis points when compared
+to 4Q22 and 121 basis point when compared to 1Q22. This result follows the growing trend seen during the last five quarters
+as an effect of the credit portfolio repricing originated by the Colombian Central Bank contractionary monetary policy still
+in force during 1Q23.
+(1) Net interest margin and valuation income on financial instruments.
+The aggregate balance of savings accounts and checking accounts decreased on a quarterly basis, although presented an
+increase in the year. Savings accounts went down 6.3% compared to 4Q22 and increased 5.4% compared to 1Q22. On the
+other hand, checking accounts decreased 7.0% compared to 4Q22 and 4.0% compared to 1Q22. The annualized weighted
+average cost of deposits was 5.14% in 1Q23, increasing 112 basis points compared to 4Q22 and 359 basis points compared
+5
+T
+C
+B
+A
+T
+R
+C
+E C H N IC A L C A P IT A
+o n s o lid a te d (C O P m
+a s ic c a p ita l (T ie r I)
+d d itio n a l c a p ita l (T ie(1)e
+c h n ic a l c a p ita l
+is k w e ig h te d a s s e ts
+A P IT A L A D E Q U A C Y
+L R IS K W E
+illio n s )
+r II)
+in c lu d in g m(3)
+IG H T E D A S S E T S
+(2)a rk e t a n d o p e ra tio n a l ris k
+A n n u a liz e d In te r e s t
+M a r g in
+L o a n s ' In te re s t m a rg in
+D e b t in v e s tm e n ts ' m a rg(1)N
+e t in te r e s t m a r g in
+in
+1 Q
+2 3 ,9
+6 ,4
+3 0 ,4
+2 2 5 ,4
+2 2
+6 8 ,5
+5 6 ,0
+1 0 ,7
+5 2 ,8
+4 1
+7 7
+5 3
+4 6
+1 Q 2
+%
+1 0 .6 3
+2 .8 6
+0 .0 0
+-
+1 3 .4 9
+2
+6 .7 %
+1 .1 %
+6 .0 %
+%
+%
+%
+%
+4 Q 2 2
+2 9 ,6 5 0 ,4
+6 ,9 1 7 ,1
+3 6 ,5 5 1 ,5
+2 8 5 ,8 7 8 ,6
+4 Q 2 2
+7 .6 %
+4 .6 %
+7 .3 %
+7
+7
+1
+3
+6
+1
+1
+9
+%
+1 0 .3 7 %
+2 .4 2 %
+0 .0 0 %
+-
+1 2 .7 9 %
+1 Q 2 3
+7 .9 %
+2 .0 %
+7 .2 %
+1 Q
+2 7 ,9
+6 ,4
+3 4 ,4
+2 8 6 ,5
+2 3
+4 0 ,4
+9 8 ,8
+2 4 ,1
+6 8 ,9
+7
+8
+6
+9
+0
+0
+7
+1
+%
+9 .7 5
+2 .2 7
+0 .0 0
+-
+1 2 .0 1
+%
+%
+%
+%
+1Q 23
+to 1Q22, much lower than the 900-basis points increase in the interest rate by the Central Bank in Colombia from April 1,
+2022 to March 31, 2023.
+The total cost of financing for 1Q23 confirms an increasing trend that began in the last quarter of 2021. The rearrangement
+of the funding mix that intensified in 2023 with a greater weight from term deposits, in the midst of an environment of
+higher interest rates interest, explain the gradually higher expenses. It is worth mentioning the bank's sound stable funding
+profile, fully complying with regulatory requirements. Also, a favorable result is the significant share of savings accounts
+and checking accounts within the bank's liability structure, both adding up to more than 51% of the funds, and thus,
+contributing to an efficient total cost.
+2.2. Fees and Income from Services
+During 1Q23, total fees and commissions, net totaled COP 1,002 billion, down 1.9% compared to 4Q22, and up 9.0%
+compared to 1Q22.
+Credit and debit card fees and commercial establishments reveals a reduction in the quarterly balance, provided the
+seasonality condition and the higher income collected in the last quarter of each year. Conversely, in the annual
+performance, a significant growth took place mainly due to higher income from intermediary bank fees, caused by the high
+volume of transactions carried out through traditional merchant businesses and e-commerce, resulting in a positive net
+balance despite the increases in expenses due, to a greater extent, to franchise processing.
+Income from bancassurance increased 27.0% when compared to 1Q22 explained by a greater balance on distributed
+insurance policies.
+Banking services grew 27.3% in the year, on the back of a greater demand for transactional products and greater use of
+network channels. On payments, the higher income was driven by the incremental collection from individual clients.
+2.3. Other Operating Income
+Total other operating income was COP 990 billion in 1Q23, up by 84.2% compared to 4Q22 and by 51.4% compared to 1Q22.
+The quarterly expansion is mainly explained by income generated from net foreign exchange associated to hedging
+operations on investments.
+Income from operating leases was COP 418 billion in 1Q23, an increase of 7.6% compared to 4Q22 and 40.5% compared to
+1Q22. The annual growth is explained to a greater extent by the operation in Colombia due to the increase in vehicle rental
+contracts under lease agreements and a greater volume in real estate leasing operations from the Colombian Real Estate
+Fund “FIC”. Profit from sale of assets was COP 48 billion, higher by 25.6% compared to 1Q22 due to a greater volume of
+operations.
+2.4. Asset Quality, Provision Charges and Balance Sheet Strength
+The principal balance for past due loans (those that are overdue for more than 30 days) totaled COP 11,045 billion at the
+end of 1Q23 and represents 4.3% of total gross loans, increasing when compared to 4Q22, when past due loans represented
+3.2% of total gross loans. During the quarter, charge-offs totaled COP 1,048 billion.
+6
+A v e r a g e w e ig h te d
+fu n d in g c o s t
+C h e c k in g a c c o u n ts
+S a v in g a c c o u n ts
+T im e d e p o s itsT
+o ta l d e p o s its
+L o n g te rm d e b t
+L o a n s w ith b a n k s
+T o ta l fu n d in g c o s t
+1 Q 2
+0
+0
+3
+1
+5
+2
+1
+2
+.1
+.9
+.7
+.5
+.7
+.0
+.9
+7
+4
+1
+6
+7
+6
+5
+%
+%
+%
+%
+%
+%
+%
+4 Q 2
+0
+3
+7
+4
+7
+4
+4
+2
+.2
+.1
+.3
+.0
+.8
+.3
+.2
+0
+0
+1
+3
+6
+6
+8
+%
+%
+%
+%
+%
+%
+%
+1 Q 2
+0
+3
+9
+5
+7
+5
+5
+3
+.2
+.7
+.1
+.1
+.9
+.1
+.2
+1
+0
+4
+4
+7
+1
+7
+%
+%
+%
+%
+%
+%
+%
+1Q 23
+The coverage, measured by the ratio of allowances for loans losses (principal) to PDLs (overdue 30 days), was 138.3% at the
+end of 1Q23, decreasing compared to 168.7% at the end of 4Q22. The deterioration of the loan portfolio (new past due loans
+including charge-offs) was COP 3,603 billion.
+Provision charges (net of recoveries) totaled COP 2,046 billion in 1Q23, presenting a 17.5% growth compared to 4Q22.
+Following the previous quarter trend, in 1Q23 most of the amount in provision expenses was concentrated in the Colombian
+operation in line with a greater portfolio deterioration on consumer loans.
+Provisions as a percentage of the average gross loans were 3.1% annualized for 1Q23 and 2.2% for the last 12 months.
+Bancolombia maintains a strong balance sheet supported by an adequate level of loan loss reserves. Allowances (for the
+principal) for loan losses totaled COP 15,274 billion, or 5.9% of total loans at the end of 1Q23, increasing when compared to
+4Q22.
+The following tables present key metrics related to asset quality:
+(1) Allowances are reserves for the principal of loans.
+* Mortgage loans that were overdue were calculated for past due loans for 120 days instead of 90 days.
+Stage 1. Financial instruments that do not deteriorate since their initial recognition or that have low credit risk at the end of the reporting period. (12-month expected credit losses).
+Stage 2. Financial instruments that have significantly increased their risk since their initial recognition. (Lifetime expected credit losses).
+Stage 3. Financial instruments that have Objective Evidence of Impairment in the reported period. (Lifetime expected credit losses).
+2.5. Operating Expenses
+During 1Q23, operating expenses totaled COP 3,072 billion, decreasing by 4.6% compared to 4Q22 and increasing by 26.0%
+compared to 1Q22.
+7
+A S S E T Q U A L IT Y
+(C O P m illio n s )
+T o ta l 3 0 -d a y p a s t d u e lo a n s(1)A
+llo w a n c e fo r lo a n lo s s e s
+P a s t d u e lo a n s to to ta l lo a n s
+A llo w a n c e s to p a s t d u e lo a n s
+A llo w a n c e fo r lo a n lo s s e s a s a
+P D L P e r C a te g o r y
+C o m m e rc ia l lo a n s
+C o n s u m e r lo a n s
+M o rtg a g e lo a n s
+M ic ro c re d it
+P D L T O T A L
+P D L P e r C a te g o r y
+C o m m e rc ia l lo a n s
+C o n s u m e r lo a n s
+M o rtg a g e lo a n s *
+M ic ro c re d it
+P D L T O T A L
+L o a n s
+S ta g e 1 2 3 6 ,7 7 0 ,0 5 6
+S ta g e 2 1 8 ,6 5 6 ,4 3 9
+S ta g e 3 1 4 ,4 9 7 ,2 4 4
+T o ta l 2 6 9 ,9 2 3 ,7 3 9
+p e rc
+%
+%
+4 Q
+A llo
+2
+3
+9
+1 5
+e n ta g e o
+O f lo a n P
+O f lo a n P
+2 2
+w a n c e s
+,8 7 5 ,7 9 2
+,1 4 4 ,8 2 9
+,4 5 9 ,0 1 9
+,4 7 9 ,6 4 0
+f to ta l lo a n s
+3 0
+1o rtfo lio
+6 3 .4 %
+2 2 .1 %
+1 3 .9 %
+0 .5 %
+9 0
+1o rtfo lio
+6 3 .4 %
+2 2 .1 %
+1 3 .9 %
+0 .5 %
+%
+1 .2 %
+1 6 .9 %
+6 5 .2 %
+5 .7 %
+d
+Q
+1
+d
+Q
+1 Q 2 2
+9 ,1 2 8 ,8 5 0
+1 3 ,6 0 3 ,4 0 3
+4 .2 3 %
+1 4 9 .0 2 %
+6 .3 0 %
+a y s
+2 2 4 Q
+3 .3 1 %
+5 .4 9 %
+6 .0 4 %
+1 .2 6 % 1
+4 .2 3 %
+a y s
+2 2 4 Q
+2 .7 9 %
+2 .8 0 %
+2 .7 8 %
+8 .1 2 %
+2 .8 2 %
+L o a n s
+2 3 2 ,9 1 2 ,7 4
+1 9 ,2 1 1 ,8 7
+1 5 ,1 4 4 ,4 8
+2 6 7 ,2 6 9 ,1 1
+2
+2
+5
+4
+0
+3
+2
+1
+2
+2
+6
+2
+8
+9
+8
+5
+1
+2
+.1
+.4
+.4
+.8
+.2
+2
+.7
+.8
+.5
+.3
+.1
+A s o f
+4 Q 2 2 1 Q 2 3
+8 ,4 8 9 ,9 0 3 1 1 ,0 4 5 ,2 6 8
+4 ,3 2 5 ,1 8 1 1 5 ,2 7 3 ,8 9 0
+3 .2 4 % 4 .2 5 %
+1 6 8 .7 3 % 1 3 8 .2 8 %
+5 .4 7 % 5 .8 8 %
+1 Q 2 3
+4 % 3 .0 3 %
+2 % 6 .8 6 %
+7 % 5 .3 4 %
+4 % 1 1 .5 7 %
+4 % 4 .2 5 %
+1 Q 2 3
+8 % 2 .4 4 %
+7 % 3 .3 4 %
+8 % 2 .6 7 %
+4 % 6 .6 6 %
+6 % 2 .7 0 %
+1 Q 2 3
+A llo w a n c e s
+2 ,8 7 3 ,4 2 8
+3 ,5 4 1 ,0 0 2
+1 0 ,0 9 8 ,5 0 8
+1 6 ,5 1 2 ,9 3 8
+%
+1
+6
+1
+8
+6
+6
+.2
+.4
+.7
+.2
+%
+%
+%
+%
+L o a
+1 Q
+n s
+-1 .6
+3 .0
+4 .5
+-1 .0
+2
+%
+%
+%
+%
+3 / 4
+A
+Q 2 2
+llo w a n c e s
+-0 .1
+1 2 .6
+6 .8
+6 .7
+%
+%
+%
+%
+1Q 23
+Personnel expenses (salaries, bonus plan payments and compensation) totaled COP 1,323 billion in 1Q23, up 11.6% from
+4Q22 and up 23.9% from 1Q22. The annual variation is mainly explained by salary increases indexed to inflation, as well as
+variable compensation provisions.
+General expenses decreased 14.0% in the quarter and increased 27.6% year-over-year. The variation in annual terms is
+affected by external factors such as the depreciation of the Colombian peso against the US dollar, inflation rates and higher
+taxes other than income tax approved in the last tax reform in Colombia. Internally, the main factors that contributed to
+growth were technology expenses such as hardware modernization and the journey to the cloud project as part of the digital
+transformation, as well as the customer rental contracts division (Renting) due to the increase in the active fleet of vehicles.
+As of March 31, 2023, Bancolombia had 33,923 employees, owned 872 branches, 6,132 ATMs, 29,443 banking agents and
+served more than 29 million customers.
+2.6. Taxes
+Bancolombia's consolidated income tax for 1Q23 presented an expense of COP 586 billion, mainly impacted by Colombia
+due to the application of tax benefits such as untaxed dividends, exempt income and investment in productive real fixed
+assets. Additionally, due to the tax benefits in Guatemala, El Salvador and Panama, corresponding to exempt revenue from
+returns on securities issued by their governments. Revenues from foreign sources that are not taxed in Panama also
+contributed to a lower tax.
+8
+1Q 23
+3. BRE AKDOWN OF OPERATIONS
+The following tables summarize the financial statements of our operations in each country.
+BANCOLOMBIA S.A. (STAND ALONE) - COLOMBIA
+The portfolio of Bancolombia S.A. presents a decrease of 0.4% in the quarter and an increase of 14.7% in the last 12 months.
+The slowdown seen since the end of 2022 has continued at the beginning of 2023 following a slower growth rate in the
+economy, a gradual increase in interest rates and its impact on the payment capacity of companies and individuals. The only
+segment that presented expansion during the quarter was mortgages, growing 1.5%. The commercial portfolio presented
+the largest contraction (0.7%) to a greater extent associated to Factoring loans. On the other hand, consumer presented a
+decrease of 0.4% affected by personal loans and credit card balances.
+Net result for Bancolombia S.A. in 1Q23 was COP 1.7 trillion, which represents an increase of 5.2% when compared to the
+result of 4Q22. Net interest shows a reduction due to a greater increase on interest expenses vs interest income, this effect
+was caused by a greater volume in term deposits and higher deposit rates. Provision expenses show a quarterly growth of
+21.1%, influenced by deterioration in consumer, and expenses associated to macroeconomic variables. Net feese decreased
+in 1Q23 due to lower revenues in transactional products as a seasonal effect of the last quarter of the year compared to the
+first quarter. Other operating income grew mainly by equity method from foreign subsidiaries in the quarter. Operating
+expenses recorded a 6.8% decrease compared to 4Q22, largely due to general expenses, such as fees and advertising.
+9
+S T A N D A L O N E B A L A N C E S H E
+A N D IN C O M E S T A T E M E N T
+(C O P m illio n )
+A S S E T S
+G ro s s lo a n s
+A llo w a n c e s fo r lo a n s
+In v e s tm e n ts
+O th e r a s s e ts
+T o ta l a s s e ts
+L IA B IL IT IE S A N D S H A R E H O L D
+D e p o s its
+O th e r lia b ilitie s
+T o ta l lia b ilitie s
+S h a re h o ld e rs ' e q u ity
+T o ta l lia b ilitie s a n d s h a r e h o ld e
+In te re s t in c o m e
+In te re s t e x p e n s e
+N e t in te r e s t in c o m e
+N e t p ro v is io n s
+F e e s a n d in c o m e fro m s e rv ic e , n
+O th e r o p e ra tin g in c o m e
+T o ta l o p e ra tin g e x p e n s e
+P r o fit b e fo r e ta x
+In c o m e ta x
+N e t in c o m e
+E
+E
+r
+e
+T
+R
+s
+t
+S
+' e
+' E
+q u
+Q U
+ity
+IT Y
+1 Q
+1 5 6 ,1
+(1 1 ,5
+3 7 ,9
+2 7 ,3
+2 0 9 ,9
+1 3 2 ,1
+4 7 ,1
+1 7 9 ,3
+3 0 ,6
+2 0 9 ,9
+3 ,7
+(8
+2 ,8
+(2
+6
+7
+(1 ,6
+2 ,3
+(6
+1 ,7
+2 2
+6 0 ,8
+1 1 ,4
+4 9 ,0
+7 2 ,2
+7 0 ,7
+2 9 ,5
+9 6 ,4
+2 6 ,0
+4 4 ,6
+7 0 ,7
+6 8 ,4
+8 5 ,8
+8 2 ,6
+4 6 ,1
+1 9 ,9
+5 4 ,7
+4 1 ,0
+7 0 ,2
+6 6 ,3
+0 3 ,8
+8
+9
+6
+5
+1
+9
+7
+6
+4
+1
+8
+0
+8
+1
+1
+5
+3
+0
+1
+8
+5
+3
+2
+7
+1
+4
+4
+9
+2
+1
+7
+7
+1
+0
+4
+2
+2
+4
+8
+6
+)
+)
+)
+)
+)
+Q u a r te r
+4 Q 2 2
+1 7 9 ,8 3 5 ,4 3
+(1 1 ,4 6 4 ,6 5
+4 2 ,8 2 6 ,8 5
+3 2 ,8 8 6 ,4 3
+2 4 4 ,0 8 4 ,0 6
+1 5 2 ,6 8 2 ,4 1
+5 1 ,7 3 0 ,3 2
+2 0 4 ,4 1 2 ,7 3
+3 9 ,6 7 1 ,3 2
+2 4 4 ,0 8 4 ,0 6
+6 ,6 6 0 ,3 1
+(2 ,6 3 2 ,6 2
+4 ,0 2 7 ,6 9
+(1 ,4 7 6 ,6 1
+7 0 8 ,7 6
+6 5 6 ,3 7
+(2 ,1 7 1 ,5 2
+1 ,7 4 4 ,6 9
+(1 0 3 ,6 3
+1 ,6 4 1 ,0 5
+3
+6
+3
+7
+6
+8
+0
+9
+7
+6
+3
+0
+2
+7
+3
+6
+4
+1
+5
+6
+)
+)
+)
+)
+)
+1 Q
+1 7 9 ,1
+(1 2 ,5
+4 5 ,9
+3 0 ,5
+2 4 3 ,0
+1 5 3 ,8
+5 1 ,7
+2 0 5 ,6
+3 7 ,4
+2 4 3 ,0
+7 ,4
+(3 ,4
+3 ,9
+(1 ,7
+7
+1 ,2
+(2 ,0
+2 ,1
+(4
+1 ,7
+2 3
+5 6 ,7
+3 4 ,0
+0 6 ,1
+3 6 ,9
+6 5 ,8
+9 9 ,5
+1 2 ,3
+1 1 ,8
+5 4 ,0
+6 5 ,8
+2 5 ,3
+3 1 ,4
+9 3 ,9
+8 7 ,8
+0 1 ,1
+8 7 ,1
+2 8 ,2
+6 6 ,0
+4 0 ,1
+2 5 ,9
+4
+1
+7
+5
+4
+3
+0
+3
+1
+4
+3
+2
+1
+6
+2
+3
+3
+6
+5
+1
+3
+8
+1
+3
+9
+1
+5
+6
+3
+9
+6
+4
+2
+5
+0
+3
+1
+9
+9
+0
+)
+)
+)
+)
+)
+1 Q 2 3 / 4 Q
+-0 .3
+9 .3
+7 .1
+-7 .1
+-0 .4
+0 .8
+-0 .0
+0 .5
+-5 .5
+-0 .4
+1 1 .4
+3 0 .3
+-0 .8
+2 1 .0
+-1 .0
+9 6 .1
+-6 .6
+2 4 .1
+3 2 4 .7
+5 .1
+G r
+2 2
+8 %
+3 %
+9 %
+4 %
+2 %
+0 %
+3 %
+9 %
+9 %
+2 %
+9 %
+4 %
+4 %
+8 %
+8 %
+0 %
+0 %
+5 %
+2 %
+7 %
+o w
+1
+th
+Q 2 3 / 1 Q
+1 4 .7
+8 .8
+2 0 .9
+1 1 .5
+1 5 .7
+1 6 .4
+9 .5
+1 4 .6
+2 2 .2
+1 5 .7
+9 7 .0
+2 8 7 .3
+3 8 .5
+6 2 6 .4
+1 3 .1
+7 0 .5
+2 3 .5
+-8 .6
+-3 3 .9
+1 .2
+2 2
+3 %
+8 %
+7 %
+6 %
+6 %
+8 %
+7 %
+6 %
+2 %
+6 %
+4 %
+8 %
+5 %
+5 %
+0 %
+4 %
+9 %
+1 %
+4 %
+9 %
+1Q 23
+BANISTMO- PANAMA
+Banistmo's portfolio closed 1Q23 with a decrease of 1.1% compared to the previous quarter (calculated in USD). Commercial
+presented the largest contraction as a result of prepayments from the corporate sector in January. Similarly, the consumer
+and microlending portfolios show a reduction, while mortgages grew 0.7% concentrated in the social housing portfolio. In
+the funding structure, it is worth noting a decrease on deposit products impacted by highly competitive interest rates in the
+market.
+Net result for Banistmo in 1Q23 was a profit of COP 170.0 billion, which represents a significant growth in annual and
+quarterly terms. Despite the net interest income reduction in the quarter and the lower portfolio balance, Banistmo
+maintains a relatively stable net interest margin due to the positive repricing on loans, mainly in commercial. The net income
+expansion is mainly explained by lower loan provision expenses, due to parameters update over the expected losses model
+and a lower deterioration in the credit portfolio. Operating expenses also decreased largely due to the last quarter of the
+year seasonal effect, when usually there is an accrual accounting in some services and specific payments. Net interest margin
+in Banistmo for 1Q23 was 3.9% and annualized quarterly ROE was 12.7%.
+10
+C O N S O L ID A T E D B A L A N C E S H
+A N D IN C O M E S T A T E M E N T
+(C O P m illio n )
+A S S E T S
+G ro s s lo a n s
+A llo w a n c e s fo r lo a n s
+In v e s tm e n ts
+O th e r a s s e ts
+T o ta l a s s e ts
+L IA B IL IT IE S A N D S H A R E H O L D
+D e p o s its
+O th e r lia b ilitie s
+T o ta l lia b ilitie s
+S h a re h o ld e rs ' e q u ity
+T o ta l lia b ilitie s a n d s h a r e h o ld e
+In te re s t in c o m e
+In te re s t e x p e n s e
+N e t in te r e s t in c o m e
+N e t p ro v is io n s
+F e e s a n d in c o m e fro m s e rv ic e , n
+O th e r o p e ra tin g in c o m e
+T o ta l o p e ra tin g e x p e n s e
+P r o fit b e fo r e ta x
+In c o m e ta x
+N e t in c o m e
+E E T
+E R S
+r s ' e
+e t
+' E
+q u
+Q U
+ity
+IT Y
+1 Q 2 2
+2 9 ,7 2 5 ,5
+(1 ,9 5 0 ,7
+5 ,4 6 9 ,3
+5 ,1 9 0 ,8
+3 8 ,4 3 5 ,0
+2 6 ,5 9 4 ,6
+7 ,7 2 1 ,3
+3 4 ,3 1 6 ,0
+4 ,1 1 8 ,9
+3 8 ,4 3 5 ,0
+4 8 8 ,9
+(1 9 5 ,2
+2 9 3 ,7
+(3 9 ,1
+5 2 ,3
+8 ,6
+(2 0 1 ,3
+1 1 4 ,2
+(2 2 ,4
+9 1 ,8
+6
+1
+9
+2
+6
+8
+9
+7
+9
+6
+6
+3
+2
+4
+3
+5
+1
+6
+2
+4
+2
+9
+8
+1
+3
+0
+3
+3
+0
+3
+3
+5
+7
+2
+8
+3
+5
+2
+2
+0
+)
+)
+)
+)
+)
+Q u a r te r
+4 Q 2 2
+3 9 ,4 4 0 ,2 2
+(2 ,1 3 7 ,7 3
+7 ,1 2 4 ,9 1
+8 ,0 1 3 ,9 1
+5 2 ,4 4 1 ,3 1
+3 5 ,3 6 0 ,6 7
+1 1 ,7 1 6 ,3 2
+4 7 ,0 7 6 ,9 9
+5 ,3 6 4 ,3 2
+5 2 ,4 4 1 ,3 1
+7 5 6 ,1 5
+(2 9 0 ,6 9
+4 6 5 ,4 5
+(1 5 0 ,4 0
+6 4 ,5 9
+2 3 ,4 2
+(2 6 0 ,2 6
+1 4 2 ,8 0
+(7 ,7 0
+1 3 5 ,1 0
+3
+3
+4
+3
+6
+5
+1
+5
+0
+6
+6
+7
+9
+5
+1
+4
+2
+8
+8
+0
+)
+)
+)
+)
+)
+1 Q 2 3
+3 7 ,6 8 8 ,6
+(2 ,0 6 9 ,2
+7 ,1 0 0 ,9
+6 ,0 1 7 ,2
+4 8 ,7 3 7 ,5
+3 3 ,5 6 2 ,3
+9 ,8 0 9 ,7
+4 3 ,3 7 2 ,0
+5 ,3 6 5 ,4
+4 8 ,7 3 7 ,5
+7 6 1 ,1
+(3 1 3 ,5
+4 4 7 ,5
+(6 1 ,3
+6 2 ,5
+1 1 ,2
+(2 4 9 ,6
+2 1 0 ,4
+(4 0 ,4
+1 7 0 ,0
+0
+5
+1
+4
+1
+5
+1
+6
+4
+1
+2
+6
+5
+0
+6
+9
+3
+7
+4
+2
+5
+3
+5
+4
+1
+6
+0
+6
+5
+1
+0
+4
+6
+4
+4
+2
+8
+0
+9
+2
+)
+)
+)
+)
+)
+1 Q 2 3 / 4 Q
+-4 .4
+-3 .2
+-0 .3
+-2 4 .9
+-7 .0
+-5 .0
+-1 6 .2
+-7 .8
+0 .0
+-7 .0
+0 .6
+7 .8
+-3 .8
+-5 9 .2
+-3 .1
+-5 1 .7
+-4 .0
+4 7 .3
+4 2 4 .7
+2 5 .8
+G r
+2 2
+4 %
+0 %
+4 %
+2 %
+6 %
+9 %
+7 %
+7 %
+2 %
+6 %
+6 %
+7 %
+5 %
+4 %
+4 %
+9 %
+8 %
+8 %
+8 %
+5 %
+o w
+1
+th
+Q 2 3 / 1 Q
+2 6 .7
+6 .0
+2 9 .8
+1 5 .9
+2 6 .8
+2 6 .2
+2 7 .0
+2 6 .3
+3 0 .2
+2 6 .8
+5 5 .6
+6 0 .6
+5 2 .3
+5 6 .6
+1 9 .5
+3 0 .5
+2 4 .0
+8 4 .2
+8 0 .4
+8 5 .1
+2 2
+9 %
+8 %
+3 %
+2 %
+0 %
+0 %
+5 %
+9 %
+6 %
+0 %
+6 %
+1 %
+7 %
+2 %
+4 %
+0 %
+0 %
+0 %
+0 %
+3 %
+1Q 23
+BANAGRICOLA- EL SALVADOR
+Loans in Banco Agricola grew 0.7% in the quarter (calculated in USD). The consumer portfolio presented the highest growth
+(1.1%) driven by personal loans and credit cards. Commercial increased 0.8%, in which construction clients had an important
+contribution on originations. In general, commercial loans show a slowdown compared to recent quarters when they used
+to expand at a higher rate. In the funding structure, it is worth noting the significant growth in deposits led by checking
+accounts, which increased by 15.6%, mainly driven by deposits on institutional, government and corporate segments. This
+increase favorably offsets the reduction in savings account balances (-2.2%). Time deposits remain relatively stable.
+Net result for Banco Agricola in 1Q23 was a profit of COP 134.5 billion, which represents an increase of 11.1% compared to
+4Q22. Net interest income shows a quarterly reduction mainly due to growth in interest expenses from loans with financial
+institutions, to a greater extent caused by an interest rate increase on medium-term loans. It was partially offset by growing
+revenues from the lending business. Loan provisions increased in the quarter due to a greater deterioration reflected in the
+stage 3 balance rise. Operating expenses recorded a quarterly reduction resulting from a lower balance on amortization and
+intangibles due to the early cancellation of projects at the end of December 2022. The accumulated effective tax rate for
+Banco Agricola was 26%, positively impacted by exempt revenues from return on investments issued by the Government of
+El Salvador and by exempt dividends. Banco Agrícola's net interest margin for 1Q23 was 6.2% and the annualized quarterly
+ROE was 19.9%.
+11
+C O N S O L ID A T E D B A L A N C E S H E E T
+A N D IN C O M E S T A T E M E N T
+(C O P m illio n )
+A S S E T S
+G ro s s lo a n s
+A llo w a n c e s fo r lo a n s
+In v e s tm e n ts
+O th e r a s s e ts
+T o ta l a s s e ts
+L IA B IL IT IE S A N D S H A R E H O L D E R S ' E Q U IT
+D e p o s its
+O th e r lia b ilitie s
+T o ta l lia b ilitie s
+N o n -c o n tro llin g in te re s t
+S h a re h o ld e rs ' e q u ity
+T o ta l lia b ilitie s a n d s h a r e h o ld e r s ' e q u ity
+In te re s t in c o m e
+In te re s t e x p e n s e
+N e t in te r e s t in c o m e
+N e t p ro v is io n s
+F e e s a n d in c o m e fro m s e rv ic e , n e t
+O th e r o p e ra tin g in c o m e
+T o ta l o p e ra tin g e x p e n s e
+P r o fit b e fo r e ta x
+In c o m e ta x
+N e t in c o m e b e fo r e n o n -c o n tr o llin g in te r e s
+N o n -c o n tro llin g in te re s t
+N e t in c o m e
+Y
+t
+1 Q 2 2
+1 3 ,5 3 7 ,0
+(6 0 1 ,1
+3 ,1 4 5 ,1
+4 ,2 1 1 ,5
+2 0 ,2 9 2 ,5
+1 5 ,7 4 0 ,1
+2 ,5 3 7 ,8
+1 8 ,2 7 7 ,9
+1 9 ,9
+1 ,9 9 4 ,5
+2 0 ,2 9 2 ,5
+3 3 7 ,8
+(5 8 ,2
+2 7 9 ,6
+(7 ,4
+6 1 ,7
+5 ,5
+(1 5 8 ,8
+1 8 0 ,5
+(4 8 ,3
+1 3 2 ,1
+(4 ,0
+1 2 8 ,1
+3
+7
+2
+5
+4
+3
+6
+9
+5
+9
+4
+9
+8
+1
+7
+3
+3
+8
+2
+5
+7
+1
+5
+7
+4
+5
+4
+2
+5
+1
+6
+3
+2
+2
+6
+2
+4
+4
+6
+4
+5
+5
+3
+1
+7
+5
+)
+)
+)
+)
+)
+)
+Q u a r te r
+4 Q 2 2
+1 8 ,9 7 1 ,8 7
+(7 2 9 ,2 3
+3 ,6 4 5 ,9 1
+4 ,8 0 7 ,9 7
+2 6 ,6 9 6 ,5 2
+1 9 ,8 7 3 ,7 4
+3 ,8 6 5 ,2 4
+2 3 ,7 3 8 ,9 8
+2 2 ,9 9
+2 ,9 3 4 ,5 4
+2 6 ,6 9 6 ,5 2
+4 4 5 ,7 4
+(9 7 ,4 1
+3 4 8 ,3 3
+(2 8 ,7 7
+7 9 ,2 8
+3 ,7 5
+(1 9 6 ,9 7
+2 0 5 ,6 2
+(8 2 ,0 4
+1 2 3 ,5 7
+(2 ,4 9
+1 2 1 ,0 7
+1
+8
+2
+9
+4
+4
+0
+4
+3
+6
+4
+7
+6
+0
+0
+7
+4
+8
+4
+9
+5
+9
+6
+)
+)
+)
+)
+)
+)
+1 Q 2 3
+1 8 ,4 4 8 ,8
+(7 1 1 ,8
+3 ,3 6 8 ,9
+5 ,2 6 9 ,4
+2 6 ,3 7 5 ,3
+1 9 ,6 6 9 ,2
+4 ,2 2 0 ,7
+2 3 ,8 9 0 ,0
+1 9 ,8
+2 ,4 6 5 ,4
+2 6 ,3 7 5 ,3
+4 5 8 ,3
+(1 1 7 ,1
+3 4 1 ,2
+(4 8 ,4
+7 7 ,8
+4 ,2
+(1 8 8 ,3
+1 8 6 ,4
+(4 7 ,8
+1 3 8 ,6
+(4 ,1
+1 3 4 ,4
+3
+5
+0
+6
+3
+7
+6
+3
+8
+2
+3
+9
+3
+6
+2
+2
+0
+8
+8
+2
+6
+8
+8
+0
+7
+1
+4
+7
+0
+1
+1
+4
+2
+7
+7
+1
+5
+0
+3
+7
+8
+7
+6
+2
+1
+1
+)
+)
+)
+)
+)
+)
+1 Q 2 3 / 4 Q
+-2 .7
+-2 .3
+-7 .6
+9 .6
+-1 .2
+-1 .0
+9 .2
+0 .6
+-1 3 .5
+-1 5 .9
+-1 .2
+2 .8
+2 0 .2
+-2 .0
+6 8 .3
+-1 .8
+1 2 .0
+-4 .3
+-9 .3
+-4 1 .7
+1 2 .2
+6 7 .2
+1 1 .0
+G r
+2 2
+6 %
+8 %
+0 %
+0 %
+0 %
+3 %
+0 %
+4 %
+2 %
+9 %
+0 %
+4 %
+4 %
+3 %
+0 %
+5 %
+5 %
+6 %
+1 %
+1 %
+1 %
+9 %
+7 %
+o w th
+1 Q 2 3 / 1 Q
+3 6 .2
+1 8 .4
+7 .1
+2 5 .1
+2 9 .9
+2 4 .9
+6 6 .3
+3 0 .7
+-0 .3
+2 3 .6
+2 9 .9
+3 5 .6
+1 0 0 .9
+2 2 .0
+5 4 7 .8
+2 6 .0
+-2 3 .9
+1 8 .5
+3 .3
+-1 .0
+4 .9
+4 .1
+4 .9
+2 2
+8 %
+1 %
+2 %
+2 %
+8 %
+6 %
+1 %
+0 %
+5 %
+1 %
+8 %
+6 %
+7 %
+5 %
+4 %
+6 %
+8 %
+7 %
+0 %
+9 %
+1 %
+0 %
+4 %
+1Q 23
+GRUPO AGROMERCANTIL HOLDING – GUATEMALA
+The credit portfolio in BAM continues in 1Q23 the positive trend of 2022, closing with a quarterly growth of 2.6% (calculated
+in USD). The fastest growing segment continues to be consumer, in which the largest originations involved credit cards.
+Commercial loans also reflect a good trend, although to a lesser extent, with significant originations completed in February.
+In the funding structure, there has been an increase in deposits in line with the loan portfolio growth. Both in savings
+accounts, checking accounts and term deposits, the deposit taking activity was concentrated in corporates during 1Q23. In
+addition, new lines of credit with financial institutions were approved to complement the resources needed to support the
+lending business.
+The net result for BAM in 1Q23 was a profit of COP 66.5 billion. Net interest income grew in the quarter following the good
+performance in loans and the increase in interest rates. The main impact in the net income contraction during the quarter is
+explained by provision expenses linked to deterioration in consumer. On the other hand, operating expenses declined thanks
+to a greater efficiency in technology, as well as lower marketing expenses and fees. BAM's net interest margin for 1Q23 was
+5.9% and annualized quarterly ROE was 11.1%.
+CONSOLIDATED BALANCE SHEET
+Quarter Growth
+AND INCOME STATEMENT
+(COP million) 1Q22 4Q22 1Q23 1Q23 / 4Q22 1Q23 / 1Q22
+ASSETS
+Gross loans 15,463,403 20,866,364 20,677,298 -0.91% 33.72%
+Allowances for loans (731,184) (950,068) (991,628) 4.37% 35.62%
+Investments 1,577,980 1,964,271 2,065,644 5.16% 30.90%
+Other assets 3,443,128 4,263,062 4,423,384 3.76% 28.47%
+Total assets 19,753,327 26,143,629 26,174,698 0.12% 32.51%
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Deposits 14,964,619 19,132,036 18,959,921 -0.90% 26.70%
+Other liabilities 3,045,041 4,503,961 4,898,675 8.76% 60.87%
+Total liabilities 18,009,659 23,635,998 23,858,596 0.94% 32.48%
+Non-controlling interest 20,522 21,728 20,932 -3.66% 2.00%
+Shareholders' equity 1,723,147 2,485,903 2,295,169 -7.67% 33.20%
+Total liabilities and shareholders' equity 19,753,327 26,143,629 26,174,698 0.12% 32.51%
+Interest income 311,123 504,000 537,764 6.70% 72.85%
+Interest expense (114,783) (183,932) (202,037) 9.84% 76.02%
+Net interest income 196,340 320,069 335,727 4.89% 70.99%
+Net provisions 4 ,100 ( 92,929) (137,534) 48.00% -3454.59%
+Fees and income from service, net 39,155 35,216 33,591 -4.61% -14.21%
+Other operating income 27,721 41,728 37,503 -10.12% 35.29%
+Total operating expense (137,763) (190,514) (182,290) -4.32% 32.32%
+Profit before tax 129,554 113,569 86,998 -23.40% -32.85%
+Income tax ( 30,324) ( 13,499) ( 18,721) 38.68% -38.27%
+Net income before non-controlling interest 99,229 100,070 68,277 -31.77% -31.19%
+Non-controlling interest (1,141) (1,339) (1,785) 33.24% 56.35%
+Net income 98,088 98,731 66,493 -32.65% -32.21%
+12
+1Q 23
+4. BANCOLOMBIA Company Description (NYSE: CIB, BVC: BCOLOMBIA Y PFBCOLOM)
+GRUPO BANCOLOMBIA is a full-service financial conglomerate incorporated in Colombia that offers a wide range of banking
+products and services to a diversified individual and corporate customer base of more than 29 million customers. GRUPO
+BANCOLOMBIA delivers its products and services via its regional network comprised of Colombia’s largest non-government
+owned banking network, El Salvador’s leading financial conglomerate (Banagricola S.A.), International banking and local
+(Banistmo S.A.) banking subsidiaries in Panama, Guatemala, Cayman and Puerto Rico. Together, BANCOLOMBIA and its
+subsidiaries provide stock brokerage, investment banking, leasing, factoring, consumer finance, fiduciary and trust services,
+asset management, among others.
+Contact Information
+Bancolombia’s Investor Relations
+Phone: (601) 4885371 / (601) 4435371 / (604) 4041918
+E-mail: IR@bancolombia.com.co
+Contacts: Catalina Tobón Rivera (IR Director) / Luis Germán Pelaez / Santiago López / Lina Michelle Alvarado
+Website: https://www.grupobancolombia.com/investor-relations
+13
+1Q 23
+14
+B A L A N C E S H E E T(C
+O P m illio n )A
+S S E T SC
+a s h a n d b a la n c e s a t c e n tra l b a n kIn
+te rb a n k b o rro w in g sR
+e v e rs e re p u rc h a s e a g re e m e n ts a n d o th e r s im ila r s e c u re d le n dF
+in a n c ia l a s s e ts in v e s tm e n tD
+e riv a tiv e fin a n c ia l in s tru m e n tsL
+o a n s a n d a d v a n c e s to c u s to m e rsA
+llo w a n c e fo r lo a n a n d le a s e lo s s e sIn
+v e s tm e n t in a s s o c ia te s a n d jo in t v e n tu re sG
+o o d w ill a n d In ta n g ib le a s s e ts , n e tP
+re m is e s a n d e q u ip m e n t, n e tIn
+v e s tm e n t p ro p e rtyR
+ig h t o f u s e a s s e tsP
+re p a y m e n tsT
+a x re c e iv a b le sD
+e fe rre d ta xA
+s s e ts h e ld fo r s a le a n d in v e n to rie sO
+th e r a s s e tsT
+o ta l a s s e tsL
+IA B IL IT IE S A N D S H A R E H O L D E R S ' E Q U IT YL
+IA B IL IT IE S
+D e p o s it b y c u s to m e rsIn
+te rb a n k D e p o s itsD
+e riv a tiv e fin a n c ia l in s tru m e n tB
+o rro w in g s fro m o th e r fin a n c ia l in s titu tio n sD
+e b t s e c u ritie s in is s u eL
+e a s e lia b ilityP
+re fe rre d s h a re sR
+e p u rc h a s e a g re e m e n ts a n d o th e r s im ila r s e c u re d b o rro w in gC
+u rre n t ta xD
+e fe rre d ta xE
+m p lo y e e s b e n e fit p la n sO
+th e r lia b ilitie sT
+o ta l lia b ilitie sS
+H A R E H O L D E R S ' E Q U IT YS
+h a re C a p ita lA
+d d itio n a l p a id -in -c a p ita lA
+p p ro p ria te d re s e rv e sR
+e ta in e d e a rn in g sA
+c c u m u la te d o th e r c o m p re h e n s iv e in c o m e , n e t o f ta xS
+to c k h o ld e rs ’ e q u ity a ttrib u ta b le to th e o w n e rs o f th e p a re nc
+o m p a n yN
+o n -c o n tro llin g in te re s tT
+o ta l lia b ilitie s a n d e q u ity
+t
+M a r-2
+2 2 ,0 7 5
+2 ,8 1 7
+7 7 6
+2 7 ,3 1 2
+2 ,4 7 3
+2 2 2 ,4 8 0
+(1 4 ,9 8 9
+2 ,7 8 6
+8 ,1 5 4
+5 ,1 7 6
+3 ,2 3 2
+1 ,6 1 7
+5 1 5
+1 ,9 4 0
+6 6 4
+5 7 4
+3 ,8 5 6
+2 9 1 ,4 6 4
+2 0 8 ,4 6 2
+6 2 1
+2 ,2 7 4
+1 0 ,5 0 8
+1 9 ,9 2 1
+1 ,7 2 9
+5 4 1
+2 ,0 7 5
+6 8 5
+1 ,4 2 4
+8 5 6
+1 0 ,4 1 7
+2 5 9 ,5 1 8
+4 8 0
+4 ,8 5 7
+1 6 ,8 3 3
+3 ,9 9 8
+4 ,0 3 0
+3 0 ,2 0 0
+1 ,7 4 6
+2 9 1 ,4 6 4
+2
+,4,3,0,6,5,9,4,9,9,1,8,0,0,2,2,1,4,8
+,9,5,4,1,1,7,3,2,2,8,2,2,2
+,9,4,6,2,0
+,2
+,3,8
+262778962839779481
+6457824337711
+15170
+6
+41
+603384582025250687
+3023560456543
+44806
+2
+27
+)
+D e c -2 3
+2 4 ,7 2 1 ,1
+4 ,0 5 0 ,4
+2 ,8 7 3 ,7
+2 7 ,9 4 0 ,1
+4 ,9 6 1 ,2
+2 6 9 ,9 2 3 ,7
+(1 5 ,4 7 9 ,6
+2 ,9 1 5 ,6
+1 0 ,4 3 9 ,1
+6 ,7 2 7 ,0
+3 ,9 9 4 ,0
+1 ,8 2 7 ,1
+5 7 6 ,7
+1 ,0 6 6 ,0
+7 6 4 ,5
+6 0 8 ,4
+4 ,9 0 5 ,0
+3 5 2 ,8 1 4 ,7
+2 5 0 ,9 9 2 ,3
+9 0 2 ,1
+4 ,7 3 7 ,4
+1 9 ,6 9 2 ,6
+1 9 ,5 7 5 ,9
+1 ,9 0 0 ,2
+5 8 4 ,2
+1 8 9 ,0
+9 6 5 ,1
+6 3 3 ,3
+7 6 5 ,3
+1 1 ,8 7 9 ,2
+3 1 2 ,8 1 7 ,1
+4 8 0 ,9
+4 ,8 5 7 ,4
+1 5 ,9 3 0 ,6
+1 0 ,0 6 1 ,6
+7 ,7 5 8 ,2
+3 9 ,0 8 8 ,9
+9 0 8 ,6
+3 5 2 ,8 1 4 ,7
+601433439650439493
+2353860586718
+15651
+0
+43
+876079032688214933
+3248884201112
+44546
+3
+83
+)
+M a r-2
+2 3 ,8 0 0
+3 ,3 7 0
+1 ,1 6 4
+3 0 ,9 6 8
+4 ,9 3 0
+2 6 7 ,2 6 9
+(1 6 ,5 1 2
+2 ,9 9 2
+1 0 ,0 9 2
+6 ,8 9 7
+4 ,1 7 2
+1 ,8 0 3
+7 0 4
+1 ,4 4 4
+7 9 0
+7 1 3
+4 ,7 2 0
+3 4 9 ,3 2 2
+2 5 1 ,0 0 7
+9 5 2
+4 ,4 2 6
+1 8 ,9 0 8
+1 9 ,0 6 1
+1 ,8 7 3
+5 4 1
+4 4 9
+1 ,1 1 7
+9 2 1
+7 9 0
+1 1 ,4 1 8
+3 1 1 ,4 6 9
+4 8 0
+4 ,8 5 7
+1 9 ,9 9 7
+4 ,3 5 4
+7 ,2 2 6
+3 6 ,9 1 7
+9 3 6
+3 4 9 ,3 2 2
+3
+,0,6,6,6,9,1,9,9,5,1,5,2,6,3,7,4,1,9
+,3,5,5,3,9,3,3,9,4,3,1,6,0
+,9,4,8,5,7
+,5
+,2,9
+796011357596305704
+7887504414788
+15775
+6
+94
+281545884154611984
+9946200745624
+44005
+3
+74
+)
+M a r-2 3
+G ro
+/ D e c -2 3
+-3 .7 3 %-1
+6 .7 8 %-5
+9 .4 7 %1
+0 .8 4 %-0
+.6 1 %-0
+.9 8 %6
+.6 8 %2
+.6 5 %-3
+.3 2 %2
+.5 3 %4
+.4 7 %-1
+.3 1 %2
+2 .1 8 %3
+5 .4 8 %3
+.4 2 %1
+7 .2 6 %-3
+.7 7 %-0
+.9 9 %
+0 .0 1 %5
+.5 9 %-6
+.5 6 %-3
+.9 8 %-2
+.6 3 %-1
+.4 2 %-7
+.3 4 %1
+3 8 .0 0 %1
+5 .7 7 %4
+5 .4 7 %3
+.2 4 %-3
+.8 8 %-0
+.4 3 %
+0 .0 0 %0
+.0 0 %2
+5 .5 3 %-5
+6 .7 2 %-6
+.8 5 %
+-5 .5 5 %
+3 .0 4 %-0
+.9 9 %
+w thM
+a r-2 3 / M a r-2 2
+7 .8 1 %1
+9 .6 4 %5
+0 .0 8 %1
+3 .3 9 %9
+9 .3 4 %2
+0 .1 3 %1
+0 .1 6 %7
+.3 9 %2
+3 .7 6 %3
+3 .2 5 %2
+9 .0 7 %1
+1 .5 1 %3
+6 .8 0 %-2
+5 .5 6 %1
+9 .0 4 %2
+4 .2 7 %2
+2 .3 9 %1
+9 .8 5 %
+2 0 .4 1 %5
+3 .2 6 %9
+4 .6 2 %7
+9 .9 4 %-4
+.3 1 %8
+.3 0 %0
+.0 0 %-7
+8 .3 2 %6
+3 .0 7 %-3
+5 .3 4 %-7
+.7 2 %9
+.6 1 %2
+0 .0 2 %
+0 .0 0 %0
+.0 0 %1
+8 .8 0 %8
+.9 1 %7
+9 .3 2 %
+2 2 .2 4 %
+-4 6 .3 9 %1
+9 .8 5 %
+% o f A s s e ts
+6 .8 1 %0
+.9 6 %0
+.3 3 %8
+.8 7 %1
+.4 1 %7
+6 .5 1 %-4
+.7 3 %0
+.8 6 %2
+.8 9 %1
+.9 7 %1
+.1 9 %0
+.5 2 %0
+.2 0 %0
+.4 1 %0
+.2 3 %0
+.2 0 %1
+.3 5 %1
+0 0 .0 0 %
+7 1 .8 6 %0
+.2 7 %1
+.2 7 %5
+.4 1 %5
+.4 6 %0
+.5 4 %0
+.1 5 %0
+.1 3 %0
+.3 2 %0
+.2 6 %0
+.2 3 %3
+.2 7 %8
+9 .1 6 %
+0 .1 4 %1
+.3 9 %5
+.7 2 %1
+.2 5 %2
+.0 7 %
+1 0 .5 7 %
+0 .2 7 %1
+0 0 .0 0 %
+% o f L ia b ilitie s
+8 0 .5 9 %0
+.3 1 %1
+.4 2 %6
+.0 7 %6
+.1 2 %0
+.6 0 %0
+.1 7 %0
+.1 4 %0
+.3 6 %0
+.3 0 %0
+.2 5 %3
+.6 7 %1
+0 0 .0 0 %
+1Q 23
+INCOME STATEMENT As of Growth Growth
+(COP million) Mar-22 Mar-23 Mar-23 / Mar-22 1Q22 4Q22 1Q23 1Q23 / 4Q22 1Q23 / 1Q22
+Interest income and expenses
+Interest on loans and financial leases
+Commercial 1,889,323 4,160,670 120.22% 1,889,323 3,728,319 4,160,670 11.60% 120.22%
+Consumer 1,577,645 2,592,765 64.34% 1,577,645 2,396,536 2,592,765 8.19% 64.34%
+Small business loans 39,836 45,483 14.18% 39,836 45,166 45,483 0.70% 14.18%
+Mortgage 788,622 1,158,288 46.87% 788,622 930,191 1,158,288 24.52% 46.87%
+Financial leases 450,515 928,546 106.11% 450,515 811,089 928,546 14.48% 106.11%
+Total interest income on loans and financial leases 4,745,941 8,885,752 87.23% 4,745,941 7,911,301 8,885,752 12.32% 87.23%
+Interest income on overnight and market funds 2,806 55,191 1866.89% 2,806 34,585 55,191 59.58% 1866.89%
+Interest and valuation on financial instruments
+Interest on debt instruments using the effective interest method 93,251 250,371 168.49% 93,251 211,217 250,371 18.54% 168.49%
+Valuation on financial instruments
+Debt investments 57,008 315,283 453.05% 57,008 309,777 315,283 1.78% 453.05%
+Derivatives 47,114 (97,891) -307.77% 47,114 60,301 (97,891) -262.34% -307.77%
+Repos (17,211) (35,090) 103.88% (17,211) (19,365) (35,090) 81.20% 103.88%
+Others 14,579 9,505 -34.80% 14,579 34,635 9,505 -72.56% -34.80%
+Total valuation on financial instruments 101,490 191,807 88.99% 101,490 385,348 191,807 -50.22% 88.99%
+Total Interest on debt instruments and valuation on financial instruments 194,741 442,178 127.06% 194,741 596,565 442,178 -25.88% 127.06%
+Total interest and valuation on financial instruments 4,943,488 9,383,121 89.81% 4,943,488 8,542,451 9,383,121 9.84% 89.81%
+Interest expense
+Borrowings from other financial institutions (89,298) (389,483) 336.16% (89,298) (322,521) (389,483) 20.76% 336.16%
+Overnight funds (1,391) (7,832) 463.05% (1,391) (5,235) (7,832) 49.61% 463.05%
+Debt securities in issue (295,732) (385,168) 30.24% (295,732) (368,699) (385,168) 4.47% 30.24%
+Deposits (816,178) (3,190,069) 290.85% (816,178) (2,435,834) (3,190,069) 30.96% 290.85%
+Preferred shares (14,837) (14,837) 0.00% (14,837) (14,727) (14,837) 0.75% 0.00%
+Lease liabilities (21,004) (25,319) 20.54% (21,004) (31,162) (25,319) -18.75% 20.54%
+Other interest (4,717) (12,555) 166.16% (4,717) (9,820) (12,555) 27.85% 166.16%
+Total interest expenses (1,243,157) (4,025,263) 223.79% (1,243,157) (3,187,998) (4,025,263) 26.26% 223.79%
+Net interest margin and valuation on financial instruments before impairment on loans
+3,700,331 5,357,858 44.79% 3,700,331 5,354,453 5,357,858 0.06% 44.79%
+and financial leases, off balance sheet credit instruments and other financial instruments
+Credit impairment charges on loans and advance and financial leases (391,431) (2,175,418) 455.76% (391,431) (1,892,468) (2,175,418) 14.95% 455.76%
+Recovery of charged - off loans 148,144 130,769 -11.73% 148,144 176,989 130,769 -26.11% -11.73%
+Credit impairment charges on off balance sheet credit instruments (18,152) (4,652) -74.37% (18,152) (19,666) (4,652) -76.34% -74.37%
+Credit impairment charges/recovery on investments (5,641) 3,657 -164.83% (5,641) (6,461) 3,657 -156.60% -164.83%
+Total credit impairment charges, net (267,080) (2,045,644) 665.93% (267,080) (1,741,606) (2,045,644) 17.46% 665.93%
+Net interest margin and valuation on financial instruments after impairment on loans and
+3,433,251 3,312,214 -3.53% 3,433,251 3,612,847 3,312,214 -8.32% -3.53%
+financial leases and off balance sheet credit instruments and other financial instruments
+Fees and commission income
+Banking services 184,552 234,918 27.29% 184,552 242,992 234,918 -3.32% 27.29%
+Credit and debit card fees and commercial establishments 632,443 744,466 17.71% 632,443 781,800 744,466 -4.78% 17.71%
+Brokerage 9,236 6,843 -25.91% 9,236 5,919 6,843 15.61% -25.91%
+Acceptances, Guarantees and Standby Letters of Credit 19,840 28,209 42.18% 19,840 25,437 28,209 10.90% 42.18%
+Trust 108,943 112,552 3.31% 108,943 107,049 112,552 5.14% 3.31%
+Placement of securities and investment banking 31,918 4,053 -87.30% 31,918 16,448 4,053 -75.36% -87.30%
+Bancassurance 167,824 213,149 27.01% 167,824 277,871 213,149 -23.29% 27.01%
+Payments and Collections 203,309 227,056 11.68% 203,309 230,452 227,056 -1.47% 11.68%
+Other 81,326 112,738 38.62% 81,326 111,550 112,738 1.06% 38.62%
+Total fees and commission income 1,439,391 1,683,984 16.99% 1,439,391 1,799,518 1,683,984 -6.42% 16.99%
+Fees and commission expenses (520,220) (682,388) 31.17% (520,220) (778,195) (682,388) -12.31% 31.17%
+Total fees and comissions, net 919,171 1,001,596 8.97% 919,171 1,021,323 1,001,596 -1.93% 8.97%
+Other operating income
+Derivatives FX contracts ( 87,408) 124,740 -242.71% (87,408) (237,580) 124,740 -152.50% -242.71%
+Net foreign exchange 213,103 159,059 -25.36% 213,103 49,387 159,059 222.07% -25.36%
+Hedging (1,560) - -100.00% ( 1,560) (129) - -100.00% -100.00%
+Leases 297,372 417,700 40.46% 297,372 388,097 417,700 7.63% 40.46%
+Gains (or losses) on sale of assets 37,863 47,563 25.62% 37,863 67,660 47,563 -29.70% 25.62%
+Other reversals 2 ,997 7 ,525 151.08% 2,997 3,016 7,525 149.50% 151.08%
+Others 191,293 233,293 21.96% 191,293 266,889 233,293 -12.59% 21.96%
+Total other operating income 653,660 989,880 51.44% 653,660 537,340 989,880 84.22% 51.44%
+Dividends received, and share of profits of equity method investees
+Dividends 5 ,713 23,880 317.99% 5,713 10,254 23,880 132.88% 317.99%
+Equity investments 1 ,910 473 -75.24% 1,910 3,457 4 73 -86.32% -75.24%
+Equity method 50,959 92,283 81.09% 50,959 63,102 92,283 46.24% 81.09%
+Others 2 ,433 - -100.00% 2,433 (50,437) - -100.00% -100.00%
+Total dividends received, and share of profits of equity method investees 61,015 116,636 91.16% 61,015 26,376 116,636 342.21% 91.16%
+Total operating income, net 5,067,097 5,420,326 6.97% 5,067,097 5,197,886 5,420,326 4.28% 6.97%
+Operating expenses
+Salaries and employee benefits (891,029) (1,088,789) 22.19% (891,029) (956,077) (1,088,789) 13.88% 22.19%
+Bonuses (176,901) (234,004) 32.28% (176,901) (229,359) (234,004) 2.03% 32.28%
+Other administrative and general expenses (932,456) (1,140,878) 22.35% (932,456) (1,495,917) (1,140,878) -23.73% 22.35%
+Taxes other than income tax (216,817) (347,895) 60.46% (216,817) (270,320) (347,895) 28.70% 60.46%
+Impairment, depreciation and amortization (221,412) (260,096) 17.47% (221,412) (268,330) (260,096) -3.07% 17.47%
+Total operating expenses (2,438,615) (3,071,662) 25.96% (2,438,615) (3,220,003) (3,071,662) -4.61% 25.96%
+Profit before tax 2,628,482 2,348,664 -10.65% 2,628,482 1,977,883 2,348,664 18.75% -10.65%
+Income tax (815,100) (586,371) -28.06% (815,100) (311,588) (586,371) 88.19% -28.06%
+Net income 1,813,382 1,762,293 -2.82% 1,813,382 1,666,295 1,762,293 5.76% -2.82%
+Non-controlling interest (81,524) (45,516) -44.17% (81,524) (23,600) (45,516) 92.86% -44.17%
+Net income attributable to equity holders of the Parent Company 1,731,858 1,716,777 -0.87% 1,731,858 1,642,695 1,716,777 4.51% -0.87%
+15

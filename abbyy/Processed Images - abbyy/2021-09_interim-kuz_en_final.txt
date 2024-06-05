@@ -1,0 +1,903 @@
+CEZ GROUP
+INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+PREPARED IN ACCORDANCE WITH
+INTERNATIONAL FINANCIAL REPORTING STANDARDS
+AS OF SEPTEMBER 30, 2021
+CEZ GROUP
+CONSOLIDATED BALANCE SHEET
+AS OF SEPTEMBER 30, 2021
+In CZK Millions
+September 30, December 31,
+Note 2021 2020
+ASSETS:
+Plant in service 835,530 827,652
+Less accumulated depreciation and impairment (476,356) (451,033)
+Net plant in service 359,174 376,619
+Nuclear fuel, at amortized cost 12,778 13,697
+Construction work in progress, net 21,695 20,056
+Total property, plant and equipment 393,647 410,372
+Investments in associates and joint-ventures 3,897 4,075
+Restricted financial assets, net 21,614 21,424
+Other non-current financial assets, net 5 12,198 11,002
+Intangible assets, net 21,449 24,244
+Deferred tax assets 795 828
+Total other non-current assets 59,953 61,573
+Total non-current assets 453,600 471,945
+Cash and cash equivalents, net 8,023 6,064
+Trade receivables, net 81,626 63,648
+Income tax receivable 2,477 664
+Materials and supplies, net 14,555 9,898
+Fossil fuel stocks 822 1,220
+Emission rights 6 64,161 37,833
+Other current financial assets, net 5 589,460 61,894
+Other current assets, net 11,841 8,919
+Assets classified as held for sale 7 - 40,373
+Total current assets 772,965 230,513
+Total assets 1,226,565 702,458
+2
+CEZ GROUP
+CONSOLIDATED BALANCE SHEET
+AS OF SEPTEMBER 30, 2021
+continued
+September 30, December 31,
+Note 2021 2020
+EQUITY AND LIABILITIES:
+Stated capital 53,799 53,799
+Treasury shares (1,447) (2,845)
+Retained earnings and other reserves 126,688 182,917
+Total equity attributable to equity holders of the parent 179,040 233,871
+Non-controlling interests 1,891 4,692
+Total equity 180,931 238,563
+Long-term debt, net of current portion 9 102,895 122,102
+Provisions 105,229 105,326
+Other long-term financial liabilities 10 28,827 9,414
+Deferred tax liability 13,297 19,383
+Other long-term liabilities 33 34
+Total non-current liabilities 250,281 256,259
+Short-term loans 11 12,964 984
+Current portion of long-term debt 9 25,386 28,741
+Trade payables 79,481 73,189
+Income tax payable 122 555
+Provisions 13,062 13,665
+Other short-term financial liabilities 10 654,487 72,114
+Other short-term liabilities 9,851 6,759
+Liabilities associated with assets classified as held for
+sale 7 - 11,629
+Total current liabilities 795,353 207,636
+Total equity and liabilities 1,226,565 702,458
+3
+CEZ GROUP
+CONSOLIDATED STATEMENT OF INCOME
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2021
+In CZK Millions
+Note 1-9/2021 1-9/2020 7-9/2021 7-9/2020
+Sales of electricity, heat, gas and coal 104,383 100,784 31,890 31,490
+Sales of services and other revenues 49,172 51,842 14,921 16,914
+Other operating income 2,400 2,924 894 893
+Total revenues and other operating
+income 12 155,955 155,550 47,705 49,297
+Gains and losses from commodity
+derivative trading (405) 6,119 2,183 155
+Purchase of electricity, gas and other
+energies (42,149) (42,546) (12,041) (14,154)
+Fuel and emission rights (16,399) (16,254) (5,127) (5,049)
+Services (19,445) (20,432) (6,921) (7,191)
+Salaries and wages (21,333) (21,789) (6,973) (7,388)
+Material and supplies (8,049) (7,720) (2,792) (2,759)
+Capitalization of expenses to the cost of
+assets and change in own inventories 3,112 2,727 1,153 1,031
+Depreciation and amortization (21,810) (22,083) (7,911) (7,205)
+Impairment of property, plant and
+equipment and intangible assets 13 (12,165) (5,743) (539) (3,842)
+Impairment of trade and other receivables 63 (197) (5) (62)
+Other operating expenses (3,571) (4,470) (1,072) (1,631)
+Income before other income (expenses)
+and income taxes 13,804 23,162 7,660 1,202
+Interest on debt (3,245) (3,993) (1,029) (1,183)
+Interest on provisions (1,491) (1,468) (494) (489)
+Interest income 321 321 106 100
+Share of profit (loss) from associates and
+joint-ventures 80 (88) 47 40
+Impairment of financial assets (185) (188) (63) (154)
+Other financial expenses (412) (1,319) (56) (496)
+Other financial income 1,971 1,043 400 201
+Total other income (expenses) (2,961) (5,692) (1,089) (1,981)
+Income (loss) before income taxes 10,843 17,470 6,571 (779)
+Income taxes (4,135) (3,884) (1,439) (336)
+Net income (loss) 6,708 13,586 5,132 (1,115)
+Net income (loss) attributable to:
+Equity holders of the parent 6,560 13,261 5,127 (1,176)
+Non-controlling interests 148 325 5 61
+Net income (loss) per share attributable to
+equity holders of the parent (CZK per
+share):
+Basic 12.2 24.8 9.6 (2.2)
+Diluted 12.2 24.8 9.5 (2.2)
+4
+CEZ GROUP
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2021
+In CZK Millions
+Note 1-9/2021 1-9/2020 7-9/2021 7-9/2020
+Net income (loss) 6,708 13,586 5,132 (1,115)
+Change in fair value of cash flow hedges (52,844) (5,598) (36,649) (2,799)
+Cash flow hedges reclassified to
+statement of income 3,032 674 2,243 1,270
+Change in fair value of debt instruments (1,112) 744 (235) 14
+Disposal of debt instruments (12) - (10) -
+Translation differences – subsidiaries (935) 2,618 (55) 577
+Translation differences – associates and
+joint-ventures (78) 339 (2) 128
+Disposal of translation differences 8,235 - 1,628 -
+Share on other equity movements of
+associates and joint-ventures 25 (25) (3) (12)
+Deferred tax related to other
+comprehensive income 14 9,680 796 6,585 288
+Net other comprehensive income that
+may be reclassified to statement of
+income or to assets in subsequent
+periods (34,009) (452) (26,498) (534)
+Change in fair value of equity instruments - 4 - 4
+Net other comprehensive income not to
+be reclassified from equity in
+subsequent periods - 4 - 4
+Total other comprehensive income, net of
+tax (34,009) (448) (26,498) (530)
+Total comprehensive income, net of tax (27,301) 13,138 (21,366) (1,645)
+Total comprehensive income attributable to:
+Equity holders of the parent (27,316) 12,545 (21,371) (1,777)
+Non-controlling interests 15 593 5 132
+5
+CEZ GROUP
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2021
+In CZK Millions
+Note Attributable to equity holders of the parent
+Equity
+Transla- Cash flow Debt instruments Non-
+Stated Treasury tion hedge instru- and other Retained controlling Total
+capital shares difference reserve ments reserves earnings Total interests equity
+Balance as at January 1, 2020 53,799 (2,885) (12,837) (2,831) 648 (160) 215,027 250,761 4,603 255,364
+Net income - - - - - - 13,261 13,261 325 13,586
+Other comprehensive income - - 2,688 (3,988) 605 4 (25) (716) 268 (448)
+Total comprehensive
+income - - 2,688 (3,988) 605 4 13,236 12,545 593 13,138
+Dividends - - - - - - (18,206) (18,206) (46) (18,252)
+Sale of treasury shares - 40 - - - - (25) 15 - 15
+Exercised and forfeited share
+options - - - - - (15) 15 - - -
+Contribution from owners of
+non-controlling interests - - - - - - - - 13 13
+Acquisition of non-controlling
+interests - - - - - - (302) (302) (766) (1,068)
+Put options held by non-
+controlling interests - - 12 - - - (5) 7 733 740
+Balance as at September 30,
+53,799 (2,845) (10,137) (6,819) 1,253 (171) 209,740 244,820 5,130 249,950
+2020
+6
+CEZ GROUP
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2021
+continued
+Note Attributable to equity holders of the parent
+Equity
+Transla- Cash flow Debt instruments Non-
+Stated Treasury tion hedge instru- and other Retained controlling Total
+capital shares difference reserve ments reserves earnings Total interests equity
+Balance as at January 1, 2021 53,799 (2,845) (11,777) (7,110) 874 (1,022) 201,952 233,871 4,692 238,563
+Net income - - - - - - 6,560 6,560 148 6,708
+Other comprehensive income - - 7,354 (40,347) (908) - 25 (33,876) (133) (34,009)
+Total comprehensive
+income - - 7,354 (40,347) (908) 6,585 (27,316) 15 (27,301)
+Dividends 8 - - - - - - (27,909) (27,909) (150) (28,059)
+Sale of treasury shares 1,398 - - - - (749) 649 - 649
+Exercised and forfeited share
+options - - - - - (54) 54 - - -
+Acquisition of subsidiaries 4.1 - - - - - - - - 13 13
+Acquisition of non-controlling
+interests 4.3 - - - - - - (71) (71) 5 (66)
+Sale of subsidiaries 4.2 - - - - - - - - (3,499) (3,499)
+Sale of non-controlling
+interests 4.3 - - - - - - (4) (4) 803 799
+Put options held by non-
+controlling interests - - (6) - - - (174) (180) 12 (168)
+Balance as at September 30,
+53,799 (1,447) (4,429) (47,457) (34) (1,076) 179,684 179,040 1,891 180,931
+2021
+7
+CEZ GROUP
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2021
+In CZK Millions
+Note 1-9/2021 1-9/2020
+OPERATING ACTIVITIES:
+Income before income taxes 10,843 17,470
+Adjustments of income before income taxes to cash
+generated from operations:
+Depreciation and amortization 21,810 22,083
+Amortization of nuclear fuel 2,979 3,051
+(Gains) and losses on non-current asset retirements (456) (108)
+Foreign exchange rate loss (gain) (876) (697)
+Interest expense, interest income and dividend income 2,914 3,659
+Provisions (495) (254)
+Impairment of property, plant and equipment and
+intangible assets 12,165 5,743
+Valuation allowances and other non-cash expenses and
+income (21,651) (2,528)
+Share of (profit) loss from associates and joint-ventures (80) 88
+Changes in assets and liabilities:
+Receivables and contract assets (22,556) 5,735
+Materials, supplies and fossil fuel stocks (4,116) (2,199)
+Receivables and payables from derivatives 16,101 6,779
+Other assets 203 7,265
+Trade payables 11,830 (10,934)
+Other liabilities 3,106 3,049
+Cash generated from operations 31,721 58,202
+Income taxes paid (2,728) (2,703)
+Interest paid, net of capitalized interest (3,180) (3,764)
+Interest received 273 296
+Dividends received 7 13
+Net cash provided by operating activities 26,093 52,044
+INVESTING ACTIVITIES:
+Acquisition of subsidiaries, associates and joint-ventures,
+net of cash acquired 4.1 (790) (1,215)
+Disposal of subsidiaries, associates and joint-ventures,
+net of cash disposed of 4.2 28,970 252
+Additions to non-current assets, including capitalized
+interest (21,157) (20,741)
+Proceeds from sale of non-current assets 308 389
+Loans made (317) (1,008)
+Repayment of loans 307 32
+Change in restricted financial assets (1,135) (544)
+,
+Net cash provided by (used in) investing activities 6,186 (22,835)
+8
+CEZ GROUP
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2021
+continued
+Note 1-9/2021 1-9/2020
+FINANCING ACTIVITIES:
+Proceeds from borrowings 193,994 119,402
+Payments of borrowings (201,163) (132,000)
+Payments of lease liabilities (502) (612)
+Proceeds from other long-term liabilities 220 180
+Payments of other long-term liabilities (188) (52)
+Dividends paid to Company’s shareholders (27,645) (18,064)
+(Dividends paid to) contributions received from non-
+controlling interests, net (142) (8)
+Sale of treasury shares 649 15
+(Acquisition) sale of non-controlling interests, net 746 (1,090)
+,
+Total cash used in financing activities (34,031) (32,229)
+Net effect of currency translation and allowances in cash (394) 726
+Net decrease in cash and cash equivalents (2,146) (2,294)
+Cash and cash equivalents at beginning of period * 10,169 11,906
+,
+Cash and cash equivalents at end of period * 8,023 9,612
+Supplementary cash flow information:
+Total cash paid for interest 3,390 3,962
+* Presented values of cash and cash equivalents contain also cash and cash equivalents included on the
+balance sheet on the line Assets classified as held for sale.
+9
+CEZ GROUP
+NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+AS OF SEPTEMBER 30, 2021
+1. The Company
+ČEZ, a. s. (“ČEZ” or “the Company”) is a Czech joint-stock company, owned 69.8% (69.9% of voting
+rights) at September 30, 2021 by the Czech Republic represented by the Ministry of Finance. The
+remaining shares of the Company are publicly held. The address of the Company's registered office is
+Duhová 2/1444, Praha 4, 140 53, Czech Republic.
+The Company is a parent company of the CEZ Group (“the Group”). Main business of the Group is the
+generation, distribution, trade and sale of electricity and heat, trade and sale of natural gas, provision
+of complex energy services and coal mining.
+2. Summary of Significant Accounting Policies
+2.1. Financial Statements
+The interim consolidated financial statements for the nine months ended September 30, 2021 have
+been prepared in accordance with IAS 34 and have not been audited by an independent auditor. The
+interim consolidated financial statements do not include all the information and disclosures required in
+the annual financial statements and should be read in conjunction with the Group’s annual financial
+statement as of December 31, 2020.
+2.2. Changes in Accounting Policies
+Adoption of New IFRS Standards in 2021
+The accounting policies adopted in the preparation of the interim consolidated financial statements are
+consistent with those followed in the preparation of the Group’s annual financial statement as of
+December 31, 2020.
+As of January 1, 2021, the Group did not adopt any new International Financial Reporting Standard
+that would have a significant impact on Group’s interim consolidated financial statements.
+3. Seasonality of Operations
+The seasonality within the segments Generation, Distribution and Sales usually takes effect in such a
+way that the revenues and operating profits of these segments for the 1st and 4th quarters of a
+calendar year are slightly higher than the revenues and operating profits achieved in the remaining
+period.
+10
+4. Changes in the Group Structure
+4.1. Acquisitions of Subsidiaries in the First Nine Months of 2021
+The following table summarizes the cash flows related to acquisitions in first nine months of 2021 (in
+CZK millions):
+Cash outflow on acquisition of the subsidiaries 670
+Cash outflow on acquisitions of the subsidiaries, where provisional
+accounting was not completed yet 168
+Payments of payables from acquisitions of previous periods 125
+Less:
+Cash and cash equivalents acquired on acquisition of the subsidiaries (156)
+Cash and cash equivalents acquired on including the previously
+unconsolidated subsidiaries in consolidation (17)
+Total cash outflows on acquisition 790
+On May 19, 2021, the Group acquired a 100% interest in the company Peil und Partner Ingenieure
+GmbH, which focuses on building engineering services and energy saving projects.
+On July 15, 2021, the Group acquired a 100% interest in the company EP Rožnov, a.s., which owns a
+100% interest in the company EPIGON spol. s r.o. and a 90% interest in the company PIPE
+SYSTEMS s.r.o (further also as EP Rožnov). The companies are engaged in providing complex
+services for the construction of clean rooms.
+On July 19, 2021, the Group acquired a 100% interest in companies IBP Ingenieure GmbH & Co. KG
+and IBP Verwaltungs GmbH, which focuses on building engineering services and energy saving
+projects.
+On July 26, 2021, the Group acquired a 100% interest in the company I SOCIETA’ AGRICOLA DEF
+S.r.l., which focuses on building engineering services and energy saving projects.
+On August 27, 2021, the Group acquired a 66% interest in the company ZOHD Groep B.V., which
+owns a 100% interest in Energy Shift B.V., Zonnepanelen op het Dak Installaties B.V and
+Zonnepanelen op het Dak B.V. The companies are engaged in the production and installation of solar
+panels.
+11
+The fair values of acquired identifiable assets and liabilities and the purchase considerations have
+been stated provisionally and could be adjusted in the subsequent period. The following table presents
+the current best estimate of fair values of acquired identifiable assets and liabilities as of the date of
+acquisition (in CZK millions):
+EP Rožnov ZOHD Other Total
+Share of the Group being acquired 100% 66%
+Property, plant and equipment, net 33 16 123 172
+Intangible assets, net 1 30 60 91
+Another non-current assets 6 1 2 9
+Cash and cash equivalents 99 9 48 156
+Trade receivables, net 164 21 20 205
+Materials and supplies, net 37 63 - 100
+Another current assets 21 8 23 52
+Long-term debt, net of current portion - (6) (77) (83)
+Deferred tax liability - (7) (9) (16)
+Another non-current assets - - (1) (1)
+Short-term loans - (20) (2) (22)
+Current portion of long-term debt - (3) (12) (15)
+Trade payables (104) (44) (17) (165)
+Income tax payable - - (21) (21)
+Short-term provisions (1) (2) (14) (17)
+Another current liabilities (21) (33) (2) (56)
+Total net assets 235 33 121 389
+Share of net assets acquired 233 22 121 376
+Goodwill 14 273 79 366
+Total purchase consideration 247 295 200 742
+Liabilities from acquisition of the subsidiary (22) - (18) (40)
+Cash paid in previous years - - (32) (32)
+Cash outflow on acquisition in 2021 225 295 150 670
+Less: Cash and cash equivalents in the
+subsidiary acquired (99) (9) (48) (156)
+Cash outflow on acquisition in 2021, net 126 286 102 514
+If the acquisitions had taken place at the beginning of the year 2021, net income for CEZ Group as of
+September 30, 2021 would have been CZK 6,690 million and the revenues and other operating
+income from continuing operations would have been CZK 156,503 million. The amounts of goodwill
+recognized as a result of the business combinations comprise the value of expected synergies arising
+from the acquisitions.
+From the acquisition date, the newly acquired subsidiaries have contributed the following balances to
+the Group’s statement of income (in CZK millions):
+EP Rožnov ZOHD Other Total
+Revenues and other operating income 73 28 42 143
+Income before other income (expense) and
+income taxes 2 1 19 22
+Net income 2 1 19 22
+Net income attributable:
+Equity holders of the parent 2 1 19 22
+Non-controlling interests - - - -
+12
+4.2. Sale of Shares in Romanian and Bulgarian Companies
+On October 22, 2020, a share purchase agreement was concluded for the sale of the interests in
+Romanian companies Distributie Energie Oltenia S.A., CEZ Vanzare S.A., CEZ Romania S.A.
+(including its interest in TMK Hydroenergy Power S.R.L.), Tomis Team S.A. (including its interest in
+M.W. Team Invest S.R.L.) and Ovidiu Development S.A. From that date, the assets and related
+liabilities were classified as held for sale and tested for possible impairment with respect to the sale
+price. In the first quarter of 2021, the Group recognized an impairment of property, plant and
+equipment and intangible assets in the amount of CZK 1,145 million, which was reported in the
+income statement on the line Impairment of property, plant and equipment and intangible assets
+(Note 13).
+The transaction was settled on March 31, 2021. The total sale price for the shares in the Romanian
+companies was paid in full and the Group transferred control over the sold subsidiaries.
+The following table provides an overview of the impacts related to the derecognition of Romanian
+companies from consolidation, with the derecognized net assets broken down by operating segments
+(in CZK millions):
+Generation Distribution Sales Total
+Sold interest 100%
+Property, plant and equipment, net 6,645 7,489 6 14,140
+Non-current green and similar
+certificates, net 1,288 - - 1,288
+Deferred tax asset 1,109 360 59 1,528
+Another non-current assets 43 270 21 334
+Cash and cash equivalents 1,453 1,783 218 3,454
+Trade receivables, net 422 542 1,114 2,078
+Materials and supplies, net 63 140 3 206
+Green and similar certificates 909 - - 909
+Another current assets 159 602 961 1,722
+Long-term debt, net of current portion (233) (2,767) (2) (3,002)
+Non-current provisions (783) (211) (7) (1,001)
+Other long-term financial liabilities (1) (157) (9) (167
+Current portion of long-term debt (19) (107) (3) (129)
+Trade payables (207) (722) (1,348) (2,277)
+Current provisions (143) (133) (367) (643)
+Another short-term liabilities (6) (205) (135) (346)
+Total net assets 10,699 6,884 511 18,094
+Disposal of translation differences 6,605
+Effect of intercompany balances:
+Trade receivables, net (120)
+Trade payables 64
+Total cost of sale of the Group 24,643
+Revenue from sale 24,643
+Gain on sale -
+13
+The following table shows the cash flows related to the sale and derecognition of the Romanian
+subsidiaries from consolidation (in CZK millions):
+Cash received from sale in the first nine months of 2021 24,643
+Cash disposed of on sale (3,454)
+Total cash flow from sale of Romanian companies in the first
+nine months of 2021 21,189
+On June 20, 2019, an agreement with the company Eurohold AD was signed on the sale of ownership
+interests in the Bulgarian companies CEZ Razpredelenie Bulgaria AD (including its share in CEZ ICT
+Bulgaria EAD), CEZ Trade Bulgaria EAD, CEZ Bulgaria EAD, CEZ Elektro Bulgaria AD, Free Energy
+Project Oreshets EAD and Bara Group EOOD. The assets and related liabilities of the sold companies
+were classified as held for sale and were tested for possible impairment with respect to the sale price.
+In the first nine months of 2021, the Group recognized an impairment of property, plant and equipment
+and intangible assets of CEZ Razpredelenie Bulgaria AD representing the cash-generating unit
+Bulgarian distribution for the purpose of testing assets for possible impairment in the amount of
+CZK 849 million, which was reported in the income statement on the line Impairment of property, plant
+and equipment and intangible assets (Note 13).
+On July 27, 2021, the transaction for the sale of Bulgarian assets was settled between the Group and
+Eurohold Bulgaria. The sale price for all the Group’s shares in Bulgarian companies in the amount of
+EUR 335 million was repaid and the Group transferred control of the sold subsidiaries. As part of the
+transaction, the Group’s outstanding loans provided to Bulgarian companies were transferred to the
+buyer.
+The following table provides an overview of the impacts related to the derecognition of Bulgarian
+companies from consolidation, with the derecognized net assets broken down by operating segments
+(in CZK millions):
+Generation Distribution Sales Total
+Sold interest 100% 67% 67%
+Property, plant and equipment, net 158 9,484 80 9,722
+Intangible assets, net - 494 1 495
+Cash and cash equivalents 16 820 1,967 2,803
+Other assets 8 669 2,895 3,572
+Long term liabilities - (1,543) (110) (1,653)
+Short term liabilities (36) (1,085) (2,011) (3,132)
+Deferred tax liabilities (4) (120) (4) (128)
+Total net assets 142 8,719 2,818 11,679
+Disposal of translation differences 1,628
+Disposal of non-controlling interests (3,499)
+Effect of intercompany balances:
+Trade receivables (17)
+Other financial assets (386)
+Trade payables 41
+Short-term financial payables 408
+Total cost of sale of the Group 9,854
+Revenue from sale of shares and loans
+provided 9,854
+Gain on sale -
+14
+The following table shows the cash flows related to the sale and derecognition of the Bulgarian
+subsidiaries from consolidation (in CZK millions):
+Cash received from sale in the first nine months of 2021 9,871
+Cash disposed of on sale (2,803)
+Total cash flow from sale of Bulgarian companies in the first
+nine months of 2021 7,068
+The following table summarizes the total cash flows related to the sales of subsidiaries and payment
+from joint-ventures in the first nine months of 2021 (in CZK millions):
+Total cash received from sale of Romanian companies 21,189
+Total cash received from sale of Bulgarian companies 7,068
+Sale of 100% share in CEZ Towarowy Dom Maklerski sp. z o.o. 5
+Payments of receivables from acquisitions of previous periods 672
+Cash payments from joint-ventures 36
+Total cash flow in the first nine months of 2021 28,970
+15
+4.3. Changes in Non-controlling Interests
+In February 2021, Slovenský plynárenský priemysel, a.s. made a cash contribution to ESCO
+Slovensko, a.s., thus acquiring a 50% non-controlling interest and the Group's share fell to 50%, while
+maintaining control. The main strategic intention of ESCO Slovensko, a.s., which owns shares in 6
+Slovak companies invested from ČEZ ESCO, a.s., is the development of decentralized energy and
+complex energy services in Slovakia.
+On July 29, 2021 the Group sold a non-controlling 49% interest in the company ČEZ Asset
+Holding, a. s. In August 2021, the company then changed its name to ENVEZ, a.s.
+An overview of basic financial information on these transactions is given in the following table
+(in CZK millions):
+ESCO
+Slovensko ENVEZ Total
+Share sold in 2021 50.00% 49.00%
+Sold share of net assets increasing non-controlling
+interests 799 4 803
+Direct impact on equity from the sale of a non-
+controlling interest (5) 1 (4)
+Total sale price 794 5 799
+During May and June 2021, within several sub-transactions, the Group acquired a part of the non-
+controlling interest representing a 26.58% interest in the company OSC, a.s., which increased Group's
+interest to 93.25%.
+In June 2021, there was an additional adjustment to the acquisition price for a 25% non-controlling
+interest in ENESA a.s., which was acquired in 2018.
+An overview of basic financial information on these transactions is given in the following table
+(in CZK millions):
+OSC, a.s. ENESA a.s. Total
+Share acquired in 2021 26.58% -
+Acquired share of net assets derecognized from non -
+controlling interests (5) - (5)
+Amount directly recognized in equity caused by
+acquisition of non-controlling interest 48 23 71
+Total purchase consideration 43 23 66
+16
+5. Other Financial Assets, Net
+The overview of other financial assets, net at September 30, 2021 and December 31, 2020 is as follows (in CZK millions):
+September 30, 2021 December 31, 2020
+Non-current Current Non-current Current
+assets assets Total assets assets Total
+Term deposits - 3,183 3,183 - 2,755 2,755
+Other financial receivables 2,207 306 2,513 1,786 987 2,773
+Receivables from sale of subsidiaries, associates
+and joint-ventures 2,387 2 2,389 2,349 2,012 4,361
+Investment in finance lease 229 46 275 261 51 312
+Debt financial assets - - - - 10 10
+Total financial assets at amortized cost
+4,823 3,537 8,360 4,396 5,815 10,211
+Equity financial assets – investments in Inven
+Capital, SICAV, a.s. 2,245 255 2,500 1,750 - 1,750
+Commodity and other derivatives 232 584,652 584,884 224 55,694 55,918
+Total financial assets at fair value through profit
+or loss
+2,477 584,907 587,384 1,974 55,694 57,668
+Equity financial assets 1,913 - 1,913 1,768 - 1,768
+Fair value of cash flow hedge derivatives 2,984 1,016 4,000 2,864 284 3,148
+Financial assets in progress 1 - 1 - - -
+Debt financial assets - - - - 101 101
+Total financial assets at fair value through other
+comprehensive income 4,898 1,016 5,914 4,632 385 5,017
+Total 12,198 589,460 601,658 11,002 61,894 72,896
+The increase of short-term commodity derivatives in the first nine months of 2021 is mainly due to an increase in the market prices of emission rights, electricity
+and gas.
+17
+6. Emission Rights
+The composition of emission rights and green and similar certificates at September 30, 2021 and
+December 31, 2020 (in CZK millions):
+September 30, 2021 December 31, 2020
+Non- Non-
+current Current Total current Current Total
+Emission rights for own use 160 8,144 8,304 2,701 12,753 15,454
+Emission rights held for trading - 55,842 55,842 - 24,840 24,840
+Green and similar certificates - 175 175 - 240 240
+Total 160 64,161 64,321 2,701 37,833 40,534
+Increase of short-term emission rights and green and similar certificates as of September 30, 2021
+compared to December 31, 2020 is mainly due increase of market price of emission rights during the
+period by 89% (from 32.56 EUR/t to 61.66 EUR/t).
+7. Assets and Associated Liabilities Classified as Held for Sale
+Information on the sale of ownership interests in Romanian and Bulgarian companies is described in
+Note 4.2.
+8. Equity
+On June 28, 2021 the Annual Shareholders Meeting of ČEZ, a. s. approved the dividends per share
+before tax of CZK 52.0. The total amount of dividend approved for distribution to shareholders net of
+treasury shares amounts to CZK 27,909 million.
+18
+9. Long-term Debt
+Long-term debt at September 30, 2021 and December 31, 2020 is as follows (in CZK millions):
+September December
+30, 2021 31, 2020
+3.005% Eurobonds, due 2038 (JPY 12,000 million) 2,356 2,505
+2.845% Eurobonds, due 2039 (JPY 8,000 million) 1,573 1,671
+5.000% Eurobonds, due 2021 (EUR 541 million) 1) 14,444 19,872
+4.875% Eurobonds, due 2025 (EUR 750 million) 19,519 20,328
+2.160% Eurobonds, due in 2023 (JPY 11,500 million) 2,267 2,405
+4.600% Eurobonds, due in 2023 (CZK 1,250 million) 1,273 1,288
+2.150%*IR CPI Eurobonds, due 2021 (EUR 100 million) 2) - 2,688
+4.102% Eurobonds, due 2021 (EUR 50 million) 1,318 1,315
+4.375% Eurobonds, due 2042 (EUR 50 million) 1,263 1,314
+4.500% Eurobonds, due 2047 (EUR 50 million) 1,261 1,312
+4.383% Eurobonds, due 2047 (EUR 80 million) 2,046 2,130
+3.000% Eurobonds, due 2028 (EUR 725 million) 18,975 19,713
+0.875% Eurobonds, due 2022 (EUR 269 million) 3) 6,906 13,106
+0.875% Eurobonds, due 2026 (EUR 750 million) 19,091 19,499
+4.250% U.S. bonds, due 2022 (USD 266 million) 4) 5,852 6,226
+5.625% U.S. bonds, due 2042 (USD 300 million) 6,548 6,448
+4.500% Registered bonds, due 2030 (EUR 40 million) 1,046 1,040
+4.750% Registered bonds, due 2023 (EUR 40 million) 1,050 1,092
+4.700% Registered bonds, due 2032 (EUR 40 million) 1,040 1,083
+4.270% Registered bonds, due 2047 (EUR 61 million) 1,587 1,583
+3.550% Registered bonds, due 2038 (EUR 30 million) 776 806
+Total bonds and debentures
+110,191 127,424
+Less: Current portion (22,622) (25,339)
+Bonds and debentures, net of current portion
+87,569 102,085
+Long-term bank loans and lease liabilities: 18,090 23,419
+Less: Current portion (2,764) (3,402)
+Long-term bank loans and lease payables, net of current portion
+15,326 20,017
+Total long-term debt 128,281 150,843
+Less: Current portion (25,386) (28,741)
+Total long-term debt, net of current portion 102,895 122,102
+1) On April 21, 2021 the repurchase of part of the issue of these bonds was settled in the amount of EUR 209
+million.
+2) The interest rate is based on inflation realized in Eurozone Countries (Harmonized Index of Consumer
+Prices – HICP) and is fixed through the closed swap to the rate 4.553% p. a.
+3) On April 21, 2021 the repurchase of part of the issue of these bonds was settled in the amount of EUR 231
+million.
+4) On April 21, 2021 and May 5, 2021, the repurchase of part of the issue of these bonds was settled in the
+total amount of USD 23 million.
+19
+10. Other Financial Liabilities
+Other financial liabilities at September 30, 2021 and December 31, 2020 are as follows (in CZK
+millions):
+September 30, 2021
+Long-term Short-term
+liabilities liabilities Total
+Payables from non-current assets purchase 34 - 34
+Other 351 618 969
+Financial liabilities at amortized cost
+385 618 1,003
+Cash flow hedge derivatives 27,173 29,889 57,062
+Commodity and other derivatives 598 623,817 624,415
+Liabilities from put options held by non-controlling interests 503 - 503
+Contingent consideration from the acquisition of
+subsidiaries 168 163 331
+Financial liabilities at fair value 28,442 653,869 682,311
+Total 28,827 654,487 683,314
+December 31, 2020
+Long-term Short-term
+liabilities liabilities Total
+Payables from non-current assets purchase 32 - 32
+Other 201 353 554
+Financial liabilities at amortized cost
+233 353 586
+Cash flow hedge derivatives 7,776 301 8,077
+Commodity and other derivatives 854 71,272 72,126
+Liabilities from put options held by non-controlling interests 340 - 340
+Contingent consideration from the acquisition of
+subsidiaries 211 188 399
+Financial liabilities at fair value 9,181 71,761 80,942
+Total 9,414 72,114 81,528
+The increase of short-term commodity derivatives in the first nine months of 2021 is mainly due to an
+increase in the market prices of emission rights, electricity and gas.
+11. Short-term Loans
+Short-term loans at September 30, 2021 and December 31, 2020 are as follows (in CZK millions):
+September December
+30, 2021 31, 2020
+Short-term bank and other loans 12,427 961
+Bank overdrafts 537 23
+Total 12,964 984
+20
+12. Revenues and Other Operating Income
+The composition of revenues and other operating income for the first nine months ended September
+30, 2021 and 2020 is as follows (in CZK millions):
+1-9/2021 1-9/2020
+Sales of electricity:
+Sales of electricity to end customers 34,826 36,953
+Sales of electricity through energy exchange 1,654 1,645
+Sales of electricity to traders 23,766 28,473
+Sales to distribution and transmission companies 409 466
+Other sales of electricity 33,036 21,195
+Effect of hedging – presales of electricity (4,305) (1,514)
+Effect of hedging – currency risk hedging 1,110 365
+Total sales of electricity 90,496 87,583
+Sales of gas, coal and heat:
+Sales of gas 5,121 4,958
+Sales of coal 2,691 2,785
+Sales of heat 6,075 5,458
+Total sales of gas, coal and heat 13,887 13,201
+Total sales of electricity, heat, gas and coal 104,383 100,784
+Sales of services and other revenues:
+Distribution services 29,179 32,630
+Other services 18,242 17,788
+Rental income 136 150
+Revenues from goods sold 626 666
+Other revenues 989 608
+Total sales of services and other revenues 49,172 51,842
+Other operating income:
+Granted green and similar certificates 540 981
+Contractual fines and interest fees for delays 206 266
+Gain on sale of property, plant and equipment 265 83
+Gain on sale of material 114 105
+Other 1,275 1,489
+Total other operating income 2,400 2,924
+Total revenues and other operating income 155,955 155,550
+Revenues from contracts with customers for the nine months ended September 30, 2021 and 2020
+were CZK 156,614 million and CZK 153,625 million, respectively, and can be linked to the above
+figures as follows:
+1-9/2021 1-9/2020
+Sales of electricity, heat, gas and coal 104,383 100,784
+Sales of services and other revenues 49,172 51,842
+Total revenues 153,555 152,626
+Adjustments:
+Effect of hedging – presales of electricity 4,305 1,514
+Effect of hedging – currency risk hedging (1,110) (365)
+Rental income (136) (150)
+Revenues from contracts with customers 156,614 153,625
+21
+13. Impairment of Property, Plant and Equipment and Intangible Assets
+At each reporting date, the Group assesses whether there are any indicators that an asset may have
+been impaired, or whether previously recognized impairments of assets except goodwill are no longer
+justified or should be decreased. The result of the analysis updated as at September 30, 2021 was,
+that the selected assets of the Group could be impaired, especially with regard to the significant
+growth in the market prices of emission rights in first nine months of 2021. In such a case, the Group
+checks whether the recoverable amount of the item of property, plant, and equipment is less than its
+depreciated cost, and if so, the Group recognizes an impairment loss in profit or loss in the line item
+Impairments of Property, plant, and equipment and intangible assets.
+Based on an updated estimate of recoverable amounts, the Group recognized a total impairment loss
+of CZK 12,165 million in first nine months of 2021.
+The impairment loss in the amount of CZK 9,201 million relates to property, plant and equipment and
+intangible assets of the cash-generating unit Severočeské doly a.s. The decrease in the value of
+assets was mainly due to the development of market assumptions concerning mainly a significant
+increase in market prices of emission rights and a decrease in the expected so-called clean spread
+(electricity price minus price of CO emission rights), which was reflected in lower expected demand
+2
+for brown coal, and also due to the expected earlier termination of mining in the Czech Republic. The
+decrease in the carrying amount of assets of CZK 1,027 million relates to property, plant and
+equipment and intangible assets of the cash-generating unit CEZ Chorzów S.A. Also here, the value
+of assets decreased mainly due to the development of market assumptions concerning, in particular, a
+significant increase in the market prices of emission rights and a decrease in the expected so-called
+clean spread. The Group recognized the impairment of assets in the amount of CZK 849 million of the
+cash-generating unit Bulgarian Distribution, whose assets were classified as held for sale (Note 4.2).
+At March 31, 2021, the Group also recognized an impairment loss of property, plant and equipment
+and intangible assets of Romanian companies held for sale in the amount of CZK 1,145 million (Note
+4.2).
+Information on the effects of covid-19 on the Group's financial performance is provided in Note 16.
+Information on segmentation is provided in Note 15.
+22
+14. Income Taxes
+Tax effects relating to each component of other comprehensive income are the following (in CZK
+millions):
+1-9/2021 1-9/2020
+Net of Before Net of
+Before tax Tax tax tax Tax tax
+amount effect amount amount effect amount
+Change in fair value of cash
+flow hedges (52,844) 10,040 (42,804) (5,598) 1,063 (4,535)
+Cash flow hedges reclassified
+to statement of income 3,032 (576) 2,456 674 (128) 546
+Change in fair value of debt
+instruments (1,112) 213 (899) 744 (139) 605
+Disposal of debt instruments (12) 3 (9) - - -
+Translation differences –
+subsidiaries (935) - (935) 2,618 - 2,618
+Translation differences –
+associates and joint-
+ventures (78) - (78) 339 - 339
+Disposal of translation
+differences 8,235 - 8,235 - - -
+Share on other equity
+movements of associates
+and joint-ventures 25 - 25 (25) - (25)
+Change in fair value of equity
+instruments - - - 4 - 4
+Total (43,689) 9,680 (34,009) (1,244) 796 (448)
+15. Segment Information
+The Group reports its result using four reportable operating segments:
+- Generation
+- Distribution
+- Sales
+- Mining
+The segments are defined across the countries in which CEZ Group operates. Segment is a
+functionally autonomous part of CEZ Group that serves a single part of the value chain in the energy
+sector. The structure of the segments has changed since 2021. The substance of the change was the
+merging of the segments Generation – Traditional Energy and Generation – New Energy into a new
+segment Generation. The main reason is the fact that the development of renewable sources in CEZ
+Group will take place primarily within existing companies now operating mainly traditional energy, and
+not in existing companies in the original Generation – New Energy segment or in newly acquired
+companies. Furthermore, the Support Services segment was abolished, especially with regard to the
+dissolution of the company ČEZ Korporátní služby. Data by segments for the previous period of 2020
+were adjusted to be comparable.
+The Group accounts for intersegment revenues and transfers as if the revenues or transfers were to
+third parties, that is, at current market prices or where the regulation applies at regulated prices.
+In segment reporting, IFRS 16 is applied to external leases from the Group's perspective, but it is not
+applied to leases between individual operating segments, although in some cases the asset is leased
+to another segment internally.
+23
+The Group evaluates the performance of its segments based on earnings before interest, taxes,
+depreciation and amortization (EBITDA). The reconciliation of EBITDA to income before other income
+(expenses) and income taxes summarizes the following table (in CZK millions):
+1-9/2021 1-9/2020
+Income before other income (expenses) and income
+taxes (EBIT) 13,804 23,162
+Depreciation and amortization 21,810 22,083
+Impairment of property, plant and equipment and
+intangible assets 12,165 5,743
+Gains and losses on sale of property, plant and
+equipment, net * (259) (82)
+EBITDA 47,520 50,906
+* Gains on sale of property, plant and equipment are presented in the statement of income as part of the line
+item Other operating income. Losses on sale of property, plant and equipment are presented in the
+statement of income as part of the line item Other operating expenses.
+24
+The following tables summarize segment information by operating segments for the nine months ended September 30, 2021 and 2020 and at December 31,
+2020 (in CZK millions):
+September 30, 2021:
+Gene- Distribu- Elimina- Consoli-
+ration tion Sales Mining Combined tion dated
+Revenues and other operating
+income – other than intersegment 60,612 29,255 63,071 3,017 155,955 - 155,955
+Revenues and other operating
+income – intersegment 24,720 343 4,997 3,945 34,005 (34,005) -
+Total revenues and other operating
+income 85,332 29,598 68,068 6,962 189,960 (34,005) 155,955
+Thereof:
+Sales of electricity, heat, gas and
+coal 76,953 10 50,824 6,207 133,994 (29,611) 104,383
+Sales of services and other revenues 6,119 29,357 16,610 714 52,800 (3,628) 49,172
+Other operating income 2,260 231 634 41 3,166 (766) 2,400
+EBITDA 24,271 15,250 4,942 3,143 47,606 (86) 47,520
+Depreciation and amortization (14,348) (4,579) (1,156) (1,727) (21,810) - (21,810)
+Impairment of property, plant and
+equipment and intangible assets (1,482) (1,491) 9 (9,201) (12,165) - (12,165)
+EBIT 8,598 9,216 3,854 (7,778) 13,890 (86) 13,804
+Interest on debt and provisions (4,427) (665) (198) (138) (5,428) 692 (4,736)
+Interest income 956 13 40 4 1,013 (692) 321
+Share of profit (loss) from associates
+and joint-ventures (15) 47 119 (71) 80 - 80
+Income taxes (1,620) (1,644) (708) (163) (4,135) - (4,135)
+Net income 12,017 6,754 3,043 (8,049) 13,765 (7,057) 6,708
+Identifiable assets 259,992 114,815 7,864 10,984 393,655 (8) 393,647
+IIdnevenstitfmiabenlet ains saestsso ciates and joint-
+ventures 2,800 - 276 821 3,897 - 3,897
+Unallocated assets 829,021
+Total assets 1,226,565
+Capital expenditure 7,151 9,781 1,000 1,461 19,393 (57) 19,336
+25
+September 30, 2020:
+Gene- Distribu- Elimina- Consoli-
+ration tion Sales Mining Combined tion dated
+Revenues and other operating
+income – other than intersegment 53,004 32,295 67,256 2,995 155,550 - 155,550
+Revenues and other operating
+income – intersegment 26,392 409 5,425 3,247 35,473 (35,473) -
+Total revenues and other operating
+income 79,396 32,704 72,681 6,242 191,023 (35,473) 155,550
+Thereof:
+Sales of electricity, heat, gas and
+coal 70,588 22 55,770 5,577 131,957 (31,173) 100,784
+Sales of services and other revenues 5,983 32,396 16,494 632 55,505 (3,663) 51,842
+Other operating income 2,825 286 417 33 3,561 (637) 2,924
+EBITDA 28,743 15,995 3,785 2,381 50,904 2 50,906
+Depreciation and amortization (13,547) (5,300) (1,195) (2,041) (22,083) - (22,083)
+Impairment of property, plant and
+equipment and intangible assets (3,130) (1,792) - (821) (5,743) - (5,743)
+EBIT 12,104 8,928 2,599 (471) 23,160 2 23,162
+Interest on debt and provisions (5,129) (614) (266) (154) (6,163) 702 (5,461)
+Interest income 844 56 82 41 1,023 (702) 321
+Share of profit (loss) from associates
+and joint-ventures (15) (194) 124 (3) (88) - (88)
+Income taxes (1,759) (1,672) (480) 27 (3,884) - (3,884)
+Net income 12,717 6,459 2,074 (471) 20,779 (7,193) 13,586
+Capital expenditure 6,863 9,960 878 1,494 19,195 (247) 18,948
+Gene- Distribu- Elimina- Consoli-
+December 31, 2020: ration tion Sales Mining Combined tion dated
+Identifiable assets 271,744 110,289 7,874 20,465 410,372 - 410,372
+Investment in associates and joint-
+ventures 2,898 - 285 892 4,075 - 4,075
+Unallocated assets 288,011
+Total assets 702,458
+26
+16. Covid-19
+With regard the covid-19 pandemic, the existence of no Group company is endangered and, in general, the
+pandemic has a relatively limited impact on the CEZ Group. The reliability of the estimate of the long-term
+effects of the covid-19 pandemic on the CEZ Group is considerably limited due to the uncertainty of the
+extent of the effects of the pandemic itself and of countries’ countermeasures on economic growth,
+unemployment and debt growth in relevant European countries. In addition, these impacts affect CEZ Group
+only indirectly; other important factors also play a role apart from measures of the states. The covid-19
+pandemic has had and continues to have a significant impact on the wholesale electricity market, which is
+also affected by other significant macroeconomic and regulatory factors, which further complicates any
+quantification of the impact of covid-19 on CEZ Group.
+The covid-19 pandemic has not yet caused CEZ Group direct losses or significant additional costs (we still
+estimate the cost of securing pandemic measures at tens of millions of CZK). The pandemic caused a
+slowdown in acquisition and organic growth in the companies of the Sales segment and generally caused a
+slowdown or time lag in investments in all other segments, especially in 2020.
+From the point of view of the medium-term economic outlook of the Generation segment, the negative
+impact of covid-19, or impacts of fluctuations in market prices for electricity and emission rights respectively,
+is limited with regard to the continuous securing of the generation margin for 3 years ahead. As of
+September 30, 2021, approximately 79% of expected generation for 2022 has been contracted, for 2023
+approximately 49% has been contracted and for 2024 approximately 21%. Along with these presales of
+electricity, the emission rights for emission sources have been contracted.
+The impact of the covid-19 in the coming years will depend mainly on the measures taken in individual
+countries and their impact on the overall development and structural changes of the economy in Europe.
+However, the approach of European countries to the installed climate goals by the European Commission
+will be more significant for CEZ Group.
+17. Events after the Balance Sheet Date
+At the beginning of November 2021, the company ČEZ, a. s. received CZK 1,484 million corresponding to
+interest related to the refunded overpayment of gift tax on emission rights for 2011 and 2012.
+27

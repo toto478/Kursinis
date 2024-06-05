@@ -1,0 +1,368 @@
+Banca Comercială Română S. A.
+No. CFO Office 12 /12.08.2022
+Supervisory Board
+Semi-Annual Administrators’ Report
+as at 30 June 2022
+This report is prepared in accordance with requirements of ASF Regulation 5/2018.
+Report issued: 11 August 2022
+Name of legal entity: Banca Comercială Română S.A.
+Headquarters: 159 Calea Plevnei street, Sector 6, Bucharest, postal code 060013
+Contact:
+Tel No. InfoBCR: 0800.801.227
++4021.407.42.00
+Website www.bcr.ro
+Email: contact.center@bcr.ro
+Registration Number in the Trade J40/90/1991
+Register:
+Banking Register Number: RB-PJR-40-008/18.02.1999
+Notification registered as Personal Data 3776 and 3772
+Operator at ANSPDCP under No:
+Subscribed and paid-up capital: 1,625,341,625.40 lei
+The regulated market on which the Bucharest Stock Exchange (www.bvb.ro)
+bonds are issued:
+The main characteristics of the bonds Issuance in amount of RON 600,000,000, ISIN ROEAZVK5DFP8
+issued by BCR S.A. Issuance in amount of RON 1,000,000,000, ISIN RO1AQREPLMW7
+Issuance in amount of RON 500,000,000, ISIN ROMU2ND4VHC6
+Issuance in amount of RON 600,000,000, ISIN ROPQT4NGMLM3
+Issuance in amount of RON 351,500,000, ISIN RO451CMZH2K1
+Issuance in amount of RON 702,000,000, ISIN ROPC9F84ZSG4
+1
+1. Economic and financial statements
+1.1 Company presentation
+Banca Comerciala Romana (BCR) was established in 1990, when it took over the commercial operations of the National Bank of
+Romania. Today, BCR Group (member of Erste Group) is one of the most important financial group in Romania, including universal
+banking operations (retail, corporate & investment banking, treasury and capital markets) as well as leasing companies, private
+pension and housing banks.
+The Bank offers a complete range of financial services and financial solutions dedicated to each stage of the financial cycle in a
+lifetime, as a "one-stop shop": savings, investment, lending, consulting and advisory, leasing. BCR encourages long-term
+relationships with its clients belonging to all segments, offers affordable and transparent products, but also personalized consulting
+services.
+Network
+BCR offers a full range of financial products and services through a network of 18 commercial centres and area centres and 16
+mobile offices dedicated to companies and 323 retail units located in the majority cities with a population of over 10,000 inhabitants
+from across the country.
+Bank and subsidiaries
+During 2022, Banca Comerciala Romana Group (“BCR Group” or “the Group”) comprised the parent bank, Banca Comerciala
+Romana S.A. and its subsidiaries, presented in the following table:
+Shareholding
+Country of
+Company’s Name Nature of the business 30 June 2022 31 December 2021
+incorporation
+BCR Chisinau SA Moldova Banking 100.00% 100.00%
+BCR Leasing IFN SA Romania Financial leasing 99.97% 99.97%
+BCR Pensii, Societate de Administrare a Romania Pension Fund Management 99.99% 99.99%
+Fondurilor de Pensii Private SA
+BCR Banca pentru Locuinte SA Romania Housing loans 99.99% 99.99%
+Suport Colect SRL Romania Workout 99.99% 99.99%
+BCR Payments Services SRL Romania Payments transactions 99.99% 99.99%
+BCR Fleet Management SRL* Romania Operational leasing 99.97% 99.97%
+* Company held indirectly by BCR through BCR Leasing SA
+In December 2021, the Management Board of BCR decided to declassifiy BCR Fleet Management from asset held for sale as the
+criteria for classification under IFRS 5 was not longer met. On the declassification date, the asset was recognized at the lower of i)
+its carrying amount prior to the asset or disposal group being classified as held for sale, adjusted for any depreciation, amortisation
+or revaluation that would have been recognized if the asset or disposal group had not been classified as held for sale and ii) its
+recoverable amount at the date of the decision not to sell.
+The difference between the recalculated value of the asset and its existing carrying amount is presented in the same income
+statement caption used to present any gain or loss recognized on classification as held for sale (Other Operating Result).
+As of December 2021, the Management Board of BCR Fleet Management has evaluated the overall situation of the company and
+concluded that the appropriate approach is to prepare its financial statements for 2021 on a non-going concern basis because it
+intends to cease concluding new lease contract and consequently to wind down the remaining portfolio. This evaluation remain
+unchanged as of 30 June 2022.
+Group structure has not changed since 31 December 2021.
+2
+1. Economic and financial statements (continued)
+1.2 Financial accounting statements
+Group Bank
+in RON thousands 30.06.2022 31.12.2021 H1 2022/ 2021 % 30.06.2022 31.12.2021 H1 2022/ 2021 %
+Assets
+Cash and cash balances 13,572,066 13,317,439 1.9% 13,344,230 13,069,516 2.1%
+Financial assets held for trading 105,043 1,704,540 -93.8% 105,043 1,704,540 -93.8%
+Derivatives 86,054 23,994 258.6% 86,054 23,994 258.6%
+Other financial assets held for trading 18,989 1,680,546 -98.9% 18,989 1,680,546 -98.9%
+Non-trading financial assets mandatorily at fair value through profit or loss 68,210 65,753 3.7% 67,960 65,502 3.8%
+Equity instruments 38,658 35,121 10.1% 38,408 34,870 10.1%
+Debt securities 29,552 30,632 -3.5% 29,552 30,632 -3.5%
+Financial assets at fair value through other comprehensive income 8,447,644 7,834,955 7.8% 8,369,990 7,805,091 7.2%
+Debt securities 8,447,644 7,834,955 7.8% 8,369,990 7,805,091 7.2%
+thereof pledged as collateral 2,747 - - 2,747 - -
+Financial assets at amortised cost 66,085,992 62,702,857 5.4% 66,979,335 63,381,929 5.7%
+Debt securities 15,087,079 15,570,473 -3.1% 14,918,910 15,382,134 -3.0%
+thereof pledged as collateral 92,610 210,331 -56.0% 751,366 1,425,072 -47.3%
+Loans and advances to credit institutions 792,522 1,362,313 -41.8% 785,155 1,362,004 -42.4%
+Loans and advances with customers 50,206,391 45,770,071 9.7% 51,275,270 46,637,791 9.9%
+Finance lease receivables 1,552,592 1,445,231 7.4% 9,898 11,240 -11.9%
+Property and equipment 1,027,070 1,094,606 -6.2% 787,291 820,178 -4.0%
+Investment property 142,905 150,223 -4.9% 142,905 150,223 -4.9%
+Intangible assets 362,316 361,674 0.2% 347,675 349,068 -0.4%
+Investments in joint ventures and associates 42,226 42,109 0.3% 33,470 33,470 0.0%
+Current tax assets 228,246 185,406 23.1% 225,526 182,155 23.8%
+Deferred tax assets 226,558 200,946 12.7% 215,879 194,629 10.9%
+Assets held for sale 215,975 227,730 -5.2% 14,909 9,153 62.9%
+Trade and other receivables 872,554 653,237 33.6% 845,040 631,610 33.8%
+Investments in subsidiaries - - - 518,464 518,464 0.0%
+Other assets 330,396 268,413 23.1% 180,580 163,730 10.3%
+Total assets 93,279,793 90,255,119 3.4% 92,188,195 89,090,498 3.5%
+(92,949,397)
+Statement of financial position Group Bank
+in RON thousands 30.06.2022 31.12.2021 H1 2022/ 2021 % 30.06.2022 31.12.2021 H1 2022/ 2021 %
+Liabilities and Equity
+Financial liabilities held for trading 72,948 22,343 226.5% 72,948 22,359 226.3%
+Derivatives 72,948 22,343 226.5% 72,948 22,359 226.3%
+Financial liabilities measured at amortised cost 81,736,972 77,835,634 5.0% 81,198,823 77,617,727 4.6%
+Deposits by banks 6,255,401 1,783,539 250.7% 6,412,366 2,320,172 176.4%
+Deposits by customers 70,476,357 72,458,416 -2.7% 69,800,551 71,721,511 -2.7%
+Debt securities issued 3,822,025 2,733,120 39.8% 3,822,025 2,733,120 39.8%
+Other financial liabilities 1,183,189 860,559 37.5% 1,163,881 842,924 38.1%
+Lease liabilities 425,285 435,710 -2.4% 424,803 435,710 -2.5%
+Provisions 1,128,261 1,793,931 -37.1% 962,134 1,149,254 -16.3%
+Current tax liabilities 100,279 48,764 105.6% 94,115 45,104 108.7%
+Deferred tax liabilities 19,620 14,317 37.0% - - -
+Other liabilities 356,779 383,978 -7.1% 299,111 333,489 -10.3%
+Total equity 9,439,649 9,720,442 -2.9% 9,136,261 9,486,855 -3.7%
+Attributable to non-controlling interest 61 50 22.0% - - -
+Attributable to owners of the parent 9,439,588 9,720,392 -2.9% 9,136,261 9,486,855 -3.7%
+Share capital 2,952,565 2,952,565 - 2,952,565 2,952,565 0.0%
+Retained earnings 5,200,165 5,143,334 1.1% 4,889,630 4,900,768 -0.2%
+Other reserves 1,286,858 1,624,493 -20.8% 1,294,066 1,633,522 -20.8%
+Total liabilities and equity 93,279,793 90,255,119 3.4% 92,188,195 89,090,498 3.5%
+As at 30 June 2022, total assets of the Group increased to RON 93,279,793 thousand versus RON 90,255,119 thousand as at 31st of December 2021. The significant variations are described in
+section 2.3. “Issuer’s performance”.
+3
+1. Economic and financial statements (continued)
+1.2 Financial accounting statements (continued)
+Statement of income
+Statement of Income Group Bank
+in RON thousands 30.06.2022 30.06.2021 H1 2022/ H1 2021 % 30.06.2022 30.06.2021 H1 2022/ H1 2021 %
+Net interest income 1,362,474 1,196,032 13.9% 1,287,072 1,140,572 12.8%
+Interest income 1,706,888 1,359,316 25.6% 1,638,147 1,294,867 26.5%
+Interest expense (344,414) (163,284) 110.9% (351,075) (154,295) 127.5%
+Net fee and commission income 451,333 383,774 17.6% 427,270 353,750 20.8%
+Fee and commission income 585,905 499,389 17.3% 557,081 463,744 20.1%
+Fee and commission expense (134,572) (115,615) 16.4% (129,811) (109,994) 18.0%
+Dividend income 2,403 3,148 -23.7% 25,408 4,243 498.8%
+Net trading result 299,759 171,466 74.8% 290,019 171,126 69.5%
+Gain/(losses) from financial instruments measured at fair value through profit
+2,754 2,649 4.0% 2,754 2,649 4.0%
+or loss
+Net result from equity method investments (120) 385 -131.2% - - -
+Rental income from investment properties and other operating leases 50,923 56,838 -10.4% 2,577 2,981 -13.6%
+Personnel expenses (415,687) (384,272) 8.2% (384,755) (355,103) 8.4%
+Other administrative expenses (359,063) (302,486) 18.7% (352,903) (297,273) 18.7%
+Depreciation and amortisation (126,669) (115,018) 10.1% (100,465) (109,809) -8.5%
+Net impairment loss on financial instruments (209,428) (77,234) 171.2% (201,183) (59,522) 238.0%
+Other operating result 184,206 (91,588) -301.1% 167,024 (56,367) -396.3%
+Pre-tax result from continuing operations 1,242,885 843,694 47.3% 1,162,818 797,247 45.9%
+Taxes on income (200,804) (152,885) 31.3% (188,717) (145,641) 29.6%
+Net result for the period 1,042,081 690,809 50.8% 974,101 651,606 49.5%
+Attributable to non-controlling interests 11 2 450.0% - - -
+Attributable to owners of the parent 1,042,070 690,807 50.8% 974,101 651,606 49.5%
+4
+1. Economic and financial statements (continued)
+1.2 Financial accounting statements (continued)
+Statement of cash flows
+Group Bank
+in RON thousands 30.06.2022 30.06.2021 H1 2022/ H1 2021 % 30.06.2022 30.06.2021 H1 2022/ H1 2021 %
+Net result for the period 1,042,081 690,809 51% 974,101 651,606 49%
+Non-cash adjustments for items in net profit/(loss) for the year
+Depreciation, amortisation of assets 126,669 115,018 10% 100,465 109,809 -9%
+Allocation to and release of impairment of loans 174,281 50,869 243% 185,761 39,901 366%
+Gains/(losses) from the sale of tangible, intangible assets and assets held for sale - (93,641) -100% - (18,296) -100%
+Other provisions (312,769) 34,588 -1004% (292,098) 66,397 -540%
+Impairment tangible and intangible assets - 44,510 -100% - 125 -100%
+Interest income reiceived from investing activities (245,379) (325,592) -25% (240,598) (317,765) -24%
+Interest expense paid for financing activities 91,947 102,696 -10% 89,628 38,781 131%
+Dividend income from investing activities - - - (23,063) (1,157) 1893%
+Other adjustments (5,831) (34,815) -83% (11,927) 2,172 -649%
+Changes in assets and liabilities from operating activities after adjustment
+for non-cash components
+Financial assets - held for trading 1,661,557 236,389 603% 1,661,557 236,389 603%
+Financial assets - at fair value through profit or loss - 319 -100% - 319 -100%
+Financial assets at fair value through other comprehensive income (1,095,910) (775,897) 41% (1,050,355) (735,662) 43%
+Financial assets at amortised cost
+Loans and advances
+Loans and advances to banks 569,791 719,100 -21% 576,849 718,940 -20%
+Loans and advances to customers (4,829,999) (1,829,784) 164% (5,036,669) (2,220,601) 127%
+Finance lease receivables (107,361) (91,703) 17% 1,342 2,324 -42%
+Other assets from operating activities (62,028) 81,903 -176% (16,847) 97,976 -117%
+Deposits from banks 4,848,958 (217,234) -2332% 4,706,617 318,311 1379%
+Deposits from customers (1,982,059) (164,229) 1107% (1,920,960) 56,697 -3488%
+Other financial liabilities 322,630 242,919 33% 320,957 234,836 37%
+Other liabilities from operating activities 7,329 36,364 -80% 382 48,724 -99%
+Cash flow from operating activities 203,907 (1,177,410) -117% 25,142 (670,174) -104%
+Proceeds of disposal
+Debt securities at amortised cost 1,658,888 1,867,749 -11% 1,490,594 919,974 62%
+Property and equipment, intangible assets, investment properties and assets held for sale 49,056 201,176 -76% 16,318 190,705 -91%
+Acquisition of
+Debt securities at amortised cost (868,311) (1,257,310) -31% (760,046) (972,754) -22%
+Property and equipment, intangible assets and investment properties (248,272) (37,395) 564% (221,916) (40,654) 446%
+Interest received from investing activities 276,120 325,592 -15% 271,338 317,765 -15%
+Dividends received from investing activities - - 0% 23,063 1,157 1893%
+Cash flow from investing activities 867,481 1,099,813 -21% 819,351 416,194 97%
+Repayment of principal of lease liabilities (IFRS 16) (45,187) (50,787) -11% (45,669) (52,578) -13%
+Dividends paid to equity holders of the parent (963,452) (71,695) 1244% (963,452) (71,695) 1244%
+Dividends paid to non-controlling interests (1,090) (84) 1196% (1,090) (84) 1196%
+Debt securities issued 1,053,000 1,000,000 5% 1,053,000 1,000,000 5%
+Outflows from other financing activities (768,085) (456,258) 68% (522,940) (160,205) 226%
+Interest expense paid for financing activities (91,947) (29,896) 208% (89,628) (26,979) 232%
+Other financing activities (79,216) (6,599) 1100% (76,897) (3,682) 1988%
+Subordinated loans (12,731) (23,297) -45% (12,731) (23,297) -45%
+Cash flow from financing activities (816,761) 391,280 -309% (569,779) 688,459 -183%
+Cash and cash equivalents at beginning of period 13,317,439 10,538,199 26% 13,069,516 10,193,736 28%
+Cash flow from operating activities 203,907 (1,177,410) -117% 25,142 (670,174) -104%
+Cash flow from investing activities 867,481 1,099,813 -21% 819,351 416,194 97%
+Cash flow from financing activities (816,761) 391,280 -309% (569,779) 688,459 -183%
+Cash and cash equivalents at end of period 13,572,066 10,851,882 25% 13,344,230 10,628,215 26%
+5
+2. Analysis of the issuer’s activity
+2.1. Outlook on issuer’s activity
+2022 economic outlook
+Real GDP growth expected to slow down in 2022.
+EU funds inflows are the economic growth key drivers as 70% of EU grants (up to EUR 79.9 bn in 2021-2027) frontloaded
+in 2021-2022.
+Average inflation rate anticipated to reach 12.4% in 2022 (5.05% inflation rate published for December 2021), following a
+steep rise in commodities prices after Russia invaded Ukraine and high pressure on core inflation. Inflation could peak in
+June and decline afterwards in December 2022.
+Average unemployment rate is expected at 5.3% in 2022.
+Real wage growth expected to be negative this year on the back of fast rise in inflation rate.
+Significantly higher short-term interest rates, with higher average 3M ROBOR due to faster monetary tightening by the NBR.
+Balance Sheet developments
+Loan production will continue to be the key growth driver for the balance sheet, BCR Group expecting a high-single digit
+growth in 2022, sustained by digital lending initiatives and state programs (i.e. IMM invest, PNRR program, Prima Casa).
+Retail loans portfolio growth is assumed to moderate in 2022 mainly on the account of unsecured products. Retail lending
+stock will register single-digit growth by end of 2022 mostly supported by robust growth in standard housing while Prima
+Casa remains rather stable. At the same time, sound increase in Micro after full redesign of lending process and BCR Digital
+Innovation.
+Corporate is expected to see double-digit increase in lending portfolio, with positive developments in SME and LC segments.
+On the liabilities side, deposits will continue their upward trend as a result of BCR's strategy to focus on increase the number
+of active customers and on digitalization, supported by new George value proposition.
+Income Statements developments
+Operating income estimated to exceed the budgeted figure for the year end mainly on the back of net interest income due
+to higher market rates environment and business volumes, net trading Q1-22 actual extraordinary result generated by current
+geopolitical context, and higher rental income considering the postponement of Fleet Management portfolio sale.
+Operating expenses expected to increase mainly driven by higher personnel expenses mostly generated by the inflationary
+environment as well as higher regulatory costs.
+Risk costs adjustment to new geopolitical context will bring additional allocations in 2022.
+Based on improved operating performance, return on equity will continue to grow and is expected to reach a mid-double-
+digit level.
+6
+2. Analysis of the issuer’s activity (continued)
+2.2. Issuer’s tangible assets
+Currently, the Bank has a portfolio of 82 properties, located in 39 counties, of which the largest number of buildings are in
+Bucharest - 6 units, and the remaining 76 buildings are located in other counties in Romania.
+In 2019, the Bank decided to pursue a strategy of optimizing the network of units and headquarter buildings including selling
+certain properties. Implementation of strategy continued.
+In 2021, the whole property portfolio was reassessed and, from the existing 14 properties previous classified under IFRS 5,
+10 properties did not meet anymore the criteria to be classified under IFRS 5 and were reclassified to IAS 16. The main
+driver for the reclassification was updating the Bank’s estimates regarding probability of executing the sale in the next 12
+months.
+During H1 2022, the Bank sold 5 properties (land and buildings), with a net book value of RON 11,000 thousand.
+2.3. Issuer’s performance1
+BCR Group achieved a net profit of RON 1,042.1 million (EUR 210.7 million) in H1 2022, up by 50.9% against RON
+690.8 million (EUR 140.9 million) in H1 2021, driven by improved operating result underpinned by continued strong loan
+growth.
+Operating result improved by 25.2% to RON 1,268.1 million (EUR 256.4 million) in H1 2022 from RON 1,012.5 million
+(EUR 206.6 million) in H1 2021, on the back of improved operating income, partly offset by higher operating expenses.
+Net interest income increased by 13.9% to RON 1,362.5 million (EUR 275.5 million) in H1 2022, from RON 1,196 million
+(EUR 244 million) in H1 2021, driven by higher business volumes in both retail and corporate coupled with higher market
+rates.
+Net fee and commission income increased by 17.6%, to RON 451.3 million (EUR 91.2 million) in H1 2022, from RON
+383.8 million (EUR 78.3 million) in H1 2021, driven by higher fee income across all fee categories.
+Net trading result increased by 73.8%, to RON 302.5 million (EUR 61.2 million) in H1 2022, from RON 174.1 million (EUR
+35.5 million) in H1 2021, on higher trading activity.
+Operating income increased by 19.6%, to RON 2,169.5 million (EUR 438.7 million) in H1 2022, from RON 1,814.3 million
+(EUR 370.2 million) in H1 2021, driven by all major income components.
+General administrative expenses reached RON 901.4 million (EUR 182.3 million) in H1 2022, up by 12.4% in
+comparison to RON 801.8 million (EUR 163.6 million) in H1 2021, mainly due to higher contribution to deposit insurance
+fund in 2022 and higher personnel expenses generated by the inflationary environment.
+1 All the financial data presented below constitute the unaudited consolidated results of Banca Comercială Română (BCR) Group for H1 2022,
+according to IFRS. Unless otherwise specified, the H1 2022 financial results are compared to the H1 2021 results. Also, unless otherwise
+specified, the exchange rates used to convert amounts into euros are those communicated by the European Central Bank. The profit and loss
+account is converted using the average exchange rate for H1 2022, i.e. 4.9458 RON/EUR when referring to the H1 2022 results, and using the
+average exchange rate for H1 2021, i.e. 4.9015 RON/EUR with reference to the H1 2021 results. The balance sheets as of 30 June 2022 and
+31 December 2021 are converted using the closing exchange rates on those dates (4.9464 RON/EUR on 30 June 2022, and 4.9490 RON/EUR
+on 31 December 2021). All the percentage changes refer to the figures expressed in RON.
+7
+2. Analysis of the issuer’s activity (continued)
+2.3. Issuer’s performance (continued)
+As such, cost-income ratio improved to 41.5% in H1 2022, versus 44.2% in H1 2021.
+Risk costs and Asset Quality
+Impairment result from financial instruments recorded a provision allocation of RON 209.4 million (EUR 42.3 million)
+in H1 2022, as compared to an allocation of RON 77.2 million (EUR 15.8 million) in H1 2021. This result has been mainly
+influenced by the implementation of additional stricter rules for credit risk classification under IFRS 9 applied to clients from
+industries potentially affected by the current operating environment and geopolitical context. Secondly, the risk parameters
+have been updated to reflect the bank’s prudent approach on the current and expected evolution of the macroeconomic
+environment.
+NPL ratio reached 3.5% as of June 2022, lower than 3.9% recorded as of December 2021. This evolution is reflecting the
+low NPL formation, a good trend of recoveries in both retail and corporate segments and also the increase in loans to
+customers. At the same time, the NPL provisioning coverage stood at 149.5% as of June 2022.
+Capital position and funding
+Solvency ratio for BCR Bank standalone, according to the capital requirements regulations (CRR) stood at 19.1% as of
+May 2022, well above the regulatory requirements of the National Bank of Romania. Furthermore, the Tier 1+2 capital ratio
+of 20.4% (BCR Group, after profit capitalization) as of December 2021 is clearly reflecting BCR’s strong capital and
+funding positions.
+Net loans and advances to customers increased by 10% to RON 52,631.5 million (EUR 10,640.4 million) as of 30 June
+2022 from RON 47,868.5 million (EUR 9,672.4 million) as of 31 December 2021, supported by increases in both retail loans
+(+4.6% ytd to RON 28,188.2 million) and corporate loans (+15.6% ytd to RON 23,999.9 million).
+Deposits from customers slightly decreased by 2.7% to RON 70,476.4 million (EUR 14,248 million) as of 30 June 2022
+from RON 72,458.4 million (EUR 14,641 million) as of 31 December 2021, due to slight decline in retail deposits (-3.8% ytd
+to RON 44,422.5 million), while the corporate deposits remained flat (-0.1% ytd to RON 24,003.6 million).
+BCR impact in the economy and society
+In retail banking business, BCR generated total new loans to individuals and micro businesses of RON 5 billion in H1
+2022, up by 17.8% yoy, on the back of mortgage sales increasing by 42.8% yoy and cash loan originations by 22.7% yoy.
+Stock of mortgage in local currency increased by 18.5% yoy, while the stock of unsecured consumer loans (including credit
+cards and overdrafts) increased by 10.2% yoy as of 30 June 2022.
+In corporate banking business, BCR approved new corporate loans of RON 8.1 billion in H1 2022, more than triple versus
+H1 2021, of which a quarter are aimed for investments. The record 29.9% yoy advance in the stock of corporate financing
+was driven by significant increases in the large corporates, SMEs and public sector. Within the financing programmes with
+state guarantee dedicated to the SMEs (IMM Invest, IMM Prod, Rural Invest, Garant Construct), BCR approved 1,654 loans
+totalling RON 1.4 billion in H1 2022.
+8
+2. Analysis of the issuer’s activity (continued)
+2.3. Issuer’s performance (continued)
+The total BCR Leasing financing portfolio granted to customers increased by 15% in H1 2022, as compared to H1
+2021, to over RON 3 billion.
+In the first part of 2022, The Money School organized online and offline financial education sessions for almost 50,000
+adults and children. The total number of those who attended the program exceeded 500,000 people, and the platform has
+expanded its course offer with a new module “Eco-Financial Guide: how to consume responsibly?”, which addresses
+everyone's behaviour in relation to consumption habits and budgeting. The entrepreneurial education platform BCR
+Scoala de Business has reached 20,000 users (entrepreneurs, managers, freelancers, teachers, and students). The
+platform currently includes 8 courses with a total of 73 modules, over 100 videos, and 95 tests, and has launched a course
+for entrepreneurs who are just starting out: 10 tips for successful start-ups, created together with Iancu Guda. INNOVX-BCR,
+the technology business programme, has reached 126 accelerated start-ups, along with companies that have become
+alumni in the first Start-ups group of 2022. In June 2022, eight InnovX-BCR technology businesses took part in the biggest
+foreign direct investment event in the United States: The SelectUSA Investment Summit. Two of them won awards at the
+Summit's pitching competitions, in the Cybersecurity and Fintech categories.
+3. Changes affecting the issuer’s capital
+3.1 Description of the cases when the issuer was unable to meet its financial obligations during the
+reporting period
+N/A
+3.2 Description of any changes in the rights of the holders of debt securities issued
+N/A
+4. Significant transactions
+N/A
+9
+5. Annexes
+The following documents are annexed to this report:
+1. Issuer’s Management;
+2. Statement of Compliance of the members of the Executive Committee who assume responsibility for the
+preparation of the Financial Statements;
+3. Interim Condensed Financial Statements prepared in accordance with IAS 34 and unaudited as at 30 June 2022.
+Chairman of the Supervisory Board,
+10
+Annex 1- Issuer’s Management
+BCR’s Supervisory Board and Management Board structure during 01.01 - 30.06.2022 is:
+Supervisory Board
+• Manfred Wimmer – Chairman;
+• Bernhard Spalt – Deputy Chairman;
+• Daniela Camelia Nemoianu – member;
+• Hildegard Gacek – member;
+• Elisabeth Krainer Senger – Weiss – member;
+• Stefan Dörfler – member;
+• Iris Bujatti – member.
+Management Board
+1. Sergiu Cristian Manea - Executive President;
+2. Elke Meier - Executive Vice-president;
+3. Dana Luciana Dima - Executive Vice-president;
+4. Ilinka Kajgana - Executive Vice-president;
+5. Thomas Kolarik – Executive Vice-president.
+11

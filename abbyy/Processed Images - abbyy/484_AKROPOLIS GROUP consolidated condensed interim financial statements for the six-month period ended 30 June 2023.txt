@@ -1,0 +1,583 @@
+AKROPOLIS GROUP, UAB
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023,
+PRESENTED TOGETHER WITH INDEPENDENT AUDITOR’S REPORT ON REVIEW
+OF CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+TABLE OF CONTENTS
+PAGE
+REPORT ON REVIEW OF CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS 3
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION 4-5
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF COMPREHENSIVE INCOME 6
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF CHANGES IN EQUITY 7
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF CASH FLOWS 8
+NOTES TO THE CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS 9-15
+2
+Report on review of consolidated condensed interim financial
+statements
+To the shareholders of AKROPOLIS GROUP, UAB
+Introduction
+We have reviewed the accompanying consolidated condensed interim statement of financial position
+of AKROPOLIS GROUP, UAB and its subsidiaries (the ‘Group’) as at 30 June 2023 and the related
+consolidated condensed interim statements of comprehensive income, changes in equity and cash
+flows for the six-month period then ended, and the notes to the consolidated condensed interim
+financial statements, which include significant accounting policies and other explanatory information.
+Management is responsible for the preparation of these consolidated condensed interim financial
+statements that give a true and fair view in accordance with International Financial Reporting
+Standards as adopted by the European Union. Our responsibility is to express a conclusion on these
+consolidated condensed interim financial statements based on our review.
+Scope of review
+We conducted our review in accordance with International Standard on Review Engagements 2410,
+'Review of interim financial information performed by the independent auditor of the entity'. A review of
+consolidated condensed interim financial statements consists of making inquiries, primarily of persons
+responsible for financial and accounting matters, and applying analytical and other review procedures.
+A review is substantially less in scope than an audit conducted in accordance with International
+Standards on Auditing and consequently does not enable us to obtain assurance that we would
+become aware of all significant matters that might be identified in an audit. Accordingly, we do not
+express an audit opinion.
+Conclusion
+Based on our review, nothing has come to our attention that causes us to believe that the
+accompanying consolidated condensed interim financial statements do not give a true and fair view of
+the consolidated financial position of the Group as at 30 June 2023, and of its consolidated financial
+performance and its consolidated cash flows for the six-month period then ended in accordance with
+International Financial Reporting Standards as adopted by the European Union.
+On behalf of PricewaterhouseCoopers UAB
+Rimvydas Jogėla
+Partner
+Auditor's Certificate No. 000457
+Vilnius, Republic of Lithuania
+13 September 2023
+The auditor's electronic signature is used herein to sign only the Independent Auditor's Report
+PricewaterhouseCoopers UAB, J. Jasinskio g. 16B, LT-03163 Vilnius, Lithuania
++370 (5) 239 2300, lt_vilnius@pwc.com, www.pwc.lt
+Company code 111473315, registered with the Register of Legal Entities of the Republic of Lithuania
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION
+At 31
+At 30 June December
+Notes 2023 2022
+EUR'000 EUR'000
+ASSETS
+Non-current assets 1 034 179 1 028 596
+Property, plant and equipment 1 824 1 974
+Investment property 4 1 026 834 1 019 720
+Intangible assets 74 92
+Right-of-use assets 104 113
+Non-current receivables 4 5 343 6 697
+Current assets 194 049 185 572
+Inventories 63 63
+Amounts receivable and prepayments 5 4 247 6 170
+Other current assets 4 3 115 3 578
+Cash and cash equivalents 186 624 175 761
+TOTAL ASSETS 1 228 228 1 214 168
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2023 by:
+Nerijus Maknevičius Gabrielė Saponaitė
+CEO of AKROPOLIS GROUP, CFO of AKROPOLIS GROUP,
+UAB UAB
+4
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION
+At 31
+At 30 June
+December
+2023
+Notes 2022
+EUR'000 EUR'000
+EQUITY AND LIABILITIES
+Share capital 31 737 31 737
+Legal reserve 752 4
+Share premium 448 096 448 096
+Retained earnings 183 437 152 532
+Total equity 664 022 632 369
+Non-current liabilities 540 008 542 852
+Borrowings 7 442 984 446 556
+Lease liabilities 49 60
+Deferred income tax liabilities 88 513 88 225
+Other non-current payables 8 8 462 8 011
+Current liabilities 24 198 38 947
+Borrowings 7 8 658 13 006
+Lease liabilities 54 58
+Income tax liabilities 609 1 235
+Trade and other payables 8 14 877 24 648
+Total liabilities 564 206 581 799
+TOTAL EQUITY AND LIABILITIES 1 228 228 1 214 168
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2023 by:
+Nerijus Maknevičius Gabrielė Saponaitė
+CEO of AKROPOLIS GROUP, CFO of AKROPOLIS GROUP,
+UAB UAB
+5
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF COMPREHENSIVE INCOME
+Six-month period ended 30
+June
+Notes 2023 2022
+EUR'000 EUR'000
+Rental income 3 40 473 35 520
+Service charge income 15 496 17 159
+Service charge expenses (14 161) (16 022)
+NET RENTAL INCOME 41 808 36 657
+Administrative expenses (2 756) (2 221)
+Other income, net 537 1 363
+Gain/(loss) from revaluation of investment property 3 1 766 1 993
+OPERATING PROFIT (LOSS) 41 355 37 792
+Interest expenses (7 413) (5 403)
+Interest income 1 536 -
+Other financial costs (799) (638)
+PROFIT (LOSS) BEFORE INCOME TAX 34 679 31 751
+Income tax (expenses) (3 026) (3 077)
+NET PROFIT (LOSS) 3 31 653 28 674
+TOTAL COMPREHENSIVE INCOME (LOSS) 31 653 28 674
+TOTAL COMPREHENSIVE INCOME (LOSS) ATTRIBUTABLE TO:
+Equity holders of the parent 31 653 28 674
+EARNINGS PER SHARE (EUR)
+Basic / diluted 6 0,289 0,262
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2023 by:
+Nerijus Maknevičius Gabrielė Saponaitė
+CEO of AKROPOLIS GROUP, CFO of AKROPOLIS GROUP,
+UAB UAB
+6
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF CHANGES IN EQUITY
+Share Retained
+Share capital Legal reserve Total
+premium earnings
+EUR'000 EUR'000 EUR'000 EUR'000 EUR'000
+Balance at 31 December 2021 31 737 448 096 4 91 508 571 345
+Transactions with owners:
+Total transactions with owners - - - - -
+Net profit - - - 28 674 28 674
+Total comprehensive income - - - 28 674 28 674
+Balance at 30 June 2022 31 737 448 096 4 120 182 600 019
+Balance at 31 December 2022 31 737 448 096 4 152 532 632 369
+Transactions with owners:
+Transfers to reserves 748 (748) -
+Total transactions with owners - - 748 (748) -
+Net profit - - - 31 653 31 653
+Total comprehensive income - - - 31 653 31 653
+Balance at 30 June 2023 31 737 448 096 752 183 437 664 022
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2023 by:
+Nerijus Maknevičius Gabrielė Saponaitė
+CEO of AKROPOLIS GROUP, CFO of AKROPOLIS GROUP,
+UAB UAB
+7
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF CASH FLOWS
+Six-month period ended 30
+June
+2023 2022
+Notes EUR'000 EUR'000
+OPERATING ACTIVITIES
+Net profit (loss) 31 653 28 674
+Adjustments for:
+Income tax expenses 3 026 3 077
+Depreciation and amortization 406 557
+Write-offs and loss on disposal of PP&E (7) (10)
+Gain/(loss) from revaluation of investment property (1 766) (1 993)
+Interest expenses 7 413 5 403
+Interest income (1 536) -
+Cash flows from operating activities before changes in working capital 39 189 35 708
+(Increase)/decrease in receivables, prepayments and other current assets 3 508 3 658
+Increase in inventories - 1
+Increase/(decrease) in payables (8 660) (7 195)
+Cash flows generated from operating activities 34 037 32 172
+Interest paid (11 761) (9 751)
+Income tax paid (3 364) (3 849)
+Net cash flows from/(used in) operating activities 18 912 18 572
+INVESTING ACTIVITIES
+Acquisition of PPE, investment property and intangible assets (5 538) (1 250)
+Interest received 1 475 -
+Net cash flows from/(used in) investing activities (4 063) (1 250)
+FINANCING ACTIVITIES
+Repayments of borrowings 7 (3 986) (3 500)
+Net cash flows from/(used in) financing activities (3 986) (3 500)
+Net increase/(decrease) in cash and cash equivalents 10 863 13 822
+Cash and cash equivalents at the beginning of the year 175 761 82 054
+Cash and cash equivalents at the end of the year 186 624 95 876
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2023 by:
+Nerijus Maknevičius Gabrielė Saponaitė
+CEO of AKROPOLIS GROUP, CFO of AKROPOLIS GROUP,
+UAB UAB
+8
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+NOTES TO THE CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+1. GENERAL INFORMATION
+AKROPOLIS GROUP, UAB (entity code 302533135) (hereinafter – “the Company”) was incorporated on 30 July 2011 in
+LithuaniaasalimitedliabilitycompanyundertheCompaniesLawofLithuania.ItsregisteredofficeaddressisOzog.25,Vilnius,
+Lithuania.
+The sole shareholder of the Company owning 100% of shares is Vilniaus Prekyba UAB, company code 302608755, address:
+Ozo g. 25, Vilnius. Metodika B.V., address: Parnassusweg 819, 1082 LZ., Amsterdam, operating in the Kingdom of the
+Netherlands, is the ultimate parent company and Mr Nerijus Numa is the ultimate controlling party.
+The Group is comprised of the Company and its subsidiaries (hereinafter collectively referred as “the Group”). Nerijus
+MaknevičiuswasappointedastheCEOandelectedastheChairmanoftheBoardoftheCompanyon5June2023.Duringthe
+six-month period ended 30 June 2023 there were no changes in the Group’s structure and the Group did not conduct any
+business combinations.
+TheGroup’smainbusinessactivityincludesthedevelopmentofrealestateownedbytheGroupanditsleasetotenantsbased
+on agreements.
+The Group’s bonds are traded on Euronext Dublin (Ireland) and Nasdaq Vilnius (Lithuania) stock exchanges.
+The Company’s management authorised for issue these consolidated condensed interim financial statements on 13 September
+2023.
+Theconsolidatedcondensedinterimfinancialstatementsforthesix-monthperiodended30June2023havebeenreviewed,not
+audited.
+On24February2022, Russiabeganmilitaryinvasionof Ukraine. Themanagement oftheGroupmonitors economicsanctions
+against RussiaandBelarus andis readyto implement them. Themanagement oftheGroupalsomonitorssituationinUkraine
+on daily basis and makes timely decisions to adjusts its business operations locally. The war initiated by Russia caused an
+energy crisis, which had a significant impact on the increased electricity and gas prices in 2022. In 2023, electricity and gas
+prices decreased and remained at a stable level. According to the Group's management, the war in Ukraine did not have a
+significantdirectimpactontheGroup'soperationsorfinancialperformance,sincetheCompanyhasnotenantsandsuppliersin
+Ukraine or Russia. At the beginning of 2023, the 6-month EURIBOR interest rate was 2.73%, and on 30 June 2023 reached
+3.9%. Theincreased EURIBORinterest rateonlyaffected onlythe bank borrowings, sincethe bond interest rate is fixed(note
+7).
+2. BASIS OF PREPARATION AND ADOPTION OF NEW AND/OR AMENDED STANDARTS AND INTERPRETATIONS
+The principal accounting policies applied in the preparation of these consolidated condensed interim financial statements are
+consistent with those followed in the preparation of the Group’s consolidated financial statements for the years ended 31
+December 2022, except for the recognition of income tax expenses and the adoption of the new standards effective from 1
+January2023.TheGroupshasnotearlyadoptedanystandards,interpretations oramendments thathavebeenissuedbutare
+not yet effective.
+Incometaxexpensesarerecognisedbasedonmanagement’sestimateoftheweightedaverageeffectiveannualincometaxrate
+to be applied to a full financial year. The estimated weighted average annual income tax rate used for the six-month period
+ended 30 June 2023 is 8.7%, compared to 9.7% for the six-month period ended 30 June 2022.
+a) Basis of preparation
+The consolidated condensed interim financial statements for the six-monthperiod ended30 June2023 have been preparedin
+accordancewithIAS34InterimFinancialReporting.Theconsolidatedcondensedinterimfinancialstatementsdonotincludeall
+the notes required in the annual financial statements, and should be read in conjunction with the Group’s annual consolidated
+financial statements for the year ended 31 December 2022.
+Thesefinancial statements arepresented ina commoncurrency of the EuropeanUnion –the euroand have been roundedto
+the nearest thousand (in thousands of euros). Due to rounding, amounts in these consolidated condensed interim financial
+statements may not sum up.
+9
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+b) Adoption of new and/or amended IFRS and interpretations of the International Financial Reporting Interpretations
+Committee (IFRIC)
+Thefollowingamendedstandards becameeffectivefrom1January2023, butdidnothaveanymaterial impactontheGroup's
+financial statements:
+• IFRS 17 "Insurance Contracts" (issued on 18 May 2017 and effective for annual periods beginning on or after 1 January 2023).
+•AmendmentstoIFRS17andanamendmenttoIFRS4(issuedon25June2020andeffectiveforannualperiodsbeginningon
+or after 1 January 2023).
+• Amendments to IAS 1 and IFRS Practice Statement 2: Disclosure of Accounting policies (issued on 12 February 2021 and
+effective for annual periods beginning on or after 1 January 2023).
+• Amendments to IAS 8: Definition of Accounting Estimates (issued on 12 February 2021 and effective for annual periods
+beginning on or after 1 January 2023).
+•Deferredtaxrelatedtoassetsandliabilitiesarisingfromasingletransaction–AmendmentstoIAS12(issuedon7May2021
+and effective for annual periods beginning on or after 1 January 2023).
+•TransitionoptiontoinsurersapplyingIFRS17–AmendmentstoIFRS17(issuedon9December2021andeffectiveforannual
+periods beginning on or after 1 January 2023).
+3. SEGMENT INFORMATION
+Duringthesix-monthperiodended30June2023nodifferencesoccurredinthebasisoftheGroup’ssegmentationofoperations
+or in the basis of measurement of segment’s net profit (loss).
+Six-month ended 30 June Lease
+Akropolis Akropolis Akropolis Akropole Akropole Total
+2023 Adjust- incentive
+Vilnius Klaipėda Šiauliai Riga Alfa before The Group
+(EUR‘000) ments (IFRS16)
+Lithuania Lithuania Lithuania Latvia Latvia IFRS16
+impact
+94 900 60 642 36 091 70 980 71 333
+Gross Leasable Area (GLA)
+Revenue 17 555 12 264 5 770 11 303 11 137 243 58 272 (1 766) 56 506
+Rent income 13 092 8 919 3 830 8 213 8 286 (101) 42 239 (1 766) 40 473
+3 876 3 010 1 771 2 648 2 718 (38) 13 985 - 13 985
+Additional fees income
+Other income 587 335 169 442 133 382 2 048 - 2 048
+Property maintenance
+(4 464) (3 493) (2 212) (2 929) (3 178) (235) (16 511) - (16 511)
+expenses
+EBITDA 13 091 8 771 3 558 8 374 7 959 8 41 761 (1 766) 39 995
+NET PROFIT (LOSS) 8 554 7 626 2 882 7 126 6 388 (923) 31 653 - 31 653
+Six-month period ended Lease
+Akropolis Akropolis Akropolis Akropole Akropole Total
+30 June 2022 Adjust- incentive
+Vilnius Klaipėda Šiauliai Riga Alfa before The Group
+(EUR‘000) ments (IFRS16)
+Lithuania Lithuania Lithuania Latvia Latvia IFRS16
+impact
+94 851 60 643 36 084 70 877 71 040
+Gross Leasable Area (GLA)
+Revenue 17 318 12 038 5 736 11 469 9 227 145 55 933 (1 891) 54 042
+Rent income 12 036 8 109 3 550 7 458 6 343 (85) 37 411 (1 891) 35 520
+4 825 3 643 2 047 2 663 2 814 (36) 15 956 - 15 956
+Additional fees income
+Other income 457 286 139 1 348 70 266 2 566 - 2 566
+Property maintenance
+(5 455) (4 366) (2 617) (2 988) (2 114) (147) (17 687) - (17 687)
+expenses
+EBITDA 11 863 7 672 3 119 8 481 7 113 (2) 38 246 (1 891) 36 355
+NET PROFIT (LOSS) 9 015 6 566 2 463 6 880 5 402 (1 652) 28 674 - 28 674
+10
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+Tables below present reconciliation of EBITDA to the net profit for the six-month period ended 30 June 2023 and 30 June 2022.
+Six-month ended 30 June Lease
+Akropolis Akropolis Akropolis Akropole Akropole Total
+2023 Adjust- incentive
+Vilnius Klaipėda Šiauliai Riga Alfa before The Group
+(EUR‘000) ments (IFRS16)
+Lithuania Lithuania Lithuania Latvia Latvia IFRS16
+impact
+EBITDA 13 091 8 771 3 558 8 374 7 959 8 41 761 (1 766) 39 995
+Gain (loss) from revaluation
+- - - - - - - 1 766 1 766
+of investment property
+Interest income 384 187 50 241 91 583 1 536 1 536
+Depreciation and
+(104) (52) (18) (32) (127) (73) (406) - (406)
+amortization
+Interest expense (3 133) (269) (201) (1 457) (1 532) (821) (7 413) - (7 413)
+Income tax expense (1 503) (1 011) (507) - (3) (2) (3 026) - (3 026)
+Other (181) - - (1) - (617) (799) - (799)
+NET PROFIT (LOSS) 8 554 7 626 2 882 7 125 6 388 (922) 31 653 - 31 653
+Six-month period ended Lease
+Akropolis Akropolis Akropolis Akropole Akropole Total
+30 June 2022 Adjust- incentive
+Vilnius Klaipėda Šiauliai Riga Alfa before The Group
+(EUR‘000) ments (IFRS16)
+Lithuania Lithuania Lithuania Latvia Latvia IFRS16
+impact
+EBITDA 11 863 7 672 3 119 8 481 7 113 (2) 38 246 (1 891) 36 355
+Gain (loss) from revaluation
+- - - - - 102 102 1 891 1 993
+of investment property
+Depreciation and
+(207) (83) (18) (43) (128) (78) (557) - (557)
+amortization
+Interest expense (1 082) (272) (204) (1 556) (1 582) (707) (5 403) - (5 403)
+Income tax expense (1 547) (751) (434) (1) (2) (342) (3 077) - (3 077)
+Other (12) - - (1) 1 (625) (637) - (637)
+NET PROFIT (LOSS) 9 015 6 566 2 463 6 880 5 402 (1 652) 28 674 - 28 674
+4. INVESTMENT PROPERTY
+Duringthesix-monthperiodended30June2023,theGroupmadeinvestmentsinamountofEUR5194thousandthatresulted
+in additions to the value of existing investment property, most of the investments were directed to the property under
+construction in Vilnius and to the modernization of theshopping centreAkropolis Klaipėda. During thesix-month periodended
+30 June 2022 the Group made investments in amount of EUR 773 thousand.
+As at 30 June 2023 and 31 December 2022 investment property consisted of five operating commercial properties, two land
+plotsandapropertyunderconstructionheldforcapitalappreciationorfuturerentalincome.TheGroup’sinvestmentproperties
+are measured at fair value.
+As at 30June2023the investment propertyfallingunderthecategoryof revenue-generatinginvestment propertyof theGroup
+withthecarryingamountofEUR319392thousand(31December2022:EUR319000thousand)was pledgedtobanksunder
+loan agreements (note 7).
+Fair value hierarchy
+Toprovideanindicationaboutthereliabilityoftheinputsusedindeterminingfairvalue,theGrouphasclassifieditsnon-financial
+assets and liabilities into the three levels prescribed under the accounting standards.
+There were no transfers between Levels 1, 2 or 3 during 2023.
+11
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+Level 1 Level 2 Level 3 Total
+30 June 2023 EUR'000 EUR'000 EUR'000 EUR'000
+Shopping centre Akropolis Vilnius - - 319 392 319 392
+Shopping centre Akropolis Klaipėda - - 204 284 204 284
+Shopping centre Akropolis Šiauliai - - 78 247 78 247
+Shopping centre Akropole Riga - - 196 969 196 969
+Shopping centre Akropole Alfa - - 197 937 197 937
+Land plot in Vilnius - 38 561 - 38 561
+Land plot in Šiauliai - 664 - 664
+Land plot in Narva - 1 000 - 1 000
+Market value per external valuation report * - 40 225 996 829 1 037 054
+Lease incentive impact for 2023 - - 1 766 1 766
+Lease incentive impact for all previous periods - - (10 211) (10 211)
+PPE elimination - - (1 775) (1 775)
+Total - 40 225 986 609 1 026 834
+Level 1 Level 2 Level 3 Total
+31 December 2022 EUR'000 EUR'000 EUR'000 EUR'000
+Shopping centre Akropolis Vilnius - - 319 000 319 000
+Shopping centre Akropolis Klaipėda - - 203 000 203 000
+Shopping centre Akropolis Šiauliai - - 78 200 78 200
+Shopping centre Akropole Riga - - 197 000 197 000
+Shopping centre Akropole Alfa - - 198 000 198 000
+Land plot in Vilnius - 35 000 - 35 000
+Land plot in Šiauliai - 660 - 660
+Land plot in Narva - 1 000 - 1 000
+Market value per external valuation report * - 36 660 995 200 1 031 860
+Lease incentive impact for 2022 - - 3 636 3 636
+Lease incentive impact for all previous periods - - (13 847) (13 847)
+PPE elimination - - (1 929) (1 929)
+Total - 36 660 983 060 1 019 720
+*Market value here includes additions made during six-month period ended 30 June 2023.
+Duringthesix-monthperiodended30June2023thefairvalueofinvestmentpropertywasnotcarriedout,butaccordingtothe
+Group'smanagement,therearenoessentialprerequisites forachangeinthefair valueof investmentproperty. Forall Level3
+investment properties amounting to EUR 996 829 thousand as at 30 June 2023 (as at 31 December 2022: EUR 995 200
+thousand),thevaluationwasdeterminedusingdiscountedcashflow(DCF)forecastsbasedonsignificantunobservableinputs.
+These inputs include:
+•Futurerental cashinflows basedontheactual location, type andquality of the properties and supported bytheterms of any
+existing lease, other contracts or external evidence such as current rents for similar properties;
+• Discount rates reflecting current market assessments of the uncertainty in the amount and timing of cash flows;
+• Estimated vacancy rates based on current and expected future market conditions after expiry of any current lease;
+• Maintenance costs including necessary investments to maintain functionality of the property for its expected useful life;
+• Capitalisation rates based on actual location, size and quality of the properties and taking into account market data at the
+valuation date; and
+• Terminal value taking into account assumptions regarding maintenance costs, vacancy rates and market rents.
+12
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+As at 30 June 2023 included within long-term receivables, are lease incentive receivables of EUR 5 334 thousand (as at 31
+December 2022 - EUR 6 682 thousand). Other current assets include current portion of lease incentive receivables of EUR 3
+111 thousand (as at 31 December 2022: EUR 3 529 thousand).
+5. AMOUNTS RECEIVABLE AND PREPAYMENTS
+Amounts receivable and prepayments consisted of the following:
+At 31
+At 30 June December
+2023 2022
+EUR'000 EUR'000
+Trade receivables 3 148 4 936
+Trade receivables from related parties (note 10) 274 628
+Less: impairment allowance for trade receivables (432) (491)
+Trade receivables, net 2 990 5 073
+Prepayments 686 626
+Deferred expenses, accrued income and other accounts 571 471
+Total 4 247 6 170
+As at 30 June 2023, expected credit losses of EUR 432 thousand were recognised in relation to trade receivables. As at 31
+December 2022, expected credit losses of EUR 491 thousand were recognised in relation to trade receivables.
+6. EARNINGS PER SHARE
+As at 30 June 2023 and 2022 investments of the Group's parent company comprised of ordinary registered shares of
+AKROPOLIS GROUP, UAB.
+The Company’s basic earnings per share are equal to diluted earnings per share. Calculation of basic / diluted earnings per
+share is presented below:
+Six-month period
+ended
+2023 2022
+Profit attribute to ordinary equity holders of the parent (EUR thousand) 31 653 28 674
+Weighted average number of ordinary shares (in thousands) 109 439 109 439
+Basic / diluted earnings per share (EUR/share) 0,289 0,262
+7. BORROWINGS
+At 31
+At 30 June December
+2023 2022
+EUR'000 EUR'000
+Non- current
+Bank borrowings 145 537 149 523
+Bonds 297 447 297 033
+Total 442 984 446 556
+Current
+Bank borrowings 7 973 7 973
+Bonds 685 5 033
+Total 8 658 13 006
+13
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+Duringthesix-monthperiodended30June2023theGrouprepaidEUR3986thousandofbankborrowingsandpaidoutEUR8
+625 thousand of interest on bonds.
+Asat30June2023,theGroup’sbankloansweresecuredbythecollateralswiththecarryingamountofEUR333657thousand
+(EUR 380 985 thousand as at 31 December 2022).
+8. TRADE AND OTHER AMOUNTS PAYABLE
+Trade and other amounts payable consisted of the following:
+At 31
+At 30 June December
+2023 2022
+EUR'000 EUR'000
+Non-current advance amounts received 8 424 7 974
+Other non-current amounts payable 38 37
+Non-current amounts payable 8 462 8 011
+Current advance amounts received 3 198 2 704
+Trade payables 3 528 4 725
+VAT payable 693 1 340
+Real estate tax payable 4 157
+Advance amounts received from, and trade and other amounts payable to related parties (Note 10) 48 219
+Other amounts payable and accrued expenses 7 406 15 503
+Current amounts payable 14 877 24 648
+Total 23 339 32 659
+OtherpayablesandaccruedexpensesoftheGroupasat30June2023and31December2022mainlycompriseliabilityforgift
+vouchers issued.
+9. COMMITMENTS AND CONTINGENCIES
+The Group is currently involved in legal proceedings (two cases) related to acquisitionof state-owned land by "Vingio Turtas",
+UAB on 4 November 2005, which is intended for the construction of Vingis Akropolis. The validity of part of the agreement on
+sale/purchase of state-owned land (Agreement) has been challenged due to an alleged breach of the claimants’ rights to
+property restitution.
+The National Land Service has adopted decisions favourable to "Vingio Turtas", UAB that were appealed to Vilnius Regional
+Administrative Court (court of first instance).
+Bythedecisiondeclaredon21February2022,VilniusRegionalAdministrativeCourtdismissedtheclaimants’appealregarding
+the decisions adopted by the National Land Service. The claimants appealed against the decision of Vilnius Regional
+Administrative Court with the request to annul the decision and to refer the case back to the court of first instance for re-
+examination. "Vingio Turtas", UAB provided a response to the appeal within the deadline set by the court. The case was
+examinedbythewayof a written procedureattheSupremeAdministrativeCourtof Lithuania.Byitsrulingof30August2023,
+the Supreme Administrative Court of Lithuania upheld the applicants’ appeal and referred the case back to the court of first
+instance for re-examination.
+The legal proceedings do not affect the development of Vingis Akropolis project. In the event of favourable outcome to the
+claimants, the land plot for the construction of Vingis Akropolis might be materially reduced in size, but the implementation of any
+decision in favour of the claimants would be legally complicated and would give rise to a number of legal issues.
+14
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+10. RELATED-PARTY TRANSACTIONS
+Six-month period
+ended
+2023 2022
+EUR'000 EUR'000
+Sales to:
+Shareholders 40 39
+Related companies 7 932 8 733
+Total 7 972 8 772
+Purchases (from):
+Shareholders 47 55
+Related companies 663 672
+Total 710 727
+At 31
+At 30 June December
+2023 2022
+EUR'000 EUR'000
+Prepayments to and amounts receivable from:
+Shareholders 1 7
+Related companies 273 627
+Lease incentives to related companies 377 510
+Total 651 1 144
+Advance amounts received from and amounts payable to:
+Shareholders 15 15
+Related companies 33 204
+Total 48 219
+Salestorelatedpartiesmostlycompriserentalincomeandotherservices.Purchasesfromrelatedpartiesincludeconsultations
+and other general and administrative expenses.
+11. EVENTS AFTER THE REPORTING PERIOD
+There were no significant events after theend of the reportingperiod that might havesignificant impact on theseconsolidated
+condensed interim financial statements.
+15
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozo g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2023
+13 September 2023
+Responsibility statement of responsible persons
+Hereby we confirm that, to the best of our knowledge and belief, the consolidated condensed interim financial statements of
+AKROPOLIS GROUP, UAB (hereafter – “the Company”) and its subsidiaries (hereinafter collectively “the Group”) for the six-
+monthperiodended30June2023preparedinaccordancewithInternationalAccountingStandard34InterimFinancialReporting
+as adopted by the European Union, give a true and fair view of the consolidated financial position of the Group as of 30 June
+2023 and its consolidated financial performance and cash flows for the six-month period then ended.
+Nerijus Maknevičius Gabrielė Saponaitė
+CEO of AKROPOLIS GROUP, UAB CFO of AKROPOLIS GROUP, UAB
+16

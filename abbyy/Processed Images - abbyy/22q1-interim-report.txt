@@ -1,0 +1,1174 @@
+Luminor Bank
+Interim Report
+Q1 2022
+1 Luminor Interim Report Q1 2022
+AT A GLANCE
+THE QUARTER IN BRIEF
+- Insignificant exposure to Russia, Belarus and Ukraine
+- Grew lending and increased operating income
+- Lowered costs significantly and improved cost efficiency
+- Credit loss allowance reflects mainly macro-driven provisions in the performing credit portfolio
+- Net profit almost tripled to 15.0 million EUR as compared to the first quarter 2021
+- Non-performing loans fell to 1.7% of gross loans, our lowest level ever
+FINANCIAL PERFORMANCE
+€m Q1 FY
+2021 2022 2021
+Total operating income 76.9 82.7 328.9
+Total operating expenses -70.5 -54.6 -262.8
+Credit loss allowance -0.1 -11.4 14.8
+Other items and taxation -0.5 -1.7 -6.2
+Profit for the period 5.8 15.0 74.7
+Return on equity, % 1.4 3.9 4.6
+VOLUMES & KEY RATIOS
+€m 31 Mar 31 Dec 31 Mar
+2021 2021 2022
+Loans to customers 9,392.8 9,946.7 10,123.3
+Deposits from customers 11,403.8 10,305.4 10,561.1
+Equity 1,671.0 1,548.8 1,563.7
+Common Equity Tier 1 ratio, % 23.4 20.5 21.21
+Liquidity coverage ratio, % 197.3 137.3 136.6
+1 Retained profits for the first quarter 2022 are excluded from the capital calculation. Including these profits would increase this ratio to 21.4%.
+ABOUT US
+Luminor is the leading independent bank in the Baltics and the third-largest provider of financial services in our region. We
+serve the financial needs of individuals, families, and companies. Just like our home markets of Estonia, Latvia, and Lithuania we
+are young, dynamic, and forward looking. Further information about us can be found at www.luminor.ee.
+Cover and page 6 photographs: Images from our mortgage campaign ‘Need some personal space?’, launched in April 2022
+2 Luminor Interim Report Q1 2022
+CHIEF EXECUTIVE’S STATEMENT
+The first quarter was overshadowed by the geopolitical and economic impacts of the invasion of Ukraine, following which we
+focused on ensuring continuity of service to customers – individuals and enterprises resident in the Baltic countries - and
+supporting our staff, while working with others to assist displaced Ukrainians arriving in the region. We continue to apply
+sanctions and support those most affected. We made it easier for citizens of the Ukraine to open an account with us and we
+waived fees on all payments to accounts held with Ukrainian banks. In addition, we made donations to three Baltic-based
+charities assisting refugees who have fled Ukraine. To support our staff, we modified the content of our wellbeing programme,
+established emotional support groups and offered individual psychological counselling.
+We also evaluated our credit portfolio. We have no direct exposure to companies domiciled in Russia, Belarus or Ukraine, and
+next to no exposure to residents of these countries. Despite an insignificant number of new non-performing loans, and limited
+indirect exposure, we placed on watch list those corporate exposures we believe could be impacted by higher geopolitical risks
+or high inflation, or exposures for whom energy costs are significant. This action increased our stage 2 loans by 567 million EUR.
+As we adjusted our way of doing business to reflect this new operating environment, we improved our business performance,
+raised our efficiency, and so boosted our net profits as compared to the same quarter last year. As we support our customers,
+our staff, and the societies we serve, we have three priorities. First, to do more business with more customers – notably more
+mortgage and consumer lending, and lending to SME customers - widen our product offering, and improve customer
+experience. Second, to raise our efficiency and enhance our IT operations. And third, to build our unique culture.
+We have substantial work ahead of us to realise these goals, but I am encouraged by our continued progress in the first quarter.
+Despite the uncertain environment and understandable caution from customers, we grew loans to individuals and businesses
+by 1.8% in the quarter. We launched instant payments in Lithuania, modernised our ATM network, and signed an agreement to
+acquire Maksekeskus, the leading e-commerce payments service provider in the Baltic region. We remain focused on ensuring
+IT stability as we improve our services, products, and performance. To enhance our evaluation of ESG risk we drafted strategies
+for those sectors most exposed to climate risk.
+We generated a net profit of 15.0 million EUR in the quarter, as compared to 5.8 million EUR in the same quarter last year. This
+improvement was driven principally by an 8% increase in revenue as we grew net interest income and a 23% reduction in
+expenses following the completion of several planned initiatives during 2021, offset in part by higher credit loss allowances. Our
+return on equity improved to 3.9% from 1.4%.
+Our liquidity and capital positions remain strong. At quarter end our Common Equity, Tier 1 and Total Capital Ratios were 21.2%.
+All our capital is composed of equity. We are reviewing our capital levels and structure to ensure alignment with our plans and
+outlook, and improve the efficiency of our capital resources.
+The outlook for the Baltic region is strong. While the impacts from the invasion of Ukraine and the spectre of price inflation are
+near term challenges for the Baltic countries, our path and ambitions are clear. I look forward to Luminor doing more business,
+more effectively, with more individuals and businesses across our home markets of Estonia, Latvia, and Lithuania. In so doing,
+we will maintain our strong financial standing, exercise prudent risk management, and fulfil our wider obligations.
+Peter Bosek
+Luminor Interim Report Q1 2022 3
+CONTENTS
+AT A GLANCE ................................................................................................................................................................................. 2
+CHIEF EXECUTIVE’S STATEMENT .................................................................................................................................................. 3
+MANAGEMENT REPORT ................................................................................................................................................................. 5
+INTERIM FINANCIAL STATEMENTS ................................................................................................................................................ 16
+Condensed consolidated Statement of Profit or Loss and Other Comprehensive Income ................................................................... 16
+Condensed consolidated Balance Sheet............................................................................................................................................................ 17
+Condensed consolidated Statement of Changes in Equity ............................................................................................................................18
+Condensed consolidated Statement of Cash Flows ....................................................................................................................................... 19
+NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL STATEMENTS ..................................................................... 20
+1. Significant accounting policies, estimates and judgements .......................................................................................................................20
+2. General risk management policies .................................................................................................................................................................. 21
+3. Net interest and similar income ...................................................................................................................................................................... 23
+4. Net fee and commission income .................................................................................................................................................................... 24
+5. Net other financial income............................................................................................................................................................................... 26
+6. Other administrative expenses ....................................................................................................................................................................... 26
+7. Loans to customers ........................................................................................................................................................................................... 27
+8. Deposits from customers ................................................................................................................................................................................. 31
+9. Debt securities issued ....................................................................................................................................................................................... 31
+10. Derivative financial instruments .................................................................................................................................................................... 32
+11. Contingent liabilities ......................................................................................................................................................................................... 32
+12. Fair value of financial assets and liabilities .................................................................................................................................................. 33
+13. Related paties .................................................................................................................................................................................................... 35
+14. Segment reporting............................................................................................................................................................................................ 36
+GLOSSARY .................................................................................................................................................................................... 39
+INFORMATION ABOUT LUMINOR ................................................................................................................................................. 39
+This interim report has been prepared in accordance with IAS 34 Interim Financial Reporting and Estonian law. In this report
+‘Luminor’, ‘Luminor Bank’, ‘we’, ‘us’ and ‘our’ refer to Luminor Bank AS together with its subsidiaries. The abbreviations ‘€m’ and
+‘€bn’ represent millions and billions (thousands of millions) of euro, respectively. We have stopped disclosing exceptional costs,
+and ratios which excluded exceptional costs. This change reflects the reduction in exceptional costs and hence their significance
+in explaining our performance.
+4 Luminor Interim Report Q1 2022
+MANAGEMENT REPORT
+Financial Performance
+Summary income statement Q1 FY
+€m 2021 2022 2021
+Net interest and similar income 56.6 63.1 239.2
+Net fee and commission income 17.6 18.0 78.5
+Net other operating income 2.7 1.6 11.2
+Total operating income 76.9 82.7 328.9
+Total operating expenses -70.5 -54.6 -262.8
+Share of profit from associates 0.3 0.4 1.8
+Credit loss allowance -0.1 -11.4 14.8
+Other non-operating expenses -0.1 -0.4 -0.3
+Profit before tax 6.5 16.7 82.4
+Tax expense -0.7 -1.7 -7.7
+Profit for the period 5.8 15.0 74.7
+Cost / income ratio, % 91.7 66.0 79.9
+Profit for the quarter was 15.0 million EUR, almost triple that of the same quarter last year. An increase in Total operating income
+of 5.8 million EUR and a 15.9 million EUR decrease in Total operating expenses were offset partially by an increase of 11.3 million
+EUR in credit loss allowances.
+Total operating income was 82.7 million EUR, an increase of 7.5%, as compared to the prior year first quarter. Net interest
+income increased by 6.5 million EUR to 63.1 million EUR. Interest income increased by 2.3 million EUR as continued pressure on
+lending margins was offset by growing lending volumes, while interest expense fell by 4.2 million EUR mainly as we reduced our
+balances of excess liquidity. Net fee and commission income increased by 0.4 million EUR with growth in fees from credit
+products, daily banking and trade finance, while fees from pensions fell. Net other operating income decreased by 1.1 million
+EUR, driven by payment of a guarantee fee to the European Investment Bank in relation to our synthetic securitization
+transaction.
+Total operating expenses were 54.6 million EUR, a decrease of 22.6% as compared to the same period last year, driven by lower
+IT-related expenses, and consulting and professional services, following the completion of several planned initiatives during
+2021. We continue to make considerable investments in our IT operations. Our cost-to-income ratio improved significantly to
+66.0% from 91.7% in the same quarter last year.
+We incurred a credit loss allowance of 11.4 million EUR this quarter as compared to 0.1 million EUR in the first quarter last year.
+Allowances increased as we updated macroeconomic scenarios and changed their probabilities, made a provision for a new
+single larger non-performing exposure, and placed on watch list those exposures we believe could be impacted by higher
+geopolitical risks or high inflation or exposures for whom energy costs are significant. The increase was partly offset by a halving
+of the management overlay, as the risk from COVID-19 decreased. More details about these changes can be found in the ‘Asset
+Quality’ section, below.
+In the quarter we generated a return on equity of 3.9%, as measured on an annualised basis, as compared to 1.4% in the same
+period last year.
+Luminor Interim Report Q1 2022 5
+6 Luminor Bank AS Interim Report to 30 September 2021
+Retail Banking
+Financial performance Q1 FY
+€m 2021 2022 2021
+Net interest income 26.8 29.2 110.2
+Net fee income 12.4 12.1 52.8
+Other net income 1.8 1.7 7.5
+Total operating income 41.0 43.0 170.5
+Total operating expenses -46.0 -34.6 -170.3
+Credit loss allowance 2.4 -0.6 11.6
+Other non-operating expenses 0.0 -0.2 -0.1
+Profit (-loss) before tax -2.6 7.6 11.7
+Cost/ income ratio, % 112.2 80.5 99.9
+Balances 31 Mar 31 Dec 31 Mar
+€m 2021 2021 2022
+Loans to customers (excludes allowances and accumulated interest) 5,311.9 5,436.5 5,416.5
+Deposits from customers 5,761.5 6,066.3 5,804.9
+We remain focused on growing lending, increasing the number of active customers, and raising customer satisfaction.
+Despite the uncertain environment and understandable caution amongst customers, we maintained new mortgage lending
+volumes at the same level as last year and grew the amount of new consumer lending and leasing. Growth was aided by our
+introduction of specialised consumer loans to finance the installation of solar panels and heat pump heating systems in private
+houses. This was part of a wider initiative to direct more funding towards sustainable projects, and followed our launch last year
+of ‘Green car’ loans which offer lower interest rates for low emission cars.
+We continued to develop our digital solutions and improve our customer experience. We introduced automated loan
+application screening in Estonia and the number of active customers who are using ApplePay or GooglePay increased by 10,000
+over the quarter. Our focus on service and cross-sales increased both the number of card transactions and transaction volumes
+by more than 10% as compared to the first quarter of last year.
+Contributions to third pillar pension funds increased by 11% with growth in all three Baltic countries, while assets under
+management in our pension index funds ‘Sustainable Future’ reached 10 million EUR for the first time.
+To address possible customer concerns about the impact of the invasion of Ukraine we provided updates on developments,
+and organised webinars and produced podcasts. To support refugees from Ukraine we simplified our account opening process
+for Ukrainian citizens, added Ukrainian language pages to our website and visited refugee centres to help with opening accounts.
+Luminor Interim Report Q1 2022 7
+8 Luminor Bank AS Interim Report to 30 September 2021
+Corporate Banking
+Financial performance Q1 FY
+€m 2021 2022 2021
+Net interest income 29.0 32.5 125.8
+Net fee income 5.2 6.1 25.3
+Other net income 1.9 4.0 10.0
+Total operating income 36.1 42.6 161.1
+Total operating expenses -23.6 -19.3 -89.9
+Credit loss allowance -2.6 -10.1 2.5
+Other non-operating expenses 0.2 0.2 1.7
+Profit before tax 10.1 13.4 75.4
+Cost/ income ratio, % 65.4 45.3 55.8
+Balances, €m 31 Mar 31 Dec 31 Mar
+2021 2021 2022
+Loans to customers (excludes allowances and accumulated interest) 4,198.4 4,627.9 4,831.1
+Deposits from customers 5,588.7 4,196.8 4,692.1
+We advanced 390 million EUR of new loans in the first quarter, 31% more than in the same quarter last year.
+In the immediate aftermath of the invasion of Ukraine, large corporate customers suspended their investment activities for
+several weeks, though by the second half of March there were signs of normalisation of activity, while business activity in the
+SME segment did not change significantly.
+The transaction pipeline is growing slowly across all corporate segments. The main driver of new volumes is increased demand
+for working capital financing in response to inflation and supply chain risks, and is visible in many economic sectors. There is
+demand for leases in all sectors, especially agriculture, as well as trade finance products The latter led to growth in net fee
+income during the quarter.
+The depressed activity in the European credit markets following the invasion of Ukraine, combined with widening risk premiums
+for Baltic borrowers, meant that levels of activity were low in the Baltic debt capital markets in the first quarter.
+We aim to contribute to the sustainable growth of the Baltic economies. We aspire to support our customers on this journey
+and ensure that they consider climate risk and contribute to climate expectations. To aid this process, we hosted for corporate
+customers the first in a planned series of climate seminars.
+Photograph left: Image from our business campaign ‘Extra player for your team’, launched in March 2022
+Luminor Interim Report Q1 2022 9
+Financial condition
+Summary balance sheet 31 Mar 31 Dec 31 Mar
+€m 2021 2021 2022
+Cash and central bank balances 4,602.6 2,494.2 2,603.6
+Debt securities 287.9 608.2 773.7
+Loans to customers 9,392.8 9,946.7 10,123.3
+Other assets 268.1 267.7 329.5
+Total assets 14,551.4 13,316.8 13,830.1
+Deposits from customers 11,403.8 10,305.4 10,561.1
+Debt securities issued 1,200.7 1,163.6 1,146.7
+Other liabilities 275.9 299.0 558.6
+Equity 1,671.0 1,548.8 1,563.7
+Total liabilities and equity 14,551.4 13,316.8 13,830.1
+Loans to customers in the first quarter increased by 1.8%, Deposits from customers increased by 2.5%, while the total balance
+grew just under 4%. At quarter end, Loans to customers accounted for nearly three-quarters of Total assets.
+Loans to customers increased by 176.6 million EUR, as we grew our lending to both Individuals and Businesses. Debt securities
+grew by 165.5 million EUR, as we increased our investments in low-risk debt securities. Cash and central bank balances grew by
+109.4 million EUR, which included 75 million EUR borrowed from the European Central Bank (ECB).
+Deposits from customers increased by 255.7 million EUR. Within the net increase, deposits from Individuals fell by 186.6 million
+EUR and deposits from Business customers reduced by 282.1 million EUR. These reductions were, however, offset by growth in
+deposits from Public sector customers of 743.4 million EUR. Equity increased by just under 15 million EUR as we retained the
+net profit generated in the period.
+Given the heightened geopolitical risks, in the first quarter we issued and retained 750 million EUR of covered bonds. On 31
+March 2022 our MREL-eligible securities were 29.66% of our total Risk Exposure Amounts and 14.61% of our leverage exposure,
+as compared to our minimum requirement from 1 January 2022 of 26.92% and 5.91% respectively.
+10 Luminor Interim Report Q1 2022
+Capital and liquidity
+Capital 31 Mar 31 Dec 31 Mar
+€m 2021 2021 2022
+Shareholders’ Equity 1,671.0 1,548.8 1,563.7
+Regulatory adjustments -26.0 -118.6 -59.3
+Prudential filters -0.4 -0.4 -0.5
+Common Equity Tier 1 1,644.6 1,429.8 1,503.9
+Credit risk exposure amounts 6,313.2 6,307.2 6,393.9
+Operational risk exposure amounts 673.6 648.8 648.8
+Other risk exposure amounts 34.7 31.7 55.8
+Total risk exposure amounts 7,021.5 6,987.7 7,098.5
+Common Equity Tier 1 ratio, % 23.4 20.5 21.2
+Leverage ratio, % 10.8 10.3 10.4
+At the end of the first quarter, our own funds totalled 1,503.9 million EUR, composed entirely of Common Equity Tier 1 (CET1)
+capital. Our CET1, Tier 1, and Total capital ratios increased in the quarter to 21.2%, as we added our audited net profits for 2021
+to our capital base. This increase was offset in part by an increase in Risk Exposure Amounts (REA), which we measure on a
+standardised basis, as we grew our credit portfolio. Retained net profit for the first quarter has not been included in the capital
+calculation. Including the retained profit would increase the CET1 ratio to 21.4% at quarter end.
+Our capital ratios remain well above our minimum capital requirements set by our regulators which, from 1 March 2022, require
+us to have a CET1 ratio exceeding 10.24%, a Tier 1 ratio above 12.2% and a Total Capital ratio greater than 14.7%. These include
+a Pillar 2 additional own funds requirement of 2.2%. We reviewed our capital requirements and concluded that, from 1 March
+2022 our capital targets for CET1, Tier 1 and Total capital ratios will be 12.94%, 14.9% and 17.4% of REA respectively. These limits
+include Pillar 2 guidance and management buffers. We continue to assess the value of Tier 2 capital to improve the efficiency
+of our capital resources.
+Our leverage ratio increased to 10.4% during the quarter as we included our audited net profits for 2021 to our capital base,
+offset in part by the increase in total assets and off-balance sheet exposures.
+Liquidity 31 Mar 31 Dec 31 Mar
+% 2021 2021 2022
+Liquidity Coverage Ratio 197.3 137.3 136.6
+Net Stable Funding Ratio 159.4 140.8 136.2
+Our structural liquidity risk is conservative and well-balanced. It is based on metrics that measure liquidity risk and is
+appropriately adapted to the current economic and regulatory environment. We use a range of metrics to measure liquidity
+risk, one of which is the Liquidity Coverage Ratio (LCR). Our LCR fell marginally over the quarter to 136.6% as compared to a
+minimum regulatory requirement of 100%. The liquidity buffer is composed of cash and liquid, central bank eligible, securities.
+Long-term liquidity risk is measured by the Net Stable Funding Ratio (NSFR). On 31 March 2022 our NSFR was 136.2% compared
+to 140.8% at end of the 2021, and a minimum regulatory requirement of 100%. The decrease of the ratio during the quarter was
+driven by an increase in Required Stable Funding as we grew Loans to customers.
+Luminor Interim Report Q1 2022 11
+Asset Quality
+Loans to customers 31 Mar 31 Dec 31 Mar
+€m 2021 2021 2022
+Stage 1 8,043.2 8,452.0 8,083.8
+Stage 2 1,182.5 1,411.0 1,977.9
+Stage 3 291.0 185.6 171.1
+Gross carrying amount 9,516.7 10,048.6 10,232.8
+Allowance for impairment -123.9 -101.9 -109.5
+Net carrying amount 9,392.8 9,946.7 10,123.3
+Non-performing loans ratio, % 3.1 1.8 1.7
+The quality of our loan portfolio remains good and stable. While the threat from COVID-19 reduced through the quarter, the
+economic impact of the invasion of Ukraine - including sanctions, disruption to supply chains, and inflation - and heightened
+geopolitical risk means the outlook for loan losses remains uncertain. We revised our macroeconomic scenarios to reflect the
+more challenging environment, which drove an increase in expected credit losses and hence allowances.
+During February and March, we evaluated possible consequences from the invasion of Ukraine on our credit portfolio. Our
+direct exposure to Russia, Belarus and Ukraine is insignificant. We have no direct exposure to companies domiciled in these
+countries nor investments in the region. Our exposure to residents of Russia, Belarus and Ukraine is 0.02% of our total gross
+lending and consists mostly of mortgage loans which are secured against residential real estate in the Baltics. Our counterparty
+credit risk exposure is also insignificant.
+In our evaluation, we assessed corporate customers’ ownership structures, together with corporate customers’ sales markets,
+sourcing markets, location of production units and operations. We also assessed customers at risk from high and persistent
+inflation, and customers for whom energy costs are significant. Corporate customers’ direct exposure to Russia, Belarus and
+Ukraine is limited. We assessed that some 6% of our total gross lending is to corporate customers with some exposure to one
+or more of the above mentioned risks. However, the number of our corporate customers with ownership links to the affected
+region is limited; sales markets for most customers are diversified; and the risks related to the material sourcing and location
+of production units and operations are mitigated in most cases.
+We have identified an insignificant number of new non-performing exposures so far. That said, we have taken a prudent
+approach to managing our risk exposures. During the quarter we placed on watch list those exposures we believe could be
+impacted by higher geopolitical risks or high inflation, or exposures for whom energy costs are significant, and have classified
+these exposures as stage 2. As a consequence, together with our incorporation of an additional top-down collective Significant
+Increase in Credit Risk (SICR) adjustment for customers affected by the above mentioned risks, stage 2 exposures increased by
+567 million EUR.
+Total non-performing (‘stage 3’) loans decreased by 14.5 million to 171.1 million EUR, or 1.7% of gross lending, at the end of the
+first quarter. The outflow of non-performing loans was around 1.6 times higher than the inflow, and this left the volume of non-
+performing loans at its lowest level ever. The decrease was driven by repayments, collection activities including sales of
+collateral, and cures resulting from the end of probation periods.
+Of the 109.5 million EUR total allowances for expected credit losses on the balance sheet at the end of the quarter, 56.2 million
+EUR were for Stage 3 exposures. The net carrying amount of Stage 3 loans was 114.9 million EUR against which we held collateral
+with a fair value of 155.5 million EUR.
+Details of the Credit loss allowance for the quarter of 11.4 million EUR can be found in the ‘Financial Performance’ section,
+above.
+12 Luminor Interim Report Q1 2022
+Additional information
+ECONOMIC ENVIRONMENT
+Data and Luminor Public Debt Economic growth Inflation Unemployment Wage
+economists’ forecasts /GDP (GDP)1 (CPI)1 rate growth1
+% 3Q21 21Q4 22f Mar 22 22f 21Q4 22f 21Q4 22f
+Estonia 19.6 8.8 1.0 15.2 12.0 5.2 6.0 7.5 8.0
+Latvia 45.1 5.0 1.0 15.7 13.5 6.9 7.0 12.6 10.0
+Lithuania 43.6 2.7 1.7 11.6 11.1 7.0 7.2 10.2 8.8
+1. Annual change
+In 2021, the Baltic economies saw strong growth while unemployment fell to pre-COVID-19 levels. Wage growth remained high,
+though real wages fell. This led to decreasing real purchasing power, but contributed to the competitiveness of firms and high
+employment rates. Public debt remained low, leaving room for fiscal policy to operate effectively. The rise in the prices of
+energy, metals and food, led to double digit inflation. Energy and food account for a higher proportion of consumer spending
+in the Baltics than the EU average, which resulted in a strong pass-through of input prices to consumers. Inflation impacted the
+balance sheets of lower income households, through rising utility costs, and those businesses who had contracted to supply
+goods at fixed prices but had not hedged their input costs.
+Forecasts for output growth for 2022 have fallen from some 4% at the start of the year to 1-2% now as export revenues fall,
+commodity prices increase, and economic confidence drops. Luminor economists’ forecast double-digit inflation in 2022 as
+firms pass-through higher input prices, with a decrease in rates after the summer. It is anticipated that wage growth will be
+strong in nominal terms though, once again, lower than the growth in prices. Falling real wages are expected to keep
+employment rates high. Governments are using their fiscal strength to support their economies, build defence capability, and
+help refugees. Public debt is expected to remain at low levels as output growth continues and interest rates remain low. Further
+ahead the Baltic economies will benefit from recovering consumer and investor confidence, and more stable commodity prices.
+The exports of local goods and services to Russia have declined since 2014. In 2021 the share of exports of goods was around
+1% of GDP and exports of services between 1.4% and 2.1% of GDP. In addition, there are some low value-added re-exports of
+goods and services to Russia. Altogether the loss of export markets affects a very small share of Baltic companies. About half
+of the imports from Russia in 2021 were energy products, which are now stopped or expected to cease in the near future. The
+impact of this is expected to be manageable, with the procurement of energy from other sources, such as the opening of a new
+LNG terminal in Estonia in 2022.
+BUSINESS DEVELOPMENTS
+In the first quarter we launched instant inward payments in Lithuania and will extend this to Estonia and Latvia during the year.
+We continued to advance our work with Kyndryl to prepare for the launch of additional functionalities and products, and we
+strengthened further our security and regulatory compliance processes. We also reviewed our cyber-security. In support of
+our focus on ensuring IT stability while improving our services, products, and performance, we progressed our adoption of
+ServiceNow and Amazon Cloud, and modernized our core banking platforms in Estonia and Latvia.
+We continued to modernise our ATM network. Where ATM functionality permits, we have enabled contactless operations at
+ATMs in Estonia and Latvia. These operations include contactless viewing of account balance information and withdrawal of
+cash using both cards and wallets, and contactless cash depositing transactions with cards. We will continue our work to develop
+our ATM network in the coming quarters.
+In January we signed an agreement to acquire 99% of Maksekeskus, the leading e-commerce payment service provider in the
+Baltic region. The acquisition will advance our digital transformation and strengthen our presence in the fast-growing e-
+commerce payments market. The transaction, which was approved by the Estonian Competition Authority in March, is expected
+to close in the coming months, and is subject to approval by the Estonian Financial Supervision and Resolution Authority.
+Luminor Interim Report Q1 2022 13
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG)
+During the quarter we refined our climate related data and data capabilities. We submitted to the ECB information about our
+financed emissions and other climate risk factors in preparation for the ECB’s Climate Risk Stress Test later this year. To
+enhance our evaluation of ESG risk during our credit risk assessment process, we drafted strategies for the manufacturing,
+energy, construction, agriculture and retail trade sectors, all of which are exposed to high levels of climate risk. We continued
+to reduce our carbon footprint and now use only Forest Stewardship Council certified or recycled paper in our offices, and
+installed water dispensers in our headquarters.
+To help to address the humanitarian impact of the invasion of Ukraine, we made it easier for citizens of the Ukraine to open an
+account with us and we waived fees on all payments to accounts with Ukrainian banks. In addition, we donated 100,000 EUR to
+MTÜ Pagulasabi, Gribu Palīdzēt Bēgļiem and Stiprus Kartu, three Baltic-based organisations who are assisting refugees.
+We surveyed our staff to understand how they felt in the aftermath of the invasion. We used the insights gained from the Survey
+to modify the content of our wellbeing programme with additional features on how to stay calm during uncertainty and how to
+support other people. We also held an event for our leaders on how to support and lead teams during a crisis. In addition, we
+established emotional support groups and offered individual psychological support.
+Finally, we continued to promote financial literacy and support the societies we serve. Our employees gave guest lectures to
+young people of different ages, and were given the opportunity to volunteer as mentors and guest teachers in schools. We also
+donated computers we no longer require to schools in Estonia. In Estonia and Latvia, we announced a cooperation agreement
+with social entrepreneurship development programmes.
+PREVENTING FINANCIAL CRIME
+We do not tolerate financial crime. We continued to improve our internal processes and rules during the first quarter, following
+the plans we have submitted to our supervisors to raise further the effectiveness of our anti-money laundering work.
+We have a low-risk appetite and a conservative business model. We operate only in the Baltic countries and target our products
+and services at residents of the Baltic countries, and at individuals and companies with a strong connection to the Baltic
+countries. During the quarter we enhanced our common monitoring and screening solution and continued to invest in our anti-
+fraud framework and technology, while promoting ethical behaviour and building our risk culture.
+We complied with new sanctions imposed by the European Union, the United Kingdom, and the United States. We added
+capacity to fulfil our obligations under the new sanctions’ regime, and maintained close contact with relevant stakeholders.
+OTHER EVENTS
+Ottar Ertzeid was appointed to the Supervisory Council. Mr Ertzeid is a career banker with over 30-years’ experience. Most
+recently, he was Group Chief Financial Officer at DNB ASA and DNB Bank ASA, and a member of DNB’s Group Management
+Board. Prior to this he was Head of DNB Markets, DNB’s investment banking unit. In addition to being a member of the
+Supervisory Council, Mr Ertzeid is a member of the Council’s Audit, Remuneration and Risk committees.
+Mari Mõis, Chief Compliance Officer, commenced maternity leave and is expected to return in mid-September. While on leave,
+Mari has stepped down temporarily from the Management Board. During this period, Peter Bosek will lead the Compliance
+Division.
+Elanor Rose (‘Elly’) Hardwick was appointed to the Supervisory Council with effect from 1 April 2022. Miss Hardwick is a financial
+services executive with two-decades experience in innovation, markets and technology. Most recently she was Chief Digital
+Officer at UBS Group AG and, prior to that, Head of Innovation at Deutsche Bank AG. In addition to being a member of the
+Supervisory Council, Miss Hardwick is a member of the Audit, Nomination and Transformation committees.
+14 Luminor Interim Report Q1 2022
+Statement of the Management Board
+The interim report of Luminor Bank AS for the first quarter of 2022 consists of the Management Report and the Condensed
+Consolidated Interim Financial Statements.
+The data and additional information presented in the interim report of Luminor Bank AS for the first quarter of 2022 are true
+and complete. The Condensed Consolidated Interim Financial Statements have been prepared according to the principles of
+the International Accounting Standard IAS 34 Interim Financial Reporting as adopted by the European Union and the
+requirements established by the Credit Institutions Act of the Republic of Estonia for the disclosure of information.
+Luminor Bank AS and the Bank’s subsidiaries are going concerns.
+Peter Bosek
+Chief Executive Officer and
+Chairman of the Management Board
+Tallinn, 4 May 2022
+Luminor Interim Report Q1 2022 15
+INTERIM FINANCIAL STATEMENTS
+CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER
+COMPREHENSIVE INCOME
+€m Notes Q1 FY
+2021 2022 2021
+Interest income calculated using the effective interest method 3 52.0 55.7 223.5
+Other similar income 3 11.9 10.5 42.9
+Interest and similar expense 3 -7.3 -3.1 -27.2
+Net interest and similar income 56.6 63.1 239.2
+Fee and commission income 4 22.5 25.0 102.1
+Fee and commission expense 4 -4.9 -7.0 -23.6
+Net fee and commission income 17.6 18.0 78.5
+Net other financial income 5 4.6 5.1 20.9
+Other operating income 0.9 0.2 1.6
+Other operating expense -2.8 -3.7 -11.3
+Net other operating income 2.7 1.6 11.2
+Total operating income 76.9 82.7 328.9
+Salaries and other personnel expenses -25.6 -27.0 -101.0
+Other administrative expenses 6 -41.9 -24.9 -149.7
+Depreciation, amortization and impairment -3.0 -2.7 -12.1
+Total operating expenses -70.5 -54.6 -262.8
+Share of profit from associates 0.3 0.4 1.8
+Other non-operating expenses -0.1 -0.4 -0.3
+Profit before credit loss allowance and tax 6.6 28.1 67.6
+Credit loss allowance, excluding off-balance sheet commitments 7 0.5 -7.9 13.1
+Credit loss allowance on off-balance sheet commitments 7 -0.6 -3.5 1.7
+Profit before tax 6.5 16.7 82.4
+Tax expense -0.7 -1.7 -7.7
+Profit for the period 5.8 15.0 74.7
+Total other comprehensive income 0.0 0.0 0.0
+Total comprehensive income 5.8 15.0 74.7
+16 Luminor Interim Report Q1 2022
+CONDENSED CONSOLIDATED BALANCE SHEET
+€ m Notes 31 Mar 31 Dec 31 Mar
+2021 2021 2022
+Assets
+Cash and balances with central banks 4,602.6 2,494.2 2,603.6
+Due from other credit institutions 78.1 64.4 70.1
+Loans to customers 7 9,392.8 9,946.7 10,123.3
+Debt securities 287.9 608.2 773.7
+Derivative financial instruments 10 49.6 75.5 143.1
+Equity instruments 2.9 3.2 2.9
+Investments in associates 5.6 6.4 6.8
+Intangible assets 11.9 10.0 9.7
+Property, plant and equipment, etc. 53.6 47.0 46.0
+Investment properties 0.4 0.1 0.1
+Current tax assets 1.2 2.6 3.0
+Deferred tax assets 10.3 8.7 8.7
+Other assets 54.5 49.8 39.1
+Total assets 14,551.4 13,316.8 13,830.1
+Liabilities
+Loans and deposits from credit institutions 63.4 83.8 213.1
+Deposits from customers 8 11,403.8 10,305.4 10,561.1
+Debt securities issued 9 1,200.7 1,163.6 1,146.7
+Derivative financial instruments 10 38.4 70.3 146.9
+Tax liabilities 0.2 0.5 0.3
+Lease liabilities 47.9 43.4 43.0
+Other financial liabilities 43.4 29.0 78.0
+Other liabilities 72.7 62.9 64.8
+Provisions 9.9 9.1 12.5
+Total liabilities 12,880.4 11,768.0 12,266.4
+Shareholder’s equity
+Share capital and premium 1,447.1 1,447.1 1,447.1
+Retained earnings 220.9 97.9 112.9
+Other reserves 3.0 3.8 3.7
+Total shareholder's equity 1,671.0 1,548.8 1,563.7
+Total liabilities and shareholder’s equity 14,551.4 13,316.8 13,830.1
+Luminor Interim Report Q1 2022 17
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+€ m Share capital Retained Other Total equity
+and premium earnings reserves
+Balance as at 31 December 2020 1,447.1 215.1 3.0 1,665.2
+Profit for the period 0.0 5.8 0.0 5.8
+Total comprehensive income 0.0 5.8 0.0 5.8
+Transfer to mandatory reserve 0.0 0.0 0.0 0.0
+Dividends 0.0 0.0 0.0 0.0
+Other 0.0 0.0 0.0 0.0
+Balance as at 31 March 2021 1,447.1 220.9 3.0 1,671.0
+Balance as at 31 December 2021 1,447.1 97.9 3.8 1,548.8
+Profit for the period 0.0 15.0 0.0 15.0
+Total comprehensive income 0.0 15.0 0.0 15.0
+Transfer to mandatory reserve 0.0 0.0 0.0 0.0
+Dividends 0.0 0.0 0.0 0.0
+Other 0.0 0.0 -0.1 -0.1
+Balance as at 31 March 2022 1,447.1 112.9 3.7 1,563.7
+Balance as at 31 December 2020 1,447.1 215.1 3.0 1,665.2
+Profit for the period 0.0 74.7 0.0 74.7
+Total comprehensive income 0.0 74.7 0.0 74.7
+Transfer to mandatory reserve 0.0 -0.8 0.8 0.0
+Dividends 0.0 -191.0 0.0 -191.0
+Other 0.0 -0.1 0.0 -0.1
+Balance as at 31 December 2021 1,447.1 97.9 3.8 1,548.8
+18 Luminor Interim Report Q1 2022
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+€m Notes Q1 FY
+2021 2022 2021
+Profit or loss before tax 6.5 16.7 82.4
+Adjustment for non-cash items:
+Credit loss allowance 0.1 11.4 -14.8
+Depreciation, amortisation, and impairment 3.0 2.7 12.1
+Other non-cash items -0.1 0.0 -1.5
+Interest income 3 -63.9 -66.2 -266.4
+Interest expenses 3 7.3 3.1 27.2
+Change in operating assets/liabilities:
+Increase (-) / decrease (+) of lending to customers 40.7 -186.3 -509.1
+Increase (-) / decrease (+) of other assets 14.8 -217.0 -318.5
+Increase (+) / decrease (-) of client deposits 8 -400.7 385.2 -1,478.5
+Increase (-) / decrease (+) of liabilities 21.9 115.3 31.2
+Interest received 60.1 64.5 276.5
+Interest paid -5.3 -3.4 -27.8
+Income tax paid -2.3 -1.9 -8.8
+Dividend income 0.0 0.0 -0.7
+Cash flow from operating activities -317.9 124.1 -2,196.7
+Acquisition of property, equipment and intangible assets -5.2 -1.4 -8.0
+Proceeds from disposal of property, equipment and intangible assets 0.0 0.0 0.3
+Proceeds from disposal of investment property 0.2 0.0 0.5
+Dividend received 0.0 0.0 0.7
+Cash flows from investing activities -5.0 -1.4 -6.5
+Debt securities issued 9 0.0 0.0 299.3
+Debt securities bought back 0.0 0.0 -235.5
+Debt securities repayment on maturity 0.0 0.0 -100.8
+Payments of principal on leases -1.7 -1.4 -6.4
+Dividends paid 0.0 0.0 -191.0
+Cash flows from financing activities -1.7 -1.4 -234.4
+Net increase or decrease in cash and cash equivalents -324.6 121.3 -2,437.6
+Cash and cash equivalents at the beginning of the period 4,884.8 2,447.2 4,884.8
+Effects of currency translation on cash and cash equivalents -0.1 0.0 0.0
+Net increase or decrease in cash and cash equivalents -324.6 121.3 -2,437.6
+Cash and cash equivalents at the end of the period 4,560.1 2,568.5 2,447.2
+Cash and cash equivalents comprise:
+Cash on hand 126.9 148.2 136.1
+Non-restricted current account with central bank 4,363.0 2,352.7 2,249.3
+Due from other credit institutions within three months 70.2 67.6 61.8
+Total 4,560.1 2,568.5 2,447.2
+Luminor Interim Report Q1 2022 19
+NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL
+STATEMENTS
+1. SIGNIFICANT ACCOUNTING POLICIES, ESTIMATES AND JUDGEMENTS
+BASIS OF PRESENTATION
+The condensed consolidated interim financial statements of Luminor Bank AS were prepared in accordance with IAS 34 Interim
+Financial Reporting as adopted by the European Union. The condensed consolidated interim financial statements do not contain
+all the information and disclosures required in the annual financial statements and should be read in conjunction with Luminor
+Bank AS annual financial statements for the year ended 31 December 2021 (Annual Report 2021). The financial information in this
+interim report is presented in the same format as in the Luminor Bank AS Annual Report 2021.
+The accounting policies adopted in the preparation of these condensed consolidated interim financial statements are
+consistent with those followed in the preparation of the Luminor Bank AS Annual Report 2021, except for the adoption of new
+standards effective as of 1 January 2022. Several amendments and interpretations are effective for the first time in 2022, but do
+not have a material impact on the interim condensed consolidated financial statements of Luminor. Luminor has not early
+adopted any standard, interpretation or amendment that has been issued but is not yet effective.
+SIGNIFICANT ACCOUNTING ESTIMATES AND JUDGMENTS
+Luminor makes estimates and applies assumptions that affect the amounts recognised in the consolidated financial statements
+and the carrying amounts of assets and liabilities. Estimates and judgements are continuously evaluated and are based on
+management’s experience and expectations of future events. Consistent with Luminor Bank Annual Report 2021 the significant
+estimates are the impairment of financial instruments, as well as the determination of the fair value.
+Impairment of financial instruments
+The methods and the key assumptions related to the calculation of the impairment of financial instruments are consistent with
+those applied by Luminor for the year ended 31 December 2021 except as noted further. For more detailed information on the
+impairment policies, please, refer to the Note 4 ‘General Risk Management Policies’ of the Luminor Bank Annual Report 2021.
+The applied Expected Credit Loss (the ECL) model was enhanced during the first quarter of 2022 to reflect the effects of the
+invasion of Ukraine. New collective Significant Increase in Credit Risk (SICR) indicators were incorporated into the ECL model
+due to different measures taken by governments and companies, such as sanctions and closure of operations. Consequently,
+an additional collective impairment was established at the end of the quarter. Implementation of the new SICR indicators had
+an impact on staging of credit exposures by increasing the amount of exposures classified within Stage 2, as well as by increasing
+the total amount of impairment due to reclassification of exposures from Stage 1 to Stage 2. Consideration of the new SICR
+indicators was based on the assessment of the impact of geopolitical risk, inflationary risk (including sustained energy price
+increase) on credit customers, and on identification of customers with energy intensive operations. Thus, currently exposures
+of customers that meet the new collective SICR indicators are treated at least as Stage 2 exposures.
+A management overlay adjustment introduced in the fourth quarter of 2020 and applied during 2021 was also applied in the first
+quarter of 2022 to adjust the standard ECL model output for the potential credit losses due to COVID-19 related uncertainties.
+Fair value determination
+The methods and the key assumptions related to the calculation of the fair value are consistent with those applied by Luminor
+for the year ended 31 December 2021. When the fair values of financial assets and financial liabilities recorded on the statement
+of financial position cannot be derived from active markets, they are determined using a variety of valuation techniques that
+include the use of mathematical models. The input to these models is taken from observable markets where possible, but where
+this is not feasible, a degree of judgement is required in establishing fair values. For the fair value of financial assets and liabilities,
+please, refer to the Note 12.
+20 Luminor Interim Report Q1 2022
+2. GENERAL RISK MANAGEMENT POLICIES
+CREDIT RISK
+Impairment policies
+Luminor recognises credit losses in accordance with the requirements of IFRS 9 applying a forward-looking ECL approach. For
+more detailed information on the impairment policies, please, refer to the Note 4 ‘General Risk Management Policies’ of the
+Luminor Bank Annual Report 2021. During the first quarter of 2022, the impairment calculation approach remained unchanged.
+Projections of macroeconomic variables with probability weights over three years are prepared for each of the Baltic countries.
+The most recent review of projections and assumptions of the macroeconomic variables was performed in the first quarter of
+2022 to reflect mainly possible consequences of the invasion of Ukraine and to adjust the outlook due to COVID-19. The
+probability weights for scenarios were also reviewed, which resulted in a change of probability weight of 20% (previously 10%)
+probability for the optimistic scenario, 50% (previously 60%) for the baseline, and 30% for the pessimistic scenario. The
+following tables show the parameters that were used for macroeconomic modelling.
+Measure by country, % 2021a Scenarios
+Optimistic Baseline Pessimistic
+22f 23f 24f 22f 23f 24f 22f 23f 24f
+Estonia
+Real GDP1 8.3 1.0 5.0 4.0 0.0 2.0 6.0 -5.0 0.0 7.0
+Unemployment rate 6.2 7.0 7.0 6.0 9.0 10.0 7.0 11.0 12.0 8.0
+Residential Real Estate price1 15.0 9.0 8.0 7.0 0.0 5.0 7.0 -25.0 -5.0 10.0
+Latvia
+Real GDP1 4.8 2.0 6.0 5.0 0.0 3.0 7.0 -4.0 0.0 8.0
+Unemployment rate 7.6 7.0 7.0 7.0 10.0 11.0 8.0 12.0 13.0 9.0
+Residential Real Estate price1 11.0 9.0 8.0 7.0 0.0 5.0 7.0 -25.0 -5.0 10.0
+Lithuania
+Real GDP1 4.9 1.0 5.0 5.0 0.0 2.0 6.0 -5.0 0.0 7.0
+Unemployment rate 6.9 7.0 7.0 6.0 9.0 10.0 7.0 11.0 12.0 8.0
+Residential Real Estate price1 16.0 9.0 8.0 7.0 0.0 5.0 7.0 -25.0 -5.0 10.0
+1 Annual change
+Given the uncertainty caused by COVID-19, Luminor decided to maintain in part a management overlay, although reduce the
+overlay from 12 million EUR at the end of 2021 to 6 million EUR at the end of the first quarter of 2022. The reasons for the overlay
+remain relevant, even though restrictions were lifted as the impact from the Omicron variant proved to be significantly less
+severe compared to previous variants. Luminor’s decision to maintain in part the overlay was also supported by relative lack of
+effective early indicators to predict credit quality developments, no clear trend of customers’ post grace period behaviour and
+evolving inflation.
+Luminor Interim Report Q1 2022 21
+MARKET RISK
+Luminor has a low appetite for market risk. The most significant parts of market risk for Luminor are interest rate risk and credit
+spread risk. Both stayed well within internal limits during the first quarter of 2022 despite the changes in the outlook on interest
+rates and the impacts of the invasion of Ukraine. Luminor has further increased its liquidity bond portfolio during the first
+quarter to 715.4 million EUR by actively managing its liquidity buffer in accordance with internal procedures. The significance of
+other risks is lower as Luminor does not have any open positions in equity instruments for trading, customer related foreign
+exchange flow is managed through daily hedging activities, and all derivative contracts with customers are hedged with back-
+to-back transactions.
+LIQUIDITY RISK
+Liquidity risk is managed to ensure a constant ability to settle contractual obligations. Luminor’s liquidity position has remained
+strong in the first quarter of 2022, with an LCR ratio standing at 136.6%. at quarter end. There were no external regulatory limit
+breaches for Liquidity Risk during the first quarter of 2022.
+22 Luminor Interim Report Q1 2022
+3. NET INTEREST AND SIMILAR INCOME
+€m Q1 FY
+2021 2022 2021
+Loans and advances to customers at amortised cost 50.5 53.3 215.9
+Deposits with other banks 0.1 0.2 0.4
+Negative interest on financial liabilities 1.4 2.2 7.2
+Interest income calculated using effective interest method 52.0 55.7 223.5
+Finance leases 10.2 10.3 42.0
+Other interest 1.7 0.2 0.9
+Other similar income 11.9 10.5 42.9
+Interest and similar income 63.9 66.2 266.4
+Loans and deposits from credit institutions1 -4.6 -1.8 -15.1
+Deposits from customers -0.5 -0.2 -1.3
+Impact of hedging activities 0.6 0.3 -1.2
+Debt securities issued -2.0 -1.2 -7.5
+Other2 -0.8 -0.2 -2.1
+Interest expense -7.3 -3.1 -27.2
+Net interest and similar income 56.6 63.1 239.2
+1 Of which interest paid on cash balances at central bank -4.5 -1.8 -14.7
+2 Of which former parent funding loan commitment interest expense -0.3 0.0 -1.2
+Interest and similar income by country of income generation Q1 FY
+€m 2021 2022 2021
+Estonia 16.2 15.3 65.8
+Latvia 20.1 21.0 85.0
+Lithuania 27.6 29.9 115.6
+Total 63.9 66.2 266.4
+Luminor Interim Report Q1 2022 23
+4. NET FEE AND COMMISSION INCOME
+€m Q1 FY
+2021 2022 2021
+Cards 7.0 8.7 34.2
+Credit products 1.0 1.4 4.9
+Daily banking plans 3.9 4.1 16.0
+Deposit products and cash management 4.0 4.0 16.8
+Insurance 0.9 0.8 3.9
+Investments 1.1 1.1 5.1
+Pensions 2.5 2.3 11.5
+Trade finance 2.0 2.3 8.9
+Other fee and commission income 0.1 0.3 0.8
+Fee and commission income 22.5 25.0 102.1
+Cards -3.5 -5.2 -17.2
+Credit products -0.2 -0.3 -0.6
+Deposit products and cash management -0.6 -0.7 -2.9
+Investments -0.4 -0.3 -1.4
+Pensions -0.1 -0.2 -1.3
+Other fee and commission expense -0.1 -0.3 -0.2
+Fee and commission expense -4.9 -7.0 -23.6
+Cards 3.5 3.5 17.0
+Credit products 0.8 1.1 4.3
+Daily banking plans 3.9 4.1 16.0
+Deposit products and cash management 3.4 3.3 13.9
+Insurance 0.9 0.8 3.9
+Investments 0.7 0.8 3.7
+Pensions 2.4 2.1 10.2
+Trade finance 2.0 2.3 8.9
+Other fee and commission income 0.0 0.0 0.6
+Net fee and commission income 17.6 18.0 78.5
+Fee and commission income by country of income generation Q1 FY
+€m 2021 2022 2021
+Estonia 3.7 3.6 15.8
+Latvia 6.9 7.5 31.6
+Lithuania 11.9 13.9 54.7
+Total 22.5 25.0 102.1
+24 Luminor Interim Report Q1 2022
+Fee and commission income by products and type of revenue recognition
+€m Q1
+2021 2022
+Over time Point in time Total Over time Point in time Total
+Cards 1.9 5.1 7.0 2.4 6.3 8.7
+Credit products 0.5 0.5 1.0 0.3 1.1 1.4
+Daily banking plans 3.9 0.0 3.9 4.1 0.0 4.1
+Deposit products and cash management 0.7 3.3 4.0 0.7 3.3 4.0
+Insurance 0.0 0.9 0.9 0.0 0.8 0.8
+Investments 0.4 0.7 1.1 0.4 0.7 1.1
+Pensions 2.5 0.0 2.5 2.3 0.0 2.3
+Trade finance 1.8 0.2 2.0 2.1 0.2 2.3
+Other fee and commission income 0.0 0.1 0.1 0.0 0.3 0.3
+Total 11.7 10.8 22.5 12.3 12.7 25.0
+€m FY 2021
+Over time Point in time Total
+Cards 9.3 24.9 34.2
+Credit products 1.6 3.3 4.9
+Daily banking plans 16.0 0.0 16.0
+Deposit products and cash management 3.0 13.8 16.8
+Insurance 0.0 3.9 3.9
+Investments 2.1 3.0 5.1
+Pensions 11.5 0.0 11.5
+Trade finance 8.1 0.8 8.9
+Other fee and commission income 0.0 0.8 0.8
+Total 51.6 50.5 102.1
+Luminor Interim Report Q1 2022 25
+5. NET OTHER FINANCIAL INCOME
+€m Q1 FY
+2021 2022 2021
+Net gain on financial assets and liabilities at fair value through profit or loss 0.1 -0.1 0.3
+Net gain (-loss) on debt securities designated at fair value through profit or loss -0.5 -6.8 -1.9
+Net gain on financial assets and liabilities held for trading 1.7 1.4 7.0
+Net gain (-loss) from financial derivatives 12.0 12.3 23.4
+Net gain (-loss) from foreign currency operations -8.7 -1.7 -7.9
+Total 4.6 5.1 20.9
+The debt securities designated at fair value through profit or loss were negatively impacted by changes in underlying interest
+rate curves. The portfolio has positive duration (close to 3 years) and therefore an increase in rates lowers the value of the
+portfolio. The net loss from foreign currency operations reflects mainly the revaluation of foreign currency customer liabilities.
+The net losses on debt securities designated at fair value through profit or loss and from foreign currency operations are offset
+by the positive revaluation of derivatives, with which these assets and liabilities are hedged.
+6. OTHER ADMINISTRATIVE EXPENSES
+€m Q1 FY
+2021 2022 2021
+IT related expenses -24.2 -16.6 -96.8
+Consulting and professional services -10.1 -1.6 -24.8
+Advertising and marketing expenses -0.6 -1.2 -6.5
+Real estate expenses -1.0 -0.8 -3.7
+Taxes and duties -1.4 -1.3 -3.8
+Other expenses -4.6 -3.4 -14.1
+Total -41.9 -24.9 -149.7
+26 Luminor Interim Report Q1 2022
+7. LOANS TO CUSTOMERS
+€ m 31 March 31 Dec 31 March
+2021 2021 2022
+Individual customers 5,405.9 5,640.0 5,689.5
+Business customers 3,656.3 3,922.9 4,054.8
+Financial institutions 168.3 199.5 205.6
+Public sector 162.3 184.3 173.4
+Total 9,392.8 9,946.7 10,123.3
+of which pledged loans 588.7 549.1 1,372.1
+Loans to customers by country of registration 31 Mar 31 Dec 31 March
+€m 2021 2021 2022
+Estonia, Latvia, and Lithuania 9,151.0 9,671.9 9,875.1
+Other EU countries 171.9 178.5 175.5
+Other countries 69.9 96.3 72.7
+Total 9,392.8 9,946.7 10,123.3
+Loans to Business customers by economic sectors 31 Mar 31 Dec 31 March
+€m 2021 2021 2022
+Real estate activities 1,155.8 1,167.8 1,201.4
+Wholesale and retail trade 639.9 760.8 710.7
+Manufacturing 454.6 503.4 543.5
+Transport and storage 303.6 299.8 305.1
+Agriculture, forestry, and fishing 267.7 296.7 297.9
+Construction 173.6 214.3 223.7
+Professional, scientific, and technical activities 177.9 124.9 151.6
+Administrative and support service activities 184.8 187.5 198.8
+Electricity, gas, steam, and air conditioning supply 99.4 78.4 89.7
+Other sectors 199.0 289.3 332.4
+Total 3,656.3 3,922.9 4,054.8
+Luminor Interim Report Q1 2022 27
+Loans to customers by gross carrying amount and expected credit loss allowance
+31 December 2021 Gross carrying Allowance for Net carrying
+€m amount impairment amount
+Mortgage loans 4,833.6 -30.4 4,803.2
+Leasing 454.9 -2.0 452.9
+Consumer and card loans 108.3 -1.2 107.1
+Other loans 283.3 -6.5 276.8
+Individual customers 5,680.1 -40.1 5,640.0
+Loans 2,837.1 -47.5 2,789.6
+Leasing 889.7 -11.7 878.0
+Factoring 257.0 -1.7 255.3
+Business customers 3,983.8 -60.9 3,922.9
+Financial institutions 200.2 -0.7 199.5
+Public sector 184.5 -0.2 184.3
+Total 10,048.6 -101.9 9,946.7
+31 March 2022 Gross carrying Allowance for Net carrying
+€m amount impairment amount
+Mortgage loans 4,889.4 -30.9 4,858.5
+Leasing 448.6 -2.1 446.5
+Consumer and card loans 110.0 -1.2 108.8
+Other loans 281.8 -6.1 275.7
+Individual customers 5,729.8 -40.3 5,689.5
+Loans 2,958.2 -53.3 2,904.9
+Leasing 909.4 -12.9 896.5
+Factoring 255.4 -2.0 253.4
+Business customers 4,123.0 -68.2 4,054.8
+Financial institutions 206.3 -0.7 205.6
+Public sector 173.7 -0.3 173.4
+Total 10,232.8 -109.5 10,123.3
+28 Luminor Interim Report Q1 2022
+Loans to customers by risk category and stage
+The credit quality of loans to customers is disclosed in the tables below according to our internal risk scale and methodology,
+the details of which have been disclosed in the Luminor Bank AS Annual Report 2021.
+31 December 2021, €m Stage 1 Stage 2 Stage 3 POCI Total
+Low risk 5,949.6 307.4 0.0 3.3 6,260.3
+Moderate risk 2,342.9 745.4 0.0 6.9 3,095.2
+High risk 159.5 324.6 0.0 23.4 507.5
+Default 0.0 0.0 180.5 5.1 185.6
+Gross carrying amount 8,452.0 1,377.4 180.5 38.7 10,048.6
+Allowance for impairment -16.3 -28.6 -55.5 -1.5 -101.9
+Net carrying amount 8,435.7 1,348.8 125.0 37.2 9,946.7
+31 March 2022, €m Stage 1 Stage 2 Stage 3 POCI Total
+Low risk 6,007.4 537.3 0.0 3.2 6,547.9
+Moderate risk 1,951.5 1,053.8 0.0 6.6 3,011.9
+High risk 124.9 353.7 0.0 23.3 501.9
+Default 0.0 0.0 166.4 4.7 171.1
+Gross carrying amount 8,083.8 1,944.8 166.4 37.8 10,232.8
+Allowance for impairment -21.3 -31.7 -55.4 -1.1 -109.5
+Net carrying amount 8,062.5 1,913.1 111.0 36.7 10,123.3
+Information about credit loss allowances
+For the purposes of the movement schedules below, Luminor assesses Stages only at the reporting date and transfers between
+the Stages reflect this. Movements between stages are measured at the beginning of the reporting period.
+Luminor Interim Report Q1 2022 29
+€m Credit loss allowance Gross carrying amount
+Stage 1 Stage 2 Stage 3 POCI Total Stage 1 Stage 2 Stage 3 POCI Total
+As at 31 December 2020 -21.3 -23.1 -89.1 -3.4 -136.9 7,958.3 1,266.2 288.2 55.0 9,567.7
+Movements with impact on
+credit loss allowances
+Transfers within Stages:
+to Stage 1 -4.8 2.8 2.0 0.0 0.0 252.4 -238.6 -13.8 0.0 0.0
+to Stage 2 1.2 -4.1 2.9 0.0 0.0 -225.5 250.2 -24.7 0.0 0.0
+to Stage 3 3.1 1.0 -4.1 0.0 0.0 -17.5 -53.7 71.2 0.0 0.0
+Originated or purchased -6.7 0.0 0.0 0.0 -6.7 539.9 0.0 0.0 5.4 545.3
+Derecognised and repaid 0.6 0.4 19.0 0.0 20.0 -464.4 -79.2 -32.6 -7.6 -583.8
+Changes to ECL model 7.3 -3.2 -17.5 -0.1 -13.5 0.0 0.0 0.0 0.0 0.0
+assumptions and effect
+from changes in Stages
+Management overlay -1.0 1.9 0.0 -0.2 0.7 0.0 0.0 0.0 0.0 0.0
+adjustment
+Total -0.3 -1.2 2.3 -0.3 0.5 84.9 -121.3 0.1 -2.2 -38.5
+Movements without impact
+on credit loss allowances
+Write-offs 0.0 0.0 12.3 0.2 12.5 0.0 0.0 -12.3 -0.2 -12.5
+As at 31 March 20211 -21.6 -24.3 -74.5 -3.5 -123.9 8,043.2 1,144.9 276.0 52.6 9,516.7
+1 Out of total POCI loans credit loss allowances -0.2 million EUR is in non-credit-impaired, and -3.3 million EUR is in credit-impaired, gross
+carrying amount 37.6 million EUR is in non-credit-impaired and 15.0 million EUR in credit-impaired.
+€m Credit loss allowance Gross carrying amount
+Stage 1 Stage 2 Stage 3 POCI Total Stage 1 Stage 2 Stage 3 POCI Total
+As at 31 December 2021 -16.3 -28.6 -55.5 -1.5 -101.9 8,452.0 1,377.4 180.5 38.7 10,048.6
+Movements with impact on
+credit loss allowances
+Transfers within Stages:
+to Stage 1 -2.0 1.8 0.2 0.0 0.0 110.4 -109.2 -1.2 0.0 0.0
+to Stage 2 2.0 -3.6 1.6 0.0 0.0 -798.6 821.5 -22.9 0.0 0.0
+to Stage 3 0.2 1.4 -1.6 0.0 0.0 -3.9 -22.1 26.0 0.0 0.0
+Originated or purchased -2.1 0.0 0.0 0.0 -2.1 597.4 0.0 0.0 0.1 597.5
+Derecognised and repaid 0.3 0.8 2.3 0.1 3.5 -273.5 -122.8 -15.7 -1.0 -413.0
+Changes to ECL model -3.4 -9.5 -2.7 0.1 -15.5 0.0 0.0 0.0 0.0 0.0
+assumptions and effect
+from changes in Stages
+Management overlay 0.0 6.0 0.0 0.2 6.2 0.0 0.0 0.0 0.0 0.0
+adjustment
+Total -5.0 -3.1 -0.2 0.4 -7.9 -368.2 567.4 -13.8 -0.9 184.5
+Movements without impact
+on credit loss allowances
+Write-offs 0.0 0.0 0.3 0.0 0.3 0.0 0.0 -0.3 0.0 -0.3
+As at 31 March 20221 -21.3 -31.7 -55.4 -1.1 -109.5 8,083.8 1,944.8 166.4 37.8 10,232.8
+1 Out of total POCI loans credit loss allowances -0.3 million EUR is in non-credit-impaired, and -0.8 million EUR is in credit-impaired, gross
+carrying amount 33.1 million EUR is in non-credit-impaired and 4.7 million EUR in credit-impaired.
+30 Luminor Interim Report Q1 2022
+8. DEPOSITS FROM CUSTOMERS
+€ m 31 Mar 31 Dec 31 March
+2021 2021 2022
+Term deposits 953.5 888.5 818.6
+Demand deposits 10,450.3 9,416.9 9,742.5
+Total 11,403.8 10,305.4 10,561.1
+Deposits from customers by type of customer 31 Mar 31 Dec 31 March
+€ m 2021 2021 2022
+Individual customers 4,513.5 4,788.6 4,602.0
+Business customers 4,049.9 4,044.8 3,762.7
+Financial institutions 378.9 246.9 227.8
+Public sector 2,461.5 1,225.1 1,968.6
+Total 11,403.8 10,305.4 10,561.1
+Deposits from customers by country of registration 31 Mar 31 Dec 31 March
+€ m 2021 2021 2022
+Estonia, Latvia, and Lithuania 11,227.8 10,075.9 10,432.9
+Other EU countries 85.6 80.0 72.1
+Other countries 90.4 149.5 56.1
+Total 11,403.8 10,305.4 10,561.1
+9. DEBT SECURITIES ISSUED
+Carrying amount First call Maturity Nominal 31 Mar 31 Dec 31 March
+€m date date amount 2021 2021 2022
+1.5% senior bond1 Oct 2021 99.3 100.4 0.0 0.0
+1.375% senior bond2 Oct 2022 71.5 301.1 71.8 72.0
+0.01% covered bond3 Mar 2025 500.0 499.8 494.6 480.0
+0.792% senior bond3 Dec 2023 Dec 2024 300.0 299.4 298.3 295.3
+0.539% senior bond Sep 2025 Sep 2026 300.0 0.0 298.9 299.4
+Total 1,270.8 1,200.7 1,163.6 1,146.7
+1 Initial nominal amount was 350 million EUR. We repurchased 250.8 million EUR in December 2020.
+2 Initial nominal amount was 300 million EUR. We repurchased 228.5 million EUR in September 2021.
+3 Hedge accounted. Due to shifts in interest rate expectations in the first quarter of 2022 the fair value of these hedged liabilities decreased.
+Luminor Interim Report Q1 2022 31
+10. DERIVATIVE FINANCIAL INSTRUMENTS
+Fair value 31 Mar 31 Dec 31 March
+€ m 2021 2021 2022
+Interest rate-related contracts 11.5 7.6 17.3
+Currency-related contracts 34.7 22.8 25.2
+Commodity-related contracts 3.4 45.1 100.6
+Total assets 49.6 75.5 143.1
+Interest rate-related contracts 9.8 10.0 30.8
+Currency-related contracts 25.3 15.5 16.2
+Commodity-related contracts 3.3 44.8 99.9
+Total liabilities 38.4 70.3 146.9
+Notional amounts 31 Mar 31 Dec 31 March
+€ m 2021 2021 2022
+Interest rate-related contracts 2,891.3 2,023.7 2,183.8
+Currency-related contracts 1,163.7 1,351.3 1,440.8
+Commodity-related contracts 7.2 170.1 109.6
+Total assets 4,062.2 3,545.1 3,734.2
+Hedge accounting
+Luminor applies hedge accounting only to fair value hedges of issued debt securities. To test hedge effectiveness, Luminor uses
+the hypothetical derivative method and compares the changes in the fair value of the hedging instrument against the changes
+in the fair value of the hedged item attributable to the hedged risk. Ineffectiveness was clearly immaterial as at 31 March and 31
+December 2021, and 31 March 2022. The carrying amount of the derivatives are included in line item ‘Derivative financial
+instruments’ in the Balance Sheet, on either the Assets or Liabilities side depending on the fair value of the instruments. The
+notional and fair value of hedging instruments are:
+Interest rate swaps 31 Mar 31 Dec 31 March
+€ m 2021 2021 2022
+Notional amount 1,100.0 800.0 800.0
+Carrying amount 3.8 -3.5 -21.81
+1 The carrying amount of interest rate swaps fell in the first quarter due to the increase in underlying interest rate curves.
+11. CONTINGENT LIABILITIES
+€m 31 Mar 31 Dec 31 March
+2021 2021 2022
+Undrawn loan commitments given 1,280.1 1,230.1 1,248.6
+Financial guarantees given 550.6 498.9 551.8
+Performance guarantees 149.3 190.5 201.4
+Total 1,980.0 1,919.5 2,001.8
+All off-balance sheet items have a short-term maturity. All exposures have either on demand or less than 1-month settlement.
+32 Luminor Interim Report Q1 2022
+12. FAIR VALUE OF FINANCIAL ASSETS AND LIABILITIES
+The valuation techniques along with the selection of relevant inputs have not changed in the reporting period, except for loans
+to customers, where differentiated interest rates used to discount future cash flows of mortgage loans to private individuals
+and all other loans. For detailed information on the valuation techniques and inputs, please, refer to the Luminor Bank AS Annual
+Report 2021.
+31 December 2021 Fair Value Carrying
+€m Level 1 Level 2 Level 3 Total amount
+Financial assets at amortised cost for which fair values are disclosed
+Cash on hand 136.1 0.0 0.0 136.1 136.1
+Balances with central banks 0.0 2,358.1 0.0 2,358.1 2,358.1
+Due from other credit institutions 0.0 64.4 0.0 64.4 64.4
+Loans to customers 0.0 0.0 9,740.6 9,740.6 9,946.7
+Debt securities 314.4 6.9 0.0 321.3 325.5
+Other financial assets 0.0 15.3 0.0 15.3 15.3
+Financial assets at fair value
+Financial assets held for trading
+Debt securities 2.3 6.3 6.9 15.5 15.5
+Financial assets at fair value through profit or loss
+Equity instruments 0.0 2.7 0.0 2.7 2.7
+Debt securities 265.8 0.0 0.0 265.8 265.8
+Derivative financial instruments 0.0 74.9 0.6 75.5 75.5
+Financial assets at fair value through other comprehensive
+income
+Debt instruments 0.0 1.4 0.0 1.4 1.4
+Equity instruments 0.0 0.0 0.5 0.5 0.5
+Total 718.6 2,530.0 9,748.6 12,997.2 13,207.5
+Liabilities at amortised cost for which fair values are disclosed
+Loans and deposits from credit institutions 0.0 83.8 0.0 83.8 83.8
+Deposits from customers 0.0 9,416.9 888.5 10,305.4 10,305.4
+Debt securities issued 0.0 1,106.4 0.0 1,106.4 1,163.6
+Other financial liabilities 0.0 29.0 0.0 29.0 29.0
+Financial liabilities at fair value
+Derivative financial instruments 0.0 70.3 0.0 70.3 70.3
+Total 0.0 10,706.4 888.5 11,594.9 11,652.1
+Luminor Interim Report Q1 2022 33
+31 March 2022 Fair Value Carrying
+€m Level 1 Level 2 Level 3 Total amount
+Financial assets at amortised cost for which fair values are disclosed
+Cash on hand 148.2 0.0 0.0 148.2 148.2
+Balances with central banks 0.0 2,455.4 0.0 2,455.4 2,455.4
+Due from other credit institutions 0.0 70.1 0.0 70.1 70.1
+Loans to customers 0.0 0.0 10,016.4 10,016.4 10,123.3
+Debt securities 497.6 6.6 0.0 504.2 536.7
+Other financial assets 0.0 0.0 13.0 13.0 13.0
+Financial assets at fair value
+Financial assets held for trading
+Debt securities 8.1 1.1 7.2 16.4 16.5
+Financial assets at fair value through profit or loss
+Equity instruments 0.0 2.4 0.0 2.4 2.4
+Debt securities 219.2 0.0 0.0 219.2 219.2
+Derivative financial instruments 0.0 141.1 2.0 143.1 143.1
+Financial assets at fair value through other comprehensive
+income
+Debt securities 0.0 1.3 0.0 1.3 1.3
+Equity instruments 0.0 0.0 0.5 0.5 0.5
+Total 873.1 2,678.0 10,039.1 13,590.2 13,729.7
+Liabilities at amortised cost for which fair values are disclosed
+Loans and deposits from credit institutions 0.0 213.1 0.0 213.1 213.1
+Deposits from customers 0.0 9,742.5 818.6 10,561.1 10,561.1
+Debt securities issued 0.0 1,140.3 0.0 1,140.3 1,146.7
+Other financial liabilities 0.0 0.0 78.0 78.0 78.0
+Financial liabilities at fair value
+Derivative financial instruments 0.0 146.9 0.0 146.9 146.9
+Total 0.0 11,242.8 896.6 12,139.4 12,145.8
+Change in debt securities in Level 3 Q1 FY
+€m 2021 2022 2021
+Opening balance 6.2 6.9 6.2
+Additions or disposals 0.0 0.0 0.0
+Unrealised gains for assets held at the end of the reporting period 0.3 0.3 0.7
+Closing balance 6.5 7.2 6.9
+34 Luminor Interim Report Q1 2022
+13. RELATED PARTIES
+Luminor Bank AS is owned by Luminor Holding AS, which is ultimately controlled by BCP VII, an investment fund managed by an
+affiliate of Blackstone Group Inc. Other shareholders of Luminor Holding AS - Nordea Bank Abp and DNB BANK ASA - are also
+considered to have significant influence over Luminor Holding AS. Related parties are defined as shareholders and entities with
+significant influence, control, or joint control; members of the Supervisory Council and the Management Board as key
+management personnel, their close relatives, and companies in which they have a controlling interest; and associated
+companies. A number of banking transactions are entered into with related parties in the normal course of business, as follows:
+Entities with significant influence
+€m Q1 FY
+2021 2022 2021
+Interest expenses -4.0 -17.71 -7.9
+Net commission and fee income -0.1 -0.1 -0.2
+Net other financial income 19.7 18.0 27.0
+Other administrative expenses -2.1 0.0 -4.0
+Other income and expenses 0.2 0.1 0.4
+Total 13.7 0.3 15.3
+1 Interest expense includes reduction in value of interest rate swaps.
+€m 31 Mar 31 Dec 31 March
+2021 2021 2022
+Due from other credit institutions 21.7 11.5 18.5
+Derivative instruments 31.4 54.8 94.9
+Other assets 0.0 0.3 0.0
+Total assets 53.1 66.6 113.4
+Due to credit institutions 5.0 63.1 84.8
+Derivative instruments 23.1 21.2 39.4
+Other liabilities 8.7 0.0 0.0
+Total liabilities 36.8 84.3 124.2
+Key management personnel
+€m Q1 FY
+2021 2022 2022
+Payments of fixed and variable remuneration 0.4 0.6 2.7
+€m 31 Mar 31 Dec 31 March
+2021 2021 2022
+Loans to customers 0.1 0.1 0.1
+Deposits from customers 0.4 0.9 1.5
+Associated companies
+ALD Automotive (3 entities) 31 Mar 31 Dec 31 March
+€ m 2021 2021 2022
+Loans to Customers 9.9 5.9 5.2
+Deposits from customers 0.5 0.5 0.5
+Luminor Interim Report Q1 2022 35
+14. SEGMENT REPORTING
+€m Q1
+2021 2022
+Retail Corporate Other Total Retail Corporate Other Total
+Net interest and similar income 26.8 29.0 0.8 56.6 29.2 32.5 1.4 63.1
+Net fee and commission income 12.4 5.2 0.0 17.6 12.1 6.1 -0.2 18.0
+Net other financial income 1.6 1.8 1.2 4.6 1.7 4.2 -0.8 5.1
+Other income 0.2 0.1 -2.2 -1.9 0.0 -0.2 -3.3 -3.5
+Total operating income 41.0 36.1 -0.2 76.9 43.0 42.6 -2.9 82.7
+Total operating expenses -46.0 -23.6 -0.9 -70.5 -34.6 -19.3 -0.7 -54.6
+Credit loss allowance 2.4 -2.6 0.1 -0.1 -0.6 -10.1 -0.7 -11.4
+Other 0.0 0.2 0.0 0.2 -0.2 0.2 0.0 0.0
+Profit (-loss) before tax -2.6 10.1 -1.0 6.5 7.6 13.4 -4.3 16.7
+€m FY 2021
+Retail Corporate Other Total
+Net interest and similar income 110.2 125.8 3.2 239.2
+Net fee and commission income 52.8 25.3 0.4 78.5
+Net other financial income 7.2 9.7 4.0 20.9
+Other income 0.3 0.3 -10.3 -9.7
+Total operating income 170.5 161.1 -2.7 328.9
+Total operating expenses -170.3 -89.9 -2.6 -262.8
+Credit loss allowance 11.6 2.5 0.7 14.8
+Other -0.1 1.7 -0.1 1.5
+Profit (-loss) before tax 11.7 75.4 -4.7 82.4
+36 Luminor Interim Report Q1 2022
+Fee and commission income by segment
+€m Q1
+2021 2022
+Retail Corporate Other Total Retail Corporate Other Total
+Cards 6.1 0.9 0.0 7.0 7.4 1.3 0.0 8.7
+Credit products 0.1 0.8 0.1 1.0 0.1 1.3 0.0 1.4
+Daily banking plans 3.8 0.1 0.0 3.9 4.0 0.1 0.0 4.1
+Deposit products and cash management 2.1 1.9 0.0 4.0 2.0 2.0 0.0 4.0
+Insurance 0.7 0.2 0.0 0.9 0.7 0.1 0.0 0.8
+Investments 0.7 0.2 0.2 1.1 0.5 0.2 0.4 1.1
+Pensions 2.5 0.0 0.0 2.5 2.3 0.0 0.0 2.3
+Trade finance 0.0 2.0 0.0 2.0 0.0 2.3 0.0 2.3
+Other fee and commission income 0.0 0.1 0.0 0.1 0.2 0.1 0.0 0.3
+Total 16.0 6.2 0.3 22.5 17.2 7.4 0.4 25.0
+€m FY 2021
+Retail Corporate Other Total
+Cards 29.1 5.1 0.0 34.2
+Credit products 0.5 4.2 0.2 4.9
+Daily banking plans 15.3 0.3 0.4 16.0
+Deposit products and cash management 8.5 8.1 0.2 16.8
+Insurance 3.0 0.9 0.0 3.9
+Investments 2.8 1.6 0.7 5.1
+Pensions 11.3 0.2 0.0 11.5
+Trade finance 0.1 8.8 0.0 8.9
+Other fee and commission income 0.5 0.3 0.0 0.8
+Total 71.1 29.5 1.5 102.1
+Luminor Interim Report Q1 2022 37
+Customer balances
+€m 31 Mar 31 Dec 31 March
+2021 2021 2022
+Retail 5,311.9 5,436.5 5,416.5
+Corporate 4,198.4 4,627.9 4,831.1
+Other 30.0 19.3 19.7
+Loans to customers (excludes allowances and interest) 9,540.3 10,083.7 10,267.3
+Retail 5,761.5 6,066.3 5,804.9
+Corporate 5,588.7 4,196.8 4,692.1
+Other 53.6 42.3 64.1
+Deposits from customers 11,403.8 10,305.4 10,561.1
+The table below reconciles the total Loan to customers shown above to the net carrying amount on the Balance Sheet
+€m 31 Mar 31 Dec 31 March
+2021 2021 2022
+Total under segment reporting 9,540.3 10,083.7 10,267.3
+Accrued interest 23.3 9.4 9.8
+Allowance -123.9 -101.9 -109.5
+Initial impairment -21.9 -15.7 -16.3
+Amortized fee -25.0 -28.8 -28.0
+Net carrying amount 9,392.8 9,946.7 10,123.3
+38 Luminor Interim Report Q1 2022
+GLOSSARY
+Cost/income ratio
+Total operating expenses as a percentage of total operating income.
+Return on Equity
+Profit for the period (annualized) as a percentage of average shareholders’ equity for that period. The average shareholders’
+equity is calculated using the opening and closing balances for the period.
+POCI loans
+Purchased or originated credit impaired loans
+Non-performing loans ratio
+Gross carrying amount for Stage 3 loans as a percentage of gross carrying amount of total loans.
+Common Equity Tier 1 ratio
+Shareholders’ equity subject to regulatory adjustments as a percentage of total Risk Exposure Amounts.
+Leverage ratio
+Tier 1 capital as a percentage of total assets and off-balance sheet items subject to regulatory adjustments.
+Liquidity coverage ratio
+High-quality liquid assets as a percentage of the estimated net liquidity outflow over the next 30 calendar days.
+Net stable funding ratio
+Available stable funding as a percentage of required stable funding over a one-year horizon.
+INFORMATION ABOUT LUMINOR
+Luminor Bank AS
+Country of registration Commercial register code Main activity
+Republic of Estonia 11315936 Credit institution
+Telephone E-mail SWIFT/BIC
++372 628 3300 info@luminor.ee RIKOEE22
+Balance sheet date Reporting period Reporting currency
+31 March 2022 1 January to 31 March 2022 euro
+Contacts
+For media: For investors:
+Ivi Heldna Nick Turnor
+ivi.heldna@luminorgroup.com nick.turnor@luminorgroup.com
++372 5231 192 +372 5306 7820
+Luminor Interim Report Q1 2022 39
+Luminor Bank AS
+Liivalaia 45
+10145 Tallinn
+Estonia
+www.luminor.ee
+4 0 Luminor Interim Report Q1 2022

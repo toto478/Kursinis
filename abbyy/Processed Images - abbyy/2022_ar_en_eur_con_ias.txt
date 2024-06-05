@@ -1,0 +1,2769 @@
+LIMITED LIABILITY COMPANY
+STORENT HOLDINGS
+(REGISTRATION NUMBER 40203174397)
+CONSOLIDATED ANNUAL REPORT 2022
+PREPARED IN ACCORDANCE WITH THE
+INTERNATIONAL FINANCIAL REPORTING STANDARDS
+AS ADOPTED BY THE EUROPEAN UNION
+AND INDEPENDENT AUDITORS’ REPORT
+Riga, 2023
+* This version of consolidated financial statements is a translation from the original, which was prepared in the Latvian language. All
+possible care has been taken to ensure that the translation is an accurate representation of the original. However, in all matters of
+interpretation of information, the original language version of consolidated financial statements takes precedence over this translation.
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+CONTENTS
+General information 3
+Management report 4
+Statement of management’s responsibility 7
+Consolidated financial statements
+Consolidated statement of comprehensive income 8
+Consolidated statement of financial position 9
+Consolidated statement of cash flows 11
+Consolidated statement of changes in equity 12
+Notes to the consolidated financial statements 13
+Independent auditors’ report 61
+2
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+General information
+Name of the Group’s Parent company Storent Holdings (previously – Alfasport)
+Legal status of the Group’s Parent company Limited liability company (Latvian - sabiedrība ar ierobežotu atbildību)
+The Group Parent company’s registration 40203174397
+number, place and date Riga, 11 October 2018
+Registered address of the Group’s Parent 15a Matrozu Street, Riga, LV-1048,
+company Latvia
+Shareholders of the Group’s Parent company Supremo SIA (Latvia) 50%, Andris Pavlovs, since 28.12.2022
+EEKI SIA (Latvia) 50%, Eri Esta, since 28.12.2022
+Supremo SIA (Latvia) 33,33%%, Andris Pavlovs, till 28.12.2022
+EEKI SIA (Latvia) 33,33%%, Eri Esta, till 28.12.2022
+Bomaria SIA (Latvia) 33,33%, Andris Bisnieks till 28.12.2022
+Members of the Board Andris Pavlovs, Chairman of the Board
+Eri Esta, Member of the Board
+Andris Bisnieks, Member of the Board till 30.12.2022
+Group’s type of operations Renting and leasing of construction machinery and equipment
+Group’s NACE code 77.32 (2.0 rev) Rental and leasing of construction and civil engineering
+machinery and equipment
+Independent auditor and sworn auditor name KPMG Baltics SIA
+and address Roberta Hirša street 1, Riga
+Latvia, LV – 1045
+License No. 55
+Armine Movsisjana
+Latvian Sworn Auditor
+Certificate No. 178
+3
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Management report
+The Group’s type of operations
+Storent Holdings SIA (hereinafter – the Group’s Parent company or Storent Holdings) was established on 11 October 2018. On 28
+December 2022, Storent Holdings acquired all shares of Storent Investments AS and SEL Investments SIA (hereinafter – the Group).
+Given the sizes and business specifics of the Group components, the Group accounts for these business combinations as reverse
+acquisition – Storent Holdings (the legal acquirer) is identified as the accounting acquiree and Storent Investments AS (the legal acquiree)
+is identified as the accounting acquirer. As a result, from the point of view of the combined entity (the Group), the acquisition of SEL
+Investments SIA and Storent Holdings are accounted for using the acquisition method. The first company of the Group - Storent SIA - was
+established in 2008 by Andris Bisnieks and Andris Pavlovs with the objective of becoming one of the leading equipment rental companies
+in the Baltics and nearest European countries. In the end of 2022 the Group’s management have decided to sell the subsidiary in Russia
+(Kaliningrad) and currently it is in the process of legal formalities. The structure of the newly created group of companies is as follows:
+The Group’s objective is to provide customers with rental equipment solutions utilizing modern digital tools, team expertise and providing
+excellent service. Online sales channel with advanced IT solutions ensures fast, convenient and contactless rental process with
+competitive pricing.
+Development of the Group and results of financial operations in the reporting year
+As these consolidated financial statements have been prepared applying the reverse acquisition as a continuation of the amounts
+previously presented in the consolidated financial statements of Storent Investments AS, the consolidated results of the Group for 2022
+include the consolidated statement of comprehensive income of the the legal acquiree (identified as the accounting acquirer) Storent
+Investments AS for the full reporting period and the consolidated statements of comprehensive income of accounting acquirees Storent
+Holdings SIA and SEL Investments SIA and its subsidiaries SELECTIA SIA and SELECTIA PLUS SIA from the date of their acquisition
+and up to the end of the reporting period.
+Storent Investments AS and its subsidiaries in addition to a modern rental fleet and a large rental depo network have a wide customer
+base with a very well-developed trademark, experienced team and digital know-how. SEL Investments SIA and its two subsidiaries own
+around 50% of the construction equipment fleet that Storent group operates. The merger of both groups will allows to increase expertise
+and improve financial ratios to continue the development of the Group with a significantly higher speed and profitability.
+Despite the unstable geopolitical situation in 2022, the Group managed to slightly improve its consolidated performance indicators. Net
+revenue increased by 3% and total revenue (including other operating income) by 8%, as well as it was possible to reduce the negative
+net result (before the effect of the gain on bargain purchase) by almost one million euros and concluded financial year with positive net
+result of 4.8 million euro. The Group management worked on efficiency increase by reducing headcount during 2022 by 18 people, as well
+as realized savings on other expenses positions during the financial year. Construction markets increased in all countries where Storent
+operates. Although rental market still faces strong price competition and rental equipment overcapacity, rental prices started to rise slowly
+mainly due to the high inflation level.
+4
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Following table show more detailed historical and budgeted performance of the Group:
+2022 adjusted
+consolidated result*
+2023 budget (SIA (SIA Storent 2022 consolidated 2021 consolidated
+Storent Holdings Holdings group result (SIA Storent result (SIA Storent
+group) assuming it was Holdings group) Holdings group**)
+established in
+Thousands euro January 2022)
+Net revenue 45 495 41 751 43 578 42 267
+Total revenue 46 637 44 947 47 196 43 552
+EBITDA 14 740 13 827 5 170 5 405
+EBITDA % 32% 31% 11% 12%
+Net result 4 943 9 471 4 791 -3 426
+Net Income % 11% 21% 10% -8%
+Gain or bargain purchase 0 7 271 7 271 0
+Net result without gain on bargain
+4 943 2 200 -2 480 -3 426
+purchase
+*Please see note 35.c
+**These consolidated financial statements have been prepared following a reverse acquisition as a continuation of the amounts from the
+consolidated financial statements of Storent Investments AS.
+The Group’s consolidated balance sheet has a stable structure consisting of 45% shareholders equity, 18% long term liabilities and 37%
+short term liabilities. Non-current assets constitute 80% of the total assets. The Group’s business peculiarity historically was always having
+a working capital deficit due to large amount of liabilities to finance investments in rental equipment; however, this has not prevented the
+Group from meeting its obligations in accordance with their terms. Almost 700 thousand euros Group’s total bank account balance at the
+end of the reporting period is sufficient to ensure the Group’s operational activities. Following table shows main historical and planned
+balance sheet ratios:
+31.12.2022 31.12.2021
+31.03.2023 budget
+consolidated result consolidated result
+(SIA Storent
+(SIA Storent (SIA Storent
+Holdings group)
+Thousands euro Holdings group) Holdings group*)
+Shareholder equity 24 774 23 057 12 114
+Total assets 55 701 51 431 45 501
+Shareholder equity to Assets 44.5% 44.8% 26.6%
+Net debt 18 979 20 008 25 639
+*These consolidated financial statements have been prepared following a reverse acquisition as a continuation of the amounts from the
+consolidated financial statements of Storent Investments AS.
+Baltic region rental operations increased by 3.5% with two digits number increase rate in Latvia, smaller increase in Estonia and minor
+decrease in Lithuania. The Baltic region accounts for approximately 70% of the Group’s net revenue. In 2022, the growth of construction
+market in Estonia was almost 17%. The market growth is expected to be modest in 2023, while various construction projects will continue
+during the year, such as Rail Baltica and its adjacent infrastructure. In 2022, the Latvian construction market increased by 7%. In 2023,
+several large and medium-scale projects are planned, some of which will be implemented within the framework of EU programs and also
+Rail Baltica project has significant impact on construction market activity. In 2022, the Lithuanian construction market continued to grow,
+reaching 24% increase. There was an increase in all segments of construction. In 2023, the Rail Baltica project will continue, which will
+provide additional demand for rental equipment throughout the Baltics, and gives the management additional confidence for 2023.
+Construction market volume historical data and forecast doesn’t always reflect the construction rental market potential. It depends on the
+construction project types and stages at the exact year. The Group’s entities growth possibilities are higher in the markets, where Storent
+has smaller share of the market. It’s expected that the lack of construction workforce and higher personnel costs will increase prices and
+demand of rental construction equipment as construction companies will look for ways how to replace manual work with increased use of
+tools and equipment.
+5
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Nordic operations increased by 2% in 2022 compared to 2021 with similar grow rate in both countries. Constructions market showed also
+a small increase, that allowed also to increase rental prices. In spring 2022 Finnish entity sold its transportation department and now is
+using it as an outsourced service. That allows to focus on rental operations’ profitability. Swedish operations were stable and more
+customers started to come from outside Stockholm area. Forecast for 2023 for construction market in Nordic countries is with small
+decrease, Storent market share is very small in these countries so it should not affect sales results.
+Operations of subsidiary Storent OOO in Kaliningrad have seen a significant revenue increase, reaching 48% increase compared to
+2021. At the end of 2022, the Group’s management decided to sell the subsidiary in Russia (Kaliningrad) and, currently, is in the process
+of legal formalities. The Group monitors and follows sanction restrictions, and so far, they don’t affect subsidiary’s activities.
+In 2022, the Group continued cooperation with split-rent and re-rent platform PreferRent. In early 2022, Storent entities in the Baltics joined
+online logistics platform Cargopoint that allows to organize transportation in a more efficient manner and gives opportunity to serve a wider
+range of customers with a more competitive price. Storent Group continued to develop and invest in IT technologies. In December 2022,
+implementation of new IT system was started, and it is expected that IRMS (Intelligent Rental Management System) will be implemented
+in all Storent group companies by the end of 2023. It will allow to improve efficiency and ensure convenient and up-to-date rental process.
+A flexible approach to rental fleet rotation among Storent Group companies ensured a quicker response to construction market changes
+and, overall, a more efficient rental fleet usage. In 2022, Storent Investments AS continued to develop online rental service. Online ordering
+is a stable sales channel and it makes up to 50% of the total income of Storent in the Baltic states for the year 2022. Historically, the
+highest numbers have been reached for digital authorisations and electronically signed documents of 90% of all rental deliveries.
+The future development of the Group
+The Group management plans further development of subsidiaries in five countries as a part of Storent Holdings group.
+In 2023, Storent group will continue to focus on an improvement of sales process efficiency, additions to and renewal of rental fleet, as
+well as develop online sales and digitalization. The management of the Group expects that the rental revenues will increase by 10%, which
+will be facilitated by new investments in rental equipment, increase of rental prices and online sales. In the summer of 2023, it is planned
+to introduce a new website that will be more convenient for the end user. The goal of Storent group is to keep the volume of online orders
+close to 60% of the total rental income and 90% digitally signed transactions. The Group will continue to transform its IT strategy to comply
+with the scalability needs and it is planned to complete the implementation of the new cloud-based ERP system by the end of 2023.
+Please see Note 36 for the management consideration of the Group’s ability to continue as a going concern ..
+Financial risk management
+The Group’s key principles of financial risk management are laid out in Note 33.
+Conditions and events after the end of the reporting year
+In April 2023, Storent Holdings SIA announced a new bond issue of up to EUR 15 million, which will, for the first time, be open to both
+retail and institutional investors. The Group will use the proceeds for new investments, further mergers and acquisition and to refinance
+its liabilities.
+After the year end, the Group has started the legal reorganization process, which was approved in the end of 2022, to complete the
+merger of its subsidiaries – SEL Investments SIA with Storent Investments AS and Selectia SIA, Selectia Plus with Storent SIA – by the
+end of 2023, which will save administrative costs, excluding mutual transactions and the costs associated with their accounting and
+simplifying internal processes in the subsidiary entities. Since January 2023, all equipment is leased between the Group’s subsidiary
+companies without the intermediary of the PreferRent platform, which creates savings for the Group.
+As of the last day of the reporting year until the date of signing these consolidated financial statements, there have been no other events
+requiring adjustment of or disclosure in the consolidated financial statements or notes thereto.
+On behalf of the Group, the management report was signed on 10 May 2023 by:
+Andris Pavlovs
+Chairman of the Board
+Consolidated annual report is approved in shareholders meeting on 10 May 2023
+6
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Statement of management’s responsibility
+The Group’s management confirms that the consolidated financial statements have been prepared in accordance with the applicable
+legislation requirements and present a true and fair view of the Group’s financial position as at 31 December 2022 and as at 31 December
+2021 and its financial performance and cash flows for the years 2022 and 2021 then ended. The management report contains a clear
+summary of the Group’s business development and financial performance. The consolidated financial statements have been prepared
+according to the International Financial Reporting Standards as adopted by the European Union. During the preparation of the Group’s
+consolidated financial statements the management:
+ used and consequently applied appropriate accounting policies;
+ provided reasonable and prudent judgments and estimates;
+ applied a going concern principle unless the application of the principle wouldn’t be justifiable.
+The Group’s management is responsible for maintaining appropriate accounting records that would provide a true and fair presentation of
+the Group’s financial position at a particular date and financial performance and cash flows and enable the management to prepare the
+consolidated financial statements according to the International Financial Reporting Standards as adopted by the European Union.
+On behalf of the Group, this statement of management’s responsibility was signed on 10 May 2023 by:
+Andris Pavlovs
+Chairman of the Board
+7
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Consolidated statement of comprehensive income
+Notes 2022 2021
+EUR EUR
+Net revenue 3 43 578 307 4 2 267 488
+Other operating income 4 3 617 951 1 284 360
+Cost of materials and services 5 (26 587 864) ( 23 652 731)
+Personnel costs 11 (8 338 616) ( 8 673 428)
+Other operating expenses 6 (6 642 048) ( 5 879 621)
+Depreciation and amotrization 7 (5 187 395) ( 6 603 269)
+Impairement gain / (loss) on trade receivables and contract asset (458 046) 59 436
+Impairement loss on goodwill (329 585) -
+Gain in bargain purchase 35(c) 7 270 495 -
+Finance income 8 24 284 2 3 386
+Finance expenses 9 (2 137 530) ( 2 439 986)
+Profit / (loss) before income tax 4 809 953 (3 614 365)
+Income tax income / (expenses) 10 (3 426) (1 008)
+Profit/(loss) from continuing operations 4 806 527 (3 615 373)
+Profit/(loss) from discontinuing operation, net of tax (31 987) 2 12 523
+Profit / (loss) for the year 4 774 540 (3 402 850)
+Items that may be reclasified subsequently to profit or loss
+Exchange differences on foreign currency operations 1 6 335 ( 23 033)
+Other comprehensive income/(loss) for the year 16 335 ( 23 033)
+Total comprehensive income/(loss) for the year 4 790 875 (3 425 883)
+The notes on pages 13 to 60 are an integral part of these consolidated financial statements.
+On behalf of the Group these consolidated financial statements were signed on 10 May 2023 by:
+Andris Pavlovs
+Chairman of the Board
+Baiba Onkele
+Chief financial officer
+8
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Consolidated statement of financial position
+ASSETS
+Note 31.12.2022 31.12.2021
+NON-CURRENT ASSETS EUR EUR
+Intangible assets
+Licences and similar rights 57 708 20 816
+Computer software 2 018 611 1 030 135
+Intangible assets in process - 985 288
+Goodwill 10 987 122 11 316 707
+TOTAL Intangible assets 12 13 063 441 13 352 946
+Property, plat and equipment
+Lands and buildings 189 014 204 070
+Machinery and equipment 17 921 810 9 382 163
+Other fixed assets 352 439 369 586
+TOTAL Property, plat and equipment 13 18 463 263 9 955 819
+Right of use assets
+Right of use assets 14 9 927 276 13 428 294
+Other non-current assets
+Deferred income tax assets 10 - 1 286
+TOTAL Other non-current assets - 1 286
+TOTAL NON-CURRENT ASSETS 41 453 980 36 738 345
+CURRENT ASSETS
+Inventories 15 1 155 604 1 150 870
+Receivables
+Trade receivables 17 7 417 358 5 928 929
+Contract assets 18 2 667 4 192
+Other receivables 19 280 352 232 513
+Prepaid expenses 20 227 830 119 628
+TOTAL Receivables 7 928 207 6 285 262
+Cash and cash equivalents 21 675 051 920 267
+Non-current assets held for sale 16 217 933 406 596
+TOTAL CURRENT ASSETS 9 976 795 8 762 995
+TOTAL ASSETS 51 430 775 45 501 340
+The notes on pages 13 to 60 are an integral part of these consolidated financial statements.
+On behalf of the Group these consolidated financial statements were signed on 10 May 2023 by:
+Andris Pavlovs
+Chairman of the Board
+Baiba Onkele
+Chief financial officer
+9
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Consolidated statement of financial position
+EQUITY AND LIABILITIES
+Note 31.12.2022 31.12.2021
+EQUITY EUR EUR
+Share capital 22 18 150 000 150 000
+Reserves:
+Foreign currency translation reserve (31 801) (48 136)
+Other reserves 2 6 774 26 774
+Accumulated losses:
+Retained earings/ (accumulated losses) 4 912 380 1 1 985 211
+TOTAL EQUITY 23 057 353 1 2 113 849
+CREDITORS
+Long-term liabilities
+Lease liabilities 25 3 488 376 6 789 551
+Other borrowing 26 5 685 286 1 504 527
+Deferred income tax liabilities - 1 286
+TOTAL Long-term liabilities 9 173 662 8 295 364
+Short-term liabilities
+Issued bonds 24 4 898 735 4 838 565
+Borrowings from related parties 31(c) 1 339 536 6 123 340
+Lease liabilities 25 3 561 067 5 133 199
+Other borrowing 26 1 372 568 1 766 203
+Contract liabilities 18 337 402 404 345
+Trade payables 5 162 359 3 945 995
+Corporate income tax 5 31 1 7 472
+Taxes and mandatory state social insurance contributions 27 680 110 923 160
+Deferred income 28 49 540 79 443
+Other provisions 23 128 956 138 903
+Other liabilities 29 356 645 389 481
+Accured liabilities 30 1 194 378 1 308 982
+Liabilities directly associated with the assets held for sale 16 117 933 23 039
+TOTAL Short-term liabilities 1 9 199 760 25 092 127
+TOTAL LIABILITIES 28 373 422 33 387 491
+TOTAL EQUITY ND LIABILITIES 51 430 775 45 501 340
+The notes on pages 13 to 60 are an integral part of these consolidated financial statements.
+On behalf of the Group these consolidated financial statements were signed on 10 May 2023 by:
+Andris Pavlovs
+Chairman of the Board
+Baiba Onkele
+Chief financial officer
+10
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Consolidated statement of cash flows
+Notes 2022 2021
+EUR EUR
+Cash flows from operating activities
+Loss for the year 4 774 540 (3 402 850)
+Adjustments:
+Income tax expenses 3 426 5 7 655
+Amortisation of intagible assets and depreciation of fixed
+assets, plant and equipment 12,13,14 5 187 395 6 687 324
+Net result on diposal of property, plant and equipment (887 589) 138 892
+Interest expenses 9 1 984 104 2 398 072
+Provision decrease (9 948) 21 984
+Impairment losses on intangible asets and goodwill 329 585 -
+Gain on bargain purchase 35(c) (7 270 495) -
+Cash flows from operating activities before changes in
+working capital 4 111 018 5 901 077
+Receivables (increase)/ decrease 673 967 1 812 710
+Inventories decrease / (increase) 301 862 (42 523)
+Payables (decrease) / increase 297 183 479 537
+Gross cash flows from operating activities 5 384 030 8 150 801
+Interest paid (1 519 240) (1 754 859)
+Corporate income tax paid (16 940) (37 505)
+Net cash flows from operating activities 3 847 850 6 358 437
+Cash flows from investing activities
+Cash in subsidiary at the aquistion moment 35(b) 173 490 -
+Purchase of intangible assets and property, plant and equipment (2 824 088) (2 225 314)
+Proceeds from sale of property, plant and equipment 5 649 303 6 665 804
+Net cash flows from investing activities 2 998 705 4 440 490
+Cash flows from financing activities
+Proceeds from borrowings from related parties 650 000 -
+Repayment of bonds - (2 625 800)
+Repayment of other borrowings (2 795 101) (3 933 999)
+Repayment of lease liabilities (4 963 004) (7 015 968)
+Net cash flows from financing activities (7 108 105) (13 575 767)
+Foreign currency exchange 16 335 (23 033)
+Net cash flows for the years (245 215) (2 799 873)
+Cash and cash equivalents at the beginning of the reporting year 9 20 267 3 720 140
+Cash at the end of the reporting year 21 675 052 920 267
+The notes on pages 13 to 60 are an integral part of these consolidated financial statements.
+On behalf of the Group these consolidated financial statements were signed on 10 May 2023 by:
+Andris Pavlovs
+Chairman of the Board
+Baiba Onkele
+Chief financial officer
+11
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Consolidated statement of changes in equity
+Foreign Retained
+currency Other earnings/
+Share capital* Total
+translation reserves** (accumulated
+reserve losses)
+EUR EUR EUR EUR EUR
+Balance at 31 December 2020 150 000 ( 25 103) 2 6 774 1 5 388 061 1 5 539 732
+Loss for the year - - - ( 3 402 850) ( 3 402 850)
+Other comprehensive expenses - ( 23 033) - - ( 23 033)
+Balance at 31 December 2021 150 000 ( 48 136) 2 6 774 1 1 985 211 1 2 113 849
+Profit for the year - - - 4 774 540 4 774 540
+Other comprehensive expenses - 1 6 335 - - 1 6 335
+Transactions with owners:
+Recapitalization 28 December 2022 1 2 000 000 - - ( 11 847 371) 1 52 629
+Share capital increase 6 000 000 - - - 6 000 000
+Balance at 31 December 2022 1 8 150 000 (31 801) 2 6 774 4 912 380 2 3 057 353
+* While these consolidated financial statements have been prepared following a reverse acquisition as a continuation of the amounts from
+the consolidated financial statements of Storent Investments AS, the share capital reflects that of the legal acquirer, Storent Holdings SIA.
+Please refer to Note 35 for further details.
+** One of the Group’s subsidiaries has an obligation to allocate certain percentage from financial year’s profit to reserves.
+The notes on pages 13 to 60 are an integral part of these consolidated financial statements.
+On behalf of the Group these consolidated financial statements were signed on 10 May 2023 by:
+Andris Pavlovs
+Chairman of the Board
+Baiba Onkele
+Chief financial officer
+12
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+Notes to the consolidated financial statements
+1. General information
+Storent Holdings SIA (hereinafter – the Group’s Parent company or Storent Holdings SIA or Company) was registered in the
+Company Register of the Republic of Latvia on 11 October 2018. The legal status the Group’s Parent company is limited
+liability company. Registered address of the Group’s Parent company is 15A Matrozu street, Riga, Latvia. Starting from 28
+December 2022, the shareholders of the Group’s Parent company are Supremo LTD and EEKI LTD (Latvia), none of which
+has been identified as an ultimate controlling party. The name of reporting entity has changed from ‘Alfasport’ at the end of
+preceding reporting period to ‘Storent Holdings’ at the end of current reporting period.
+The Group’s Parent company’s and its subsidiaries’s (hereinafter – the Group) main operations relate to the rental of industrial
+equipment.
+2. Summary of significant accounting policies
+(a) Basis of preparation
+The consolidated financial statements have been prepared in accordance with the International Financial Reporting Standards
+(IFRS) as adopted by the European Union (EU) and the interpretations issued by the International Financial Reporting Issues
+Committee as adopted by the EU.
+These consolidated financial statements have been prepared following a reverse acquisition as a continuation of the amounts
+from the consolidated financial statements of Storent Investments AS.
+The consolidated financial statements have been prepared on the historical cost basis. Income statement classified by
+expense type. Statement of cash flows is prepared using the indirect method.
+The accompanying consolidated financial statements are presented in the official currency of the Republic of Latvia, the euro
+(hereinafter – EUR).
+These Consolidated Financial Statements are authorized for issue by the Company’s Management Board on 10 May 2023,
+and are subject to the approval of the shareholders. The shareholders have the right to reject these Consolidated Financial
+Statements prepared and issued by the Management Board and the right to request that new Consolidated Financial
+Statements are prepared and issued.
+(b) Consolidation
+As at 31 December 2022, the Group’s Parent company had direct and indirect control over the following subsidiaries
+(hereinafter – Subsidiaries):
+Date of
+incorporation / Share of
+Name Country Type of business acquisition interest
+Storent Investments AS Latvia Holding entity 28 December 2022 100%
+and its subsidiaries:
+Storent SIA Latvia Rental of industrial equipment 17 April 2008 100%
+Storent UAB Lithuania Rental of industrial equipment 27 November 2008 100%
+Storent OU Estonia Rental of industrial equipment 7 July 2009 100%
+Storent Holding Finland Oy Finland Rental of industrial equipment 4 September 2012 100%
+Storent AB Sweden Rental of industrial equipment 15 January 2013 100%
+Storent AS Norway Rental of industrial equipment 27 June 2013 100%
+Storent Oy* Finland Rental of industrial equipment 21 December 2016 100%
+Storent OOO Russia Rental of industrial equipment 01 August 2017 100%
+SEL Investments SIA Latvia Holding entity 28 December 2022 100%
+and its subsidiaries:
+SELECTIA SIA Latvia Rental of industrial equipment 28 December 2022 100%
+SELECTIA PLUS SIA Latvia Rental of industrial equipment 28 December 2022 100%
+*indirect shareholding
+13
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(b) Consolidation (cont.)
+The separate financial statements of the subsidiaries have been consolidated into the Group’s consolidated financial
+statements, consolidating the respective assets, liabilities, revenue and expense items. The subsidiaries controlled by the
+Group’s Parent company are included in the consolidation. Control is achieved when the Group:
+• has power over the investee;
+• is exposed, or has rights, to variable returns from its involvement with the investee; and
+• has the ability to use its power to affect its returns.
+The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there are changes to
+one or more of the three elements of control listed above.
+Consolidation of a subsidiary begins when the Group obtains control over the subsidiary and ceases when the Group loses
+control of the subsidiary. Specifically, income and expenses of a subsidiary acquired or disposed of during the year are
+included in the consolidated statement of comprehensive income and other comprehensive income from the date the Group
+Parent company gains control until the date when the Group Parent company ceases to control the subsidiary. The Group
+Parent company’s and its subsidiaries’ financial years are equal and represent the calendar year. For the purposes of
+preparing the consolidated financial statements uniform accounting policies have been applied.
+The consolidated financial statements include all assets, liabilities, revenue, expenses, gains, losses and cash flows of Storent
+Holdings SIA and its subsidiaries Storent Investments AS, Storent SIA, Storent UAB, Storent OÜ, Storent Holding Finland
+Oy, Storent AB, Storent AS, Storent OOO, Storent Oy, SEL Investments SIA, SELECTIA SIA and SELECTIA PLUS SIA in
+the manner as if Storent Holdings SIA and its subsidiaries were a single entity.
+Upon consolidation inter-company unrealized profit, inter-company transactions, balances, inter-company interest in entities
+and other transactions between group companies are eliminated. Unrealised losses are eliminated in the same way as
+unrealised gains, but only to the extent that there is no evidence of impairment.
+Please refer to Note 35 for further details regarding the accounting for business combinations.
+(c) Foreign currency transactions
+The monetary unit used in the consolidated financial statements is the official currency of the European Union – euro (EUR),
+which is Group’s Parent company’s and some of the subsidiaries functional and presentation currency. The functional currency
+of Storent AS is Norwegian krone, of Storent AB is Swedish krone and of Storent OOO is Russian ruble.
+All transactions in foreign currency are converted to EUR based on the European Central Bank reference exchange rate on
+trade date. On the balance sheet date, foreign currency monetary assets and liabilities are translated at the European Central
+Bank reference exchange rate as at 31 December.
+European Central Bank reference exchange rates:
+31.12.2022 31.12.2021
+EUR EUR
+1 USD 0.93755 0.88292
+1 GBP 1.12748 1.19007
+1 NOK 0.09511 0.10011
+1 SEK 0.08991 0.09755
+1 RUB 0.0127* 0.01172
+* Due to geopolitical situation, the last time RUB exchange rate has been published by ECB is on 1 March 2022. In order to
+provide users of these financial statements with more accurate information, the Group management decided to use the
+following rates for RUB transactions: for period 1 January 2022 till 1 March 2022 the ECB published rate has been used, while
+starting from 2 March 2022 and till the end of the reporting period the estimated market rate has been used, which is based
+on the exchange rates offered by major financial market platforms, which are providing real-time data (www.investing.com).
+Profit or loss from exchange rate differences, as well as from the foreign currency monetary assets and liabilities denominated
+in euro, are recognized in the consolidated statement of comprehensive income.
+(d) Consolidation of foreign subsidiaries
+Consolidating foreign subsidiaries into the consolidated financial statement, the Group’s Parent company translated the
+monetary and non-monetary assets and liabilities at the European Central Bank reference exchange rate ruling at the closing
+balance sheet date, and revenue and expense items of the foreign subsidiaries at the reference exchange rates at the dates
+of the transactions. Exchange differences arising on recognizing asset and liability items, translating at exchange rates, are
+recognized in other comprehensive income and accumulated in equity.
+14
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(e) Use of judgements, estimates and assumptions
+Preparation of the consolidated financial statements according to the IFRS requires the Group’s management to make
+estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and
+liabilities. The determination of estimates is based on comprehensive information, current and expected economic conditions
+available to the management. Actual results could differ from those estimates.
+The following are the critical judgments and key estimates concerning the future, and other key sources of estimation
+uncertainty, which exist at the reporting date of the financial statements that have a significant risk of causing a material
+adjustment to the carrying amounts of assets and liabilities during the next reporting period:
+Note 35 - Identification of the acquirer and Assessment whether business was acquired
+On 28 December 2022, Storent Holdings SIA, the legal acquirer, acquired Storent Investments AS, the legal acquiree, by way
+of issuing its equity instruments to the shareholders of Storent Investments AS as the full amount of consideration transferred.
+On identification of the acquirer in the business combination, the management considered the following factors:
+- Storent Investments AS is a business as per IFRS 3 requirements;
+- Storent Holdings SIA before the acquisition had limited operations, and Storent Investments AS (consolidated) was
+significantly larger than Storent Holdings SIA in terms of assets and revenues;
+- Based on the amount of equity instruments issued to effect the acquisition, Storent Investments AS previous
+shareholders obtained the majority of voting interest in Storent Holdings SIA post-acquisition.
+Based on the above, the management assessed that this business combination has to be accounted for as a reverse
+acquisition, and Storent Holdings SIA consolidated financial statements to be prepared as a continuation of Storent
+Investments AS consolidated financial statements.
+SEL Investments SIA and its subsidiaries SELECTIA SIA and SELECTIA PLUS SIA own around 50% of the construction equipment
+fleet that Storent Investments AS group operates and have limited other clients. SEL Investments subgroup has been determined
+to have an integrated set of activities and assets, including relevant inputs and processes that are applied to those inputs, to be
+considered a business as per IFRS 3 requirements.
+Note 12 – Recoverable value of goodwill and other non-current non-financial assets;
+The Group’s management reviews the carrying amounts of intangible assets, including goodwill, and property, plant and equipment,
+and assesses whether indications exist that the assets’ recoverable amounts are lower than their carrying amounts. The Group’s
+management calculates and records an impairment loss on intangible assets and fixed assets based on the estimates related to the
+expected future use, planned liquidation or sale of the assets. Taking into consideration the Group’s planned level of activities and
+the estimated value in use of the assets (including the intended restructuring within Storent Holdings group), the Group’s
+management considers that no significant adjustments to the carrying values of intangible assets and fixed assets are necessary as
+of 31 December 2022.
+Note 16 – Fair value less costs to sell of disposal group held for sale
+The disposal group that are classified as held for sale has to be measured at the lower of carrying amount and fair value less
+costs to sell. Considering the geopolitical situation, the Group has limited opportunities to manage and develop its subsidiary
+in Russia. Taking into consideration the Group’s plan to sell the subsidiary it was measured at fair value less costs to sell
+based on the management’s best estimate of fair value less costs to sell of the disposal group, taking into account non-binding
+indications of the possible sales price. Losses from impairment of goodwill and remeasurement of disposal group are
+recognized in consolidated statement of comprehensive income.
+Note 36 - The Group’s ability to continue as a going concern
+The Group’s management evaluates the actual and potential impact of geopolitical situation on the economic activities and
+financial results of the Group. Group management has prepared the projected financial results and cash flows for 2023 and
+has already begun to take steps to ensure the Group’s ability to continue as a going concern (including the intended
+restructuring within Storent Holdings group). For more information, see Note 36.
+(f) Fair value
+The fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market
+participants at the measurement date. The objective of a fair value measurement is to estimate the price at which an orderly
+transaction to sell the asset or to transfer the liability would take place between market participants at the measurement date under
+current market conditions. For fair value calculation the Group determines the following:
+- the particular asset or liability that is the subject of the measurement (consistently with its unit of account);
+- for a non-financial asset, the valuation premise that is appropriate for the measurement (consistently with its highest and
+best use);
+15
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(f) Fair value (cont.)
+- the principal (or most advantageous) market for the asset or liability;
+- market approach is the valuation technique(s) the Group uses for the measurement – it uses prices and other
+relevant information generated by market transactions involving identical or comparable (similar) assets, liabilities,
+or a group of assets and liabilities (e.g., a business).
+(g) Business combinations
+According to IFRS 3 Business ir an integrated set of activities and assets that is capable of being conducted and managed
+for the purpose of providing goods or services to customers, generating investment income (such as dividends or interest) or
+generating other income from ordinary activities. A business combination is defined as a transaction or other event in which
+an acquirer (an investor entity) obtains control of one or more businesses. Identifying a business combination transaction
+requires the determination of whether what is acquired constitutes a ‘business’ as defined in IFRS 3, and control has been
+obtained. On business combinations:
+- identifiable assets and liabilities acquired are measured at fair value;
+- goodwill recognized as an asset and gain on bargain purchase as an income;
+- transactions costs are expensed when incurred;
+- deferred tax on initial temporary differences recognized as assets and liabilities;
+- contingent consideration recognized at fair value at acquisition date, subsequent changes to the profit or loss if not
+initially classified as equity.
+(h) Segment information
+Reportable segments are operating segments or aggregations of operating segments that meet specified criteria. An operating
+segment is a component of the Group that engages in business activities from which it may earn revenues and incur expenses
+(including revenues and expenses relating to transactions with other components of the Group), is a component of the Group whose
+operating results are regularly reviewed by the Group’s chief operating decision maker to make decisions about resources to be
+allocated to the segment and assess its performance, and for which discrete financial information is available. Segment information
+is presented for Group’s operating segments, which are determined by geographical split. Operating segments are managed
+separately and they are separately reported in internal management reporting to the Council and the Board.
+(i) Revenue recognition
+The Group recognises revenues according to IFRS 15 “Revenues from contracts with customers”, using the 5-step model.
+The model consists of:
+1. Determination of contractual relations;
+2. Determination of contract performance obligation;
+3. Determination of transaction price;
+4. Attribution of transaction price to the performance obligation;
+5. Recognition of income, when the Group has fulfilled the performance obligation.
+The following criteria are used for determination of contractual relations:
+- The contractual parties have approved a contract and are committed to fulfil their liabilities;
+- The Group may identify the rights of each party in relation to deliverable goods or services;
+- The Group may identify settlement procedures for the goods or services;
+- The contract has commercial nature;
+There is high possibility, that the Group will charge remuneration due to it in exchange for goods or services that
+will be transferred to the customer.
+Determination of contract performance obligation.
+The performance obligation exists, if there are distinct goods or services transferred to the customer or a series of distinct goods or
+services that are substantially the same and that have the same pattern of transfer to the customer. Group has considerate following
+factors as to whether a promise to transfer goods or services to the customer is not separately identifiable:
+- Group does provide a significant service of integrating the goods or services with other goods or services promised
+in the contract;
+- the goods or services are highly interrelated or highly interdependent.
+Determination of transaction price
+The transaction price is the amount to which Group expects to be entitled in exchange for the transfer of goods and services.
+When making this determination, Group will consider past customary business practices. Where a contract contains elements
+of variable consideration, the entity will estimate the amount of variable consideration to which it will be entitled under the
+contract. Variable consideration can arise, for example, as a result of discounts, rebates, performance bonuses.
+16
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(i) Revenue recognition (cont.)
+Attribution of the transaction price to the performance obligation
+Generally, the contract with the customer includes a specified transaction price for each performance obligation. If applicable,
+the Group uses the adjusted market assessment method for determination of the market price. A discount is applied
+proportionally for each performance obligation, based on the relative goods or services sales prices. Any overall discount
+compared to the aggregate of standalone selling prices is allocated between performance obligations on a relative standalone
+selling price basis. In certain circumstances, it may be appropriate to allocate such a discount to some but not all of the
+performance obligations.
+Customers can earn loyalty points that are redeemable against any future transactions of the Group’s products. The points
+accumulate and expire after one year. The Group recognizes this as a separate performance obligation and allocates a part
+of the transactions price applying the same principles as described above. The amount allocated to the loyalty points is initially
+deferred and recognised as revenue when loyalty points are redeemed or on expiry.
+Recognition of revenue, when the Group has fulfilled the performance obligation
+Transport and related services revenue
+Revenue is recognised over time as the services are provided, that is based on criteria that the customer simultaneously
+receives and consumes all of the benefits provided by the Group and, generally, invoiced on a monthly basis.
+Fulfillment of performance obligations for transport and related services is measured based on the output method –
+performance to date, and there is no significant judgement applied to determine the fulfilment of the performance obligations.
+Revenue from sale of inventories and property, plant and equipment used for renting
+Revenue is recognised at a point in time when the corresponding asset is delivered to and accepted by the customer, thus,
+transferring the control and fulfilling the performance obligation, and, generally, invoiced at that point in time.
+Contract assets and liabilities
+Contracts with customers are presented in the Group’s statement of financial position as a receivable. Invoices according the
+contract are generated at least once per month. Invoices are usually payable within 15-45 days. A contract liability is presented
+in the statement of financial position where a customer has paid an amount of consideration prior to the Group performing by
+transferring the related good or service to the customer.
+(j) Employee benefits
+Short-term employee benefits are expensed as the related service is provided. A liability is recognised for the amount expected
+to be paid if the Group has a present legal or constructive obligation to pay this amount as a result of past service provided
+by the employee and the obligation can be estimated reliably.
+(k) Government grants
+The Group recognises a government grant when it has reasonable assurance that it will comply with the relevant conditions
+and the grant will be received.
+A government grant that becomes receivable as compensation for expenses or losses already incurred or for the purpose of
+giving immediate financial support to the entity with no future related costs is recognised in profit or loss of the period in which
+it becomes receivable.
+Government grants related to assets, including non-monetary grants at fair value, are presented in the statement of financial
+position either by setting up the grant as deferred income or by deducting the grant in arriving at the carrying amount of the
+asset.
+(l) Income tax
+The corporate income tax consists of the income tax calculated for the reporting year and deferred income tax. It is recognised
+in comprehensive income.
+Current tax
+Corporate income tax for the reporting year (Lithuania)
+The corporate income tax for the reporting year has been calculated, by applying the corporate income tax rate of 15% to the
+taxable income for the tax year.
+Corporate income tax for the reporting year (Estonia and Latvia)
+The net profit of Group entities located in Latvia and Estonia is not subject to corporate income tax; however, income tax is
+levied on all dividends paid by these companies. Corporate income tax in Latvia and Estonia is calculated at the profit
+distribution (20/80 from net amount to be paid to shareholders). Corporate income tax will be recognized as tax payable at
+the period when shareholders decide to distribute profit.
+17
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(l) Income tax (cont.)
+Corporate income tax for the reporting year (Finland)
+The corporate income tax for the reporting year has been calculated, by applying the corporate income tax rate of 20% to the
+taxable income for the tax year.
+Corporate income tax for the reporting year (Sweden)
+The corporate income tax for the reporting year has been calculated, by applying the corporate income tax rate of 20.6% to
+the taxable income for the tax year.
+Corporate income tax for the reporting year (Russia)
+The corporate income tax for the reporting year has been calculated, by applying the corporate income tax rate of 20% to the
+taxable income for the tax year.
+Deferred tax
+Deferred income tax arising due to temporary differences between the tax bases of assets and liabilities and their carrying
+amounts in these consolidated financial statements has been calculated, using the liability method for all countries the Group
+operates. Deferred income tax assets and liabilities are determined using the tax rates that are expected to apply when the
+related temporary differences reverse. The key temporary differences result from different depreciation tax rates applied under
+tax and accounting legislation and tax losses carried forward.
+A deferred tax asset shall be recognized for the carry forward of unused tax losses and unused tax credits to the extent that
+it is probable that future taxable profit will be available against which the unused tax losses and unused tax credits can be
+utilized. When considering whether a deferred tax asset can be recognized the management uses their judgment in estimating
+whether there will be sufficient taxable profits in the future and about their timing and the overall future tax planning strategy.
+Deferred income tax and profit distribution in (Latvia and Estonia)
+Specific accounting for deferred tax due to tax regimes have been applied in the respect of Latvia and Estonia. According to
+legislation requirements in these countries corporate income tax is applicable to distributed profits. In case of reinvestment of
+profit, corporate income tax shall not be applied.
+In accordance with International Accounting Standard No 12 “Income Taxes“ requirements, in cases where income tax is
+payable at a higher or lower rate, depending on whether the profit is distributed, the current and deferred tax assets and
+liabilities are measured at the tax rate applicable to undistributed profits. In Latvia and Estonia, the applicable rate for
+undistributed profits is 0%.
+As a parent controls the dividend policy of its subsidiaries, it is able to control the timing of the reversal of temporary differences
+associated with these investments including the temporary differences arising from undistributed profits. Therefore, in the
+consolidated financial statements the Group could recognize deferred tax assets and liabilities in the respect of its investments
+in subsidiaries using tax rate applicable to distributed profits. In cases the parent has determined that subsidiary’s profits will
+not be distributed in the foreseeable future the parent does not recognize a deferred tax assets and liabilities.
+(m) Finance income and finance costs
+The Group’s finance income and finance costs include:
+- Interest income;
+- Interest expense;
+- the foreign currency gain or loss on financial assets and financial liabilities;
+Interest income or expense is recognised using the effective interest method. The ‘effective interest rate’ is the rate that exactly
+discounts estimated future cash payments or receipts through the expected life of the financial instrument to:
+- the gross carrying amount of the financial asset; or
+- the amortised cost of the financial liability.
+In calculating interest income and expense, the effective interest rate is applied to the gross carrying amount of the asset
+(when the asset is not credit-impaired) or to the amortised cost of the liability. However, for financial assets that have become
+credit-impaired subsequent to initial recognition, interest income is calculated by applying the effective interest rate to the
+amortised cost of the financial asset. If the asset is no longer credit-impaired, then the calculation of interest income reverts
+to the gross basis.
+18
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(n) Intangible assets
+Goodwill
+The consideration transferred in a business combination is measured at fair value, which is calculated as the sum of the
+acquisition-date fair values of the assets transferred by the Group, liabilities incurred by the Group to the former owners of
+the acquiree and the equity interests issued by the Group in exchange for control of the acquiree. Acquisition-related costs
+are recognised in comprehensive income as incurred. Goodwill is measured as the excess of the sum of the consideration
+transferred, the amount of any non-controlling interests in the acquiree, and the fair value of the acquirer's previously held
+equity interest in the acquiree (if any) over the net of the acquisition-date amounts of the identifiable assets acquired and the
+liabilities assumed. Goodwill is disclosed in intangible assets section.
+Goodwill arising on an acquisition of a business is carried at cost as established at the date of acquisition of the business less
+accumulated impairment losses, if any. Impairment test is performed annually or more frequently if events or changes in
+circumstances indicate that it might be impaired. For the purpose of impairment testing, recoverable amount - value in use -
+is determined by discounting the future cash flows generated from the continuing use of assets and was based on the following
+key assumptions: Cash flows were projected based on financial budgets approved by the management covering a five-year
+period. Each of the Group’s subsidiaries was determined to be a separate cash-generating unit (“CGU”). Cash flows were
+calculated separately for each CGU, key assumptions for calculations are the same for all CGU: five-year business plan for
+each CGU, discount factor, which is based on WACC calculation, and Group total IBD was divided between each CGU
+according to fleet proportion. The five-year business plan is based on the following assumptions: Group’s amortisation and
+depreciation costs, IT costs, management fee, insurance costs and interest expenses are allocated to individual budget of
+each CGU according to fleet proportion allocated. Fleet proportion was calculated as a percent from total Group fleet according
+to fleet location to the date, when impairment test was performed. By using the same fleet proportion all Group’s liabilities for
+equipment purchase are allocated in impairment calculation. Loss from goodwill impairment is recognized in consolidated
+statement of comprehensive income. Please, also refer to Note 12.
+Other intangible assets
+Other intangible assets primarily comprise capitalized costs of internally developed software. Other intangible assets are
+measured at historical cost amortized on a straight-line basis over the useful life of the assets. If some events or a change in
+conditions indicates that the carrying value of an intangible asset may not be recoverable, the value of the respective intangible
+asset is reviewed for impairment. Impairment loss is recognized if the carrying value of the intangible assets exceeds its
+recoverable amount.
+Development costs of intangible assets
+Development expenditure is capitalised only if the expenditure can be measured reliably, the product or process is technically,
+and commercially feasible, future economic benefits are probable, and the Group intends to and has sufficient resources to
+complete development and to use or sell the asset. Otherwise, such expenditure is treated as research costs and recognised
+in comprehensive income as incurred. In the reporting period, the Group did not incur any research costs.
+A project initiated by the Group met all the above criteria. The item “Intangible assets in process” included only those costs
+that the Group can reliably estimate. The development of intangible assets was started in 2020 and was completed at the end
+of 2022. This intangible asset is recognized as a corporate asset because it cannot generate independent cash flows but will
+be used in the operations of all Group companies. At the end of 2021 and 2022, this item was not assessed separately and
+was included in the impairment test of total assets, allocating this item by CGU equal to the current IT cost allocation in the
+Storent group. In December 2022, the roll-out process of the new IT system has started and the development costs were
+transferred to Computer software, and subsequently measured at cost less accumulated amortisation and any accumulated
+impairment losses. The implementation of the new IT system is planned to be completed by the end of 2023.
+Development costs are presented as Intangible assets in progress and are stated at historical cost. This includes the cost of
+development and other directly attributable expenses. Intangible assets in progress are not amortized as long as the
+respective assets are not completed and put into operation. Expenditure on research activities, if any, is recognised in
+comprehensive income as incurred.
+Amortisation
+Amortisation is calculated based on the cost of intangible assets less their estimated residual values, which, generally, are
+insignificant, using the straight-line method over their estimated useful lives, and is recognised in comprehensive income.
+Goodwill is not amortised. Amortisation methods, useful lives and residual values are reviewed at each reporting date and
+adjusted, if appropriate, to reflect the Group’s management current view on their remaining useful lives in the light of changes
+in technology. The estimated useful lives of other intangible assets for current and comparative periods are as follows:
+Trademarks and domains 5 years
+Software licenses 3 years
+19
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(o) Property, plant and equipment
+Property plant and equipment is stated at historical cost less accumulated depreciation and impairment. The acquisition costs
+include all expenditures attributable to binging the asset to working condition. In addition to direct purchasing expenses, it
+also includes other expenses related to the acquisition, such as transportations and assembling costs. Subsequent
+expenditure is capitalised only if it is probable that the future economic benefits associated with the expenditure will flow to
+the Group.
+Depreciation is calculated using the straight-line method. The estimated useful lives of property, plant and equipment for
+current and comparative periods are as follows:
+Machinery and equipment 4 - 12 years
+Other 2 - 5 years
+Construction in progress represents property, plant and equipment under construction and is stated at historical cost. This
+includes the cost of construction and other directly attributable expenses. Construction in progress is not depreciated as long
+as the respective assets are not completed and put into operation.
+Leasehold improvements are amortised over the shorter of the useful life of the improvement and the term of the lease
+agreement.
+Depreciation is calculated based on the cost of items of property, plant and equipment less their estimated residual values
+using the straight-line method over their estimated useful lives, and is recognised in comprehensive income. Each part of an
+item of property, plant and equipment with a cost that is significant in relation to the total costs of the item is depreciated
+separately. Any gain or loss on disposal of an item of property, plant and equipment is recognised in comprehensive income.
+Depreciation methods, useful lives and residual values are reviewed at each reporting date and adjusted, if appropriate, to
+reflect the Group’s management current view on their remaining useful lives in the light of changes in technology, the
+remaining prospective economic utilization of the assets and their physical condition. Group has fixed assets that are fully
+amortized and still are in use.
+(p) Impairment of tangible and intangible assets other than goodwill
+At the end of each reporting period, the Group assesses the carrying amounts of its tangible and intangible assets to determine
+whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the
+recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any). When it is not
+possible to estimate the recoverable amount of an individual asset, the Group estimates the recoverable amount of the cash
+generating unit to which the asset belongs. Each Group’s subsidiary was determined as separate CGU.
+Recoverable amount is the higher of fair value less costs of disposal and value in use. In assessing value in use, the estimated
+future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments
+of the time value of money and the risks specific to the asset for which the estimates of future cash flows have not been
+adjusted.
+If the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying
+amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised
+immediately in consolidated statement of comprehensive income.
+When an impairment loss subsequently reverses, the carrying amount of the asset (or a cash generating unit) is increased to
+the revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying
+amount that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit) in
+prior years.
+(q) Borrowings
+Borrowings are recognized initially at fair value, net of transaction costs incurred.
+After initial measurement, borrowings are carried at amortized cost using the effective interest rate method. The amortized
+value is calculated including any acquisition related discount or premiums and payments that are an integral part of the
+effective interest rate and transaction costs. Amortized cost is calculated by taking into account any loan or borrowing issue
+costs, and any discount or premium related to loans or borrowings.
+(r) Inventories
+Inventories are stated at the lower of cost and net realizable value.
+Costs incurred in bringing the inventories to their present location and condition is measured for as follows:
+- Consumables and finished goods are measured at cost of purchase applying “first in first out” (FIFO) method;
+Net realizable value is the estimated selling price in the ordinary course of business, less all estimated costs of completion
+and costs necessary to make the sale, as well as assesses the physical condition of inventories during the annual stock count. Net
+realizable value is stated as cost less allowances.
+20
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(s) Non-current assets and disposal groups classified as held for sale
+Non-current assets and disposal groups that will be recovered through sale rather than through continuing use are classified
+as non-current assets and disposal groups classified as held for sale. An asset or a disposal group held for sale is measured
+at the lower of its previous carrying value and fair value less costs to sell.
+The conditions that must be met before a non-current asset or a disposal group can be classified as held for sale or discounted
+operations are as follows:
+ The non-current asset or disposal group must be available for immediate sale in its present condition subject only to
+terms that are usual and customary for sale of such assets or disposal groups; and
+ Its sale must be highly probable, i.e.
+- management must be commited to a plan to sell the non-current assets or disposal group;
+- an active program to locate a buyer and complete the plan must be initiated;
+- the non-current assets or disposal group must be actively marked for sale ar a reasonable price in relation to its
+current fair value;
+- the sale should be expected to qualify for recognition as a completed sale within one year from date of classification;
+- actions required to complete the plan should indicate that it is unlikely that the plan be changed significantly or be
+withdrawn.
+At the end of the reporting year 2021, the Group management has commited plan and list of non-current assets, that will be
+recovered through sale; sales chanel to realize this sale has found. All assets were ready for immediate sale. Non-current
+assets that are classified as held for sale are measured at the lower of carrying amount and fair value less costs to sell.
+At the end of the reporting year 2022, the Group management has commited plan to sell a subsidiary company. This subsidiary
+is presented as a disposal group held for sale. Expected fair value less costs to sell is lower than the net carrying amount of
+the disposal group’s assets and liabilities. Remeasurement loss on a reclassification of disposal group as held for sale is
+allocated first to impairment loss on goodwill, and then to the remaining assets. Please see Note 16.
+(t) Cash and cash equivalents
+Cash and cash equivalents include cash in bank and in hand, deposits held at call with banks with maturities of three months
+or less.
+(u) Contingent liabilities and assets
+The Group does not recognize any contingent liabilities in these financial statements. Contingent liabilities are disclosed,
+unless the probability that an outflow of resources will be required is remote. No contingent assets are recognized by the
+Group, they are disclosed if it is probable, that the economic benefits related to the transaction will flow to the Group.
+(v) Provisions
+A provision is recognized if the Group has a present obligation (legal or constructive) as a result of a past event, and it is
+probable that an outflow of resources embodying economic benefits will be required from the Group to settle the obligation,
+and a reliable estimate can be made of the amount of the obligation. If the Group expects that the expenditure required to
+settle the provision will be reimbursed by another party partly or fully, e.g., under the terms of an insurance contract, the
+reimbursement is recognized as a separate asset when and only when it is virtually clear that the reimbursement will be
+received. In the consolidated statement of comprehensive income, the expense relating to a provision may be presented net
+of the amount recognized for a reimbursement. Where the effect of the time value of money is material, the provisions are
+calculated by discounting the future expected cash outflows, using a pre-tax discount rate that reflects current market
+assessment of the time value of money and the risks specific to the liability. If discounting is used, increase in provisions is
+gradually recognized as borrowing costs.
+21
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+3.
+(w) Financial assets and financial liabilities
+Financial assets
+Recognition, classification and subsequent measurement
+A financial asset is recognised in the statement of financial position when the Group becomes party to a contract that is a
+financial instrument. On initial recognition, the Group classifies and measures a financial asset at amortised cost if it meets
+both of the following conditions and is not designated as at FVTPL:
+ it is held within a business model whose objective is to hold assets to collect contractual cash flows; and
+ its contractual terms give rise on specified dates to cash flows that are solely payments of principal and interest (SPPI)
+on the principal amount outstanding
+The Group classifies its financial assets as financial assets at amortised cost in line with its business model to hold the financial
+assets and collect the contractual cash flows, which consist only of payments of principal and interest on the outstanding
+principal amount. The assets in the statement of financial position that belong to this category are Trade receivables and
+Other receicables. These assets are subsequently measured at amortised cost using the effective interest method. The
+amortised cost is reduced by impairment losses. Foreign exchange gains and losses and impairment are recognised in
+consolidated statement of comprehensive income. Any gain or loss on derecognition is recognised in consolidated statement
+of comprehensive income.
+A financial asset is derecognized if:
+ the contractual rights to the cash flows from the financial asset expire;
+ the Group retains the contractual rights to receive the cash flows of the financial asset, but assumes a contractual obligation
+to pay cash flows without material delay to a third party based on and earlier arrangement without any profit arising
+ the Group transfers the contractual rights to receive the cash flows of the and either (a) it transfers substantially all the risks
+and rewards of ownership of the financial asset to a third party, or (b) it neither transfers no retains substantially all the risks
+and rewards of ownership of these assets but has transferred control over the item of financial asset.
+Impairment of financial assets
+The Group applies the simplified approach under IFRS 9. The Group always recognises lifetime ECL (expected credit losses)
+for trade receivables and contract assets. Lifetime ECL represents the expected credit losses that will result from all possible
+default events over the expected life of a financial instrument. The expected credit losses on these financial assets are
+estimated using a provision matrix based on the Group’s historical credit loss experience in each geographical location of
+operations separately over a two-year period, adjusted for factors that are specific to the debtors (please see also Note 17).
+General economic conditions and an assessment of both the current as well as the forecast direction of conditions at the
+reporting date, including time value of money are not incorporated into the calculation.
+The Group considers a financial asset to be in default when the borrower is in significant financial difficulty and is unlikely to
+pay its credit obligations to the Group in full, without recourse by the Group to actions such as realising security (if any is
+held); or the financial asset is more than 90 days past due. Such financial assets in default are considered to be credit-
+impaired.
+Loss allowances for financial assets measured at amortised cost are deducted from the gross carrying amount of the assets.
+Factoring
+The Group has entered into certain factoring contracts, by which it sells the receivables to a factor and receives a part of the
+amount due immediately and the remainder when the customer settles its liability towards the factor. When the Group sells
+the receivables to the factor, it derecognizes the corresponding financial assets and recognizes a new receivable due from
+the factor. The Group’s factoring contracts are considered as factoring without rights of regress. The proceeds received from
+the factor are presented in the Statement of cash flows as cash flows from operating activities.
+22
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(w) Financial assets and financial liabilities (cont.)
+Financial liabilities
+Recognition, classification and subsequent measurement
+A financial liability is recognised in the statement of financial position when the Group becomes party to a contract that is a
+financial instrument.
+All of the Group’s financial liabilities are classified as measured at amortised cost. Financial liabilities are subsequently
+measured at amortised cost using the effective interest method. Interest expense and foreign exchange gains and losses are
+recognised in consolidated statement of comprehensive income. Any gain or loss on derecognition is also recognised in
+consolidated statement of comprehensive income.
+A financial liability is derecognized, if the obligation specified in the contract is discharged or cancelled or expired. On
+derecognition of a financial liability, the difference between the carrying amount extinguished and the consideration paid
+(including any non-cash assets transferred or liabilities assumed) is recognised in comprehensive income.
+Where there has been an exchange between an existing borrower and lender of debt instruments with substantially different
+terms, or there has been a substantial modification of the terms of an existing financial liability, this transaction is accounted
+for as an extinguishment of the original financial liability and the recognition of a new financial liability. The difference between
+the respective carrying amounts is recognized in consolidated statement of comprehensive income.
+Please refer to relevant Notes.
+Offsetting
+Financial assets and financial liabilities are offset and the net amount presented in the statement of financial position when,
+and only when, the Group currently has a legally enforceable right to set off the amounts and it intends either to settle them
+on a net basis or to realise the asset and settle the liability simultaneously.
+(x) Leases
+The Group as lessor
+Leases, for which the Group is a lessor, are classified as finance or operating leases. Whenever the terms of the lease transfer
+substantially all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases
+are classified as operating leases. The Group, as a lessor, has not classified any lease as a financial lease.
+When the Group is an intermediate lessor, it accounts for the head lease and the sublease as two separate contracts. The
+sublease is classified as a finance or operating lease by reference to the right-of-use asset arising from the head lease.
+Rental income from operating leases is recognised on a straight-line basis over the term of the relevant lease. Initial direct
+costs incurred in negotiating and arranging an operating lease are added to the carrying amount of the leased asset and
+recognised on a straight-line basis over the lease term. The Group as a lessor, generally, concludes short-term operating
+lease contracts with no non-cancellable period.
+The Group as lessee
+The Group assesses whether a contract is or contains a lease, at inception of the contract. The Group recognises a right-of-
+use asset and a corresponding lease liability with respect to all lease arrangements in which it is the lessee, except for short-
+term leases (defined as leases with a lease term of 12 months or less) and leases of low value assets (such as tablets and
+personal computers, small items of office furniture and telephones). For these leases, the Group recognises the lease
+payments as an operating expense on a straight-line basis over the term of the lease unless another systematic basis is more
+representative of the time pattern in which economic benefits from the leased assets are consumed.
+The lease liability is initially measured at the present value of the lease payments that are not paid at the commencement
+date, discounted by using the rate implicit in the lease. If this rate cannot be readily determined, the lessee uses its incremental
+borrowing rate.
+Lease payments included in the measurement of the lease liability comprise:
+ Fixed lease payments (including in-substance fixed payments), less any lease incentives receivable;
+ Variable lease payments that depend on an index or rate, initially measured using the index or rate at the commencement
+date;
+ The amount expected to be payable by the lessee under residual value guarantees;
+ The exercise price of purchase options, if the lessee is reasonably certain to exercise the options; and
+ Payments of penalties for terminating the lease, if the lease term reflects the exercise of an option to terminate the lease.
+23
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(x) Leases (cont.)
+The lease liability is presented as a separate line in the statement of financial position. Group lease payments are based on
+concluded financial lease agreements with fixed lease payment schedule.
+The lease liability is subsequently measured by increasing the carrying amount to reflect interest on the lease liability (using
+the effective interest method) and by reducing the carrying amount to reflect the lease payments made.
+The Group remeasures the lease liability (and makes a corresponding adjustment to the related right-of-use asset) whenever:
+ The lease term has changed or there is a significant event or change in circumstances resulting in a change in the
+assessment of exercise of a purchase option, in which case the lease liability is remeasured by discounting the revised
+lease payments using a revised discount rate.
+ The lease payments change due to changes in an index or rate or a change in expected payment under a guaranteed
+residual value, in which cases the lease liability is remeasured by discounting the revised lease payments using an
+unchanged discount rate (unless the lease payments change is due to a change in a floating interest rate, in which case
+a revised discount rate is used).
+ A lease contract is modified and the lease modification is not accounted for as a separate lease, in which case the lease
+liability is remeasured based on the lease term of the modified lease by discounting the revised lease payments using a
+revised discount rate at the effective date of the modification.
+The right-of-use assets comprise the initial measurement of the corresponding lease liability, lease payments made at or
+before the commencement day, less any lease incentives received and any initial direct costs. They are subsequently
+measured at cost less accumulated depreciation and impairment losses.
+Right-of-use assets are depreciated over the period of the lease term.
+(y) Related party transaction
+Related parties represent both legal entities and private individuals related to the Group in accordance with the following rules:
+a) person or a close member of that person’s family is related to a reporting entity if that person:
+i. Has control or joint control over the reporting entity;
+ii. Has significant influence over the reporting entity; or
+iii. Is a member of the key management personnel of the reporting entity or of a parent of the reporting entity.
+b) An entity is related to a reporting entity if any of the following conditions applies:
+i. The entity and the reporting entity are members of the same group (which means that each parent, subsidiary
+and fellow subsidiary is related to the others);
+ii. One entity is an associate or joint venture of the other entity (or an associate or joint venture of a member of a
+group of which the other entity is a member);
+iii. Both entities are joint ventures of the same third party;
+iv. One entity is a joint venture of a third entity and the other entity is an associate of the third entity;
+v. The entity is a post-employment benefit plan for the benefit of employees of either the reporting entity or an
+entity related to the reporting entity. If the reporting entity is itself such a plan, the sponsoring employers are
+also related to the reporting entity;
+vi. The entity is controlled, or jointly controlled by a person identified in a);
+vii. A person identified in a) i) has significant influence over the entity or is a member of the key management
+personnel of the entity (or of a parent of the entity).
+viii. The entity, or any member of the group of which it is a part, provides key management personnel services to
+the reporting entity or to the parent of the reporting entity.
+(z) Post balance sheet events
+Only such post balance sheet events adjust amounts recognized in the consolidated financial statement, which provides
+additional information on the conditions that existed at balance sheet date (adjusting events). If post balance sheet events
+are not adjusting, they are disclosed in the consolidated financial statements only if they are material.
+24
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+2. Summary of significant accounting policies (cont.)
+(aa) International Financial Reporting Standards changes
+New standards and amendments to standards, including any consequential amendments to other standards, effective for
+annual periods beginning on 1 January 2022, have not had a material impact on these consolidated financial statements.
+Standards and amendments to existing standards issued by IASB but that are not yet effective
+A number of new standards are effective for annual periods beginning after 1 January 2022 and earlier application is permitted;
+however, the Group has not early adopted the new or amended standards in preparing these consolidated financial
+statements.
+The following new and amended standards effective for annual periods beginning after 1 January 2022 are not expected to
+have a significant impact on the Group’s consolidated financial statements:
+ IFRS 17 Insurance Contracts and amendments to IFRS 17 Insurance Contracts.
+ Classification of Liabilities as Current or Non-current (Amendments to IAS 1).
+ Definition of Accounting Estimate (Amendments to IAS 8)
+ Disclosure of Accounting Policies (Amendments to IAS 1 and IFRS Practice Statement 2).
+ Deferred Tax Related to Assets and Liabilities Arising from a Single Transaction – Amendments to IAS 12 Income
+Taxes.
+IFRSs currently adopted by the EU do not differ materially from those adopted by the International Accounting Standards
+Board (IASB), except for some of the above-mentioned standards, amendments to existing standards and interpretations not
+yet endorsed by the EU on 31 December 2022 (effective dates refer to IFRSs, issued by the IASB).
+The Group anticipates that the adoption of these new standards and amendments to the existing standards will have no
+material impact on the consolidated financial statements of the Group in the period of initial application.
+25
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+3. Net revenue and operating segments
+2022 2021 2022 2021
+Re-presented Discontinued*
+Net revenue by products and services EUR EUR EUR EUR
+Rental revenue – own equipment 5 707 855 7 640 165 862 229 566 750
+Rental revenue – sub-lease of right-of-use assets (see also Note -
+5 202 688
+14) 4 168 112 -
+Rental revenue – equipment under split rent arrangements (see
+also Note 14) 22 855 228 19 230 071 30 495 38 278
+TOTAL Rental income: 32 731 195 32 072 924 892 724 605 028
+Transport and related services revenue 9 866 668 9 472 627 59 770 36 756
+Revenue from sale of inventories 1 034 117 776 011 12 466 7 836
+Cash discounts to customers (53 673) (54 074) - -
+TOTAL Revenue from contracts with customers: 10 847 112 10 194 564 72 236 44 592
+TOTAL: 43 578 307 42 267 488 964 960 649 620
+*Please see Note 16
+Operating segments
+Segment information is presented for the Group’s operating segments, which are determined by geographical split. The Group has
+disclosed the items and amounts by operating segment as reported in internal management reporting to the Council and the Board.
+2022 2021
+Net revenue per geographical location EUR EUR
+Latvia 15 591 626 14 302 323
+Lithuania 10 224 738 10 581 119
+Estonia 4 713 518 4 602 488
+TOTAL Baltic (Latvia, Estonia and Lithuania): 30 529 882 29 485 930
+Finland 10 503 431 10 390 040
+Sweden 2 544 994 2 391 518
+TOTAL Nordic (Finland and Sweden): 13 048 425 12 781 558
+Russia, Kaliningrad (discontinued) 964 960 649 620
+TOTAL: 44 543 267 42 917 108
+The Group defines operating result as net revenues and other operating income less cost of materials and services, personnel costs,
+other operating expenses, depreciation and amortization and impairment gain/(loss).
+2022 2021
+Re-presented
+Operating result per geographical location EUR EUR
+Baltic (Latvia, Estonia and Lithuania) 917 896 1 927 067
+Nordic (Finland and Sweden) (1 321 151) (3 164 211)
+Elimination of inter-segment operating result 55 959 39 379
+Finance income 24 284 23 386
+Finance expenses (2 137 530) (2 439 986)
+Consolidated profit/(loss) before tax from continuing operations: (2 460 542) (3 614 365)
+26
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+3. Net revenue and operating segments (cont.)
+Property, plant and equipment, right of use assets and intangible assets are disclosed both on individual geographical location level and
+on an aggregated basis, in line with internal management reporting to the Council and the Board.
+Property, plant and equipment and right of use assets per geographical 31.12.2022 31.12.2021
+location, net book value EUR EUR
+Finland 7 104 437 8 877 339
+Sweden 1 027 997 1 878 538
+TOTAL Nordic (Finland and Sweden): 8 132 434 10 755 877
+Latvia 10 238 457 6 716 476
+Lithuania 6 139 269 3 599 576
+Estonia 3 880 379 2 137 333
+TOTAL Baltic (Latvia, Estonia and Lithuania): 20 258 105 12 453 385
+Russia, Kaliningrad* - 151 046
+TOTAL: 28 390 539 23 360 308
+Intangible assets (including goodwill) and right of use assets 31.12.2022 31.12.2021
+per geographical location, net book value EUR EUR
+Finland 1 829 957 1 829 525
+Sweden 198 128 163 575
+TOTAL Nordic (Finland and Sweden): 2 028 085 1 993 100
+Latvia 1 434 405 1 350 511
+Lithuania 8 951 481 8 958 003
+Estonia 649 470 695 464
+TOTAL Baltic (Latvia, Estonia and Lithuania): 11 035 356 11 003 978
+Russia, Kaliningrad* - 379 673
+TOTAL: 13 063 441 13 376 751
+TOTAL NON-CURRENT NON-FINANCIAL ASSETS: 41 453 980 36 737 059
+*Please see Note 16
+4. Other operating income
+2022 2021 2022 2021
+Re-presented Discontinued*
+By type EUR EUR EUR EUR
+Insurance reimbursements received 205 081 270 049 - -
+Cost reimbursement 207 283 218 730 - -
+Received government grant** - 104 428 - -
+Recognized deferred income (see also Note 28) 29 903 57 107 - -
+Other income 12 469 10 501 273 2 232
+Income according to court decision*** 1 842 450 - - -
+Gains on sale of property, plant and equipment used for 13 660 18 423
+1 320 765 623 545
+renting, net*
+TOTAL: 3 617 951 1 284 360 13 933 20 655
+*Please see Note 16
+27
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+4. Other operating income (cont.)
+** One of the Group’s entities has received government grant under the program of government support related to Covid-19 pandemic.
+Support programm was intended to compensate the decrease in net working capital. Entity has fulfilled all the conditions for the use of
+this support and recognized received amount in Other operating income in the reporting period. There are no conditions, under which
+the entity would have to repay the received support.
+*** Income from court decision has been recognized according to Arbitral tribunal decision in dispute between Storent Holding Finland
+and ex-owner of Leinolift Oy. The management has assessed the recoverability of the amount granted by the court decision and
+recognized a partial allowance for expected credit losses, which is presented in profit and loss item Impairment gain / (loss) on trade
+receivables and contract assets.
+*Storent SIA and Storent Oy, on an ongoing basis, performs optimization of the rental equipment fleet by selling equipment, which is no
+longer in demand in rental market. The increase in rental equipment sold in 2022 and 2021 is related to the management’s initiated change
+in the Group’s operating model to increase the share of rental equipment provided by split-rent vendors.
+2022 2021 2022 2021
+Gains / (losses) on sale of property, plant and equipment used for renting, net calculation: Re-presented Discontinued*
+EUR EUR EUR EUR
+Gross income from sale of property, plant and equipment used for renting 5 428 052 6 525 751 14 376 20 440
+Cost of sold property, plant and equipment used for renting (4 107 287) (5 902 206) (716) (2 017)
+TOTAL Gains / (losses) on sale of property, plant and equipment used
+for renting, net: 1 320 765 623 545 13 660 18 423
+Net gains are presented under Other operating income, while Net losses are presented under Other operating expenses.
+*Please see Note 16
+5. Cost of materials and services
+a) Costs of raw materials and ancillary materials
+2022 2021 2022 2021
+Re-presented Discontinued*
+EUR EUR EUR EUR
+Cost of materials 836 660 613 605 7 020 3 912
+Renting equipment adjustments as a result of stock counts 5 940 2 613 16 84
+TOTAL: 842 600 616 218 7 036 3 996
+b) Other external costs
+2022 2021 2022 2021
+Re-presented Discontinued*
+EUR EUR EUR EUR
+Equipment rent related costs (see also Note 14) 16 559 019 13 700 983 23 873 29 941
+Transport and assembly services 5 929 524 6 284 308 45 012 31 645
+Repairs and maintenance services 3 256 721 3 051 222 93 995 62 983
+TOTAL: 25 745 264 23 036 513 162 880 124 569
+TOTAL: 26 587 864 23 652 731 169 916 128 565
+*Please see Note 16
+28
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+6. Other operating expenses
+2022 2021 2022 2021
+Re-presented Discontinued*
+EUR EUR EUR EUR
+Rent of offices, areas and maintenance costs 2 386 467 2 294 763 53 641 46 810
+IT expenses 813 863 967 432 13 004 1 901
+Legal services** 736 575 146 906 14 -
+Written-off doubtful debts 558 419 445 877 1 830 5 635
+Administration transport costs 520 092 467 201 13 854 6 696
+Other administrative expenses 410 395 317 241 7 892 5 500
+Remuneration to contractors 309 127 371 897 - -
+Insurance costs 265 094 231 813 2 412 119
+Marketing expenses 245 672 261 628 4 288 1 800
+Communication expenses 106 976 132 548 3 721 2 808
+Consulting and other services*** 289 368 242 315 956 524
+TOTAL: 6 642 048 5 879 621 101 612 71 793
+*Please see Note 16.
+**The increase in legal services expenses is related to the court case in Finland (see also Note 4).
+***including audit fee to KPMG Baltics SIA:
+2022 2021
+EUR EUR
+Statutory audit of financial statements 84 400 90 298
+Other assurance services 41 500 -
+Permitted tax services 89 79
+TOTAL: 125 989 90 298
+7. Depreciation and amortization
+2022 2021 2022 2021
+Re-presented Discontinued*
+EUR EUR EUR EUR
+Depreciation of property, plant and equipment used for renting 1 201 624 600 999 100 951 76 979
+Depreciation of property, plant and equipment used for own
+252 373 2 886 3 453
+needs 406 867
+Rights of use assets amortization 2 887 000 4 710 549 - -
+Amortization of intangible assets 846 398 884 854 4 268 3 446
+TOTAL: 5 187 395 6 603 269 108 105 83 878
+*Please see Note 16.
+8. Finance income
+2022 2021 2022 2021
+Re-presented Discontinued*
+EUR EUR EUR EUR
+Foreign exchange income 21 639 20 865 10 327 211
+Interest income calculated using the effective interest method 2 645 2 521 - -
+Other income - - 960 -
+TOTAL: 24 284 23 386 11 287 211
+*Please see Note 16.
+29
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+9. Finance expenses
+2022 2021 2022 2021
+Re-presented Discontinued*
+EUR EUR EUR EUR
+Interest on borrowings* calculated using the effective interest 979 813 1 132 433 - -
+method
+Interest on leases 529 300 743 920 - -
+Interest on bonds** calculated using the effective interest 465 376 513 271 - -
+method
+Interest on factoring*** 9 615 6 109 - -
+Interest on overdraft - 2 340 - -
+Foreign exchange losses 57 399 7 090 75 314 2 665
+Other expenses 96 027 34 823 - -
+TOTAL: 2 137 530 2 439 986 75 314 2 665
+*Please see Note 16.
+**Interest expenses presented above are incurred by financial instruments presented in the Group’s financial liabilities at amortized
+cost in accordance with IFRS 9.
+***In 2014 Group has signed factoring contract with Nordea Bank AB, which improved liquidity of the Group. The management of the
+Group treats this contract as factoring without rights of regress. In 2022, the maturity of these contracts was been prolonged till
+31.03.2023.
+30
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+10. Income tax and deferred income tax assets / liabilities
+2022 2021 2022 2021
+Re-presented Discontinued*
+EUR EUR EUR EUR
+Corporate income tax calculated for the year (3 426) (1 008) (65 926) (54 839)
+Deferred income tax changes due to temporary differences - - - (1 808)
+Corporate income tax recognized in consolidated statement of
+comprehensive income: (3 426) (1 008) (65 926) (56 647)
+*Please see Note 16.
+The Group’s reconciliation of the effective tax rate is based on its domestic tax rate, with a reconciling item in respect of tax rates applied
+by Group companies in other jurisdictions. The reconciliation of the effective tax rate is based on an applicable tax rate that provides the
+most meaningful information to users.
+Reconciliation of the actual corporate income tax with calculated theoretical tax:
+2022 2021
+EUR EUR
+Profit / (loss) before income tax, subject to corporate income tax 4 809 953 (3 614 365)
+The calculated theoretical corporate income tax – at 20% 20,0% 961 991 20,0% (722 873)
+Effect of tax rates in foreign jurisdictions (0,22%) 10 693 (1,70%) 61 582
+Permanent differences:
+Impact of Goodwill impairment (1,39%) 66 770 - -
+Impact of Gain on bargain purchase 151% (1 454 099) - -
+Non-deductible expenses and other permanent differences (0,27%) 13 096 (1,43%) 51 620
+Unrecognized temporary differences (tax losses carried forward) (14,92%) 404 975 (16,90%) 610 678
+The actual corporate income tax for the reporting year: (0,07%) 3 426 (0,03%) 1 008
+Deferred income tax:
+The Group management has determined that eligable subsidiary’s profits in Latvia and Estonia will not be distributed in the foreseeable
+future, and, thus, the Group has not recognized related deferred tax liabilities. The unrecognized deferred tax liabilities as at 31 December
+2022 amount to EUR 2 531 512 (31.12.2021: EUR 1 644 260).
+The unused tax losses, for which deferred tax asset is recognized only to the extent of taxable temporary differences, as at 31 December
+2022 consist of EUR 8 803 899 (31.12.2021: EUR 8 270 226) that expire from 2028 to 2032 and EUR 6 179 570 (31.12.2021: EUR 5 945
+637 that, under certain conditions, do not expire. There are no other material deductible temporary differences and unused tax credits for
+which no deferred tax asset is recognised.
+The Group’s management has prepared a Business plan for the next five-years. Based on the five-year business plan for Finland, Sweden
+and Lithuania the management doesn’t see that the next five-years’ taxable profit will be enough to cover the previous tax losses. As a
+result, the Group’s management decided to recognize deferred tax assets only in the amount equal to the deferred tax liabilities that are
+expected to reverse in future reporting periods.
+31
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+10. Income tax income and deferred income tax assets / liabilities (cont.)
+Movement in deferred tax
+balances Balance at 31 December 2022
+2022 Currency
+Net balance at 1 Recognised in revaluation Deferred tax Deferred tax
+EUR
+January profit or loss effect Net assets liabilities
+Accelerated depreciation for tax
+purposes 867 414 (975 693) - (108 279) - (108 279)
+Tax losses carried forward (3 102 230) 570 718 - (2 531 512) (2 531 512) -
+Loss allowances (175 353) - - (175 353) (175 353) -
+Other items (66) - - (66) (66) -
+Unrecognized deferred tax
+asset 2 410 235 404 975 - 2 815 210 2 815 210 -
+- - - - 108 279 (108 279)
+Set-off (108 279) 108 279
+Net deferred tax - -
+Movement in deferred tax
+balances Balance at 31 December 2021
+2021 Currency
+Net balance at 1 Recognised in revaluation Deferred tax Deferred tax
+EUR
+January profit or loss effect Net assets liabilities
+Accelerated depreciation for tax
+purposes 687 528 179 886 - 867 414 - 867 414
+Tax losses carried forward (2 339 515) (760 907) (1 808) (3 102 230) (3 102 230) -
+Loss allowances (93 807) (81 546) - (175 353) (175 353) -
+Other items (39) (27) - (66) (66) -
+Unrecognized deferred tax
+asset 1 745 833 664 402 - 2 410 235 2 410 235 -
+- 1 808 (1 808) - (867 414) 867 414
+Set-off 866 128 (866 128)
+Net deferred tax (1 286) 1 286
+32
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+11. Personnel costs and number of employees
+2022 2021 2022 2021
+Re-presented Discontinued*
+EUR EUR EUR EUR
+Salaries 6 534 960 6 569 442 78 606 78 065
+State social security mandatory contributions 1 586 347 1 740 467 19 569 12 790
+Other personnel costs 217 309 363 519 14 608 12 770
+TOTAL: 8 338 616 8 673 428 112 783 103 625
+2022 2021
+Executive management remuneration: EUR EUR
+Board members
+Salaries 470 329 452 849
+State social security mandatory contributions 110 977 106 835
+TOTAL: 581 306 559 684
+2022 2021
+Average number of employees during the reporting year 240 262
+TOTAL: 240 262
+2022 2021 2022 2021
+Re-presented Discontinued*
+Personnel costs by function: EUR EUR EUR EUR
+Sales 3 132 556 3 263 216 42 369 34 047
+Customer services 3 393 884 3 526 972 45 904 45 359
+Administration and finance staff 1 812 176 1 883 240 24 510 24 219
+TOTAL: 8 338 616 8 673 428 112 783 103 625
+*Please see Note 16.
+33
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+12. Intangible assets
+Licences Other Intangible
+and similar intagible assets in Goodwill TOTAL
+rights assets progress
+EUR EUR EUR EUR EUR
+At 31 December 2020
+Historical cost 505 339 4 594 335 418 813 11 316 707 16 835 194
+Accumulated amortisation (453 180) (3 167 639) - - (3 620 819)
+Net carrying value 52 159 1 426 696 418 813 11 316 707 13 214 375
+FY 2021
+Net carrying value, opening 52 159 1 426 696 418 813 11 316 707 13 214 375
+Additions 937 459 636 566 475 - 1 027 048
+Write-off - (177) - - (177)
+Amortisation (32 280) (856 020) - - (888 300)
+Net carrying value, closing 20 816 1 030 135 985 288 11 316 707 13 352 946
+At 31 December 2021
+Historical cost 506 276 5 053 794 985 288 11 316 707 17 862 065
+Accumulated amortisation (485 460) (4 023 659) - - (4 509 119)
+Net carrying value 20 816 1 030 135 985 288 11 316 707 13 352 946
+FY 2022
+Net carrying value, opening 20 816 1 030 135 985 288 11 316 707 13 352 946
+Additions 55 406 179 728 656 321 - 891 455
+Transfered from other position - 1 641 609 (1 641 609) - -
+Reclassification to assets held for sale - (4 977) - - (4 977)
+Write-off - - - (329 585) (329 585)
+Amortisation (18 514) (827 884) - - (846 398)
+Net carrying value 57 708 2 018 611 - 10 987 122 13 063 441
+At 31 December 2022
+Historical cost 561 682 6 870 154 - 10 987 122 18 418 958
+Accumulated amortisation and depreciation (503 974) (4 851 543) - - (5 355 517)
+Net carrying value 57 708 2 018 611 - 10 987 122 13 063 441
+All intangible assets are used by the Group.
+Fully amortized intangible assets
+On 31 December 2022, intangible assets of the Group included assets with acquisition value of EUR 3 925 441 (31.12.2021.:
+EUR 2 717 463), which were completely written down into amortization costs and are still actively used in economic activity. Most of these
+intangible assets consist of software, which continue to be used, and for which annual maintenance and improvement fees are paid.
+Development of intangible assets
+In 2020, the Group started to develop a new ERP system that meets the development trends of modern IT technologies in the business
+environment, especially as a result of Covid-19 impact, and will provide effective accounting of rental processes, control procedures of
+the Group companies and operational information for the Group's management to make decisions. The item "Intangible assets in progress"
+included only those costs that the Group could reliably estimate and that met IFRS capitalization criteria. In 2022 and 2021, there are only
+external intangible development costs capitalized. In December 2022, the development process of the new ERP system was completed
+and the implementation process and its use in the Group companies’ everyday operations began; as a result the development costs were
+transferred to the item “Other intangible investments”. The roll-out of the new ERP system is planned to be completed by the end of 2023.
+34
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+12. Intangible assets (cont.)
+31.12.2022 31.12.2021
+Goodwill by CGU EUR EUR
+Storent SIA 680 035 680 035
+Storent UAB 8 742 675 8 742 675
+Storent OU 542 475 542 475
+Storent Oy 1 021 937 1 021 937
+Storent OOO* - 329 585
+10 987 122 11 316 707
+*As at 31 December 2022, Storent OOO is presented as disposal group for sale. Goodwill is written-down as impairement loss. For
+additional information please see Note 16.
+The key assumptions used in the estimation of the recoverable amount (value in use) of the Group’s CGUs are the following:
+31.12.2022 Latvia Lithuania Estonia Finland Sweden
+EBITDA margin 32%-35% in 32%-34% in 25%-30% in 28%-30% in 19%-25% in
+years 2023- years 2023- years 2023- years 2023- years 2023-
+2027, 32% in 2027, 32% in 2027, 32% in 2027, 29% in 2027, 25% in
+terminal year terminal year terminal year terminal year terminal year
+(2022 actual: (2022 actual: (2022 actual: - (2022 actual: - (2022 actual: -
+37%) 32%) 15%) 30%) 17%)
+EBITDA growth 2% 2% 2% 2% 2%
+rate
+Period of cash 5 years + 5 years + 5 years + 5 years + 5 years +
+flows forecast terminal year terminal year terminal year terminal year terminal year
+WACC 9,43% 9,43% 9,43% 9,43% 9,43%
+Terminal 0,61% 0,61% 0,61% 0,61% 0,61%
+growth rate
+* Discount rate forecasts are based on the actual cost of capital of group companies.
+31.12.2021 Latvia Lithuania Estonia Finland Sweden Russia
+EBITDA margin 16%-18% in 9%-18% in 1%-18% in 15%-18% in 14%-16% in 48%-40% in
+years 2022- years 2022- years 2022- years 2022- years 2022- years 2022-
+2026, 16% in 2026, 9% in 2026, 1% in 2026, 15% in 2026, 14% in 2026, 48% in
+terminal year terminal year terminal year terminal year terminal year terminal year
+(2021 actual: (2021 actual: (2021 actual: - (2021 actual: - (2021 actual: - (2021 actual: -
+16%) 16%) 8%) 14%) 8%) 51%)
+EBITDA growth 2% 9% 18% 3% 2% -8%
+rate
+Period of cash 5 years + 5 years + 5 years + 5 years + 5 years + 5 years +
+flows forecast terminal year terminal year terminal year terminal year terminal year terminal year
+WACC 10,24% 10,24% 10,24% 10,24% 10,24% 10,24%
+Terminal 0,59% 0,59% 0,59% 0,59% 0,59% 0,59%
+growth rate
+To determine the key assumptions of EBITDA margin and EBITDA growth rate, the Group management has considered both the Group’s
+past experience as well the future trends and forecasts of the construction market in the specific country where the CGU is located.
+The recoverable value of goodwill and other non-current non-financial assets significantly depends relating to the newly established
+Storent Holdings group’s net turnover growth, EBITDA margin (as a result of internal cost optimization and internal transfer pricing
+adjustments) and timing and magnitude of EBITDA growth, discount rate used, as well as the ability of Group’s management to implement
+these assumptions and the development of the Baltic and Nordic construction equipment rental market in general. Any unfavorable
+changes in these assumptions that may be caused by volatility of the market, in which the Group operate, may have a negative influence
+of the carrying amount goodwill and other non-current non-financial assets recognized on the Group’s consolidated balance sheet as of
+31 December 2022. Please refer further to Notes 35 and 36.
+35
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+12. Intangible assets (cont.)
+Sensitivity analysis
+The Group has conducted an analysis of the sensitivity of the impairment test to changes in the key assumptions used to determine the
+recoverable amount for each of the CGUs to which goodwill is allocated. Analysis of the sensitivity is based on same assumptions as
+impairment test and as described above. Management estimated that all Baltic countries will reach a similar EBITDA margin level by
+increasing sales and significantly improving efficiency as outlined above, especially in Estonia.
+The key assumptions that can affect the recoverable value and, thus, the carrying amount of the cash-generating units are the fulfilment
+of the EBITDA budget and the weighted average cost of capital. The table below shows the impact of the change in these two
+assumptions on the value headroom/(impairment) of the cash-generating unit.
+Weighted average cost of capital 9,43% EBITDA target reached by 90%
+(10,24% in 2021)
+EBITDA EBITDA EBITDA EBITDA Weighted Weighted Weighted Weighted
+target target target target average cost average cost average cost average cost
+reached reached reached reached of capital of capital of capital of capital
+by 90% by 80% by 90% by 80% 8,43% 10,43% 9,24% 11,24%
+m EUR 2022 2022 2021 2021 2022 2022 2021 2021
+Latvia 19,5 14,73 22,26 18,10 24,24 15,85 27,86 18,18
+Lithuania 18,42 15,34 10,45 7,82 21,6 15,96 14,07 7,82
+Estonia 1,33 -0,64 1,09 -0,38 3,84 -0,52 2,87 -0,25
+Sweden 0,98 0,12 -0,14 -0,60 2,1 0,17 0,29 -0,47
+Finland 3,97 1,19 2,28 0,03 6,92 1,81 4,56 0,55
+Russia - - 1,54 1,28 - - 1,75 1,38
+TOTAL: 44,20 30,74 37,48 26,25 58,70 33,27 51,40 27,21
+Based on the calculations performed by management, a decrease in EBITDA or increase in discount rate would lead to the fact that the
+carrying amount of Estonian CGU, including the allocated corporate assets, may not reach the expected recoverable amount as of
+December 31, 2022. The management of the group, in close cooperation with the management of the Estonian CGU, carefully considers
+and implements the sales strategy in Estonia in order to prevent non-compliance with the planned EBITDA level.
+36
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+13. Property, plant and equipment
+Land and Machinery and Other fixed
+TOTAL
+buildings equipment assets
+EUR EUR EUR EUR
+At 31 December 2020
+Historical cost 302 978 34 345 305 3 714 941 38 363 224
+Accumulated amortisation (83 853) (23 940 661) (3 048 699) (27 073 213)
+Net carrying value 219 125 10 404 644 666 242 11 290 011
+FY 2021
+Net carrying value, opening 219 125 10 404 644 666 242 11 290 011
+Additions - 1 064 647 133 618 1 198 265
+Reclassification to assets held for sale - (344 995) - (344 995)
+Transfered from ROU at the end of the lease (Note 14) - 5 668 427 37 105 5 705 532
+Write-off - (6 732 582) (72 114) (6 804 696)
+Amortisation (15 055) (677 978) (395 265) (1 088 298)
+Net carrying value, closing 204 070 9 382 163 369 586 9 955 819
+At 31 December 2021
+Historical cost 302 978 34 000 802 3 813 550 38 117 330
+Accumulated amortisation (98 908) (24 618 639) (3 443 964) (28 161 511)
+Net carrying value 204 070 9 382 163 369 586 9 955 819
+FY 2022
+Net carrying value, opening 204 070 9 382 163 369 586 9 955 819
+Additions - 1 049 353 219 479 1 268 832
+Acquisitions through business combinations* - 12 135 279 181 12 135 460
+Transfered from ROU at the end of the lease (Note 14) - 1 189 121 84 320 1 273 441
+Reclassification to assets and disposal groups held for sale*
+- (86 178) (1 658) (87 836)
+Write-off - (4 546 304) (82 152) (4 628 456)
+Amortisation (15 056) (1 201 624) (237 317) (1 453 997)
+Net carrying value 189 014 17 921 810 352 439 18 463 263
+At 31 December 2022
+Historical cost 302 978 43 742 073 4 033 720 48 078 771
+Accumulated amortisation and depreciation (113 964) (25 820 263) (3 681 281) (29 615 508)
+Net carrying value 189 014 17 921 810 352 439 18 463 263
+*Please see Note 16 for discontinued operations and Note 35 for business combinations.
+All property, plant and equipment classified as Machinery and equipment and Other fixed assets are leased out by the Group under
+operating lease terms. Other types of property, plant and equipment are used by the Group.
+Machinery and equipment that had been prepared for selling in the beginning of 2022 was classified in this consolidated annual report
+as at 31 December 2021 as Assets held for sale. Please see Note 16.
+A number of fully depreciated property, plant and equipment are still used for the Group’s business operations. The total historical cost
+of such property, plant and equipment as at 31 December 2022 amounted to EUR 6 546 256 (31.12.2021: EUR 9 683 288).
+37
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+14. Rights of use assets
+Licences Machinery
+Land and Other fixed
+and similar and TOTAL
+buildings assets
+rights equipment
+EUR EUR EUR EUR EUR
+At 1 January 2021
+Net carrying value, opening 49 774 636 975 21 005 974 621 874 22 314 597
+Additions - 16 602 1 473 375 101 401 1 591 378
+Reclassification to assets held for sale - - (61 601) - (61 601)
+Transfered to PP&E at the end of the lease on
+transfer of ownership (see Note 13) - - (5 668 427) (37 104) (5 705 531)
+Amortisation (25 969) (245 627) (4 301 396) (137 557) (4 710 549)
+Net carrying value at 31 December 2021 23 805 407 950 12 447 925 548 614 13 428 294
+At 1 January 2022
+Net carrying value, opening 23 805 407 950 12 447 925 548 614 13 428 294
+Additions - 151 904 - 511 897 663 801
+Acquisitions througt business combinations* - - 12 907 23 164 36 071
+Transfered to PP&E at the end of the lease on
+transfer of ownership (see Note 13) - - (1 189 121) (84 320) (1 273 441)
+Write-off - - - (40 449) (40 449)
+Amortisation (23 805) (289 370) (2 305 217) (268 608) (2 887 000)
+Net carrying value at 31 December 2022 - 270 484 8 966 494 690 298 9 927 276
+All rights of use assets classified as Machinery and equipment and Other fixed assets are leased out by the Group under operating lease
+terms. Other types of rights of use assets are used by the Group for own purposes.
+For information on incremental borrowing rates applied to lease liabilities, refer to Note 25, and on business combinations – Note 35.
+Premises rent agreements that can be discontinued by sending letter to premises holder one to six months before termination, are not
+classified as rights of use assets since both parties have unilateral rights to terminate the contract and there is historical evidence of
+such right being exercised by both parties. Forklift rent agreements, without specified forklift serial number in agreement also are not
+classified as rights of use assets as those can be replaced by service provider and there is a history of such replacement at decision by
+service provider.
+2022 2021 2022 2021
+Re-presented Discontinued*
+Amounts recognized in profit and loss: EUR EUR EUR EUR
+Revenue from sub-lease of rights-of-use assets (see also Note 4 168 112 5 202 688 - -
+3)
+Revenue from sub-lease of assets, for which lease liabilities are 22 855 228 19 230 071 30 495 38 278
+not recognized (see also Note 3)**
+Expense related to variable lease payments not included in the (16 559 019) (13 700 983) (23 873) (29 942)
+measurement of the lease liability**
+Depreciation expenses on right-of-use assets (2 887 000) (4 710 549) - -
+Interest expense on lease liabilities (529 300) (743 920) - -
+Expense relating to short-term leases (1 554 412) (1 545 913) (34 294) (29 789)
+TOTAL: 5 493 609 3 731 395 (27 672) (21 453)
+*Please see Note 16.
+**The Group does not recognize lease liabilities and right-of-use assets for machinery and equipment leased from split-rent vendors as
+the lease payments are entirely variable depending on sub-lease rental income.
+38
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+15. Inventories
+31.12.2022 31.12.2021
+EUR EUR
+Goods for resale (at cost) 520 680 548 301
+Consumables (at cost) 634 924 602 569
+TOTAL: 1 155 604 1 150 870
+16. Non-current assets and disposal groups held for sale
+Non-current assets classified as held for sale
+By the end of year 2021, Group management decided to sell the old equipment, which is no longer competitive in the market. Selected
+equipment for sales has been reclassified and moved from property, plant and equipment and rights of use assets to non-current assets
+held for sale. Before reclasification of equipment its balance value was compared to an estimated fair value less costs to sell. Estimated
+fair value less costs to sell was determined at market prices for same equipment with a similar technical condition. It was found that the
+balance value of equipment was lower than the estimated fair value less costs to sell. Therefore, revaluation of fixed assets is not necessary
+by the end of year 2021. There are no cumulative income or expenses included in Other comprehensive income relating to assets held
+for sale.
+31.12.2022 31.12.2021
+Reclassification of statement of financial positions EUR EUR
+Property, plant and equipment - 344 995
+Rights of use assets - 61 601
+Non-current assets classified as held for sale - 406 596
+Lease liabiltites (see Note 25) - 23 039
+Liabilitities directly associated with non-current assets classified as held for sale - 23 039
+Disposal group classified as held for sale
+Considering the geopolitical situation, the Group has limited opportunities to manage and develop its subsidiary in Russia. At the moment,
+there is no possibility to make payments to or from the subsidiary company, so the management of the Group has decided to sell the
+subsidiary company. By the end of year 2022, the Group management committed to a plan to sell the subsidiary Storent OOO, Russia,
+Kaliningrad. Accordingly, assets and liabilities of this subsidiary are presented as a disposal group held for sale. Efforts to sell the disposal
+group have started and a sale is expected by the end of 2023.
+Impairement losses of EUR 329 585 on goodwill of the remeasurement losses of EUR 384 204 for write-downs of the disposal group to
+the lower of it carrying amount and its fair value less costs to sell have been included in “Impairement loss”. The remeasurement of the
+net carrying amount of property, plant and equipment, inventory, trade receivables, cash and current liabilities within the disposal group
+has been performed based on the management’s best estimate of fair value less costs to sell of the disposal group, taking into account
+non-binding indications of the possible sales price.
+2022 2021
+Impairment loss EUR EUR
+Impairment loss on goodwill 329 585 -
+Loss on remeasurement of the disposal group 384 204 -
+TOTAL: 713 789 -
+39
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+16. Non-current assets and disposal groups held for sale (cont.)
+Results of discounted operation
+Notes 2022 2021
+EUR EUR
+Net revenue 3 964 960 6 49 620
+Other operating income 4 13 993 2 0 655
+Cost of materials and services 5 (169 916) ( 128 565)
+Personnel costs 11 (112 783) ( 103 625)
+Other operating expenses 6 (101 612) ( 71 793)
+Depreciation and amotrization 7 (108 105) ( 83 878)
+Impairement gain / (loss) on trade receivables and contract asset (10 926) ( 10 834)
+Finance income 8 11 287 211
+Finance expenses 9 (75 314) ( 2 665)
+Result from operating activities 411 584 269 126
+Income tax income / (expenses) 10 (59 367) (56 603)
+Result from operating activities, net of tax 352 217 212 523
+Impairment loss on goodwill (329 585) -
+Loss on remeasurement of disposal group for sale (384 204) -
+Profit/(loss) from discontinuing operation, net of tax (361 572) 212 523
+In the consolidated statement of comprehensive income the net result is presented as mpairment loss on goodwill (EUR 329 585) and
+loss from discontinuing operation (EUR 31 987).
+Cash flows form (used in) discounted operation
+2022 2021
+EUR EUR
+Net cash from operating activities 57 628 56 217
+TOTAL: 57 628 56 217
+Effects of disposal group on the financial position of the Group
+31.12.2022 Remeasurement Fair value
+EUR of the disposal less costs to
+group sell
+Property, plant and equipment 88 470 (88 470) -
+Trade receivables and inventory 103 822 (103 822) -
+Cash and cash equivalents 409 845 (191 912) 217 933
+Trade payables (117 933) - (117 933)
+TOTAL: 484 204 (384 204) 100 000
+40
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+17. Trade receivables
+31.12.2022 31.12.2021
+EUR EUR
+Trade receivables 10 071 308 8 188 384
+Allowance for doubtful debts (2 653 950) (2 259 455)
+TOTAL: 7 417 358 5 928 929
+Interest is not charged on late payment of receivables. Generally, trade receivables are due within 15 - 45 days.
+Allowance for doubtful debts is expressed as lifetime expected credit loss and is calculated on a collective basis using simplified approach
+under IFRS 9.
+The Group’s exposure to credit risk is influenced mainly by the individual characteristics of each customer. The Group’s management
+has established a credit policy under which each new customer is analysed individually for creditworthiness before the Group’s standard
+payment and delivery terms and conditions are offered. The Group’s review includes external ratings, if they are available, financial
+statements, credit agency information and industry information. Sale limits are established for each customer and reviewed yearly. Any
+sales exceeding those limits require approval from the entity management or Group management. Monitoring customer credit risk is
+going on daily basis. Monitoring includes actual information from credit agency and review past due trade payables by each entity debt
+controllers. Please also see Note 33.
+Main assumption of simplified approach under IFRS 9:
+The appropriate grouping Group uses debt grouping by countries for measurement of loss allowances on a collective
+basis
+Period Group uses a 2-year period to estimate historical loss rate
+Historical loss rate Calculation done, excluding intercompany sales and sales to lease companies (lease-back).
+Excluded also debts from Crent SIA (Cramo SIA), that was merged with Storent SIA in
+December 2017
+Timeframes used in Current / Due 1-30 / Due 31-60 / Due 61-90 / Due 91-180 / Due 181-360 / Due 361+ /
+calculation
+Never Paid
+Macro-economic factors The Group did not find any material connection between actual credit loss rate and macro-
+economic factors. In the management’s view, this is due to the construction sector often used
+to stimulate economic activity during an economic downturn.
+Forward-looking information In line with the conclusion on macro-economic factors above, the Group presumes that
+historical loss rates will prevail also in the future, and no adjustments at historical loss rates
+are done.
+Trade receivables are not secured or collaterized.
+The gross carrying amount of a trade receivables is written off when the Group has no reasonable expectations of recovering a trade
+receivable in its entirety or a portion thereof. The Group individually makes an assessment with respect to the timing and amount of
+write-off based on whether there is a reasonable expectation of recovery. The Group expects no significant recovery from the amounts
+written off. However, trade receivables that are written off could still be subject to enforcement activities in order to comply with the
+Group’s procedures for recovery of amounts due.
+Changes in the allowance for doubtful debts 31.12.2022 31.12.2021
+EUR EUR
+At the beginning of the year 2 259 455 2 307 188
+Increase 952 914 403 779
+Written-off (558 419) (451 512)
+TOTAL: 2 653 950 2 259 455
+41
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+18. Contract assets and contract liabilities
+The following tables provide information about receivables, contract assets and contract liabilities from contracts with customers.
+The contract assets primarily relate to the Group’s rights to consideration for work completed but not billed at the reporting date. The
+contract assets are transferred to receivables when the rights become unconditional. This usually occurs when the Group issues an
+invoice to the customer.
+31.12.2022 31.12.2021
+Contracts balances EUR EUR
+Receivables, which are included in ‘Trade receivables’ 7 759 484 8 188 384
+Contract assets 2 667 4 192
+TOTAL: 7 762 151 8 192 576
+The contract liabilities primarily relate to the loyalty points earned by the customers as part of the Group’s customer loyalty program,
+which was launched in 2020, and advances received from customers for performance obligations not yet performed.
+31.12.2022 31.12.2021
+Contracts balances EUR EUR
+Contract liabilities – loyalty program (149 381) (131 408)
+Contract liabilities – advances from customers (188 021) (272 937)
+TOTAL: (337 402) (404 345)
+31.12.2022 31.12.2021
+Changes in contract liabilities: EUR EUR
+At the beginning of the year (404 345) (552 477)
+Revenue recognized from amounts included in contract liabilities
+404 345 552 477
+at the beginning of the period
+Revenue deferred during the period (337 402) (404 345)
+TOTAL: (337 402) (404 345)
+19. Other receivables
+31.12.2022 31.12.2021
+EUR EUR
+Guarantee deposit 185 158 162 930
+Advances to suppliers 31 540 39 961
+Refundable value-added tax 61 962 26 813
+Advances to employees 1 692 2 809
+TOTAL: 280 352 232 513
+20. Prepaid expenses
+31.12.2022 31.12.2021
+EUR EUR
+Other deferred expenses 227 830 119 628
+TOTAL: 227 830 119 628
+42
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+21. Cash and cash equivalents
+31.12.2022 31.12.2021
+EUR EUR
+Cash in bank and cash, EUR 665 313 590 279
+Cash in bank and cash, RUB - 268 740
+Cash in bank and cash, SEK 9 738 61 248
+TOTAL: 675 051 920 267
+22. Share capital of the Parent company
+In 2022, registered share capital of the Group’s legal Parent company was increased by EUR 18 000 000 and the registered share
+capital of the Group’s legal Parent company on 31.12.2022 is 18 150 000, consisting of 18 150 000 shares. The nominal value of a share
+is EUR 1. All shares have equal voting right and dividend entitlement. Share capital was increased by new share issue with non-financial
+contribution.
+Parent company's shareholders as of 31 December 2021:
+Numbers of Amount Participating
+Shareholder shares EUR interest (%)
+“EEKI” SIA 50 000 50 000 33,33 %
+“Bomaria” SIA 50 000 50 000 33,33 %
+“Supremo” SIA 50 000 50 000 33,33 %
+TOTAL: 150 000 150 000 100%
+Parent company's shareholders as of 31 December 2022:
+Numbers of Amount Participating
+Shareholder shares EUR interest (%)
+“EEKI” SIA 9 075 000 9 075 000 50%
+“Supremo” SIA 9 075 000 9 075 000 50%
+TOTAL: 18 150 000 18 150 000 100%
+23. Other provisions
+31.12.2022 31.12.2021
+EUR EUR
+Provisions for employee bonuses 116 207 121 518
+Provisions for expenses 12 749 17 385
+Total: 128 956 138 903
+Provisions for employee bonuses and provisions for expenses are expected to result in cash outflows within a year of the reporting date.
+The uncertainty arises from the fact that the information on specific cash outflow amounts is not available to the management as at the
+reporting date. The Group does not expect any reimbursements with respect to the above amounts.
+31.12.2022 31.12.2021
+Changes in the provisions: EUR EUR
+At the beginning of the year 138 903 116 919
+Provisions made 325 015 405 354
+Provision used (314 449) (383 370)
+Transferred to Disposal Group (20 513) -
+TOTAL: 128 956 138 903
+43
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+24. Issued bonds
+In 2017, the Group’s subsidiary Storent Investments AS issued bonds with maturity date 30.06.2021 and coupon interest rate 8%,
+nominal value of one bond is 100 EUR, total nominal value was 10 000 000 EUR. As at 31 December 2021, Storent Investments AS
+had fully settled the remaining outstanding bonds of this issue. Bonds were listed on the official bond list of AS “Nasdaq Riga.”
+In 2020, the Group’s subsidiary Storent Investments AS issued the second emission of bonds with maturity date 19.10.2023, coupon
+interest rate 8%, bond nominal value 100 EUR and total nominal value 15 000 000 EUR. Bonds are listed on the official bond list of
+AS “Nasdaq Riga.”
+Emission Actual
+date Maturity interest 31.12.2022 31.12.2021
+Issued bonds date Amount rate (%) EUR EUR
+ISIN code LV0000802304 01.07.2017 30.06.2021 4 050 000 8 - -
+ISIN code LV0000802411 19.03.2020 19.10.2023 15 000 000 8 4 870 500 4 870 500
+Accrued interest for bonds coupon 78 378 78 378
+payment (LV0000802411)
+Incremental cost allocation emission (50 143) (110 313)
+LV0000802411 *
+TOTAL: 4 898 735 4 838 565
+Total Non-current liabilities: - -
+Total Current liabilities: 4 898 735 4 838 565
+On 31.12.2021 liabilities for bonds are reflected as short-term liabilities because the financial covenant Net debt / EBITDA ratio is not
+fulfilled at the end of the reporting period. On 31.12.2022 both financial covenants are fulfilled.
+In April 2023, Storent Holdings SIA announced new bond issue of up to EUR 15 million. Storent Holdings Group will use the proceeds,
+among others, to refinance its existing liabilities.
+Borrowings against issued bonds are unsecured. Full amount of borrowings is repayable upon maturity date. Coupon payment is
+payable on a quarter basis.
+*Total borrowing origination fees and costs amounted to 223 970 EUR. The Group treated these fees and costs as incremental costs
+related to attract the financing. These fees and costs are an integral part of the effective interest rate of the loans and are treated as
+an adjustment to the effective interest rate.
+Reconciliation of movements of issued bond liabilities to cash flows arising from financing activities:
+31.12.2022 31.12.2021
+EUR EUR
+Balance at the beginning of the year 4 838 565 7 446 468
+Proceeds from bonds - -
+Repayment bonds - (2 621 397)
+Total changes from financing cash flows - (2 621 397)
+Incremental cost allocation amortization, net - (4 574)
+Proceeds from bond repurchases below nominal value - (4 403)
+Interest expense 465 376 513 271
+Interest paid (405 206) (490 800)
+Total liability-related other changes 60 170 13 494
+Balance at the end of the year 4 898 735 4 838 565
+44
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+24. Issued bonds (cont.)
+According to Terms and Conditions for 2020 emission, the following financial covenants have to be met:
+ Shareholders Equity to Assets Ratio may not be lower than 25 (twenty-five) per cent at the end of each Quarter.
+“Shareholders Equity to Assets Ratio” means the Issuer’s total shareholders’ equity expressed as a per cent of the Issuer’s
+consolidated amount of assets as at the end of each Quarter determined on the basis of the Issuer’s consolidated quarterly
+financial statements.
+ Net Debt/EBITDA Ratio for the for the previous 12 (twelve) months may not be higher than 4.5: (a) as at the end of each
+Quarter determined on the basis of the Issuer’s consolidated monthly financial statements for the previous 12 (twelve)
+months; and (b) as at 31 December each year, as determined on the consolidated basis on the basis of each of the Issuer’s
+annual financial reports.
+“Net Debt/EBITDA Ratio” means the ratio of interest-bearing liabilities – (minus) cash to EBITDA of the respective
+measurement period.
+“EBITDA” means the net income of the measurement period before: (a) any provision on account of taxation; (b) any interest,
+commission, discounts or other fees incurred or payable, received or receivable in respect of financial indebtedness; (c) any
+items treated as exceptional or extraordinary; (d) any depreciation and amortisation of tangible and intangible assets; and
+(e) any re-valuation, disposal or writing off of assets.
+*On 2 April 2020 Storent Investments AS announced an instigation of written procedure for receipt of consent of Noteholders holding
+the Notes to amend Terms and Condition. In accordance with the proposed amendments to the Terms and Conditions, the Issuer
+proposed to exclude the Net Debt/EBITDA financial covenant from the Terms and Conditions till 31 December 2021, which will allow
+the Issuer to reorganize its activities in case of a possible decrease in turnover and to continue to fulfil its obligations. On 28 April 2020
+voting has been closed and amendments have been approved, with the Net Debt/EBITDA financial covenant being applicable to the
+Issuer from 31 December 2021.
+In February 2022, Storent Investments AS announced an instigation of written procedure for receipt of consent of Noteholders holding
+the Notes to amend Terms and Condition of bonds with ISIN LV0000802411. In accordance with the proposed amendments to the
+Terms and Conditions, the Issuer proposes to modify Shareholders Equity to Assets Ratio covenant to include in the equity calculation
+also loans from the Issuer's shareholders and to modify Net Debt/EBITDA Ratio covenant to exclude loans from the Issuer's
+shareholders from the net indebtedness of the Issuer. This will allow the Issuer to safely comply with the financial covenants until
+maturity of the Notes. On 28 February 2022 voting has been closed and amendments have been approved
+Transactions with bonds in 2022
+In 2022, there were no transactons with bonds.
+Transactions with bonds in 2021
+Emission with ISIN code LV0000802304
+On 1 December 2020 Storent Investments AS , by exercising the rights provided for in Clause 16 of the Terms and Conditions of Notes
+(ISIN LV0000802304), which inter alia provides Storent's right at any time to purchase the Notes in any manner and at any price in the
+secondary market, hereby announced repurchase of the Notes in the nominal value not exceeding 1,000,000 EUR. The price at which
+Storent was ready to repurchase the Notes was not higher than the nominal value of the Notes. Interest accrued until 14 December
+2020 (inclusive) was added to the repurchased Notes. As a result of repurchase Storent has repurchased notes in the nominal value
+of 950 000 EUR in December 2020 and 50 000 EUR in January 2021.
+On 11 January 2021 Storent Investments AS , by exercising the rights provided for in Clause 16 of the Terms and Conditions of Notes
+(ISIN LV0000802304), which inter alia provides Storent's right at any time to purchase the Notes in any manner and at any price in the
+secondary market, hereby announced repurchase of the Notes in the nominal value not exceeding 1,000,000 EUR. The price at which
+Storent was ready to repurchase the Notes was not higher than the nominal value of the Notes. Interest accrued until 22 January 2021
+(inclusive) was added to the repurchased Notes. As a result of repurchase Storent has repurchased notes in the nominal value of
+1 000 000 EUR.
+On 25 February 2021 Storent Investments AS offered to the noteholders who own the notes of Storent Investments AS maturing on
+30 June 2020 (ISIN LV0000802304) an opportunity to exchange the Existing Notes owned by them with the New Notes (ISIN
+LV0000802411). The exchange ratio is one-to-one, and the noteholders may apply for the exchange with any number of the Existing
+Notes owned by them. On 16 March 2021 the first stage of subscription for Storent Investments AS new notes with ISIN code
+LV0000802411 ended, where the investors agreed to exchange the notes of Storent Investments AS maturing on 30 June 2020 (ISIN
+LV0000802304) with the New Notes in the total nominal amount of 1 424 200 EUR. Notes issued by Storent Investments AS (ISIN:
+LV0000802304) included in the Exchange trading system was decreased to EUR 2 625 800. The decrease is in the amount of
+exchanged bonds.
+On 22 March 2021 Storent Investments AS decreased the emission amount of the notes (ISIN LV0000802304) included in the
+Exchange trading system by EUR 1 575 800. The decrease was in the amount of repurchased bonds.
+On 30 June 2021 Storent Investments AS has redeemed the notes (ISIN LV0000802304) included in the Exchange trading system by
+transferring principal and interest payments to the bondholders.
+45
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+25. Lease liabilities
+Balance sheet value of
+leased assets on
+Interest 31.12.2022 31.12.2021 31.12.2022
+By asset type Maturity rate, (%)* EUR EUR EUR
+1.8-5.5%
+Leasing companies (various Various (2021 -
++3M 5 804 456 10 653 575 22 662 829
+asset types) 2024)
+EURIBOR
+Redemption contracts
+31.12.2022 1.5% - 71 934 -
+(various asset types)
+Supplier funding (various
+28.07.2022 2%-8.67% 382 927 497 309 806 714
+asset types)
+Premise’s rent 31.12.2023 10.3% 470 964 638 885 1 214 865
+Various
+Car rent 10.3% 67 367 32 493 426 717
+(2021-2023)
+IT sofware 2022 10.3% - 28 554 -
+Warehouse forklifts 2027 10,58% 323 729 - 442 883
+Liabilities directly associated
+2022 2%-8.67% - 23 039 -
+with assets held for sale
+Total: 7 049 443 11 945 789 25 554 008
+Total Non-current liabilities: 3 488 376 6 789 551
+Total Current liabilities: 3 561 067 5 156 238
+The maturity of lease liabilities disclosed in Note 33.
+*Equals the incremental borrowing rate applied to measure the lease liabilities.
+Reconciliation of movements of lease liabilities to cash flows arising from financing activities:
+31.12.2022 31.12.2021
+EUR EUR
+Balance at the beginning of the year 11 945 787 17 370 377
+Repayment of lease liabilities (5 670 256) (7 015 968)
+Total changes from financing cash flows (5 670 256) (7 015 968)
+New leases 707 252 1 591 378
+Interest expenses accrued 529 300 743 920
+Interest paid (529 300) (743 920)
+Acquisitions through business combinations (see Note 35) 66 660 -
+Total liability-related other changes 773 912 1 591 378
+Balance at the end of the year 7 049 443 11 945 787
+Total cash outflow for leases for the reporting year amounts to:
+2022 2021
+Re-presented
+EUR EUR
+Repayment of lease liabilities 5 670 256 7 015 968
+Interest paid 529 300 743 920
+Expenses relating to short-term leases 1 554 412 1 545 913
+TOTAL: 7 753 968 9 305 801
+46
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+26. Other borrowings
+In 2015 – 2019, the Group received loans from Haulotte Group AB, Yanmar Construction Equipment Europe S.A.S. and SA Manitou BF.
+Total loans amounted to EUR 16 254 002 with interest rate 2,49% - 4% per annum. Loans repayment date are showed in table below.
+As collateral for contracts with Haulotte Group AB, Yanmar Construction Equipment Europe S.A.S Group and SA Manitou BF promissory
+notes for each payment have been registered.
+Maturity Amount Actual 31.12.2022 31.12.2021
+EUR interest EUR EUR
+rate (%)
+Haulotte Group SA 01.09.2022 1 003 836 3.94 - 151 065
+Haulotte Group SA 01.09.2022 1 994 007 3.94 - 318 798
+Haulotte Group SA 15.09.2022 1 004 278 4 - 201 525
+Haulotte Group SA 01.08.2024 2 009 115 2.8 706 524 1 110 362
+Yanmar Construction Equipment Europe SAS 15.09.2022 1 075 956 4 - 215 909
+Yanmar Construction Equipment Europe SAS 04.08.2024 803 768 2.8 282 697 444 204
+SA Manitou BF 04.08.2024 1 403 000 2.8 603 417 905 126
+Incremental cost allocation (1 058 151) (19 151) (76 259)
+Levina Investments S.A.R.L. 16.12.2024 x 7 5 430 175 -
+CITP SIA 31.01.2025 50 000 3 54 192 -
+Total: 7 057 854 3 270 730
+Total Non-current liabilities: 5 685 286 1 504 527
+Total Current liabilities: 1 372 568 1 766 203
+Total loans origination fees and costs amounted to EUR 1 058 151. The Group treated these fees and costs as incremental costs related
+to attracted finance. These fees and costs are on integral part of the effective interest rate of the loans and are treated as an adjustment
+to the effective interest rate.
+In December 2022, amendments to the agreement on repayment of the loan from Levina Investments S.a.r.l. extending the term by one
+year, the last repayment term is December 2024, and changing the loan interest rate from 14% to 7%.
+Reconciliation of movements of other borrowings to cash flows arising from financing activities:
+31.12.2022 31.12.2021
+EUR EUR
+Balance at the beginning of the year 3 270 730 6 436 419
+Proceeds from other borrowings 650 000 -
+Repayment of other borrowings (1 745 101) (3 282 837)
+Total changes from financing cash flows (1 095 101) (3 282 837)
+Incremental cost allocation amortization 57 108 142 139
+Proceeds from additional discount - (8 884)
+Interest expense 65 091 159 092
+Interest paid (74 341) (175 201)
+Reclassified from Borrowings from related companies on change of shareholder 5 430 175 -
+Settlement of pre-existing relationship on business combination (see Note 35) (650 000) -
+Acquisitions through business combinations (see Note 35) 54 192 -
+Total liability-related other changes 4 882 225 117 148
+Balance at the end of the year 7 057 854 3 270 730
+Changes in the incremental cost allocation:
+31.12.2022 31.12.2021
+EUR EUR
+At the beginning of the year 76 259 218 398
+Incremental cost increase - -
+Written off as adjustment to effective interest rate (57 108) (142 139)
+TOTAL: 19 151 76 259
+47
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+27. Taxes and national mandatory social insurance contributions
+31.12.2022 31.12.2021
+EUR EUR
+Personal income tax 140 034 152 732
+State social security mandatory contributions 168 659 169 326
+Value added tax 368 333 597 654
+Risk duty 3 084 3 448
+TOTAL: 680 110 923 160
+28. Deferred income
+31.12.2022 31.12.2021
+EUR EUR
+Gain on sale-and-leaseback transactions 49 540 79 443
+Total: 49 540 79 443
+Total Non-current deferred income: - -
+Total Current deferred income: 49 540 79 443
+Sale-and-leaseback transactions
+In 2016 to 2018, the Group entered into sale-and-leaseback transactions that resulted in sales proceeds exceeding the carrying amount
+of these assets, and the difference has been accounted as Deferred income. In line with IFRS 16 transition requirements, the Group
+continues to amortize the deferred gain on a strength-line method over the lease term for each of such assets.
+In 2019, the Group entered into two sale-and-leaseback agreements, for which the Group assessed that the transactions did not result
+in a sale as the Group continued to control the underlying assets. The Group presents the received financing as lease liabilities and
+presents the excess of financing received over the carrying amount of the underlying assets as deferred liabilities.
+31.12.2022 31.12.2021
+Changes in the deferred income: EUR EUR
+At the beginning of the year 79 443 136 550
+Amortised and included in income of reporting year (See Note 4) (29 903) (57 107)
+TOTAL: 49 540 79 443
+29. Other liabilities
+31.12.2022 31.12.2021
+EUR EUR
+Payroll 350 239 381 482
+Other payables 6 406 7 999
+TOTAL: 356 645 389 481
+30. Accrued liabilities
+31.12.2022 31.12.2021
+EUR EUR
+Accrues liabilities for unused employee vacations 783 053 964 054
+Other accrued liabilities 353 674 268 929
+Accrued liabilities for defined contribution pension insurance 57 651 75 999
+TOTAL: 1 194 378 1 308 982
+48
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+31. Related party transactions
+31. (a) Related party transactions
+Goods and services Payables to related
+Year received companies
+Related party EUR EUR
+Companies that have control over the Group’s activities:
+Levina Investments S.A.R.L.* 2021 - (6 123 340)
+2022 - -
+Companies with significant influence over the Group’s activities:
+Supremo SIA 2021 (18 000) -
+2022 (18 000) -
+Bomaria SIA 2021 (18 000) -
+2022 (18 000) (1 815)
+The companies controlled by the Group’s officers or their relatives: **
+Meistari ZS 2021 (5 789) (406)
+2022 (6 584) (406)
+Total 2021: (41 789) (6 023 746)
+Total 2022: (42 584) (2 221)
+* As a result of the changes in Storent Investments AS shareholders (see also Note 22), Levina Investments S.A.R.L. is no longer
+considered a related party as of 28 December 2022.
+** Payables to the companies controlled by the Group’s management or their relatives are included in the balance sheet item Trade
+payables, in the amount of EUR 406 as at 31 December 2022 (2021: EUR 406).
+31. (b) Terms and conditions of transactions with related parties
+The due from and due to amounts outstanding at the end of the reporting year are unsecured and will be settled in cash. No guarantees
+have been issued or received for the related party due from amounts.
+31. (c) Borrowings from related companies
+Maturity Interest rate 31.12.2022 31.12.2021
+% EUR EUR
+EEKI SIA 31.12.2023 6 1 000 700 -
+Erī Esta 30.04.2023 18.75 338 836 -
+Levina Investments S.A.R.L. 16.12.2024. 7 - 6 123 340
+Total Non-current liabilities: - -
+Total current liabilities: 1 339 536 6 123 340
+Full amount of loans is repayable upon maturity date.
+Reconciliation of movements of borrowing from related companies to cash flows arising from financing activities:
+31.12.2022 31.12.2021
+EUR EUR
+Balance at the beginning of the year 6 123 340 6 275 219
+Repayment of the borrowings from related companies (1 050 000) (651 162)
+Total changes from financing cash flows (1 050 000) (651 162)
+Interest expense 856 835 830 413
+Interest paid (500 000) (331 130)
+Reclassified to Other borrowings due to change in shareholders (5 430 175) -
+Acquisitions through business combinations (see Note 35) 1 339 536 -
+Total liability-related other changes (3 733 804) 499 283
+Balance at the end of the year 1 339 536 6 123 340
+49
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+32. Financial instruments
+Current and non-current loans and borrowings, trade receivables, cash and finance lease are the Group’s key financial instruments.
+The financial instruments are held to finance the operating activities of the Group. The Group handles many other financial instruments,
+e.g., trade and other receivables, trade and other payables that arise. None of the Group’s financial assets or financial liabilities are
+measured at fair value. Fair value is determined at initial recognition and, for disclosure purposes, at each reporting date.
+Categories of financial assets and liabilities
+As at 31.12.2022 As at 31.12.2021
+Carrying Fair value Carrying Fair value
+Financial assets amount amount
+Loans and receivables held at amortised cost
+- Trade receivables 7 417 358 7 417 358 5 928 929 5 928 929
+- Other receivables 280 352 280 352 232 513 232 513
+- Cash and cash equivalents 675 051 675 051 920 267 920 267
+TOTAL financial assets: 8 372 761 8 372 761 7 081 709 7 081 709
+As at 31.12.2022 As at 31.12.2021
+Carrying Carrying
+Fair value Fair value
+Financial liabilities amount amount
+Financial liabilities held at amortized cost
+- Issued bonds 4 898 735 4 898 735 4 838 565 4 875 661
+- Loans from related companies 1 339 536 1 339 536 6 123 340 6 123 340
+- Lease liabilities 7 049 443 7 049 443 11 945 789 11 945 789
+- Other borrowings 7 057 854 7 057 854 3 270 730 3 270 730
+- Trade payables 5 162 357 5 162 357 3 945 995 3 945 995
+- Other payables 1 374 466 1 374 466 1 734 458 1 734 458
+TOTAL financial liabilities: 26 882 391 26 882 391 31 858 877 31 895 973
+50
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+33. Financial risk management
+When measuring the fair value of an asset or a liability, the Group uses observable market data as far as possible. Fair values are
+categorised into different levels in a fair value hierarchy based on the inputs used in the valuation techniques as follows.
+— Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities.
+— Level 2: inputs other than quoted prices included in Level 1 that are observable for the asset or liability, either directly (i.e., as
+prices) or indirectly (i.e., derived from prices).
+— Level 3: inputs for the asset or liability that are not based on observable market data (unobservable inputs).
+If the inputs used to measure the fair value of an asset or a liability fall into different levels of the fair value hierarchy, then the fair value
+measurement is categorised in its entirety in the same level of the fair value hierarchy as the lowest level input that is significant to the
+entire measurement.
+Fair value of Trade receivables and Other receivables with no stated interest rate and cash and cash equivalents is deemed to
+approximate their face value on initial recognition and carrying value on any subsequent date as the effect of discounting is immaterial
+and therefore not disclosed in these financial statements.
+Fair value of financial liabilities with outstanding maturities shorter than six months, other than issued bonds, is deemed to approximate
+their face value on initial recognition and carrying value on any subsequent date as the effect of discounting is immaterial and therefore
+not disclosed in these financial statements.
+Fair value of financial liabilities with outstanding maturities longer than six months, other than issued bonds, is estimated based on the
+present value of future principal and interest cash flows, discounted using the effective interest rate of the corresponding agreement
+which, in the management’s view, represents the market rate of interest at the measurement date for companies similar to the Group.
+The Group’s subsidiary Storent Investments AS issued bonds are classified as Level 3 in the fair value hierarchy. The market for these
+bonds is not assessed as an active market. The significant non-observable key input to determing the fair value of the issued bonds is
+that no adjustment to the observable quotes is required.
+All of the Group’s financial assets and financial liabilities are determined to be Level 3 in the fair value hierarchy.
+There were no transfers between fair value hierarchy levels in 2022 and in 2021.
+Please refer to Note 35 for the description of fair value considerations for the business combination effected in 2022. All fair value
+assessments are Level 3.
+The key risks associated with the Group’s financial instruments are credit risk, liquidity risk, interest rate risk and currency risk. The
+management develops risk management policy in respect of each of the risks.
+Credit risk
+Credit risk is the risk that the Group incurred a financial loss if counterparty will fail to fulfil their obligations to the Group. The Group
+has credit risk exposure related to trade receivables, cash and cash equivalents. The Group controls its credit risk by closely monitoring
+the customer payment history and setting separate terms and conditions to individual customers. In addition, the Group closely
+monitors receivables balances to minimize the possibility of bad debts.
+In terms of receivables as at 31 December 2022 and 2021 the Group did not have a significant credit risk concentration in respect of
+a single transaction partner or a group of partners of similar transactions.
+The Group manages credit risk by independently assessing counterparty credit history and defining acceptable credit limit. The Group
+regularly monitors the overdue trade receivables. Trade receivables have a carrying amount which is reduced by loss allowances for
+bad and doubtful trade receivables (see Note 17).
+The maximum credit risk exposure at 31 December 2022 was EUR 8 372 761 (31.12.2021: EUR 7 081 809).
+51
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+33. Financial risk management (cont.)
+At 31 December 2022 and 31 December 2021, the exposure to credit risk for trade receivables by geographic region was as follows:
+Carrying amount
+EUR 2022 2021
+Baltics 5 959 989 4 845 944
+Nordics 1 457 368 1 054 320
+Other - 28 665
+7 417 358 5 928 929
+Weighted-
+Gross Loss
+average Creditimpaired
+carrying amount allowance
+loss rate
+EUR
+Current (not past due) 0.2% 5 840 650 (7 089) No
+1–30 days past due 2.6% 1 039 757 (27 098) No
+31–60 days past due 16.6% 294 527 (48 819) No
+61–90 days past due 64.1% 116 245 (74 505) No
+More than 90 days past due 98.8% 2 780 129 (2 496 439) Yes
+Total at 31 December 2022 10 071 308 (2 653 950) -
+Weighted-
+Gross Loss
+average Creditimpaired
+carrying amount allowance
+loss rate
+EUR
+Current (not past due) 0,4% 4 569 765 (16 053) No
+1–30 days past due 3,5% 1 079 728 (37 871) No
+31–60 days past due 12,3% 273 051 (33 468) No
+61–90 days past due 49,3% 110 940 (54 638) No
+More than 90 days past due 98,3% 2 154 900 (2 117 425) Yes
+Total at 31 December 2021 8 188 384 (2 259 455) -
+Sensitivity analysis
+A reasonably possible change in the weighted average loss rates at 31 December would have affected the measurement of loss allowance
+of trade receivables and affected profit or loss by the amounts shown below. This analysis assumes that all other variables remain constant,
+and that loss rate is floored at 0% and capped at 100% of the gross carrying amount.
+31 December 2022 31 December 2021
+Effect in euro Increase Decrease Increase Decrease
+Change in loss rate of 3
+percentage points 208 801 (167 722) 246 856 (138 452)
+52
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+33. Financial risk management (cont.)
+Liquidity risk
+Liquidity risk is the risk that the Group will not be able to timely and in full to ensure fulfilling its own commitments. Liquidity risk arises
+when terms of payments of financial assets and liabilities are not correlating. The Group's liquidity risk management is to maintain
+adequate cash and cash equivalent amount and provide sufficient financing in order to be able to fulfil its obligations in time. The Group
+manages its liquidity risk by maintaining adequate cash and cash equivalents, planning payments of trade payables as well as developing
+and analysing future cash flows. The budgeting system used by the Group is helpful in the management and control of liquidity risk
+management.
+The Group's management considers that the Group will have sufficient cash resources and its liquidity will not be compromised. As at
+31 December 2022, the Group's liquidity ratio was 0,37. As at 31 December 2021, the Group's liquidity ratio was 0,35. Please refer to
+Note 36 for going concern considerations.
+At 31 December 2022 and 2021 the maturity of the financial liabilities of the Group, based on undiscounted payments provided for in the
+agreements can be disclosed as follows:
+Expected
+Carrying
+Contractual cash flows interest
+amount
+31.12.2022. payments
+< 3 months 3-6 months 6-12 months 1-5 years Total Total Total
+Issued bonds (97 410) (97 410) (5 065 320) - (5 260 140) (361 405) 4 898 735
+Loans from
+related companies (29 297) (58 594) (1 368 833) - (1 456 724) (117 188) 1 339 536
+Lease liabilities (706 943) (1 253 113) (1 957 213) (3 714 225) (7 631 494) (582 051) 7 049 443
+Other borrowings (437 693) (389 726) (924 416) (6 026 708) (7 778 543) (720 689) 7 057 854
+Trade payables (5 162 357) - - - (5 162 357) - 5 162 357
+Tax and other
+payables (1 374 466) - - - (1 374 466) - 1 374 466
+(7 808 166) (1 798 843) (9 315 782) (9 740 933) (28 663 724) (1 781 333) 26 882 391
+Expected
+Carrying
+Contractual cash flows interest
+amount
+31.12.2021. payments
+< 3 months 3-6 months 6-12 months 1-5 years Total Total Total
+Issued bonds (4 838 565) - - - (4 838 565) - 4 838 565
+Loans from
+related - - - (7 951 457) (7 951 457) (1 828 117) 6 123 340
+companies
+Lease liabilities (761 864) (1 695 878) (3 178 601) (7 108 215) (12 744 558) (798 769) 11 945 789
+Other
+(617 106) (451 123) (755 728) (1 629 993) (3 453 950) (183 220) 3 270 730
+borrowings
+Trade payables (3 945 995) - - - (3 945 995) - 3 945 995
+Tax and other
+(1 621 978) (112 480) - - (1 734 458) - 1 734 458
+payables
+(11 785 508) (2 259 481) (3 934 329) (16 689 665) (34 668 983) (2 810 106) 31 858 877
+Please also see Note 36 describing liquidity management and going concern considerations.
+53
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+33. Financial risk management (cont)
+Interest rate risk
+Interest rate risk is the risk of financial losses incurred by the Group due to adverse fluctuations in interest rates. The Group is exposed
+to interest rate risk mainly related to its current and non-current lease liabilities, while the interest rates on the Group’s other liabilities
+are fixed and, thus, not subject to interest rate risk. This exposes the Group to the risk that interest expenses will increase in a situation
+when interest rates go up. The average interest rate on the Group’s liabilities is disclosed in Notes 24, 25, 26 and 31 c. The Group
+doesn’t use derivative financial instruments to manage its exposure to interest rate risk.
+As the variable part of the interest rate applied to lease liabilities is floored at 0%, the sensitivity of the Group’s comprehensive income
+and equity (as a result of the lease liabilities (see Note 25) with a variable interest rate element of 3M EURIBOR) to a reasonably possible
+interest rate change of +/- 0.5%, other variables remaining constant, is considered immaterial to the Group’s financial performance.
+Foreign currency risk
+Foreign currency risk is the risk of financial losses incurred by the Group due to adverse fluctuations in foreign currency exchange rates.
+This risk arises when financial assets denominated in a foreign currency do not match financial liabilities in that currency, which results
+in open currency positions.
+The Group does not have any material balances of financial assets and liabilities denominated in currencies other than the Euro. All of
+the Group’s borrowings and lease liabilities are denominated in Euro, and, thus, not subject to foreign currency risk.
+The Group is exposed to foreign currency risk mainly arising from transactions denominated in the Russian rubles (RUB) due to entity
+operating in Russia Kaliningrad region and Swedish krona (SEK) due to entity operating in Sweden.
+The summary quantitative data about the Group’s exposure to currency risk as reported to the management of the Group is as follows:
+31 December 2022 31 December 2021
+SEK RUB SEK RUB
+Trade receivables 451 899 - 379 185 87 263
+Trade payables (179 777) - (127 388) (13 828)
+Net statement of financial position exposure 272 122 - 251 797 73 435
+Next six months’ forecast sales 1 520 333 294 285 1 304 793 286 773
+Next six months’ forecast purchases (822 204) (55 957) (1 189 041) (158 320)
+Net forecast transaction exposure* 698 129 238 328 115 752 128 453
+Net exposure 970 251 369 655 367 549 201 888
+*Next forecast transaction exposure in RUB refers to disounted operations, but the sale process is expected to take at least 6 months from
+the balance sheet date.
+The following exchange rates have been applied.
+Average rate Year-end spot rate
+EUR 2022 2021 2022 2021
+SEK 1 0.0941 0.0986 0.0899 0.0976
+RUB 1 0.0142 0.0115 0.0127 0.0117
+Due to geopolitical situation last time RUB exchange rate has been published by ECB on 1 March 2022. In order to provide users with
+more accurate information, Group management decided to use the market rate for RUB transactions: for period 1 January 2022 till 1
+March 2022 ECB published rate, starting 2 March 2022 and till the end of period rate, which is available on major financial market platforms
+which are providing real-time data (www.investing.com).
+Sensitivity analysis
+A reasonably possible strengthening (weakening) of the euro, Swedish krona, Russian ruble against all other currencies at 31 December
+would have affected the measurement of financial instruments denominated in a foreign currency and affected equity and profit or loss by
+the amounts shown below. This analysis assumes that all other variables, in particular interest rates, remain constant and ignores any
+impact of forecast sales and purchases.
+Profit or loss Equity, net of tax
+Effect in euro Strengthening Weakening Strengthening Weakening
+SEK (10% movement) 21 326 (21 326) (25 098) 25 098
+RUB (30% movement) 20 904 (20 904) 206 472 (206 472)
+54
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+34. Capital management
+The purpose of the management of Group capital is to provide a high credit rating and balanced structure of capital to ensure successful
+activity of the Group and to maximize Group’s share value. The Group is not subject to any externally imposed capital requirements.
+The Group is controlling structure of the capital and adjusts that structure according to economic conditions. For control and adjustment
+of structure of the capital, the Group can change conditions of payment of dividends to shareholders, to return them part of shares or
+to release new shares. In 2022 and 2021 there were no changes introduced to purposes, policy or processes related to management
+of the capital.
+31.12.2022 31.12.2021
+EUR EUR
+Interest bearing loans and borrowings 20 345 568 26 178 424
+Trade and other payables 6 536 823 5 680 453
+Less cash and cash equivalents (675 051) (920 267)
+Net debt 26 207 340 30 938 610
+Equity 23 057 353 12 113 849
+Net debt to equity ratio: 1.14 2.55
+35. Business combinations
+35. (a) Subsidiaries acquired
+On 28 December 2022, Storent Holdings acquired all shares of Storent Investments AS and SEL Investments SIA. Both companies’
+business activity is rental of industrial equipment. Storent Investments AS and its subsidiaries in addition to a modern rental fleet and a
+large rental depo network have a wide customer base with a very well-developed trademark, experienced team and digital know-how. SEL
+Investments SIA and its two subsidiaries own around 50% of the construction equipment fleet that Storent group operates. The merger of
+both groups will allow to increase expertise and improve financial ratios to continue the development of the Storent Holdings Group with
+a significantly higher speed and profitability.
+Both acquisitions have been determined to have an integrated set of activities and assets, including relevant inputs and processes that
+are applied to those inputs, to be considered businesses as per IFRS 3 requirements.
+The Group accounts for these business combinations as reverse acquisition – Storent Holdings (the legal acquirer) is identified as the
+accounting acquiree and Storent Investments (the legal acquiree) is identified as the accounting acquirer due to its relative size and nature
+of operations. As a result, from the point of view of the combined entity (the Group), the acquisition of SEL Investments and Storent
+Holdings are accounted for using the acquisition method.
+Proportion of voting Fair value of
+Date of equity interests Consideration consideration
+Principal activity acquisition acquired transferred transferred
+Acquired in 2022
+Activities of holding
+- Storent Holding SIA* companies 28.12.2022 100% 12 000 000 12 000 000
+Renting and leasing of
+construction machinery and
+- SEL Investments SIA equipment 28.12.2022 100% 6 000 000 6 000 000
+TOTAL: 18 000 000 18 000 000
+The Group incurred acquisition-related costs EUR 105 148 on legal fees. These costs have been included in ‘Other administrative
+expenses’ in the Consolidated statement of comprehensive income.
+*These consolidated financial statements are the continuation of the consolidated financial statements of the legal acquiree Storent
+Investments AS (identified as the accounting acquirer), excluding equity, and are reflecting the following:
+- assets and liabilities of the legal acquiree (identified as the accounting acquirer) are recognized and measured at their pre-
+acquisition carrying amounts;
+- assets and liabilities of the the legal acquirer (identified as the accounting acquiree) are recognized and measured at their fair
+value on acquisition date;
+- the consolidated statement of comprehensive income of the the legal acquiree (identified as the accounting acquirer) for the full
+reporting period and the consolidated statements of comprehensive income of accounting acquirees since the date of their
+acquisition and up to the end of the reporting period.
+The management has assessed that the nominal value of the consideration transferred (equity instruments issud) reflects their fair value.
+55
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+35. Business combinations (cont.)
+35. (b) Assets acquired and liabilities recognized at the date of acquisition
+The following table summarises the fair value of net assets acquired and liabilities assumed at the date of acquisition.
+Acquired on 28 December 2022
+SEL Investments SIA Storent Holdings SIA
+EUR EUR
+Current assets
+- Cash and cash equivalents 23 951 149 538
+- Trade and other receivables, excluding pre- 2 315 926 1 125
+existing loan receivable
+Non-current assets
+- Property, plant and equipment 12 148 366 23 164
+Current liabilities
+- Trade and other payables (428 775) -
+Non-current liabilities
+- Loans (1 438 973) (21 198)
+Total net assets acquired: 12 620 495 152 629
+The valuation techniques used for measuring the fair value of net assets and liabilities acquired were as follows:
+- For Property, plant and equipment market comparison technique and cost technique were applied. The valuation model
+considers market prices for same or similar items when they are available, and depreciated replacement cost when appropriate.
+Depreciated replacement cost reflects adjustments for physical deterioration as well as functional and economic obsolescence.
+To determine market prices were collected the sales prices of equipment sold on auctions and to splitrent vendors. Based on
+the price summary for the sold equipment, the accounting values of the existing fixed assets were verified, and it was found that
+there are no material differences between the market price and the accounting (carrying) value.
+- Fair value of Cash and cash equivalents, Trade and other receivables, Trade and other payables and Other borrowings, all
+carried at amortized cost, due to their short-term maturity approximated their carrying amount on the date of acquisition.
+- Trade and other receivables mainly include trade receivables from contracts with customers, and are mainly related to a
+significant exposure to a specific counterparty that, before the acquisition, was used as an intermediary for transactions between
+Storent Investments AS group and SEL Investments AS group. Due to their short-term nature, the Group expects that materially
+all contractual cash flows from Trade and other receivables will be collected.
+56
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+35. Business combinations (cont.)
+35. c) Net result arising on acquisition
+Net result arising from the acquisition has been recognised as follows.
+SEL Investments SIA Storent Holdings SIA
+EUR EUR
+Non-financial consideration 6 000 000 150 000
+Less: consideration of a pre-existing loan receivable (650 000) -
+Net consideration transfered 5 350 000 150 000
+Net assets acquired, including pre-existing loan receivable (13 270 495) (152 629)
+Pre-existing loan receivable 650 000 -
+Net assets acquired excluding pre-existing loan receivable (12 620 495) (152 629)
+Goodwill / (gain on bargain purchase): (7 270 495) (2 629)
+Settlement of pre-existing relationship
+SEL Investments SIA and its subsidiaries had issued loans to Storent Investments AS and its subsidiaries in the end of December 2022
+before the date of the acquisition in the total amount of EUR 650 000 as at the date of acquisition. This pre-existing relationship was
+effectively terminated on the date of acquisition. As the fair value of the relationship approximated its carrying amount on the date of
+acquisition there was no gain or loss recognized on the settlement of the pre-existing relationship.
+Gain on bargain purchase from SEL Investments SIA acquisition is recognized in the consolidated statement of comprehensive income
+in the reporting period within the line item ‘Gain on bargain purchase’. Identifiable net assets acquired on the acquisition of SEL
+Investments mainly consist of property, plant and equipment. While the fair value of these assets on an individual basis, based on the
+management’s assessment, approximate their carrying amount, these assets are generally of a specialized nature and exposed to the
+same set of risks, i.e. heavy equipment to be used in construction sites. This presents difficulties in selling such assets in bulk and over
+a short time frame, requiring a discount to their fair value, which has resulted in the Group recognizing a gain on bargain purchase. No
+intangible assets acquired as part of the acquisition have been identified.
+The difference between consideration transferred and fair value of identifiable net assets acquired from Storent Holdings SIA, as per
+reverse acquisition, has been recognized directly in equity to Retained earnings / (Accumulated losses) under recapitalization line item.
+57
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+35. Business combinations (cont.)
+d) Impact of acquisitions on the results of the Group
+As these consolidated financial statements have been prepared following a reverse acquisition as a continuation of the amounts from
+the consolidated financial statements of Storent Investments AS, the consolidated results of the Group for 2022 include the consolidated
+statement of comprehensive income of the the legal acquiree (identified as the accounting acquirer) Storent Investments AS for the full
+reporting period and the consolidated statements of comprehensive income of accounting acquirees Storent Holdings SIA and SEL
+Investments SIA and its subsidiaries SELECTIA SIA and SELECTIA PLUS SIA since the date of their acquisition and up to the end of
+the reporting period.
+Presented below are the adjusted results for the Group as if it existed from the 1 January 2022, which combine Storent Holdings SIA,
+Storent Investments AS (consolidated) and SEL Investments SIA and its subsidiaries SELECTIA SIA and SELECTIA PLUS SIA
+statements of comprehensive income for 2022. The Group management considers these numbers to provide a reference point for
+comparison of the results of the Group in future periods.
+Storent Investments AS and its subsidiaries and SEL Investments and its subsidiaries were parties to a contract under which SEL
+Investments and its subsidiaries provided Storent Investments AS and its subsidiaries with equipment rental services under a split-rent
+arrangement, while Storent Investments AS and its subsidiaries provided repair and maintenance services to SEL Investments and its
+subsidiaries. In these transactions also a third-party intermediary Preferrent SIA, which is not a part of the Group, was involved, and the
+services received from this intermediary were effectively terminated on the date of acquisition. The amount of the markup applied by the
+intermediary for these transactions in 2022 was EUR 52 649, which has been adjusted for in the adjusted result below.
+SEL Investments and its subsidiaries had issued a loan to Storent Investments AS and its subsidiaries in the end of December 2022
+before the date of the acquisition, and the resulting interest income / expenses in 2022 is assessed as immaterial to the adjusted result
+of the Group.
+Storent Holdings Storent Group SEL Investments
+statement of statement of Group statement
+Adjusted results
+consolidated consolidated of consolidated Adjustments
+of the Group
+comrehensive comrehensive comrehensive
+income 2022 income 2022 income 2022
+EUR EUR EUR
+Net revenue 2 9 582 4 3 578 307 1 0 863 352 (12 720 214) 4 1 751 027
+Other operating income - 3 617 951 3 84 620 ( 806 978) 3 195 593
+Cost of materials and services - ( 26 587 864) ( 2 445 195) 1 3 474 543 ( 15 558 516)
+Personnel costs ( 1 183) (8 338 615) (37 994) - ( 8 377 792)
+Other operating expenses ( 6 462) (6 642 048) (76 624) - ( 6 725 134)
+Depreciation and amotrization ( 19 855) ( 5 187 395) ( 3 723 022) - ( 8 930 272)
+Impairement gain / (loss) on trade
+receivables and cotract asset - ( 458 046) - - ( 458 046)
+Impairement loss on goodwill - ( 329 585) - ( 329 585)
+Gain on bargain purchase 7 270 495 - - - 7 270 495
+Finance income 3 293 24 284 1 005 - 2 8 582
+Finance expenses ( 1 170) ( 2 137 530) ( 220 119) - ( 2 358 820)
+Profit / (loss) before income tax 7 274 700 (2 460 542) 4 746 023 (52 649) 9 507 532
+Income tax income / (expenses) (10) (3 426) - (3 436)
+Profit / (loss) from continuing
+operations 7 274 690 (2 463 968) 4 746 023 ( 52 649) 9 504 096
+Profit / (loss) from discontinuing
+operations, net of tax - ( 31 987) - ( 31 987)
+Total comprehensive
+income/(loss) for the year 7 274 690 (2 495 955) 4 746 023 (52 649) 9 472 109
+58
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+36. Going concern of the Group
+The Group’s financial performance in the reporting year was a profit of EUR 4 774 540 (2021: loss of EUR 3 402 850), and the profit in
+2022 is a result of recognized one-off gain on bargain purchase in the amount of EUR 7 270 495 as a result of the business combination
+effected. At the end of the year, the Group’s current liabilities exceeded its current assets by EUR 9 893 768 (31.12.2021: current liabilities
+exceeded current assets by EUR 16 329 132), as a result of significant borrowings approaching maturity. Both of these conditions may
+cast significant doubt on the Group’s ability to continue as a going concern.
+The Group’s management has evaluated the current and potential impact of the geopolitical situation in the Baltic and Nordic region as a
+result of the Russian Federation commencing war activity in Ukraine. Management has prepared forecasted financial results and cash
+flows for 2023 demonstrating the Groups’s and its subsidiaries’ ability to continue as going concern and already started to take steps to
+address the expected liquidity and profitability shortages, such as:
+ On December 28, 2022, SIA "Storent Holdings" became the sole shareholder Storent Invetsments AS. Consequently, Storent
+Investments and its subsidiary companies become part of the newly established holding, which, in addition to the Storent group,
+also includes SEL Investments SIA group, which holds investments in construction equipment rental companies SELECTIA SIA
+and SELECTIA PLUS SIA. Storent Investments AS and its subsidiaries in addition to a modern rental fleet and a large rental depo
+network have a wide customer base with a very well-developed trademark, experienced team and digital know-how. SEL
+Investments SIA and its two subsidiaries own around 50% of the construction equipment fleet that Storent group operates. The
+merger of both groups will allow to increase expertise and improve financial ratios to continue development of the Storent Holdings
+group with a significantly higher speed and profitability. The restructuring of the newly established group commenced at the end of
+2022. By increasing net revenues by on average 10% in 2023, the management plans to reach up to EUR 5 million net profit in
+2023.
+ In 2023, the Group plans to increase rental income in all its countries of operation by on average 10% it total, as noted above.
+Further revenue and profitability growth is expected from investing in new equipment in 2023 up to 7 million euros and from selling
+older equipment units as previously mentioned. Overall inflation allows to increase rental prices and gives positive impact on sales
+volumes. Management estimates that the construction industry will continue with the steady moderate growth in the Baltics. Nordic
+countries construction market values are estimated to slightly decrease in 2023. Construction market volume historical data and
+forecast doesn’t always reflect the construction rental market potential. It depends on the construction project types and stages at
+the exact year. The Group’s entities growth possibilities are higher in the markets, where Storent has smaller share of the market.
+It’s expected that the lack of construction workforce and higher personal costs will increase prices and demand of rental
+construction equipment, as construction companies will look for ways how to replace manual work with increased use of tools and
+equipment. It is expected that Rail Baltica project will give a significant positive impact on the construction industry in the Baltics.
+ The Group continues to work on operational efficiency by developing online sales and paper-less rental process. Equipment
+delivery organization via logistic online platform Cargopoint increase efficiency of transportation services.
+ In April 2023, Storent Holdings announced new bond issue of up to EUR 15 million, which will for the first time be open to both
+retail and institutional investors. The Group will use the proceeds for new investments, further mergers and acquisitions and to
+refinance its existing liabilities.
+ Based on above, the Group management plans further development of subsidiaries in five countries. The main focus in 2023 will
+be to continue online sales development, digital transformation and efficiency increase. The Group will continue to transform its IT
+strategy to comply with the scalability needs.
+ The Group management has evaluated the current geopolitical situation and its impact on the Group companies, especially the
+subsidiary entity in Russia, Kaliningrad. At the end of 2022, the Group management has decided to sell the subsidiary in Russia
+(Kaliningrad) and currently it is in process of legal formalities. Minimum estimated net sales consideration is already reflected on
+the Group’s balance sheet when assessing the recoverable value of the asset held for sale (investment in subsidiary) as at 31
+December 2022. At the moment of issue of these financial statements Storent OOO continues to operate without significant
+changes independently from the group. The Group monitors and follows sanction restrictions and, so far, these don’t affect the
+subsidiaries’ activities.
+• After the year end, the Group has started the legal reorganization process, which was approved in the end of 2022, in order to
+complete the merger of SEL Investments SIA with Storent Investments AS and Selectia SIA, Selectia Plus SIA with Storent SIA by
+the end of 2023, which will save administrative costs, excluding mutual transactions and the costs associated with their accounting
+and simplifying internal processes in the subsidiary entities. Since January 2023, all equipment owned by Selectia SIA and Selectia
+Plus SIA is leased to subsidiary companies of Storent Investments AS without the intermediary of the PreferRent platform, which
+creates savings for the group entities.
+• Compared to the first quarter of 2022, the Group’s unaudited consolidated revenues in the first quarter of 2023 have increased by
+8% and the amount of consolidated losses has decreased by 20%. Historically due to the seasonality of the construction industry
+the first quarter of the year was always loss making.
+Taking into account the information currently available, the most recent key performance indicators of the Group and the actions taken
+by management, Group entities expect to continue operations as a going concern. As such, these consolidated financial statements
+have been prepared on the basis that the Group will continue as a going concern, and do not include any adjustments that might be
+necessary if the going concern assumption would not be applicable.
+59
+STORENT HOLDINGS SIA Сonsolidated Annual Report
+Registered address: 15A Matrozu Street, Riga, LV-1048
+Registration number: 40203174397
+37. Post balance sheet events
+Non-adjusting events
+In April 2023, Storent Holdings SIA announced a new bond issue of up to EUR 15 million which will for the first time be open to both
+retail and institutional investors. The company will use the proceeds for new investments, further mergers and acquisitions and to
+refinance its liabilities.
+After the year end, the Group has started the legal reorganization process, which was approved in the end of 2022, to complete the
+merger of its subsidiaries SEL Investments SIA with Storent Investments AS and Selectia SIA, Selectia Plus with Storent SIA by the end
+of 2023.
+During the period between the last day of the financial year and the date of signing of these consolidated financial statements there have
+been no other events that would have required adjustments or disclosure in the consolidated financial statements.
+On behalf of the Group these consolidated financial statements were signed on 10 May 2023 by:
+Andris Pavlovs
+Chairman of the Board
+Baiba Onkele
+Chief financial officer
+* * *
+60
+KPMG Baltics SIA T: + 371 67038000
+Roberta Hirsa iela 1 kpmg.com/lv
+Riga, LV-1045 kpmg@kpmg.lv
+Latvia
+Independent Auditors’ Report
+To the shareholders of Storent Holdings SIA
+Report on the Audit of the Consolidated Financial Statements
+Our Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated financial statements of Storent Holdings
+SIA (“the Company”) and its subsidiaries (“the Group”) set out on pages 8 to 60 the
+accompanying consolidated Annual Report, which comprise:
+— the consolidated statement of comprehensive income for the year ended 31 December
+2022,
+— the consolidated statement of financial position as at 31 December 2022,
+— the consolidated statement of cash flows for the year then ended,
+— the consolidated statement of changes in equity for the year then ended, and
+— the notes to the consolidated financial statements, which include a summary of significant
+accounting policies and other explanatory notes.
+In our opinion, the accompanying consolidated financial statements give a true and fair view
+of the consolidated financial position of Storent Holdings SIA and its subsidiaries as at
+31 December 2022, and of its consolidated financial performance and its consolidated cash
+flows for the year then ended in accordance with International Financial Reporting Standards
+(IFRSs) as adopted by the European Union.
+Basis for Opinion
+In accordance with the ’Law on Audit Services’ of the Republic of Latvia we conducted our
+audit in accordance with International Standards on Auditing adopted in the Republic of Latvia
+(ISAs). Our responsibilities under those standards are further described in the Auditors’
+Responsibility for the Audit of the Consolidated Financial Statements section of our report.
+We are independent of the Group in accordance with the International Ethics Standards
+Board for Accountants’ International Code of Ethics for Professional Accountants (including
+International Independence Standards) (IESBA Code) and independence requirements
+included in the ’Law on Audit Services’ of the Republic of Latvia that are relevant to our audit
+of the consolidated financial statements in the Republic of Latvia. We have also fulfilled our
+other professional ethics responsibilities and objectivity requirements in accordance with the
+IESBA Code and the ’Law on Audit Services’ of the Republic of Latvia.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide
+a basis for our opinion.
+Reporting on Other Information
+The Group’s management is responsible for the other information. The other information
+comprises:
+— General information, as set out on page 3 of the accompanying consolidated Annual
+Report,
+KPMG Baltics SIA, a Latvian limited liability company and a
+member firm of the KPMG global organization of independent
+member firms affiliated with KPMG International Limited, a
+private English company limited by guarantee.
+— the Management Report, as set out on pages 4 to 6 of the accompanying consolidated
+Annual Report,
+— the Statement on Management Responsibility, as set out on page 7 of the accompanying
+consolidated Annual Report.
+Our opinion on the consolidated financial statements does not cover the other information
+included in the consolidated Annual Report, and we do not express any form of assurance
+conclusion thereon, except as described in the Other Reporting Responsibilities in
+Accordance with the Legislation of the Republic of Latvia Related to Other Information section
+of our report.
+In connection with our audit of the consolidated financial statements, our responsibility is to
+read the other information and, in doing so, consider whether the other information is
+materially inconsistent with the consolidated financial statements or our knowledge obtained
+in the audit or otherwise appears to be materially misstated.
+If, based on the work we have performed and in light of the knowledge and understanding of
+the Group and its environment obtained in the course of our audit, we conclude that there is
+a material misstatement of this other information, we are required to report that fact. We have
+nothing to report in this regard.
+Other Reporting Responsibilities in Accordance with the Legislation of the Republic of Latvia
+Related to Other Information
+In addition, in accordance with the ‘Law on Audit Services‘ of the Republic of Latvia with
+respect to the Management Report, our responsibility is to consider whether the Management
+Report is prepared in accordance with the requirements of the ‘Law on the Annual Reports
+and Consolidated Annual Reports’ of the Republic of Latvia.
+Based solely on the work required to be undertaken in the course of our audit, in our opinion,
+in all material respects:
+— the information given in the Management Report for the financial year for which the
+consolidated financial statements are prepared is consistent with the consolidated
+financial statements; and
+— the Management Report has been prepared in accordance with the requirements of the
+‘Law on the Annual Reports and Consolidated Annual Reports’ of the Republic of Latvia.
+Responsibilities of Management and Those Charged with Governance for the Consolidated
+Financial Statements
+Management is responsible for the preparation of the consolidated financial statements that
+give a true and fair view in accordance with IFRSs as adopted by the European Union and
+for such internal control as management determines is necessary to enable the preparation
+of consolidated financial statements that are free from material misstatement, whether due to
+fraud or error.
+In preparing the consolidated financial statements, management is responsible for assessing
+the Group’s ability to continue as a going concern, disclosing, as applicable, matters related
+to going concern and using the going concern basis of accounting unless management either
+intends to liquidate the Group or to cease operations, or has no realistic alternative but to do
+so.
+Those charged with governance are responsible for overseeing the Group’s financial
+reporting process.
+Auditors’ Responsibility for the Audit of the Consolidated Financial Statements
+Our objectives are to obtain reasonable assurance about whether the consolidated financial
+statements as a whole are free from material misstatement, whether due to fraud or error,
+and to issue an auditors’ report that includes our opinion. Reasonable assurance is a high
+level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs
+will always detect a material misstatement when it exists. Misstatements can arise from fraud
+or error and are considered material if, individually or in the aggregate, they could reasonably
+be expected to influence the economic decisions of users taken on the basis of these
+consolidated financial statements.
+As part of an audit in accordance with ISAs, we exercise professional judgment and maintain
+professional scepticism throughout the audit. We also:
+— Identify and assess the risks of material misstatement of the consolidated financial
+statements, whether due to fraud or error, design and perform audit procedures
+responsive to those risks, and obtain audit evidence that is sufficient and appropriate to
+provide a basis for our opinion. The risk of not detecting a material misstatement resulting
+from fraud is higher than for one resulting from error, as fraud may involve collusion,
+forgery, intentional omissions, misrepresentations, or the override of internal control.
+— Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of
+expressing an opinion on the effectiveness of the Group’s internal control.
+— Evaluate the appropriateness of accounting policies used and the reasonableness of
+accounting estimates and related disclosures made by management.
+— Conclude on the appropriateness of management’s use of the going concern basis of
+accounting and, based on the audit evidence obtained, whether a material uncertainty
+exists related to events or conditions that may cast significant doubt on the Group’s ability
+to continue as a going concern. If we conclude that a material uncertainty exists, we are
+required to draw attention in our auditors’ report to the related disclosures in the
+consolidated financial statements or, if such disclosures are inadequate, to modify our
+opinion. Our conclusions are based on the audit evidence obtained up to the date of our
+auditors’ report. However, future events or conditions may cause the Group to cease to
+continue as a going concern.
+— Evaluate the overall presentation, structure and content of the consolidated financial
+statements, including the disclosures, and whether the consolidated financial statements
+represent the underlying transactions and events in a manner that achieves a fair
+presentation.
+— Obtain sufficient appropriate audit evidence regarding the financial information of the
+entities or business activities within the Group to express an opinion on the consolidated
+financial statements. We are responsible for the direction, supervision and performance
+of the group audit. We remain solely responsible for our audit opinion.
+We communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit and significant audit findings, including any significant
+deficiencies in internal control that we identify during our audit.
+KPMG Baltics SIA
+Licence No. 55
+Armine Movsisjana
+Chairperson of the Board
+Latvian Sworn Auditor
+Certificate No. 178
+Riga, Latvia
+10 May 2023
+THIS DOCUMENT HAS BEEN SIGNED WITH A SECURE ELECTRONIC SIGNATURE AND
+IT HAS A TIME-STAMP.
