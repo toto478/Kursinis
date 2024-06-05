@@ -1,0 +1,546 @@
+AKROPOLIS GROUP, UAB
+Consolidated condensed interim financial statements
+for the six-month period ended 30 June 2022,
+presented together with Independent Auditor’s Report on review
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+TABLE OF CONTENTS
+PAGE
+REPORT ON REVIEW OF CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS 3
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION 4-5
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF COMPREHENSIVE INCOME 6
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF CHANGES IN EQUITY 7
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF CASH FLOWS 8
+NOTES TO THE CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS 9-16
+2
+Report on review of consolidated condensed interim financial
+statements
+To the shareholders of Akropolis group UAB
+Introduction
+We have reviewed the accompanying consolidated condensed interim statement of financial position
+of Akropolis group UAB and its subsidiaries (the ‘Group’) as at 30 June 2022 and the related
+consolidated condensed interim statements of comprehensive income, changes in equity and cash
+flows for the six-month period then ended, and the notes to the consolidated condensed interim
+financial statements, which include significant accounting policies and other explanatory information.
+Management is responsible for the preparation of these consolidated condensed interim financial
+statements that give a true and fair view in accordance with International Financial Reporting
+Standards as adopted by the European Union. Our responsibility is to express a conclusion on these
+consolidated condensed interim financial statements based on our review.
+Scope of review
+We conducted our review in accordance with International Standard on Review Engagements 2410,
+'Review of interim financial information performed by the independent auditor of the entity'. A review of
+consolidated condensed interim financial statements consists of making inquiries, primarily of persons
+responsible for financial and accounting matters, and applying analytical and other review procedures.
+A review is substantially less in scope than an audit conducted in accordance with International
+Standards on Auditing and consequently does not enable us to obtain assurance that we would
+become aware of all significant matters that might be identified in an audit. Accordingly, we do not
+express an audit opinion.
+Conclusion
+Based on our review, nothing has come to our attention that causes us to believe that the
+accompanying consolidated condensed interim financial statements do not give a true and fair view of
+the consolidated financial position of the Group as at 30 June 2022, and of its consolidated financial
+performance and its consolidated cash flows for the six-month period then ended in accordance with
+International Financial Reporting Standards as adopted by the European Union.
+On behalf of PricewaterhouseCoopers UAB
+Rimvydas Jogėla
+Partner
+Auditor's Certificate No. 000457
+Vilnius, Republic of Lithuania
+13 September 2022
+The auditor's electronic signature is used herein to sign only the Independent Auditor's Report
+PricewaterhouseCoopers UAB, J. Jasinskio g. 16B, LT-03163 Vilnius, Lithuania
++370 (5) 239 2300, lt_vilnius@pwc.com, www.pwc.lt
+Company code 111473315, registered with the Register of Legal Entities of the Republic of Lithuania
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION
+At 31
+At 30 June December
+Notes 2022 2021
+EUR'000 EUR'000
+ASSETS
+Non-current assets 1 020 093 1 018 888
+Property, plant and equipment 2 089 2 257
+Investment property 4 1 009 668 1 006 821
+Intangible assets 142 159
+Deferred income tax assets - -
+Right-of-use assets 123 134
+Long-term receivables 4 8 071 9 517
+Current assets 104 871 93 260
+Inventories 67 68
+Amounts receivable and prepayments 5 5 014 6 805
+Other current assets 4 3 914 4 333
+Cash and cash equivalents 95 876 82 054
+TOTAL ASSETS 1 124 964 1 112 148
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2022 by:
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+4
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION
+At 31
+At 30 June
+December
+2022
+Notes 2021
+EUR'000 EUR'000
+EQUITY AND LIABILITIES
+Share capital 31 737 31 737
+Legal reserve 4 4
+Share premium 448 096 448 096
+Retained earnings 120 182 91 508
+Total equity 600 019 571 345
+Non-current liabilities 502 643 505 285
+Borrowings 7 408 040 411 138
+Lease liabilities 103 87
+Deferred income tax liabilities 87 137 86 636
+Income tax liabilities - -
+Other long-term payables 8 7 363 7 424
+Current liabilities 22 302 35 518
+Borrowings 7 7 685 12 033
+Lease liabilities 51 48
+Income tax liabilities 810 2 083
+Trade and other payables 8 13 756 21 354
+Total liabilities 524 945 540 803
+TOTAL EQUITY AND LIABILITIES 1 124 964 1 112 148
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2022 by:
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+5
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF COMPREHENSIVE INCOME
+Six-month period ended 30
+June
+Notes 2022 2021
+EUR'000 EUR'000
+Rental income 3 35 520 26 270
+Service charge income 17 159 9 764
+Service charge expenses (16 022) (8 504)
+NET RENTAL INCOME 36 657 27 530
+Administrative expenses (2 221) (1 667)
+Other income, net 1 363 320
+Gain/(loss) from revaluation of investment property 3 1 993 (4 126)
+OPERATING PROFIT (LOSS) 37 792 22 057
+Interest expenses (5 403) (2 476)
+Other financial expenses (638) (403)
+PROFIT (LOSS) BEFORE INCOME TAX 31 751 19 178
+Income tax (expenses) (3 077) (2 379)
+NET PROFIT (LOSS) 3 28 674 16 799
+TOTAL COMPREHENSIVE INCOME (LOSS) 28 674 16 799
+TOTAL COMPREHENSIVE INCOME (LOSS) ATTRIBUTABLE TO:
+Equity holders of the parent 28 674 16 799
+EARNINGS PER SHARE (EUR)
+Basic / diluted 6 0,262 0,154
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2022 by:
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+6
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF CHANGES IN EQUITY
+Share Retained
+Share capital Legal reserve Total
+premium earnings
+EUR'000 EUR'000 EUR'000 EUR'000 EUR'000
+Balance at 31 December 2020 31 737 448 096 4 842 480 679
+Transactions with owners:
+Total transactions with owners - - - - -
+Net profit - - - 16 799 16 799
+Total comprehensive income - - - 16 799 16 799
+Balance at 30 June 2021 31 737 448 096 4 17 641 497 478
+Balance at 31 December 2021 31 737 448 096 4 91 508 571 345
+Transactions with owners:
+Total transactions with owners - - - - -
+Net profit - - - 28 674 28 674
+Total comprehensive income - - - 28 674 28 674
+Balance at 30 June 2022 31 737 448 096 4 120 182 600 019
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2022 by:
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+7
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+CONSOLIDATED CONDENSED INTERIM STATEMENT OF CASH FLOWS
+Six-month period ended 30
+June
+2022 2021
+Notes EUR'000 EUR'000
+OPERATING ACTIVITIES
+Net profit (loss) 28 674 16 799
+Adjustments for:
+Income tax expenses 3 077 2 379
+Depreciation and amortization 557 422
+Write-offs and loss on disposal of PPE (10) (2)
+Gain/(loss) from revaluation of investment property (1 993) 4 126
+Interest expenses 5 403 2 476
+Cash flows from operating activities before changes in working capital 35 708 26 200
+(Increase)/decrease in trade and other receivables and other assets and non-
+3 658 (3 647)
+current receivables
+Increase in inventories 1 -
+Increase/(decrease) in payables (7 195) (6 280)
+Cash flows generated from operating activities 32 172 16 273
+Interest paid (9 751) (1 791)
+Income tax paid (3 849) (4 656)
+Net cash flows from/(used in) operating activities 18 572 9 826
+INVESTING ACTIVITIES
+Acquisition of PPE, investment property and intangible assets (1 250) (1 189)
+Net cash flows from/(used in) investing activities (1 250) (1 189)
+FINANCING ACTIVITIES
+Proceeds from borrowings 7 - 319 734
+Repayments of borrowings 7 (3 500) (164 825)
+Net cash flows from/(used in) financing activities (3 500) 154 909
+Net increase/(decrease) in cash and cash equivalents 13 822 163 546
+Cash and cash equivalents at the beginning of the year 82 054 56 740
+Cash and cash equivalents at the end of the year 95 876 220 286
+The accompanying notes form an integral part of these consolidated condensed interim financial statements.
+These consolidated condensed interim financial statements were approved and signed on 13 September 2022 by:
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+8
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+NOTES TO THE CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+1. GENERAL INFORMATION
+AkropolisGroup,UAB(entitycode302533135)(hereafter–“theCompany”)wasincorporatedon30July2011inLithuaniaasa
+limited liability company under the Companies Law of Lithuania. Its registered office address is Ozo g. 25, Vilnius, Lithuania.
+ThesoleshareholderoftheCompany,owning100%ofshares,wasVilniausPrekybaUAB,companycode302608755,address
+Ozasg.25,Vilnius.TheultimateparententityisMetodikaB.V.,address:Amstelveenseweg500,1081KL,Amsterdam,Kingdom
+of the Netherlands, operating in the Kingdom of the Netherlands. The ultimate controlling party is Mr. Nerijus Numa.
+The Groupis comprisedof theCompanyandits subsidiaryundertakings (hereafter collectivelyreferredas “theGroup”). During
+the six-month period ended 30 June 2022 there were no changes in the Group’s structure and the Group did not conduct any
+business combinations.
+TheGroup’skeyareaofoperationsincludesthedevelopmentofrealestateownedbytheGroupanditsleasetotenantsbased
+on agreements.
+The Group’s bonds are traded on Euronext Dublin (Ireland) and Nasdaq Vilnius (Lithuania) stock exchanges.
+The Company’s management authorized these consolidated condensed interim financial statements on 13th September 2022.
+Theconsolidatedcondensedinterimfinancialstatementsforthesix-monthperiodended30June2022havebeenreviewed,not
+audited.
+2. BASIS OF PREPARATION AND ADOPTION OF NEW AND AMENDED STANDARTS AND INTERPRETATIONS
+The principal accounting policies applied in the preparation of these consolidated condensed interim financial statements are
+consistent with those followed in the preparation of the Group’s consolidated financial statements for the years ended 31
+December2021,exceptfortherecognitionofincometaxexpensesandtheadoptionofthenewstandardseffectiveof1January
+2022. The Groups has not adopted any standard, interpretations or amendments that have been issued but are not yet effective.
+Incometaxexpensesarerecognisedbasedonmanagement’sestimateoftheweightedaverageeffectiveannualincometaxrate
+expected to be applied for a full financial year. The estimated weighted average annual income taxrate used for the six-month
+period ended 30 June 2022 is 9.7%, compared to 12.4% for the six-month period ended 30 June 2021.
+a) Basis of preparation
+The consolidated condensed interim financial statements for the six-month period ended 30 June 2022 have been prepared in
+accordance with IAS 34 Interim Financial Reporting. The condensed interim financial statements do not include all the notes
+required in the annual financial statements, and should be read in conjunction with the Group’s annual consolidated financial
+statements for the year ended 31 December 2021.
+ThesefinancialstatementsarepresentedinacommoncurrencyoftheEuropeanUnion–theeuroandhavebeenroundedtothe
+nearest thousand (in thousands of euros). Due to rounding, amounts in these consolidated condensed interim financial
+statements may not sum up.
+b) Adoption of new and/or amended IFRS and interpretations of the International Financial Reporting Interpretations
+Committee (IFRIC)
+The following amended standards became effective from 1 January 2022, but did not have any material impact on the Group:
+•Amendments to IAS 16 Property, Plant and Equipment; IFRS 3 Business Combinations and
+IAS 37 Provisions, Contingent Liabilities and Contingent Assets
+•Annual Improvements to IFRS 9 Financial Instruments; IFRS 16 Leases; IFRS 1 First-time Adoption of International Financial
+Reporting Standards and IAS 41 Agriculture
+9
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+3. SEGMENT INFORMATION
+Duringthesix-monthperiodended30June2022nodifferencesoccurredinthebasisoftheGroup’ssegmentationorinthebasis
+of measurement of segment’s net profit (loss).
+Six-month ended 30 June Lease
+Akropolis Akropolis Akropolis Akropole Total
+2022 Alfa Adjust- incentive
+Vilnius Klaipėda Šiauliai Riga before The Group
+(EUR‘000) Latvia ments (IFRS16)
+Lithuania Lithuania Lithuania Latvia IFRS16
+impact
+94 851 60 643 36 084 70 877 71 040
+Gross Leasable Area (GLA)
+Revenue 17 318 12 038 5 736 11 469 9 227 145 55 933 (1 891) 54 042
+Rent income 12 036 8 109 3 550 7 458 6 343 (85) 37 411 (1 891) 35 520
+Additional fees income 4 825 3 643 2 047 2 663 2 814 (36) 15 956 - 15 956
+Other income 457 286 139 1 348 70 266 2 566 - 2 566
+Property operating expenses (5 455) (4 366) (2 617) (2 988) (2 114) (147) (17 687) - (17 687)
+EBITDA 11 863 7 672 3 119 8 481 7 113 (2) 38 246 (1 891) 36 355
+NET PROFIT (LOSS) 9 015 6 566 2 463 6 880 5 402 (1 652) 28 674 - 28 674
+Six-month period ended 30 Lease
+Akropolis Akropolis Akropolis Akropole Total
+June 2021 Alfa Adjust- incentive
+Vilnius Klaipėda Šiauliai Riga before The Group
+(EUR‘000) Latvia ments (IFRS16)
+Lithuania Lithuania Lithuania Latvia IFRS16
+impact
+94 783 60 643 36 048 70 874
+Gross Leasable Area (GLA)
+Revenue 12 360 8 390 4 233 7 083 - 162 32 228 4 126 36 354
+Rent income 8 862 5 841 2 696 4 826 - (81) 22 144 4 126 26 270
+Additional fees income 3 287 2 416 1 484 2 157 - (28) 9 316 - 9 316
+Other income 211 133 53 100 - 271 768 - 768
+Property operating expenses (3 137) (2 503) (1 514) (2 444) - (151) (9 749) - (9 749)
+EBITDA 9 223 5 887 2 719 4 639 - 11 22 479 4 126 26 605
+NET PROFIT (LOSS) 6 707 4 723 2 082 3 904 - (617) 16 799 - 16 799
+10
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+Tables below present reconciliation of EBITDA to the net profit for the six-month period ended 30 June 2022 and 30 June 2021.
+Six-month period ended 30 Lease
+Akropolis Akropolis Akropolis Akropole Total
+June 2022 Alfa Adjust- incentive
+Vilnius Klaipėda Šiauliai Riga before The Group
+(EUR‘000) Latvia ments (IFRS16)
+Lithuania Lithuania Lithuania Latvia IFRS16
+impact
+EBITDA 11 863 7 672 3 119 8 481 7 113 (2) 38 246 (1 891) 36 355
+Valuation gain (loss) from
+- - - - - 102 102 1 891 1 993
+investment property
+Depreciation and amortization (207) (83) (18) (43) (128) (78) (557) - (557)
+Interest expense (1 082) (272) (204) (1 556) (1 582) (707) (5 403) - (5 403)
+Income tax expense (1 547) (751) (434) (1) (2) (342) (3 077) - (3 077)
+Other (12) - - (1) 1 (625) (637) - (637)
+NET PROFIT (LOSS) 9 015 6 566 2 463 6 880 5 402 (1 652) 28 674 - 28 674
+Six-month period ended 30 Lease
+Akropolis Akropolis Akropolis Akropole Total
+June 2021 Alfa Adjust- incentive
+Vilnius Klaipėda Šiauliai Riga before The Group
+(EUR‘000) Latvia ments (IFRS16)
+Lithuania Lithuania Lithuania Latvia IFRS16
+impact
+EBITDA 9 223 5 887 2 719 4 639 - 11 22 479 4 126 26 605
+Valuation gain (loss) from
+- - - - - - - (4 126) (4 126)
+investment property
+Depreciation and amortization (178) (84) (12) (54) - (94) (422) - (422)
+Interest expense (1 144) (244) (188) (444) - (456) (2 476) - (2 476)
+Income tax expense (1 182) (835) (362) - - - (2 379) - (2 379)
+Other (12) (1) (75) (237) - (78) (403) - (403)
+NET PROFIT (LOSS) 6 707 4 723 2 082 3 904 - (617) 16 799 - 16 799
+During the six-month period ended 30 June 2022 the fair value of investment property has not been recalculated.
+4. INVESTMENT PROPERTY
+Duringthesix-monthperiodended30June2022,theGroupmadeinvestmentsinamountofEUR773thousandthatresultedin
+additions to the value of existing investment property (during the six-month period ended 30 June 2021 – EUR 988 thousand).
+Asat31December2022and2021investmentpropertyconsistedoffiveoperatingcommercialproperties,threelandplotsanda
+property under construction held for capital appreciation or future rental income. The Group’s investment properties are measured
+at fair value.
+As at 30June2022the investment propertyof the revenuegenerating investment properties under the Groupwith thecarrying
+amountofEUR318931thousand(31December2021–EUR319000thousand)waspledgedtobanksunderloanagreements
+(note 7).
+Fair value hierarchy
+Toprovideanindicationaboutthereliabilityoftheinputsusedindeterminingfairvalue,theGrouphasclassifieditsnon-financial
+assets and liabilities into the three levels prescribed under the accounting standards.
+There were no transfers between Levels 1, 2 or 3 during 2022.
+11
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+Level 1 Level 2 Level 3 Total
+30 June 2022 EUR'000 EUR'000 EUR'000 EUR'000
+Shopping centre Akropolis Vilnius - - 318 931 318 931
+Shopping centre Akropolis Klaipėda - - 203 155 203 155
+Shopping centre Akropolis Šiauliai - - 78 192 78 192
+Shopping centre Akropole Riga - - 196 977 196 977
+Shopping centre Alfa - - 198 166 198 166
+Land plot Vilnius - 26 552 - 26 552
+Land plot Šiauliai - 600 - 600
+Land plot Narva - 1 100 - 1 100
+Market value per external valuation report * - 28 252 995 421 1 023 673
+Lease incentive impact of 2022 - - 1 891 1 891
+Lease incentive impact of all previous periods - - (13 847) (13 847)
+PPE elimination - - (2 049) (2 049)
+Total - 28 252 981 416 1 009 668
+*Market value here includes additions made during six-month period ended 30 June 2022.
+Duringthesix-monthperiodended30June2022thefairvalueofinvestmentpropertyhasnotbeenrecalculated.ForallLevel3
+investmentpropertiesvaluedEUR995421thousandasat30June2022(asat31December2021:EUR995200thousand),the
+valuation was determined usingdiscountedcash flow(DCF) projections basedonsignificant unobservableinputs. Theseinputs
+include:
+• Future rental cash inflows based on the actual location, type and quality of the properties and supported by the terms of any
+existing lease, other contracts or external evidence such as current market rents for similar properties;
+• Discount rates reflecting current market assessments of the uncertainty in the amount and timing of cash flows;
+• Estimated vacancy rates based on current and expected future market conditions after expiry of any current lease;
+• Maintenance costs including necessary investments to maintain functionality of the property for its expected useful life;
+• Capitalisation rates based on actual location, size and quality of the properties and taking into account market data at the
+valuation date; and
+• Terminal value taking into account assumptions regarding maintenance costs, vacancy rates and market rents.
+Asat30June2022includedwithinlong-termreceivables,areleaseincentivereceivablesofEUR8.1million(asat31December
+2021-EUR9.5million).Includedwithinothercurrentassetsareshort-termpartofleaseincentivereceivablesofEUR3.9million
+(as at 31 December 2022 - EUR 4.3 million).
+12
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+5. AMOUNTS RECEIVABLE AND PREPAYMENTS
+Amounts receivable and prepayments consisted of the following:
+At 31
+At 30 June December
+2022 2021
+EUR'000 EUR'000
+Trade accounts receivable 3 863 6 100
+Trade accounts receivable from related parties (note 10) 619 358
+Less: allowance for trade receivables impairment (645) (681)
+Trade accounts receivable, net 3 837 5 777
+Prepayments 547 123
+Deferred expenses, accrued income and other accounts 630 905
+Total 5 014 6 805
+As at 30 June 2022, expected credit losses of EUR 645 thousand were recognised in relation to rent receivables. As at 31
+December 2021, credit losses of EUR 681 thousand were recognised in relation to rent receivables.
+6. EARNINGS PER SHARE
+As at 30June2022and2021investments of theGroup'sparent companycomprisedofordinaryregisteredshares ofAkropolis
+Group, UAB.
+The Company’s basic and diluted earnings per share are equal. Calculation of basic / diluted earnings per share is presented
+below:
+Six-month period
+ended
+2022 2021
+Profit attribute to ordinary equity holders of the parent (EUR thousand) 28 674 16 799
+Weighted average number of ordinary shares (in thousands) 109 439 109 439
+Basic / diluted earnings per share (EUR/share) 0,262 0,154
+7. BORROWINGS
+At 31
+At 30 June December
+2022 2021
+EUR'000 EUR'000
+Non- current
+Bank loans 111 417 114 917
+Bonds 296 623 296 221
+Total 408 040 411 138
+Current
+Bank loans 7 000 7 000
+Bonds 685 5 033
+Total 7 685 12 033
+Duringthesix-monthperiodended30June2022theGroupreturnedEUR3.5millionpartoftheloantobankandpaidoutEUR
+8.6 million interests on bonds.
+Asat30June2022,theGroup’sbankloans weresecuredbythecollateralswiththecarryingamountof EUR333million(EUR
+342 million as at 31 December 2021).
+13
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+8. TRADE AND OTHER AMOUNTS PAYABLE
+Trade and other amounts payable consisted of the following:
+At 31
+At 30 June December
+2022 2021
+EUR'000 EUR'000
+Non-current advance amounts received 7 279 7 244
+Other non-current amounts payable 84 180
+Non-current amounts payable 7 363 7 424
+Current advance amounts received 2 235 1 834
+Trade payables 3 732 6 562
+VAT payable 1 136 1 379
+Real estate tax payable 323 133
+Advance amounts received from, and trade and other amounts payable to related parties (Note 10) 215 282
+Other amounts payable and accrued expenses 6 115 11 164
+Current amounts payable 13 756 21 354
+Total 21 119 28 778
+OtherpayablesandaccruedexpensesoftheGroupasat30June2022and31December2021mainlycompriseliabilityforgift
+vouchers issued.
+9. COMMITMENTS AND CONTINGENCIES
+TheGroupiscurrentlyinvolvedinlegalproceedings (twocases) relatedtothe2005-11-04acquisitionbyVingioTurtas, UABof
+state-owned land that is the site of Vingis Akropolis. The validity of part of the state-owned land sale and purchase agreement
+(Agreement) is challenged due to an alleged breach of the claimants’ rights of property restitution.
+The National Land Service has adopted decisions favourable to Vingio Turtas, UAB that were appealed to Vilnius Regional
+Administrative Court (court of first instance).
+By a decision announced on 21 February 2022 the Vilnius Regional Administrative Court has rejected the claimants’ claim
+regardingthedecisionsadoptedbyNationalLandService.Theclaimantsappealedagainstthisdecision,seekingtheannulment
+of the decision and the referral of the case back to the court of first instance. “Vingio turtas”, UAB provided response to the
+appealwithinthedeadlinesetbythecourt;currentlytheGroupiswaitingwhenthecasewillbeappointedforhearingincourtof
+appeal.
+The legal proceedings do not affect the development of Vingis Akropolis project. In the event that the claimants were to prove
+successful, the land plot for the construction of Vingis Akropolis could be materially reduced in size, but the implementation of any
+decision in favour of the claimants would be legally complicated and would raise a number of legal issues.
+14
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+10. RELATED-PARTY TRANSACTIONS
+Six-month period
+ended
+2022 2021
+EUR'000 EUR'000
+Sales to:
+Shareholders 39 32
+Affiliated companies 8 733 7 499
+Total 8 772 7 531
+Purchases (from):
+Shareholders 55 -
+Affiliated companies 672 366
+Total 727 366
+At 31
+At 30 June December
+2022 2021
+EUR'000 EUR'000
+Prepayments to and amounts receivable from:
+Shareholders 1 8
+Affiliated companies 618 357
+Lease incentives to affiliated companies 563 507
+Total 1 182 872
+Advance amounts received from and amounts payable to:
+Shareholders 12 8
+Affiliated companies 203 274
+Total 215 282
+Sales to related parties mostly comprise of rent income and other services. Purchases from related parties include utility,
+consultations and other general and administrative expenses.
+15
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+11. EFFECT OF COVID-19 AND THE MILITARY CONFLICT IN UKRAINE
+Effect of COVID-19
+During the first quarter of 2022, all remaining Covid-19 restrictions were lifted. During the first six months of 2022, the Group
+providedEUR1milliondiscounts(inthefirsthalfof2021:EUR6.7million).Thereweretworentaidperiodsduringfirstandlast
+quartersof2021,withtherentaidlimitofEUR2.3million.ThefirstrentaidofEUR1.3millionwasreceivedin2021inthesecond
+halfoftheyear,andthesecondaidofEUR1million,wasapprovedandreceivedin2022inthefirsthalfoftheyear.Management
+believes that liquidity position of the Group is sufficient and proven track record indicates strong resilience and flexibility to
+subside the negative effects of coronavirus pandemic.
+The military conflict in Ukraine
+On 24 February 2022, Russia began military invasion of Ukraine. Lithuania, as well as many countries around the World
+condemned the attack and imposed economic sanctions against Russia and Belarus. The management of the Group monitors
+economic sanctions against Russiaand Belarus and isready toimplement them. The management of the Group also monitors
+situation in Ukraine on daily basis and adjusts business operations locally as needed. At this stage management believes that
+war in Ukraine did not have a direct impact on Group's operations or financial results. All Group’s entities demonstrated stable
+results since the beginning of the war until the date of the issuance of these consolidated condensed interim financial statements.
+12. EVENTS AFTER THE REPORTING PERIOD
+There were no significant events after the end of the reporting period that might have significant impact on these consolidated
+condensed interim financial statements.
+16
+AKROPOLIS GROUP, UAB
+Company code 302533135, Ozas g. 25, Vilnius
+CONSOLIDATED CONDENSED INTERIM FINANCIAL STATEMENTS
+FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2022
+13 September 2022
+Responsibility statement of responsible persons
+Hereby we confirm that, to the best of our knowledge and belief, the consolidated condensed interim financial statements of
+AkropolisGroup,UAB(hereafter–“theCompany”)anditssubsidiaries(hereinaftertogether“theGroup”)forthesix-monthperiod
+ended 30 June 2022 prepared inaccordance with International AccountingStandard 34Interim Financial Reporting as adopted
+bytheEuropeanUnion, give atrue and fair viewof theconsolidated financial position of the Groupas of 30 June2022 andits
+consolidated financial performance and cash flows for the six-month period then ended.
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis CFO of Akropolis
+17

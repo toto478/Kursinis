@@ -1,0 +1,565 @@
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+AKROPOLIS GROUP UAB
+Interim condensed consolidated financial statements
+for the six months ended 30 June 2021
+1
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+CONTENTS
+CONTENTS ___________________________________________________________________________________ 2
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION _________________________ 3
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME ____________________ 4
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY _________________________ 5
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS _______________________________ 6
+NOTES TO THE INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS ______________________ 7
+2
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+At 30 June At 31 December
+Notes 2021 2020
+ASSETS
+Non-current assets 799 742 800 195
+Property, plant and equipment 938 983
+Investment property 4 792 858 795 964
+Intangible assets 184 234
+Deferred tax assets - 111
+Right-of-use assets 312 335
+Long-term receivables 4 5 450 2 568
+Current assets 225 934 61 611
+Inventories 68 68
+Trade, other receivables and other assets 5 3 113 3 566
+Prepaid current income tax 13 -
+Other financial assets 4 2 454 1 237
+Cash and cash equivalents 220 286 56 740
+TOTAL ASSETS 1 025 676 861 806
+EQUITY AND LIABILITIES
+Share capital 31 737 31 737
+Share premium 448 096 448 096
+Retained earnings 17 645 846
+Total equity 497 478 480 679
+Non-current liabilities: 506 885 326 008
+Borrowings (except of lease liabilities) 6 414 226 231 285
+Lease liabilities 312 326
+Deferred tax liabilities 83 872 83 819
+Income tax liabilities 656 1 312
+Other long term payables 7 819 9 266
+Current liabilities: 21 313 55 119
+Borrowings (except of lease liabilities) 6 7 685 36 162
+Lease liabilities 66 64
+Current income tax liabilities 1 029 2 801
+Trade and other payables 12 533 16 092
+Total liabilities 528 198 381 127
+TOTAL EQUITY AND LIABILITIES 1 025 676 861 806
+The accompanying explanatory notes are an integral part of these financial statements.
+These interim condensed consolidated financial statements were approved and signed on 27th September 2021.
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+3
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+Six months ended 30 June
+Notes 2021 2020
+Rental income 3 26 270 27 876
+Service charge income 9 764 10 467
+Service charge expenses (8 504) (9 435)
+NET RENTAL INCOME 27 530 28 908
+Administrative expenses (1 667) (1 822)
+Valuation gain (loss) from investment property 4 (4 126) (3 153)
+Other income, net 320 271
+OPERATING PROFIT (LOSS) 22 057 24 204
+Interest expense (2 476) (1 688)
+Interest income - 838
+Other expenses (403) (44)
+PROFIT (LOSS) BEFORE INCOME TAX 19 178 23 310
+Income tax expense (2 379) (1 650)
+NET PROFIT (LOSS) 3 16 799 21 660
+TOTAL COMPREHENSIVE INCOME (LOSS) 16 799 21 660
+EARNINGS PER SHARE (EUR)
+Basic / diluted 7 0,154 0,198
+The accompanying explanatory notes are an integral part of these financial statements.
+These interim condensed consolidated financial statements were approved and signed on 27th September 2021.
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+4
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+Share Share Retained
+Notes capital premium earnings Total
+Balance at 31 December 2019 31 737 580 196 5 021 616 954
+Transactions with owners:
+Reduction of share premium - (132 100) - (132 100)
+Dividends paid - - (50 000) (50 000)
+Total transactions with owners - (132 100) (50 000) (182 100)
+Net profit 21 660 21 660
+Total comprehensive income - - 21 660 21 660
+Balance at 30 June 2020 31 737 448 096 (23 319) 456 514
+Balance at 31 December 2020 31 737 448 096 846 480 679
+Net profit - - 16 799 16 799
+Total comprehensive income - - 16 799 16 799
+Balance at 30 June 2021 31 737 448 096 17 645 497 478
+The accompanying explanatory notes are an integral part of these financial statements.
+These interim condensed consolidated financial statements were approved and signed on 27th September 2021.
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+5
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+INTERIM CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+Six months ended 30 June
+Notes 2021 2020
+OPERATING ACTIVITIES
+Net profit (loss) 16 799 21 660
+Adjustments for:
+Income tax expense 2 379 1 650
+Depreciation and amortization 422 384
+Write off and loss on disposal of PPE (2) (2)
+Valuation gain (loss) from investment property 4 126 3 153
+Interest expense 2 476 1 688
+Interest income - (838)
+Operating cash flows before movements
+in working capital 26 200 27 695
+(Increase)/decrease in trade, other receivables and
+(3 647) (7 045)
+other assets, and long-term receivables
+Increase in inventories - 7
+Increase (decrease) in payables (6 280) (1 656)
+Cash generated from operations 16 273 19 001
+Interest paid (1 791) (1 679)
+Income tax paid (4 656) (1 294)
+Net cash generated from (used in) operating
+9 826 16 028
+activities
+INVESTING ACTIVITIES
+Acquisition of PPE, investment property and
+(1 189) (3 062)
+intangible assets
+Repayments of loans granted - 149 000
+Interest received - 1 455
+Net cash used in investing activities (1 189) 147 393
+FINANCING ACTIVITIES
+Reduction of share premium - (132 100)
+Dividends paid - (50 000)
+Proceeds from borrowings 6 319 734 -
+Repayments of borrowings 6 (164 825) (9 465)
+Net cash used in financing activities 154 909 (191 565)
+Net increase/(decrease) in cash and cash equivalents 163 546 (28 144)
+Cash and cash equivalents at the beginning of the period 56 740 53 682
+Cash and cash equivalents at the end of the year 220 286 25 538
+The accompanying explanatory notes are an integral part of these financial statements.
+These interim condensed consolidated financial statements were approved and signed on 27th September 2021.
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+6
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+NOTES TO THE INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+1. GENERAL INFORMATION
+Akropolis Group, UAB (entity code 302533135) (hereafter – “the Company”) was incorporated on 30 July 2011 in
+Lithuania as a limited liability company under the Companies Law of Lithuania. Its registered office is Ozo St. 25, Vilnius,
+Lithuania.
+The sole shareholder of the Company, owning 100% of shares, was UAB “Vilniaus Prekyba”, company code 302608755,
+address Ozo str. 25, Vilnius. The ultimate parent entity is Metodika B.V., address: Amstelveenseweg 500, 1081 KL,
+Amsterdam, Kingdom of the Netherlands, operating in the Kingdom of the Netherlands. The ultimate controlling party is
+Mr. Nerijus Numa.
+The consolidated group is comprised of the Company and its subsidiary undertakings (hereafter collectively referred as
+“the Group”). The Group has undergone a change in corporate structure whereby Akropolis Real Estate B.V. and all of
+its subsidiaries became subsidiaries of Akropolis Group, UAB (the “Reorganisation”). On 22 March 2021, UAB “Vilniaus
+Prekyba”, the sole shareholder of Akropolis Group, UAB and Akropolis Real Estate B.V., adopted a decision to increase
+the share capital of Akropolis Group, UAB by non-monetary contribution of the shareholder, namely, the payment of the
+subscription price of the newly issued shares in Akropolis Group, UAB has been performed by transferring ownership of
+100% of the shares in Akropolis Real Estate B.V. from UAB “Vilniaus Prekyba” to Akropolis Group, UAB. Shares in
+Akropolis Real Estate B.V. were transferred to the ownership of Akropolis Group, UAB by notarial deed on 24 March
+2021. All formal registrations finalizing the Reorganisation were completed on 6 April 2021.
+Last available financial statements were combined financial statements of Akropolis Group, UAB and Akropolis Real
+Estate B.V. for the years ended 2020 and 2019. The combined financial statements do not constitute statutory accounts
+of either of the two companies. IFRS does not prescribe how to prepare combined financial statements, however, the
+Conceptual Framework to IFRS envisages that the reporting entity might comprise two or more entities that are not all
+linked by a parent-subsidiary relationship. In this case the reporting entity’s financial statements are referred to as
+‘combined financial statements’.
+The Reorganisation, completed on 6 April 2021, is a business combination under common control. The accounting for
+common control transactions is not prescribed by IFRS. One of the acceptable methods to account for such transactions,
+which is now used by Akropolis Group, UAB, is to apply the predecessor values method (the historical carrying values
+from the combining businesses) in the interim consolidated financial statements of Akropolis Group, UAB for the six
+months ended 30 June 2021, with the retrospective presentation approach. Under this approach, the interim
+consolidated financial statements of Akropolis Group, UAB is presented as if the businesses have been combined from
+the beginning of the earliest period presented because Akropolis Group, UAB and Akropolis Real Estate B.V. were under
+common control as of that date.
+As of 31 December 2020 share capital of Akropolis Group UAB and Akropolis Real Estate B.V. combined financial
+statements consisted of EUR 43 thousand of the share capital of Akropolis Group UAB and of EUR 140,110 thousand
+of the share capital of Akropolis Real Estate B.V. On 22 March 2021 the Shareholder's decision was signed to increase
+the share capital of Akropolis Group UAB from EUR 43 thousand to EUR 31,737 thousand with a non-monetary
+Shareholder's contribution - Akropolis Real Estate B.V. 100% stake. In connection therewith, Akropolis Group UAB has
+issued 109,291 thousand new ordinary registered shares of EUR 0.29 par value each (hereinafter, the "Newly Issued
+Shares"). The total issue price of all Newly Issued Shares - EUR 479,790 thousand. The balances of the previous year,
+which have been recalculated retrospectively by assessing the Group's share capital, share premium and retained
+earnings, differ from Combined Financial Statements of the Group for the years ended 31 December 2020 and 31
+December 2019 due to transition from combined to consolidated financial statements. On April 29, 2020, the decision of
+the shareholder reduced Akropolis Real Estate B.V. authorized capital by 132 100 thousand EUR. In the Combined
+financial statements for the years ended 31 December 2020 and 2019 this was shown as a reduction of authorized
+capital. In these interim condensed consolidated financial statements 132 100 thousand EUR shown as a decrease in
+the share premium because these financial statements are presented as if the businesses have been combined from
+the beginning of the earliest period.
+The Group’s key area of operations includes the development of real estate owned by the Group and its lease to tenants
+based on agreements.
+The Group’s bonds are traded at Euronext Dublin (Ireland) and Nasdaq Vilnius (Lithuania) stock exchanges.
+The Company’s management authorized these interim condensed consolidated financial statements on 27th September
+2021.
+7
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+2. BASIS OF PREPARATION AND ADOPTION OF NEW AND/OR AMENDED STANDARTS AND
+INTERPRETATIONS
+The principal accounting policies applied in the preparation of these interim condensed consolidated financial statements
+are consistent with those followed in the preparation of the Group’s combined financial statements for the years ended
+31 December 2020 and 2019, except for the adoption of the new standards effective of 1 January 2021. The Groups
+has not adopted any standard, interpretation or amendment that has been issued but not yet effective early.
+a) Basis of preparation
+The interim condensed consolidated financial statements for the six months ended 30 June 2021 have been prepared
+in accordance with IAS 34 Interim Financial Reporting. The interim condensed financial statements do not include all the
+notes required in the annual financial statements, and should be read in conjunction with the Group’s annual combined
+financial statements for the years ended 31 December 2020 and 2019.
+These financial statements are presented in a common currency of the European Union – the euro and have been
+rounded to the nearest thousand (in thousand EUR). Due to rounding, numbers in these interim condensed consolidated
+financial statements may not sum up.
+b) Adoption of new and/or amended IFRS and interpretations of the International Financial Reporting
+Interpretations Committee (IFRIC)
+The following amended standards became effective from 1 January 2021, but did not have any material impact on the
+Group:
+ Interest rate benchmark (IBOR) reform – phase 2 amendments to IFRS 9, IAS 39, IFRS 7, IFRS 4 and IFRS 16
+(issued on 27 August 2020 and effective for annual periods beginning on or after 1 January 2021).
+ Amendment to IFRS 4 – deferral of IFRS 9 (issued on 25 June 2020 and effective for annual periods beginning on
+or after 1 January 2021).
+3. SEGMENT INFOTRMATION
+During the six months ended 30 June 2021 no differences occurred in the basis of the Group’s segmentation or in the
+basis of measurement of segment’s net profit (loss).
+Vilniaus Klaipėdos Šiaulių Total Lease
+Six months ended Akropolis, Akropolis, Akropolis, Akropole Adjust- before incentive Total
+30 June 2021 Lithuania Lithuania Lithuania Riga, Latvia ments IFRS16 impact Group
+Gross Leasable
+94 783 60 643 36 048 70 874
+Area (GLA)
+Revenue 12 360 8 390 4 233 7 083 162 32 228 4 126 36 354
+Rent income 8 862 5 841 2 696 4 826 (81) 22 144 4 126 26 270
+Additional fees
+3 287 2 416 1 484 2 157 (28) 9 316 - 9 316
+income
+Other income 211 133 53 100 271 768 - 768
+Property
+operating (3 137) (2 503) (1 514) (2 444) (151) (9 749) - (9 749)
+expenses
+EBITDA 9 223 5 887 2 719 4 639 11 22 479 4 126 26 605
+NET PROFIT
+6 707 4 723 2 082 3 904 (617) 16 799 - 16 799
+(LOSS)
+8
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+Vilniaus Klaipėdos Šiaulių Total Lease
+Six months ended Akropolis, Akropolis, Akropolis, Akropole Adjust- before incentive Total
+30 June 2020 Lithuania Lithuania Lithuania Riga, Latvia ments IFRS16 impact Group
+Gross Leasable
+94 783 60 643 36 048 70 874
+Area (GLA)
+Revenue 13 332 9 000 4 477 8 490 162 35 461 3 153 38 614
+Rent income 9 625 6 373 2 914 5 898 (87) 24 723 3 153 27 876
+Additional fees
+3 424 2 470 1 471 2 360 (27) 9 698 - 9 698
+income
+Other income 283 157 92 232 276 1 040 - 1 040
+Property
+operating (3 471) (2 500) (1 672) (2 957) (273) (10 873) - (10 873)
+expenses
+EBITDA 9 861 6 500 2 805 5 533 (111) 24 588 3 153 27 741
+NET PROFIT
+7 772 5 438 2 374 4 207 1 869 21 660 - 21 660
+(LOSS)
+Additional fees income is integral and biggest part of service charge income. It includes fees for the administration and
+management of the entire shopping centre, for marketing services and for exploitation and administration of the general
+use facilities, for public utilities and other services required to ensure the proper and continual operation of the shopping
+centre, as well as fee for direct utilities used by a tenant.
+Tables below present reconciliation of EBITDA to the net profit for the six months ended 30 June 2021 and 30 June
+2020.
+Vilniaus Klaipėdos Šiaulių Total Lease
+Six months ended
+Akropolis, Akropolis, Akropolis, Akropole Adjust- before incentive Total
+30 June 2021
+Lithuania Lithuania Lithuania Riga, Latvia ments IFRS16 impact Group
+EBITDA
+9 223 5 887 2 719 4 639 11 22 479 4 126 26 605
+Valuation gain
+(loss) from - - - - - - (4 126) (4 126)
+investment property
+Interest income - - - - - - - -
+Depreciation and
+(178) (84) (12) (54) (94) (422) - (422)
+amortization
+Interest expense (1 144) (244) (188) (444) (456) (2 476) - (2 476)
+Income tax
+(1 182) (835) (362) - - (2 379) - (2 379)
+expense
+Other finance
+(12) - (75) (237) (79) (403) - (403)
+expenses
+Other income - (1) - - 1 - - -
+NET PROFIT
+6 707 4 723 2 082 3 904 (617) 16 799 - 16 799
+(LOSS)
+Vilniaus Klaipėdos Šiaulių Total Lease
+Six months ended
+Akropolis, Akropolis, Akropolis, Akropole Adjust- before incentive Total
+30 June 2020
+Lithuania Lithuania Lithuania Riga, Latvia ments IFRS16 impact Group
+EBITDA 9 861 6 500 2 805 5 533 (111) 24 588 3 153 27 741
+Valuation gain
+(loss) from - - - - - - (3 153) (3 153)
+investment property
+Interest income 691 73 33 - 41 838 - 838
+Depreciation and
+(192) (75) (12) (49) (56) (384) - (384)
+amortization
+Interest expense (1 207) (99) (39) (340) (3) (1 688) - (1 688)
+Income tax
+(1 369) (961) (412) (905) 1 997 (1 650) - (1 650)
+expense
+Other finance
+(12) - - (32) - (44) - (44)
+expenses
+Other income - - (1) - 1 - - -
+NET PROFIT
+7 772 5 438 2 374 4 207 1 869 21 660 - 21 660
+(LOSS)
+9
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+4. INVESTMENT PROPERTY
+During the six months ended 30 June 2021, the Group made investments in amount of EUR 988 thousand that resulted
+in additions to the value of existing investment property (during the six months ended 30 June 2020 – EUR 2 904
+thousand).
+The Group’s investment properties are measured at fair value. In 2020 the valuation of the investment property was
+carried out by independent property appraiser CPB Real Estate Services SIA (CBRE Baltics). The valuations have been
+prepared in accordance with the RICS 2020 Valuation – Professional Standards global, Lithuanian Valuation Law as
+well as International Valuation Standards IVS 2020 and European Valuation Standards EVS 2020.
+Group’s investment property will be revalued at the end of the year.
+Fair value hierarchy
+All assets and liabilities for which fair value is measured or disclosed in the financial statements are categorised within
+the fair value hierarchy, described as follows, based on the lowest level input that is significant to the fair value
+measurement as a whole:
+ Level 1 — quoted (unadjusted) market prices in active markets for identical assets or liabilities;
+ Level 2 — valuation techniques for which the lowest level input that is significant to the fair value measurement
+is directly or indirectly observable;
+ Level 3 — valuation techniques for which the lowest level input that is significant to the fair value measurement
+is unobservable.
+There were no transfers between levels 1, 2 or 3 during 2021.
+30 June 2021 Level 1 Level 2 Level 3 Total
+Shopping centre Vilnius Akropolis - - 309 272 309 272
+Shopping centre Klaipeda Akropolis - - 196 086 196 086
+Shopping centre Siauliai Akropolis - - 74 058 74 058
+Shopping centre Riga Akropole - - 192 027 192 027
+Land plot Vilnius - 25 546 - 25 546
+Land plot Kaunas - 3 300 - 3 300
+Land plot Siauliai - 320 - 320
+Land plot Narva - 1 000 - 1 000
+Market value* - 30 166 771 443 801 609
+Lease incentive impact of 2021 - - (4 126) (4 126)
+Lease incentive impact of all previous periods - - (3 729) (3 729)
+PPE elimination - - (896) (896)
+Total - 30 166 762 692 792 858
+*Market value here includes additions made during six months ended 30 June 2021.
+During first half of 2021, the Group provided tenants with EUR 5.9 million rental discounts, of which EUR 1.8 million was
+recognized in the statement of comprehensive income (during 2020 - EUR 5.3 million rental discounts, of which EUR
+1.5 million was recognized in the statement of comprehensive income). Thus, included within long-term receivables, are
+lease incentive receivables of EUR 5.4 million (2020 - EUR 2.5 million). Furthermore, included within other current assets
+are short-term part of lease incentive receivables of EUR 2.4 million (2020 - EUR 1.2 million).
+10
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+5. TRADE, OTHER RECEIVABLES AND OTHER ASSETS
+Trade, other receivables and other assets consist of the following:
+At 30 June At 31 December
+2021 2020
+Trade accounts receivable 2 443 2 952
+Trade accounts receivable from related parties (note 9) 297 424
+Less: allowance for trade receivables impairment (187) (116)
+Trade accounts receivable, net 2 553 3 260
+VAT receivable 195 116
+Prepayments 87 107
+Other 279 83
+Total 3 113 3 566
+As at 30 June 2021, expected credit losses of EUR 187 thousand (as at 31 December 2020 – EUR 116 thousand) were
+recognized in relation to rent receivables. The main cause of the expected credit losses is the increased credit risk from
+local independent customers and ongoing global covid-19 pandemic.
+6. BORROWINGS
+At 30 June At 31 December
+2021 2020
+Non-current
+Bank loans 118 417 231 285
+Bonds 295 809 -
+414 226 231 285
+Current
+Bank loans 7 000 36 162
+Bonds 685 -
+7 685 36 162
+On 3 June 2021 Akropolis Group has successfully distributed its debut 5-year Eurobond issue worth EUR 300 million.
+These bonds have been listed on the Nasdaq Vilnius and Dublin Euronext stock exchanges. The issue of Eurobonds of
+UAB Akropolis Group was distributed with an annual coupon rate of 2.875%, an annual yield of 3.00% and a re-offer
+price of 99.428%. The bonds have been rated BB+ Fitch and BB+ S&P. The bonds mature on 2 June 2026.
+Akropolis Group, UAB was Issuer whereas Aido Turtas, UAB, Ozo Turtas, UAB, Taikos Turtas, UAB and SIA "M257",
+subsidiaries of Akropolis Real Estate B.V., were the Guarantors for the transaction.
+The Company has provided loans to three subsidiaries in line with the capital utilization targets set out in the EUR 300
+million bond issue prospectus (UAB Taikos turtas, UAB Aido turtas and SIA M257 respectively managing Klaipėda’s
+Akropolis, Šiauliai Akropolis and Riga’s Akropolis). The funds lent to Akropolis Group were used to cover the liabilities
+of subsidiaries at AS Citadele banka Lithuanian Branch (UAB Taikos turtas, UAB Aido turtas) and AS SEB banka (SIA
+M257). A total of EUR 135.1 million in commercial bank loans was refinanced.
+As at 30 June 2021, the Group’s bank loans were secured by the collaterals with the carrying amount of EUR 327
+thousand (EUR 801 million as at 31 December 2020).
+11
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+7. EARNINGS PER SHARE
+The Company’s basic and diluted earnings per share are equal. Calculation of basic / diluted earnings per share is
+presented below:
+Six months ended 30 June
+2021 2020
+Profit attribute to ordinary equity holders of the parent (EUR thousand) 16 799 21 660
+Weighted average number of ordinary shares (in thousands) 109 439 109 439
+Basic / diluted earnings per share (EUR/share) 0,154 0,198
+8. COMMITMENTS AND CONTINGENCIES
+The Group is currently involved in legal proceedings (two cases) related to the 2005-11-04 acquisition by Vingio Turtas,
+UAB of state-owned land that is the site of Akropolis Vingis. The validity of part of the state-owned land sale and purchase
+agreement (Agreement) is challenged due to an alleged breach of the claimants’ rights of property restitution.
+The National Land Service has adopted decisions favourable to Vingio Turtas, UAB. These decisions are currently being
+challenged in first instance administrative proceedings. The first instance civil case directly challenging the validity of
+part of the Agreement is suspended pending a decision in the administrative proceedings.
+The Group does not agree with the claimants’ case and considers the possibility of satisfaction of the claims as low.
+The legal proceedings do not affect the Group's rights over the Vingis site and development of Akropolis Vingis. In the
+event that the claimants were to prove successful, the Vingis site could be materially reduced in size, however,
+implementation of any potential award would be a highly complicated legal issue.
+9. RELATED PARTY TRANSACTIONS
+Six months ended 30 June
+2021 2020
+Sales to:
+Parent company 32 40
+Other related parties 7 499 7 587
+Total 7 531 7 627
+Purchases from:
+Other related parties 366 381
+Total 366 381
+Interest income from:
+Parent company - 838
+Total - 838
+Sales to related parties mostly comprise of rent income and other services. Purchases from related parties include utility,
+consultations and other general and administrative expenses.
+12
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+At 30 June At 31 December
+2021 2020
+Trade and other receivables from:
+Parent company 4 1
+Other related parties 293 423
+Total 297 424
+Trade and other payables to:
+Parent company 8 6
+Other related parties 106 143
+Total 114 149
+10. COVID-19
+Due to covid-19 pandemic, the Group experienced inevitable influence on its financial performance.
+Below is the timeline of the most significant restriction periods, which affected the Group during the first half of 2021,
+related to Lithuanian government measures fighting the global pandemic.
+ December 16, 2020 - March 14, 2021: Partial close down - only the shops selling first necessity goods were
+allowed to operate;
+ March 15, 2021 - April 18, 2021: shops with a separate outside entrance were allowed to operate, in addition
+to the shops selling first necessity goods;
+ April 19, 2021 - May 23, 2021: All shops were allowed to operate on weekdays, cinemas allowed to operate
+subject to certain restrictions. On weekends and holidays only shops with a separate outside entrance and
+the shops selling first necessity goods were allowed to operate;
+ Since May 24, 2021: All shops allowed to operate throughout the week. Certain restrictions regarding masks,
+distance, client number etc. remain to this day.
+Furthermore, below is the timeline of the most significant restriction periods, which affected the Group during first half of
+2021, related to Latvian government measures fighting the global pandemic.
+ December 21, 2020 - May 16, 2021: Partial close down - only the shops selling first necessity goods were
+allowed to operate;
+ May 17, 2021 - June 2, 2021: shops with a separate outside entrance were allowed to operate, in addition to
+the shops selling first necessity goods;
+ Since June 3, 2021: restrictions limiting economic activities were lifted. All shops allowed to operate throughout
+the week. Certain restrictions regarding masks, distance, client number etc. remain to this day.
+Since December, 2020 Lithuanian and Latvian governments have started immunising the population against Covid-19.
+At the date of the release of these financial statements, more than 60% of Lithuanian and more than 45% of Latvian
+population has been vaccinated at least once. In order to accelerate vaccination process, both countries have enforced
+additional limitations and/or quarantine like measures for non-vaccinated citizens. Lithuanian government has passed a
+ruling to limit certain economic activities of citizens without a valid Covid-19 certificate as of September 13, 2021.
+Included in those limitations is a prohibition to enter large shopping centres, beauty salons, restaurants and
+entertainment facilities.
+Despite ongoing global pandemic, the Group managed to increase the collection rate during the first half of 2021 to 98%.
+Thus, management believes that liquidity position of the Group is sufficient and proven track record indicates strong
+resilience and flexibility to subside the negative effects of coronavirus pandemic.
+13
+AKROPOLIS GROUP UAB
+INTERIM CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED 30 JUNE 2021
+All tabular amounts are in EUR thousand unless otherwise stated
+11. SIGNIFICANT EVENTS AFTER THE REPORTING PERIOD
+Akropolis Group is buying a shopping centre Alfa
+On August 9, 2021 Akropolis Group has signed a deal with AMD Holding to acquire 100 % of the shareholding in Latvian
+company Delta Property. The latter company owns a 9.7 ha land plot and the building at 372 Brivibas street, in Riga,
+Latvia housing the shopping centre Alfa.
+The total area of the shopping centre Alfa is about 154,000 sq. m., without the parking lot it amounts to 94,000 sq. m,
+the leasable shopping area (GLA) is 71,000 sq. m. 1,750 cars can be parked at the same time at the parking lot. 210
+shops operate in the shopping centre. Alfa houses shops of such popular local and international brands as Zara,
+Reserved, H&M, Euronics, Sportland, Kidzone, Cenuklubs.lv, Cinamon, Lido, McDonalds, also other shops and service
+provision places. The shopping centre also houses Rimi – the hyperrmarket selling grocery and consumer goods.
+Alfa shopping centre, which has about 7 million visitors per year, underwent major upgrading and expansion in 2019,
+which required an investment of about EUR 55 million.
+The parties have agreed not to announce the value of the intended transaction, which will be closed after a permit from
+the Latvian Competition Council is obtained. The Latvian Competition Council should make a decision not later than
+within 4 months after submission of required documents.
+Akropolis Group sells a land plot in the Kaunas district, Lithuania to SBA Urban
+On September 9, 2021 Biruliškių Turtas, a subsidiary of Akropolis Group, sold the 12,5 hectare land plot in the Kaunas
+district, Lithuania to SBA Urban, a SBA Group company. In accordance with the agreement between the parties, the
+value of this transaction will remain undisclosed.
+The land plot was sold in accordance with Akropolis Group’s strategy to focus on its key areas of activity and to divest
+from its non-essential assets that do not generate income.
+14
+27 September 2021
+Responsibility statement of responsible persons
+Hereby we confirm that, to the best of our knowledge and belief, the interim condensed consolidated financial statements
+of Akropolis Group, UAB (hereafter – “the Company”) and its subsidiaries (hereinafter together “the Group”) for the six
+months period ended 30 June 2021 prepared in accordance with International Accounting Standard 34 Interim Financial
+Reporting as adopted by the European Union, give a true and fair view of the consolidated financial position of the Group
+as of 30 June 2021 and its consolidated financial performance and cash flows for the six months period then ended.
+Manfredas Dargužis Gabrielė Saponaitė
+CEO of Akropolis Group, UAB CFO of Akropolis Group, UAB
+AKROPOLIS GROUP, UAB Tel (8 - 5) 248 8061 Legal entity code 302533135 Registered at
+Ozo st. 25 Fax (8 - 5) 204 2271 VAT payer no. LT100005549015 the Register of Legal Entities
+LT – 07150, Vilnius Email akropolis@akropolis.eu A/s LT32 7300 0101 2350 1917 Registry manager - State
+Lithuania www.akropolis.eu “Swedbank”, AB Enterprise Centre of Registers

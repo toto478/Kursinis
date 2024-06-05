@@ -1,0 +1,690 @@
+CEZ GROUP
+INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+PREPARED IN ACCORDANCE WITH
+INTERNATIONAL FINANCIAL REPORTING STANDARDS
+AS OF MARCH 31, 2022
+CEZ GROUP
+CONSOLIDATED BALANCE SHEET
+AS OF MARCH 31, 2022
+In CZK Millions
+March 31, December 31,
+Note 2022 2021
+ASSETS:
+Plant in service 856,963 856,189
+Less accumulated depreciation and impairment (493,456) (487,211)
+Net plant in service 363,507 368,978
+Nuclear fuel, at amortized cost 12,153 13,096
+Construction work in progress, net 23,611 21,009
+Total property, plant and equipment 399,271 403,083
+Investments in associates and joint-ventures 3,869 3,916
+Restricted financial assets, net 20,125 20,804
+Other non-current financial assets, net 5 12,964 11,805
+Intangible assets, net 23,294 23,677
+Deferred tax assets 10,232 10,719
+Total other non-current assets 70,484 70,921
+Total non-current assets 469,755 474,004
+Cash and cash equivalents, net 51,972 26,640
+Trade receivables, net 141,465 137,432
+Income tax receivable 905 397
+Materials and supplies, net 14,557 13,372
+Fossil fuel stocks 437 574
+Emission rights 6 16,269 19,534
+Other current financial assets, net 5 655,234 497,295
+Other current assets, net 17,179 13,674
+Total current assets 898,018 708,918
+Total assets 1,367,773 1,182,922
+2
+CEZ GROUP
+CONSOLIDATED BALANCE SHEET
+AS OF MARCH 31, 2022
+continued
+March 31, December 31,
+Note 2022 2021
+EQUITY AND LIABILITIES:
+Stated capital 53,799 53,799
+Treasury shares (1,406) (1,423)
+Retained earnings and other reserves 112,593 108,722
+Total equity attributable to equity holders of the parent 164,986 161,098
+Non-controlling interests 1,731 1,742
+Total equity 166,717 162,840
+Long-term debt, net of current portion 7 100,435 95,924
+Provisions 117,045 117,072
+Other long-term financial liabilities 8 50,695 35,219
+Deferred tax liability 13,627 12,839
+Other long-term liabilities 30 32
+Total non-current liabilities 281,832 261,086
+Short-term loans 9 13,737 25,310
+Current portion of long-term debt 7 19,574 16,647
+Trade payables 77,729 85,928
+Income tax payable 1,921 2,249
+Provisions 22,558 18,253
+Other short-term financial liabilities 8 770,216 601,027
+Other short-term liabilities 13,489 9,582
+Total current liabilities 919,224 758,996
+Total equity and liabilities 1,367,773 1,182,922
+3
+CEZ GROUP
+CONSOLIDATED STATEMENT OF INCOME
+FOR THE THREE MONTHS ENDED MARCH 31, 2022
+In CZK Millions
+Note 1-3/2022 1-3/2021
+Sales of electricity, heat, gas and coal 52,632 39,878
+Sales of services and other revenues 18,298 18,336
+Other operating income 5,067 861
+Total revenues and other operating income 10 75,997 59,075
+Gains and losses from commodity derivative
+trading 11 13,091 (1,110)
+Purchase of electricity, gas and other energies (17,633) (15,683)
+Fuel and emission rights (11,526) (6,590)
+Services (6,613) (5,847)
+Salaries and wages (7,108) (7,072)
+Material and supplies (2,863) (2,428)
+Capitalization of expenses to the cost of assets
+and change in own inventories 1,516 937
+Depreciation and amortization (7,548) (6,681)
+Impairment of property, plant and equipment
+and intangible assets - (2,051)
+Impairment of trade and other receivables 223 84
+Other operating expenses (1,347) (1,399)
+Income before other income (expenses) and
+income taxes 36,189 11,235
+Interest on debt (849) (1,142)
+Interest on provisions (644) (502)
+Interest income 306 115
+Share of profit (loss) from associates and joint-
+ventures 528 12
+Impairment of financial assets (522) (24)
+Other financial expenses (2,487) (53)
+Other financial income 893 778
+Total other income (expenses) (2,775) (816)
+Income before income taxes 33,414 10,419
+Income taxes (6,691) (2,033)
+Net income 26,723 8,386
+Net income (loss) attributable to:
+Equity holders of the parent 26,725 8,404
+Non-controlling interests (2) (18)
+Net income per share attributable to equity holders
+of the parent (CZK per share):
+Basic 49.8 15.7
+Diluted 49.8 15.7
+4
+CEZ GROUP
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+FOR THE THREE MONTHS ENDED MARCH 31, 2022
+In CZK Millions
+Note 1-3/2022 1-3/2021
+Net income 26,723 8,386
+Change in fair value of cash flow hedges (41,710) (5,707)
+Cash flow hedges reclassified to statement of
+income 14,669 (518)
+Change in fair value of debt instruments (784) (944)
+Disposal of debt instruments (1) (2)
+Translation differences – subsidiaries (239) (399)
+Translation differences – associates and joint-
+ventures (54) (1)
+Disposal of translation differences (19) 6,607
+Share on other equity movements of
+associates and joint-ventures (4) -
+Deferred tax related to other comprehensive
+income 12 5,288 1,363
+Net other comprehensive income that may be
+reclassified to statement of income or to
+assets in subsequent periods (22,854) 399
+Change in fair value of equity instruments 1 -
+Net other comprehensive income not to be
+reclassified from equity in subsequent
+periods 1 -
+Total other comprehensive income, net of tax (22,853) 399
+Total comprehensive income, net of tax 3,870 8,785
+Total comprehensive income attributable to:
+Equity holders of the parent 3,893 8,818
+Non-controlling interests (23) (33)
+5
+CEZ GROUP
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE THREE MONTHS ENDED MARCH 31, 2022
+In CZK Millions
+Note Attributable to equity holders of the parent
+Equity
+Transla- Cash flow Debt instruments Non-
+Stated Treasury tion hedge instru- and other Retained controlling Total
+capital shares difference reserve ments reserves earnings Total interests equity
+Balance as at January 1, 2021 53,799 (2,845) (11,777) (7,110) 874 (1,022) 201,952 233,871 4,692 238,563
+Net income - - - - - - 8,404 8,404 (18) 8,386
+Other comprehensive income - - 6,222 (5,042) (766) - - 414 (15) 399
+Total comprehensive
+income - - 6,222 (5,042) (766) - 8,404 8,818 (33) 8,785
+Sale of treasury shares - 107 - - - - (63) 44 - 44
+Exercised and forfeited share
+options - - - - - (5) 5 - - -
+Sale of non-controlling
+interests - - - - - - (5) (5) 799 794
+Put options held by non-
+controlling interests - - (1) - - - (5) (6) 6 -
+Balance as at March 31, 2021 53,799 (2,738) (5,556) (12,152) 108 (1,027) 210,288 242,722 5,464 248,186
+6
+CEZ GROUP
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE THREE MONTHS ENDED MARCH 31, 2022
+continued
+Note Attributable to equity holders of the parent
+Equity
+Transla- Cash flow Debt instruments Non-
+Stated Treasury tion hedge instru- and other Retained controlling Total
+capital shares difference reserve ments reserves earnings Total interests equity
+Balance as at January 1, 2022 53,799 (1,423) (4,637) (67,212) (647) (1,721) 182,939 161,098 1,742 162,840
+Net income - - - - - - 26,725 26,725 (2) 26,723
+Other comprehensive income - - (291) (21,903) (635) 1 (4) (22,832) (21) (22,853)
+Total comprehensive
+income - - (291) (21,903) (635) 1 26,721 3,893 (23) 3,870
+Sale of treasury shares - 17 - - - - (10) 7 - 7
+Exercised and forfeited share
+options - - - - - (1) 1 - - -
+Acquisition of non-controlling
+interests - - - - - - (1) (1) 1 -
+Put options held by non-
+controlling interests - - (4) - - - (7) (11) 11 -
+Balance as at March 31, 2022 53,799 (1,406) (4,932) (89,115) (1,282) (1,721) 209,643 164,986 1,731 166,717
+7
+CEZ GROUP
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE THREE MONTHS ENDED MARCH 31, 2022
+In CZK Millions
+Note 1-3/2022 1-3/2021
+OPERATING ACTIVITIES:
+Income before income taxes 33,414 10,419
+Adjustments of income before income taxes to cash
+generated from operations:
+Depreciation and amortization 7,548 6,681
+Amortization of nuclear fuel 1,036 1,034
+(Gains) and losses on non-current asset retirements (63) (162)
+Foreign exchange rate loss (gain) 2,437 (520)
+Interest expense, interest income and dividend income 539 1,024
+Provisions 4,797 1,887
+Impairment of property, plant and equipment and
+intangible assets - 2,051
+Valuation allowances and other non-cash expenses and
+income 15,454 (7,535)
+Share of (profit) loss from associates and joint-ventures (528) (12)
+Changes in assets and liabilities:
+Receivables and contract assets (13,888) (5,782)
+Materials, supplies and fossil fuel stocks (1,013) 1,031
+Receivables and payables from derivatives (18,025) 5,282
+Other assets 3,786 (10,678)
+Trade payables (5,255) 3,219
+Other liabilities 4,246 (919)
+Cash generated from operations 34,485 7,020
+Income taxes paid (963) (980)
+Interest paid, net of capitalized interest (315) (586)
+Interest received 248 99
+Dividends received 1 1
+,
+Net cash provided by operating activities 33,456 5,554
+INVESTING ACTIVITIES:
+Acquisition of subsidiaries, associates and joint-ventures,
+net of cash acquired 4.1 (132) 11
+Disposal of subsidiaries, associates and joint-ventures,
+net of cash disposed of - 21,171
+Additions to non-current assets, including capitalized
+interest (6,585) (7,155)
+Proceeds from sale of non-current assets 531 57
+Loans made (1) (288)
+Repayment of loans 15 272
+Change in restricted financial assets (106) 114
+Net cash provided by (used in) investing activities (6,278) 14,182
+8
+CEZ GROUP
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE THREE MONTHS ENDED MARCH 31, 2022
+continued
+Note 1-3/2022 1-3/2021
+FINANCING ACTIVITIES:
+Proceeds from borrowings 70,672 29,102
+Payments of borrowings (72,123) (30,845)
+Payments of lease liabilities (183) (191)
+Proceeds from other long-term liabilities 28 17
+Payments of other long-term liabilities (5) (62)
+Dividends paid to Company’s shareholders (26) (29)
+Sale of treasury shares 8 44
+(Acquisition) sale of non-controlling interests, net (1) 794
+,
+Net cash used in financing activities (1,630) (1,170)
+Net effect of currency translation and allowances in cash (216) (12)
+Net increase in cash and cash equivalents 25,332 18,554
+Cash and cash equivalents at beginning of period 26,640 10,169
+,
+Cash and cash equivalents at end of period 51,972 28,723
+Supplementary cash flow information:
+Total cash paid for interest 352 620
+9
+CEZ GROUP
+NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+AS OF MARCH 31, 2022
+1. The Company
+ČEZ, a. s. (“ČEZ” or “the Company”) is a Czech joint-stock company, owned 69.8% (69.9% of voting
+rights) at March 31, 2022 by the Czech Republic represented by the Ministry of Finance. The
+remaining shares of the Company are publicly held. The address of the Company's registered office is
+Duhová 2/1444, Praha 4, 140 53, Czech Republic.
+The Company is a parent company of the CEZ Group (“the Group”). Main business of the Group is the
+generation, distribution, trade and sale of electricity and heat, trade and sale of natural gas, provision
+of complex energy services and coal mining.
+2. Summary of Significant Accounting Policies
+2.1. Financial Statements
+The interim consolidated financial statements for the three months ended March 31, 2022 have been
+prepared in accordance with IAS 34 and have not been audited by an independent auditor. The
+interim consolidated financial statements do not include all the information and disclosures required in
+the annual financial statements and should be read in conjunction with the Group’s annual financial
+statement as of December 31, 2021.
+2.2. Changes in Accounting Policies
+Adoption of New IFRS Standards in 2022
+The accounting policies adopted in the preparation of the interim consolidated financial statements are
+consistent with those followed in the preparation of the Group’s annual financial statement as of
+December 31, 2021.
+As of January 1, 2022, the Group did not adopt any new International Financial Reporting Standard
+that would have a significant impact on Group’s interim consolidated financial statements.
+3. Seasonality of Operations
+The seasonality within the segments Generation, Distribution and Sales usually takes effect in such a
+way that the revenues and operating profits of these segments for the 1st and 4th quarters of a
+calendar year are slightly higher than the revenues and operating profits achieved in the remaining
+period.
+10
+4. Changes in the Group Structure
+The following table summarizes the cash flows related to acquisitions in first three months of 2022 (in
+CZK millions):
+Cash outflow on acquisition of the subsidiaries 138
+Cash outflow on investments in joint-ventures 1
+Payments of payables from acquisitions of previous periods 17
+Less:
+Cash and cash equivalents acquired on acquisition of the subsidiaries (24)
+Total cash outflows on acquisition 132
+4.1. Acquisitions of Subsidiaries in the First Three Months of 2022
+On January 20, 2022, the Group acquired a 100% interest in the company Hermos Signaltechnik
+GmbH, which focuses on measurement and control services.
+On February 24, 2022, the Group acquired a 100% interest in the company ELIMER, a.s., which
+provides comprehensive services in the field of electrical installations (i.e. design, implementation,
+service and maintenance of high-current and low-current electrical installations).
+The fair values of acquired identifiable assets and liabilities and the purchase considerations have
+been stated provisionally and could be adjusted in the subsequent period. The following table presents
+the current best estimate of fair values of acquired identifiable assets and liabilities as of the date of
+acquisition (in CZK millions):
+ELIMER, a.s. Other Total
+Share of the Group being acquired 100% 100%
+Property, plant and equipment, net 9 2 11
+Other non-current financial assets, net 35 - 35
+Another non-current assets 1 4 5
+Cash and cash equivalents 24 - 24
+Trade receivables, net 95 2 97
+Materials and supplies, net 17 6 23
+Another current assets 22 - 22
+Long-term debt, net of current portion (3) (1) (4)
+Another non-current liabilities (7) (1) (8)
+Trade payables (90) - (90)
+Other short-term financial liabilities (11) - (11)
+Another current liabilities (4) (3) (7)
+Total net assets 88 9 97
+Share of net assets acquired 88 9 97
+Goodwill 136 4 140
+Total purchase consideration 224 13 237
+Liabilities from acquisition of the subsidiary (96) (3) (99)
+Cash outflow on acquisition in 2022 128 10 138
+Less: Cash and cash equivalents in the
+subsidiary acquired (24) - (24)
+Cash outflow on acquisition in 2022, net 104 10 114
+11
+If the acquisitions had taken place at the beginning of the year 2022, net income for CEZ Group as of
+March 31, 2022 would have been CZK 26,719 million and the revenues and other operating income
+from continuing operations would have been CZK 76,060 million. The amounts of goodwill recognized
+as a result of the business combinations comprise the value of expected synergies arising from the
+acquisitions.
+From the acquisition date, the newly acquired subsidiaries have contributed the following balances to
+the Group’s statement of income (in CZK millions):
+ELIMER, a.s. Other Total
+Revenues and other operating income 50 2 52
+Income before other income (expense) and
+income taxes 1 - 1
+Net income 1 - 1
+Net income attributable:
+Equity holders of the parent 1 - 1
+Non-controlling interests - - -
+12
+5. Other Financial Assets, Net
+The overview of other financial assets, net at March 31, 2022 and December 31, 2021 is as follows (in CZK millions):
+March 31, 2022 December 31, 2021
+Non-current Current Non-current Current
+assets assets Total assets assets Total
+Term deposits 1 6 7 - - -
+Other financial receivables 3,237 313 3,550 2,156 288 2,444
+Receivables from sale of subsidiaries, associates
+and joint-ventures 2,412 - 2,412 2,399 - 2,399
+Investment in finance lease 204 43 247 211 44 255
+Total financial assets at amortized cost 5,854 362 6,216 4,766 332 5,098
+Equity financial assets – investments in Inven
+Capital, SICAV, a.s., ČEZ sub-fund 2,621 - 2,621 2,538 441 2,979
+Commodity and other derivatives 325 653,949 654,274 212 495,139 495,351
+Total financial assets at fair value through profit
+or loss 2,946 653,949 656,895 2,750 495,580 498,330
+Veolia Energie ČR, a.s. 599 - 599 599 - 599
+Other financial assets 342 - 342 343 - 343
+Total equity financial assets 941 - 941 942 - 942
+Fair value of cash flow hedge derivatives 3,223 923 4,146 3,347 884 4,231
+Debt financial assets - - - - 499 499
+Total financial assets at fair value through other
+comprehensive income 4,164 923 5,087 4,289 1,383 5,672
+Total 12,964 655,234 668,198 11,805 497,295 509,100
+The increase of short-term receivables from commodity derivatives in the first three months of 2022 is mainly due to the high volatility of the market prices of
+emission rights, electricity and gas.
+13
+6. Emission Rights
+The composition of emission rights and green and similar certificates at March 31, 2022 and
+December 31, 2021 (in CZK millions):
+March 31, 2022 December 31, 2021
+Non- Non-
+current Current Total current Current Total
+Emission rights for own use - 10,218 10,218 160 13,424 13,584
+Emission rights held for trading - 5,940 5,940 - 6,042 6,042
+Green and similar certificates - 111 111 - 68 68
+Total - 16,269 16,269 160 19,534 19,694
+7. Long-term Debt
+Long-term debt at March 31, 2022 and December 31, 2021 is as follows (in CZK millions):
+March 31, December
+2022 31, 2021
+3.005% Eurobonds, due 2038 (JPY 12,000 million) 2,161 2,302
+2.845% Eurobonds, due 2039 (JPY 8,000 million) 1,442 1,536
+4.875% Eurobonds, due 2025 (EUR 750 million) 19,117 19,263
+2.160% Eurobonds, due in 2023 (JPY 11,500 million) 2,079 2,210
+4.600% Eurobonds, due in 2023 (CZK 1,250 million) 1,302 1,288
+4.375% Eurobonds, due 2042 (EUR 50 million) 1,235 1,246
+4.500% Eurobonds, due 2047 (EUR 50 million) 1,234 1,243
+4.383% Eurobonds, due 2047 (EUR 80 million) 2,000 2,017
+3.000% Eurobonds, due 2028 (EUR 725 million) 18,391 18,627
+0.875% Eurobonds, due 2022 (EUR 269 million) 6,580 6,692
+0.875% Eurobonds, due 2026 (EUR 750 million) 18,196 18,502
+4.250% U.S. bonds, due 2022 (USD 266 million) 5,964 5,897
+5.625% U.S. bonds, due 2042 (USD 300 million) 6,718 6,621
+4.500% Registered bonds, due 2030 (EUR 40 million) 979 987
+4.750% Registered bonds, due 2023 (EUR 40 million) 982 1,036
+4.700% Registered bonds, due 2032 (EUR 40 million) 1,018 1,026
+4.270% Registered bonds, due 2047 (EUR 61 million) 1,487 1,500
+3.550% Registered bonds, due 2038 (EUR 30 million) 729 764
+Total bonds and debentures
+91,614 92,757
+Less: Current portion (17,381) (13,911)
+Bonds and debentures, net of current portion 74,233 78,846
+Long-term bank loans and lease liabilities: 28,395 19,814
+Less: Current portion (2,193) (2,736)
+Long-term bank loans and lease payables, net of current portion 26,202 17,078
+Total long-term debt 120,009 112,571
+Less: Current portion (19,574) (16,647)
+Total long-term debt, net of current portion 100,435 95,924
+14
+8. Other Financial Liabilities
+Other financial liabilities at March 31, 2022 and December 31, 2021 are as follows (in CZK millions):
+March 31, 2022
+Long-term Short-term
+liabilities liabilities Total
+Payables from non-current assets purchase 141 - 141
+Other 963 508 1,471
+Financial liabilities at amortized cost 1,104 508 1,612
+Cash flow hedge derivatives 48,422 64,128 112,550
+Commodity and other derivatives 405 705,168 705,573
+Liabilities from put options held by non-controlling interests 290 291 581
+Contingent consideration from the acquisition of
+subsidiaries 474 121 595
+Financial liabilities at fair value 49,591 769,708 819,299
+Total 50,695 770,216 820,911
+December 31, 2021
+Long-term Short-term
+liabilities liabilities Total
+Payables from non-current assets purchase 32 - 32
+Other 598 417 1,015
+Financial liabilities at amortized cost 630 417 1,047
+Cash flow hedge derivatives 33,257 49,287 82,544
+Commodity and other derivatives 573 550,910 551,483
+Liabilities from put options held by non-controlling interests 295 294 589
+Contingent consideration from the acquisition of
+subsidiaries 464 119 583
+Financial liabilities at fair value 34,589 600,610 635,199
+Total 35,219 601,027 636,246
+The increase of short-term liabilities from commodity derivatives in the first three months of 2022 is
+mainly due to the high volatility of the market prices of emission rights, electricity and gas.
+9. Short-term Loans
+Short-term loans at March 31, 2022 and December 31, 2021 are as follows (in CZK millions):
+March 31, December
+2022 31, 2021
+Short-term bank and other loans 13,667 25,282
+Bank overdrafts 70 28
+Total 13,737 25,310
+15
+10. Revenues and Other Operating Income
+The composition of revenues and other operating income for the first three months ended March 31,
+2022 and 2021 is as follows (in CZK millions):
+1-3/2022 1-3/2021
+Sales of electricity:
+Sales of electricity to end customers 19,621 15,168
+Sales of electricity through energy exchange and other
+organized markets 25,210 603
+Sales of electricity to traders 10,145 8,764
+Sales to distribution and transmission companies 136 134
+Other sales of electricity 2,226 8,220
+Effect of hedging – presales of electricity (14,130) (202)
+Effect of hedging – currency risk hedging (390) 272
+Total sales of electricity 42,818 32,959
+Sales of gas, coal and heat:
+Sales of gas 4,888 2,584
+Sales of coal 1,146 870
+Sales of heat 3,780 3,465
+Total sales of gas, coal and heat 9,814 6,919
+Total sales of electricity, heat, gas and coal 52,632 39,878
+Sales of services and other revenues:
+Distribution services 9,416 12,046
+Other services 8,068 5,792
+Rental income 38 42
+Revenues from goods sold 330 164
+Other revenues 446 292
+Total sales of services and other revenues 18,298 18,336
+Other operating income:
+Gain on sale of emission rights for own use 4,278 397
+Granted green and similar certificates 50 397
+Contractual fines and interest fees for delays 252 85
+Gain on sale of property, plant and equipment 61 47
+Gain on sale of material 39 42
+Other 387 290
+Total other operating income 5,067 861
+Total revenues and other operating income 75,997 59,075
+16
+Revenues from contracts with customers for the three months ended March 31, 2022 and 2021 were
+CZK 85,412 million and CZK 58,102 million, respectively, and can be linked to the above figures as
+follows:
+1-3/2022 1-3/2021
+Sales of electricity, heat, gas and coal 52,632 39,878
+Sales of services and other revenues 18,298 18,336
+Total revenues 70,930 58,214
+Adjustments:
+Effect of hedging – presales of electricity 14,130 202
+Effect of hedging – currency risk hedging 390 (272)
+Rental income (38) (42)
+Revenues from contracts with customers 85,412 58,102
+11. Gains and Losses from Commodity Derivative Trading
+The composition of gains and losses from commodity derivative trading for the three months ended
+March 31, 2022 and 2021 is as follows (in CZK millions):
+1-3/2022 1-3/2021
+Electricity derivative trading:
+Sales 81,550 59,801
+Purchases (101,144) (61,378)
+Purchases and sales of cross-border capacities 1) 91 -
+Changes in fair value of derivatives 20,378 (3,055)
+Total gains (losses) from electricity derivative trading 875 (4,632)
+Other commodity derivative trading:
+Gain from gas derivative trading 11,686 118
+Gain (loss) from oil derivative trading 4 (33)
+Gain (loss) from coal derivative trading (1) 19
+Gain from emission rights derivative trading 527 3,418
+Total gains and losses from commodity derivative trading 13,091 (1,110)
+1) Purchases of cross-border capacities were not considered as commodity derivatives until June 30, 2021,
+and were recognized on the line Purchase of electricity, gas and other energies. Sales of cross-border
+capacities were recognized on the line Sales of services and other revenues. From July 1, 2021, these
+contracts are considered as commodity derivatives in accordance with the business strategy.
+17
+12. Income Taxes
+Tax effects relating to each component of other comprehensive income are the following (in CZK
+millions):
+1-3/2022 1-3/2021
+Net of Before Net of
+Before tax Tax tax tax Tax tax
+amount effect amount amount effect amount
+Change in fair value of cash
+flow hedges (41,710) 7,925 (33,785) (5,707) 1,085 (4,622)
+Cash flow hedges reclassified
+to statement of income 14,669 (2,787) 11,882 (518) 98 (420)
+Change in fair value of debt
+instruments (784) 150 (634) (944) 180 (764)
+Disposal of debt instruments (1) - (1) (2) - (2)
+Translation differences –
+subsidiaries (239) - (239) (399) - (399)
+Translation differences –
+associates and joint-
+ventures (54) - (54) (1) - (1)
+Disposal of translation
+differences (19) - (19) 6,607 - 6,607
+Share on other equity
+movements of associates
+and joint-ventures (4) - (4) - - -
+Change in fair value of equity
+instruments 1 - 1 - - -
+Total (28,141) 5,288 (22,853) (964) 1,363 399
+18
+13. Segment Information
+The Group reports its result using four reportable operating segments:
+- Generation
+- Distribution
+- Sales
+- Mining
+The segments are defined across the countries in which CEZ Group operates. Segment is a
+functionally autonomous part of CEZ Group that serves a single part of the value chain of the Group.
+In 2022 company ČEZ Teplárenská, a.s. was moved from the Generation segment to the Sales
+segment. The transfer took place in connection with the update of the corporate strategy and concept
+of the heating industry and with the regard to the predominant business activity of this company. Data
+by segments for the previous period of 2021 were adjusted to be comparable.
+The Group accounts for intersegment revenues and transfers as if the revenues or transfers were to
+third parties, that is, at current market prices or where the regulation applies at regulated prices.
+In segment reporting, IFRS 16 is applied to external leases from the Group's perspective, but it is not
+applied to leases between individual operating segments, although in some cases the asset is leased
+to another segment internally.
+The Group evaluates the performance of its segments based on earnings before interest, taxes,
+depreciation and amortization (EBITDA). The reconciliation of EBITDA to income before other income
+(expenses) and income taxes summarizes the following table (in CZK millions):
+1-3/2022 1-3/2021
+Income before other income (expenses) and income
+taxes (EBIT) 36,189 11,235
+Depreciation and amortization 7,548 6,681
+Impairment of property, plant and equipment and
+intangible assets - 2,051
+Gains and losses on sale of property, plant and
+equipment, net * (61) (47)
+EBITDA 43,676 19,920
+* Gains on sale of property, plant and equipment are presented in the statement of income as part of the line
+item Other operating income. Losses on sale of property, plant and equipment are presented in the
+statement of income as part of the line item Other operating expenses.
+19
+The following tables summarize segment information by operating segments for the three months ended March 31, 2022 and 2021 and at December 31, 2021
+(in CZK millions):
+March 31, 2022:
+Gene- Distribu- Elimina- Consoli-
+ration tion Sales Mining Combined tion dated
+Revenues and other operating
+income – other than intersegment 33,166 9,418 32,119 1,294 75,997 - 75,997
+Revenues and other operating
+income – intersegment 26,407 67 3,774 2,129 32,377 (32,377) -
+Total revenues and other operating
+income 59,573 9,485 35,893 3,423 108,374 (32,377) 75,997
+Thereof:
+Sales of electricity, heat, gas and
+coal 51,589 - 28,930 3,061 83,580 (30,948) 52,632
+Sales of services and other revenues 3,317 9,394 6,601 335 19,647 (1,349) 18,298
+Other operating income 4,667 91 362 27 5,147 (80) 5,067
+EBITDA 36,746 5,164 (150) 1,922 43,682 (6) 43,676
+Depreciation and amortization (5,097) (1,603) (472) (376) (7,548) - (7,548)
+Impairment of property, plant and
+equipment and intangible assets - (3) (1) 4 - - -
+EBIT 31,680 3,576 (621) 1,560 36,195 (6) 36,189
+Interest on debt and provisions (1,363) (192) (68) (71) (1,694) 201 (1,493)
+Interest income 248 66 151 42 507 (201) 306
+Share of profit (loss) from associates
+and joint-ventures 6 515 20 (13) 528 - 528
+Income taxes (5,665) (653) (77) (296) (6,691) - (6,691)
+Net income 22,897 2,799 (218) 1,252 26,730 (7) 26,723
+Identifiable assets 257,779 118,827 10,341 12,330 399,277 (6) 399,271
+IIdnevenstitfmiabenlet ains saestsso ciates and joint-
+ventures 2,816 - 284 769 3,869 - 3,869
+Unallocated assets 964,633
+Total assets 1,367,773
+Capital expenditure 1,334 2,737 299 313 4,683 (30) 4,653
+20
+March 31, 2021:
+Gene- Distribu- Elimina- Consoli-
+ration tion Sales Mining Combined tion dated
+Revenues and other operating
+income – other than intersegment 20,947 12,038 25,111 979 59,075 - 59,075
+Revenues and other operating
+income – intersegment 11,076 131 1,903 1,777 14,887 (14,887) -
+Total revenues and other operating
+income 32,023 12,169 27,014 2,756 73,962 (14,887) 59,075
+Thereof:
+Sales of electricity, heat, gas and
+coal 29,051 10 21,602 2,460 53,123 (13,245) 39,878
+Sales of services and other revenues 2,088 12,054 5,211 287 19,640 (1,304) 18,336
+Other operating income 884 105 201 9 1,199 (338) 861
+EBITDA 9,413 6,370 2,597 1,540 19,920 - 19,920
+Depreciation and amortization (4,021) (1,503) (429) (728) (6,681) - (6,681)
+Impairment of property, plant and
+equipment and intangible assets (517) (1,545) 9 2 (2,051) - (2,051)
+EBIT 4,880 3,340 2,201 814 11,235 - 11,235
+Interest on debt and provisions (1,532) (239) (74) (46) (1,891) 247 (1,644)
+Interest income 339 8 14 1 362 (247) 115
+Share of profit (loss) from associates
+and joint-ventures (5) (39) 66 (10) 12 - 12
+Income taxes (877) (628) (372) (156) (2,033) - (2,033)
+Net income 3,521 2,400 1,832 633 8,386 - 8,386
+Capital expenditure 1,412 2,909 251 278 4,850 (8) 4,842
+Gene- Distribu- Elimina- Consoli-
+December 31, 2021: ration tion Sales Mining Combined tion dated
+Identifiable assets 262,531 117,650 10,514 12,400 403,095 (12) 403,083
+Investment in associates and joint-
+ventures 2,861 - 273 782 3,916 - 3,916
+Unallocated assets 775,923
+Total assets 1,182,922
+21
+14. War in Ukraine
+Since February 24, 2022, there has been a military conflict in Ukraine. The Group continuously evaluates
+the potential impacts, including the effects of the consequent sanctions, that have been imposed on the
+Russian Federation, and takes adequate measures. The impacts on the CEZ Group in the medium term will
+depend on the further development of the war in Ukraine, on the specific form and duration of sanctions
+against the Russian Federation and their consequences for European and Czech energy sector. As the
+main risks for the Group are considered the potential impacts on ensuring the maintenance of generation
+facilities, securing gas purchases for end customers, nuclear fuel supply, and further with restrictions on the
+execution of payments and the risk that Russian companies will not be able to fulfill other concluded
+contracts or make financial settlements according to previously concluded contracts and agreed financial
+instruments. The Group has the highest credit exposure from the concluded commodity contracts for the
+purchase of electricity and gas from the company Gazprom Marketing & Trading with the seat in the United
+Kingdom, when, as at March 31, 2022, the fair value of commodity derivatives for the purchase of electricity
+was CZK 4,000 million and for the gas purchase was CZK 2,130 million. The Group also has a significant
+credit exposure from commodity gas contracts from Gazprom Export with the seat in the Russian
+Federation, when, as at March 31, 2022, the fair value of commodity derivatives for gas purchase was
+CZK 1,809 million.
+The Bundesnetzagentur (German regulatory authority responsible for maintaining and promoting
+competition in the markets for electricity, gas, telecommunications, postal and rail markets) was appointed
+fiduciary of the German company Gazprom Germania GmbH, the parent company of Gazprom Marketing &
+Trading, by the Federal Ministry of Economic Affairs and Climate Action.
+15. Events after the Balance Sheet Date
+On April 6, 2022, under the established Euro Medium Term Note Programme, the Group issued its first
+EUR 600 million 2.375% sustainability-linked notes due 2027. In case CEZ Group does not meet its GHG
+Emission Intensity target from electricity and heat production of 0.26 t CO e/MWh by December 31, 2025,
+2
+this will result in a 0.75% step up in coupon due in 2027.
+On April 15, 2022, a resolution came into force, cancelling the securing of receivables of ČEZ Obnovitelné
+zdroje, s.r.o., secured on the CNB's account in connection with the investigation of possible criminal activity
+in obtaining a license to operate the Vranovská Ves photovoltaic power plant. The police authority, which
+was entrusted with the implementation of this resolution, asked the competent court to issue new resolution
+on the issuance of the case and determine the entitled person, to whom the secured funds in the amount of
+CZK 1.1 billion will be released.
+22

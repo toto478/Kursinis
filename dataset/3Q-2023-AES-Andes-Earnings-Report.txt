@@ -1,0 +1,2219 @@
+3Q - 2023
+Earnings Report
+November 2, 2023
+1
+Earnings Report - 3Q 23
+AES ANDES THIRD QUARTER OF 2023 RESULTS
+AES Andes S.A. (hereinafter referred to as AES Andes, or the Company) recorded EBITDA of US$259 million in the
+third quarter of 2023, up 37% from the US$189 million achieved in the same period of 2022 primarily due to higher
+gross profit in Colombia and Chile, partly offset by lower gross profit in Argentina.
+• EBITDA in the Chilean market reached US$105 million, a 3% decrease from the third quarter of 2022. The
+main driver was lower regulated sales volumes in the third quarter of 2023 compared to the same quarter of
+2022, in addition to lower contract prices, partly offset by an increase in unregulated sales volumes and lower
+energy purchases costs in the spot market.
+• EBITDA in Colombia reached US$144 million in the third quarter of 2023, a US$77 million increase compared
+to the same period of 2022. The main driver for this increase is higher sales volumes to the spot market at
+higher prices, in addition to the impact of the appreciation of the Colombian peso, partly offset by lower margin
+from contracted sales in 2023 as a consequence of higher energy purchases prices to supply contracted
+demand.
+• EBITDA in Argentina reached US$10 million during the third quarter of 2023, representing a US$4 million
+decrease compared to the same quarter in 2022. The main drivers were lower Energía Plus contract prices,
+lower Energía Base sales due to lower dispatch at Termoandes and higher other costs of sales.
+Net Income Attributable to Parent (“Net Income”) reached US$65 million in the third quarter of 2023, which positively
+compares to the Net Income of US$63 million in the third quarter of 2022. The main drivers for this increase relates to
+the growth in EBITDA and the elimination of the Result by readjustment units as a result of the change in the functional
+currency in Argentina from Argentine pesos to US dollars in July 2023. These positive variations were partly offset by a
+negative effect in foreign currency exchange differences and higher income taxes.
+CONSOLIDATED FINANCIAL SUMMARY
+Numbers presented in the text of the report have been rounded to millions; therefore, differences may arise with the
+financial statements.
+Financial Summary
+(ThUS$) YTD 3Q
+2023 2022 Var Var (%) 2023 2022 Var Var (%)
+Revenue 2,130,512 1,886,233 244,279 13 % 752,015 669,255 82,760 12 %
+Gross Profit 475,209 492,537 (17,328) (4) % 241,217 162,989 78,228 48 %
+EBITDA* 542,431 579,681 (37,250) (6) % 259,414 189,324 70,090 37 %
+Net Income
+(attributable to AES (134,903) 180,312 (315,215) --- 64,883 63,311 1,572 2 %
+Andes)
+Net Cash from
+Operations 724,824 123,818 601,006 485 % 437,261 20,630 416,631 (41) %
+Earnings per
+(0.013) 0.017 (0.030) --- 0.006 0.006 — (41) %
+Share
+(*) EBITDA is calculated as the sum of gross profit plus administrative expenses, depreciation, and other minor
+adjustments.
+2
+Earnings Report - 3Q 23
+2023 HIGHLIGHTS AND RECENT EVENTS
+Greentegra Strategy Execution
+AES Andes continues to expand its portfolio, incorporating renewable energy and energy storage, leveraging on its
+long-term relationship with customers in the markets in which it operates.
+Innovative Solutions
+Since the launch of its Greentegra Strategy, the Company has executed renewable Power Purchase Agreements
+(PPAs) totaling more than 14.6 TWh/y in Chile and Colombia, providing its customers with innovative and competitive
+solutions to satisfy their energy needs, contributing to their sustainability goals.
+AES Andes offers flexibility to its customers through various energy solutions supporting their transition to a
+sustainable supply.
+a. New renewable energy PPAs
+Codelco (Chile):
+AES Andes and Codelco signed an agreement that will replace the current supply based on coal delivered to the
+mining company with renewable energy. This milestone is a new step for AES Andes in the materialization of its
+Greentegra transformational strategy and an important advance in the sustainability processes of one of the world's
+leading mining companies. The agreement contemplates supplying the electricity demand of Radomiro Tomic and
+Ministro Hales, Codelco's operations in the Antofagasta Region. These two mines currently produce around a third of
+the state-owned company's annual copper production, which thanks to this agreement will be produced with 100%
+emission-free electricity.
+Under the agreement, AES Andes will supply up to 1.6 TWh/year of renewable energy between 2026 and 2040.
+Microsoft (Chile):
+AES Andes S.A. entered into an Power Purchase Agreement (PPA) with Microsoft Chile to supply renewable energy to
+the technology company in Chile for 15 years. The 300 GWh/y PPA will allow Microsoft to reduce its carbon footprint in
+line with its proposed goals so that by 2025, 100% of its data centers' energy supply will be based on renewable
+generation and by 2030 be carbon negative.
+Teck - Quebrada Blanca (Chile):
+AES Andes entered into a clean energy supply contract with Teck Resources' Chilean subsidiary for a 17-year term
+beginning in January 2025 for the Quebrada Blanca Phase 2 copper project in the northern Tarapacá Region.
+AES Andes will provide 1,069 GWh/y from renewable sources, including wind, solar, hydroelectric and battery storage
+systems so that the mining company can have a decarbonized supply as of 2025.
+Google (Chile):
+Aiming to move towards a sustainable future, AES Andes signed an agreement with Google to expand its current
+100% renewable energy supply in Chile. Under the new agreement AES Andes will provide up to 280 GWh/y for 15
+3
+Earnings Report - 3Q 23
+years starting in January 2024, requires 94 MW of renewable generation and 17 MW of batteries with a 5-hour storage
+capacity.
+b. Green Hydrogen:
+Chile has natural, economic and infrastructure conditions, that place it in an excellent position to become a world
+leader in the production and export of green hydrogen (GH2), an emission-free fuel that will play a fundamental role in
+the implementation of the nation's net zero carbon emission plan.
+In this context, AES Andes signed a memorandum of understanding with a major international hydrogen producer to
+conduct a feasibility study to execute a large green hydrogen-based ammonia production project in the country. This
+document was signed in February 2021 and the project in question has the potential to require more than 800 MW of
+new renewable energy supply. In parallel, AES is working on the measurement of baselines and technical and
+environmental studies for the realization of this project, as well as reviewing the financial, legal and corporate structure
+options to carry out this process.
+Angamos Green Hydrogen Project (Adelaida)
+In June 2022, AES Andes announced a green hydrogen initiative that constitutes its first project with this energy vector,
+called "fuel of the future". Empresa Eléctrica Angamos, a subsidiary of AES Andes, seeks to promote the "Adelaida
+project", which consists of the production, storage, refueling station and distribution of green hydrogen. This initiative
+will be built on the grounds of the Angamos Thermoelectric Power Plant, located in Mejillones, in the Antofagasta
+Region of Chile. Adelaida will produce GH2 by electrolysis with the desalinated water Angamos already produces and
+renewable energy. Construction of the project is expected to begin in late 2023, and the plant is expected to start
+operations in 2024.
+Adelaida involves the construction and operation of a green hydrogen production plant (GH2) located adjacent to the
+Angamos plant and will have a production capacity of 1,000 kg/day of green hydrogen, equivalent to 2.5 MW of power.
+It also includes two GH2 refueling stations for vehicles that use hydrogen as fuel, especially for the mining, port and
+other industries.
+In practical terms, the project seeks to facilitate the conditions to scale up the use of hydrogen in the future through a
+refueling station that will make sustainable mobility viable in the region and promote the change of fuels in the
+transportation sector towards 100% renewable and emission-free solutions.
+On October 26, 2022 AES Andes announced the launch of the first Green Hydrogen Open Season in Chile after
+receiving environmental approval for Adelaida. The process seeks to activate the market and trigger a specific demand
+from companies in the Antofagasta Region interested in using green hydrogen to make their operations more
+sustainable. In May 2023, the open season process was completed, in which market information and important
+learning for the industry and the project was obtained. During the second half of 2023, the best alternative will be
+studied, based on the information obtained in the open season process, in order to move forward with the project.
+c. Maverick
+The AES Corporation chose AES Andes to test a new and innovative technology known as "Maverick", which will
+revolutionize the way photovoltaic parks are built worldwide. The 10 MW pilot project was developed at the Andes
+Solar II subsidiary, as part of the Andes Solar IIB project, which came into operation on July 17, 2023.
+This technology was developed by the Australian company 5B and allows the construction of photovoltaic parks in
+small spaces, significantly reducing installation time. This technology will provide the Company with a new competitive
+advantage to offer renewable and competitive energy solutions to its customers.
+4
+Earnings Report - 3Q 23
+d. Battery Energy Storage Systems
+The Company seeks to strengthen the energy generation process with the use of batteries, with a 24/7 supply and
+supporting the entry of renewable capacity into the electrical system.
+The award-winning Virtual Reservoir project, which consists of the installation of a battery system for energy storage in
+run-of-river hydroelectric power plants, received began commercial operations during the third quarter of 2020. This
+battery system is located at the Alfalfal I hydro power plant in the municipality of San José de Maipo in the Metropolitan
+Region. The Virtual Reservoir complements Alfalfal I's current capacity of 178 MW with 10 MW of storage. This
+innovation strengthens the national electricity system by allowing the storage of energy to supply it at times of peak
+demand and expand the penetration of renewable energy. The Company is building the second phase of 40 MW with
+5-hour storage capacity in the Virtual Reservoir system at the Alfalfal I hydroelectric plant.
+Also, on July 17, 2023, the National Electric Coordinator authorized the entry into operation of the photovoltaic solar
+park "Andes Solar IIb" with a capacity of 180 MW and a storage system of 112 MW for 5 hours.
+Additionally, the Company is building the Andes Solar IV project, which will have a capacity of 238 MW and will have
+lithium battery storage systems with a capacity of 147 MW for 5 hours.
+Capital Structure and Financing
+Through different initiatives, the Company has secured the funds to carry out its transformation process. These funds
+have been entirely dedicated to strengthening its capital structure, prepaying debt, and accelerating the renewable
+growth plan under execution.
+a. Incorporation of Global Infrastructure Partners (GIP) as strategic partner
+Global Infrastructure Partners (GIP) was incorporated on July 15, 2021 as a partner of the company in its renewable
+growth in Chile. AES Andes owns 51% and GIP 49% of the shares of Chile Renovables SpA, an entity that has
+acquired and will acquire the total shares of the companies that own renewable projects for a total of 733 MW as they
+come into operation and the other conditions agreed between the parties are met. As a result of this transaction and
+including all the projects involved in the agreement, AES Andes expects to receive funds of approximately US$441
+million.
+As of September 30, 2023 Chile Renovables SpA has acquired the Los Cururos, Andes Solar IIa, Los Olmos and
+Campo Lindo projects while the Andes Solar IIb and Mesamávida and projects remain to be acquired.
+To date, AES Andes has received US$220 million from the sale of its interests in the projects acquired by Chile
+Renovables SpA.
+b. Account Receivables related to Law number 21,185, Mechanism for Stabilizing Electric Power Prices
+On January 20, 2021 and January 27, 2021, the Company reached an agreement with Goldman Sachs & Co. LLC and
+Goldman Sachs Lending Partners LLC for a committed amount of up to US$ 90.11 million, and with the Inter-American
+Investment Corporation (“IDB Invest”) for a committed amount of up to US$ 44.08 million, respectively, pursuant to
+which, subject to certain conditions, the Company will sell to Chile Electricity PEC SpA (“Chile PEC”), who undertakes
+to buy accounts receivable against various electric power distribution companies, in accordance with the provisions of
+Law number 21,185, which "Creates a Transitory Mechanism for Stabilizing Electric Power Prices for Clients Subject
+to Regulation of Rates”, and Exempt Resolution number 72, of the National Energy Commission (together the“
+5
+Earnings Report - 3Q 23
+Stabilization Mechanism”). On June 21, 2021, AES Andes reached an agreement with AllianzGI Noteholder, pursuant
+to which, under certain conditions, the later undertakes to finance the purchase of account receivables for a committed
+amount of up to US$ 32.44 million.
+As of September 30, 2023 AES Andes received the proceeds from the sale of accounts receivable from the application
+of the Electricity Tariff Stabilization Law for a nominal amount of US$159 million.
+As of September 30, 2023 AES Andes records accounts receivable related to the application of said Law for
+approximately US$ 7 million.
+c. Credit sale agreements associated with Law No. 21,472 creating a Transitory Customer Protection
+Mechanism (MPC)
+On August 14, 2023, AES Andes entered into a Purchase Facility Agreement with IDB Invest pursuant to which,
+subject to certain conditions, IDB Invest agrees to purchase and AES Andes agrees to sell certain eligible payment
+documents issued in favor of the Company under Law 21. 472 which "Creates an Electric Tariff Stabilization Fund and
+establishes a Transitory Mechanism for Customer Protection (MPC)", and Exempt Resolution No. 334, of the National
+Energy Commission (collectively the "Stabilization Mechanism"), for an amount of up to US$1.8 billion.
+On August 30, 2023, AES Andes, under the agreement reached with ICC, received the funds for the first sale of PDD
+from the application of the price stabilization mechanism pursuant to Law No. 21,472 in the amount of US$121 million
+On the same date, AES Andes received from the General Treasury of the Republic ("TGR") the payment of interest
+corresponding to the aforementioned PDD, in the amount of US$5 million.
+On October 30, 2023, AES Andes received the funds for the second sale of PDD from the application of the price
+stabilization mechanism according to Law No. 21,472 in the amount of US$5 million.
+d. Bond prepayment at AES Andes and subsidiary Angamos
+– AES Andes: Prepayment of 450 Junior Notes and 550 Junior Notes
+During 2022, AES Andes made prepayments of the US$450 million Junior Notes and the US$550 million Junior Notes,
+both due in 2079, for a nominal amount of US$122 million and US$34 million, respectively.
+No prepayments were made during 2023.
+– Angamos: Bond and loan prepayments
+Angamos made prepayments of the 144/A Bond during 2022 for a total amount of US$16 million. The balance of this
+debt as of September 30, 2023 is US$ 38 million.
+No prepayments were made during 2023.
+Renewable Growth
+One of the ultimate objectives of AES Andes is to reduce the carbon intensity of its portfolio which is supported by its
+renewable pipeline of projects. The Company continues to make progress in its plan to integrate 4.2 GW of new
+renewable capacity between 2019 and 2027, and expects emissions free capacity to represent 90% of its portfolio in
+2027.
+6
+Earnings Report - 3Q 23
+a. Start of Operation of new renewable assets
+Energía Eólica Los Olmos SpA (Chile)
+After completing construction in December 2021, on January 19, 2022, the National Electric Coordinator (CEN)
+authorized the start of commercial operations of the 110MW "Los Olmos" wind farm.
+Central Hidroeléctrica Alto Maipo SpA (Chile)
+After completing construction in December 2021, on March 26, 2022, the National Electric Coordinator (CEN)
+authorized the start of operations of Las Lajas Unit 1 and Unit 2 and Alfalfal 2, Unit 2 and on April 14, 2022 authorized
+the start of operations of Alfalfal 2, Unit 1, of Alto Maipo, totaling 531 MW of capacity.
+Energía Eólica Mesamávida SpA (Chile)
+As of July 29, 2022, the National Electric Coordinator (CEN) authorized the start of commercial operations of first
+stage the "Mesamávida" Wind Farm for 58 MW of power. In addition, on December 21, 2022, the National Electric
+Coordinator authorized the entry into operation of the second stage of the project, which involves an additional wind
+turbine, totaling 62 MW of power in commercial operations today. There are still 5 MW of capacity under construction
+that are expected to begin commercial operations in the next few months.
+Energía Eólica Campo Lindo SpA (Chile)
+As of 00:00 hours on April 3, 2023, the National Electric Coordinator authorized the start-up of the "Campo Lindo" wind
+farm, with a capacity of 66 MW.
+Acquisition of Bolero SpA (Chile)
+On June 9, 2023, AES Andes acquired the photovoltaic solar park "Bolero Solar" with an installed capacity of 146 MW,
+which is in commercial operation.
+Andes Solar IIB (Chile)
+As of 00:00 hours on July 17, 2023, the National Electric Coordinator authorized the entry into operation of the
+photovoltaic solar park "Andes Solar IIB", whose capacity is 180 MW and also has a storage system of 112 MW for 5
+hours.
+b. Projects under construction
+The following tables shows the projects under construction in Chile and Colombia, and their progress as of September
+30, 2023
+7
+Earnings Report - 3Q 23
+325 MW + 267 MW BESS
+Installed Construction
+Project location Technology Progress
+Capacity Completed
+Mesamávida (*) Los Ángeles Wind 5 MW 99% 2023
+Virtual Reservoir II Región Metropolitana BESS 40 MW-5hr 92% 2023
+Solar 238 MW
+Andes Solar IV Antofagasta 82% 2024
+BESS 147 MW-5hr
+San Matías Los Ángeles Wind 82 MW 71% 2024
+Andes IIA BESS Antofagasta BESS 80 MW-3hr 11% 2025
+(*) 62 MW entered in operation in July and December 2022
+c. Projects Under Development
+The Company continues to accelerate the development of a significant portion of its renewable projects portfolio of
+nearly 3.5 GW in Chile. Within this portfolio, the Company has made significant progress in the development of non-
+conventional renewable energy projects that are already under contract. In the Eighth Region, the Rinconada wind
+project (258 MW) is being developed and, in northern Chile, projects are being developed that will also have battery
+systems that will allow the optimization of renewable source generation, including the expansion of the Andes Solar
+photovoltaic farm (186 MW+ 266 MW-3hr), the Cristales photovoltaic farm project (187 MW solar + 267 MW-3hr) and
+the Pampas hybrid project (120 MW wind, 160 MW solar + 229 MW-3hr).
+AES Andes continues to move forward with the transformation of its operations in Colombia to turn it into a platform for
+growth. In this regard, in 2019, AES Colombia acquired a portfolio of 1,149 MW in the Alta Guajira region, which has
+guaranteed transmission capacity for most of its projects that have world-class wind conditions. Two projects in the
+portfolio, JK1 (231 MW) and JK2 (77 MW), already have supply contracts awarded in the recent renewable energy and
+reliability charge auctions of the Colombian National Mining and Energy Planning Unit ("UPME").
+Decarbonization
+AES Andes continues to apply technological innovations to provide the flexibility that the system requires and to
+advance in the incorporation of renewable energies into the country's energy matrix.
+As part of its commitment to the country to reduce carbon emissions, the Company communicated its decision not to
+build new coal plants and in accordance with its transformational strategy Greentegra, AES Andes and its subsidiaries
+have committed to date, the cessation of coal operations of its power generation complexes: Ventanas, Angamos, and
+Norgener in 2025, which represents 1,693 MW of installed capacity.
+Through its transformation, by 2027, AES Andes expects to reduce its carbon intensity by 84%. The most relevant
+milestones that have been carried out as part of this transformation are described below:
+a. Shut down of Ventanas Unit 1
+On July 22, 2022, AES Andes received authorization from the National Energy Commission (CNE) for the retirement,
+disconnection and cessation of operations of the generating unit No. 1 of the Ventanas power plant as of June 30,
+2022.
+8
+Earnings Report - 3Q 23
+b. Shut down of Laguna Verde plant
+AES Andes took a new step in its process of accelerating the transition to renewable energy. In line with this effort, the
+definite disconnection was approved by the National Energy Commission (CNE), on May 31, 2021, for the definitive
+disconnection of the units - two steam turbines and one gas unit - that conform Laguna Verde Power Plant (58 MW),
+located in the town of the same name in the region of Valparaíso.
+c. Guacolda Sale agreement
+On July 14, 2021, approval was obtained from the National Economic Prosecutor's Office and on July 20, 2021, the
+process of transferring its 50.0000005% interest in the subsidiary Guacolda, owner of a 764 MW coal-fired power
+plant, was completed for US$34 million to the new owner.
+d. Decarbonization Agreement
+On June 4, 2019, the Company and other power generation companies in the Chile reached voluntary agreements for
+the disconnection and cease of operation of a series of coal-fired generation plants with the Government of Chile.
+Subsequently, on December 26, 2020, Supreme Decree No. 42 was published, which, among other things, created a
+new operating status "Strategic Reserve State" (ERE for its acronym in Spanish) that allows withdrawing certain plants
+from the usual dispatch of energy, being essentially ready to resume their operation under conditions of extreme
+scarcity in the system with a prior notice of 60 calendar days.
+The Ventanas 1 power plant was authorized by the National Electric Coordinator to retire, disconnect and cease
+operations as of June 30, 2022.
+Meanwhile, the Ventanas 2 unit was authorized to enter ERE as long as it adjusts to the entry into service of the
+second 220/110 kV - 300 MVA transformer of the Agua Santa substation. On August 24, 2023, AES Andes requested
+the National Energy Commission (CNE) the exemption of the 24-month term to report the early and definitive
+withdrawal, disconnection and cessation of operations from the National Electric System of the coal-fired generation
+unit Ventanas 2, effective December 31, 2023. AES Andes also requested that the request to place this unit in the
+Strategic Reserve Status be annulled, in view of the fact that to date the unit has not been declared in this status,
+taking into consideration factors beyond AES Andes' control and related to the security of the electricity supply in the
+Valparaíso Region. On October 12, 2023, the CNE by means of Exempt Resolution No. 482 authorized the
+disconnection and definitive cessation of operations of the Ventanas 2 unit as from December 31, 2023.
+On July 6, 2021, AES Andes signed with the Chilean Ministry of Energy an amendment to the Disconnection and
+Cease of Operations Agreement signed on June 4, 2019. In light of this amendment, AES Andes has made available
+Units 3 and 4 of Ventanas Complex and Angamos Units 1 and 2, with installed capacities of 267 MW, 272 MW, 277
+MW and 281 MW, respectively and jointly a total of 1,097 MW, to cease its operations based on coal from January 1,
+2025, as soon as the safety, sufficiency and competitiveness of the system allows.
+On May 25, 2023, in accordance with the provisions of Article 72°-18 of the General Electric Services Law, AES Andes
+informed the National Energy Commission, the Superintendence of Electricity and Fuels and the National Electric
+Coordinator, the definitive disconnection from the National Electric System of the coal-fired generation units Norgener
+1 and Norgener 2, as of December 31, 2025. These units make up the Norgener Thermoelectric Power Plant with an
+installed capacity of 276 MW located in the commune of Tocopilla, Antofagasta Region, Chile. As a result of the
+aforementioned events, AES Andes recorded an impairment loss on Property, Plant and Equipment affecting net
+income of US$ 198 million in the second quarter of 2023.
+The Company continues to work with the authorities and its customers to establish the future steps in its
+decarbonization schedule with a view to achieving the strategic emission reduction objectives and the official targets of
+the energy roadmap.
+9
+Earnings Report - 3Q 23
+e. Alba Project ( Molten Salts)
+On October 17, 2022, AES Andes submitted for environmental processing a worldwide pioneer initiative that seeks an
+alternative for the conversion of thermoelectric power plants through the use of molten salts.
+This "Alba" project explores the possibility of replacing the current coal-fired generation of units 1 and 2 of the
+Angamos Thermoelectric Power Plant, located in Mejillones, Antofagasta Region, with a molten solar salt system. With
+this technology, renewable energy is stored as heat to be later used to provide energy and emission-free capacity to
+the electrical system.
+The project aims to use solar salts, which will be heated with electricity from renewable sources. These salts will be
+directed to the steam generator where they will exchange heat with the water, generating the steam necessary to
+reach a capacity of approximately 560 MW with both units in operation. The initiative will act as a large renewable
+energy storage system, allowing to optimize its use by injecting energy at peak times such as at night, which
+represents an excellent complement to solar and wind generation, plus the opportunity to offer inertia services and
+provide flexible renewable capacity. Its development is intended to occupy a large part of the infrastructure and the
+same power line of Angamos, so it does not involve any major modifications or interventions on the land.
+Capital reduction
+a. Resolutions of the Extraordinary Shareholders' Meeting held on April 28, 2022
+At the Extraordinary Shareholders' Meeting held on April 28, 2022, it was resolved to cancel the capital increase
+agreed at the Extraordinary Shareholders' Meeting held on April 16, 2020, for the part that was not subscribed and
+paid at that date, thus canceling 3,023,673,115 shares pending issuance. Consequently, the capital stock was reduced
+to the amount of US$2,351,635,326, divided only into 10,376,645,776 fully subscribed and paid shares.
+In view of the fact that the Company had accumulated losses as of December 31, 2021, and considering that the
+Company had available cash and was duly and sufficiently capitalized to carry on its business and operations, the
+Extraordinary Shareholders' Meeting of the Company held on April 28, 2022 approved a capital decrease in the
+amount of US$132,000,273. As a consequence of this, the Company's capital decreased to the amount of
+US$2,219,635,053 and continues to be divided into 10,376,645,776 shares, of one and the same series, without par
+value, all of them fully subscribed and paid.
+This capital decrease was completed on June 10, 2022 through the distribution to the shareholders of said amount pro
+rata to their respective participation in the capital stock.
+b. Resolutions of the Extraordinary Shareholders' Meeting held on October 14, 2022
+At the Extraordinary Shareholders' Meeting held on October 14, 2022, it was resolved to reduce the capital stock from
+US$ 2,219,635,053 to US$ 2,095,634,136, which is fully subscribed and paid. The capital decrease of US$
+124,000,917 will be carried out through the distribution to the shareholders of said amount in two installments as
+follows: a) the amount of US$ 40,000,932 payable on November 21, 2022 or the date on which the legal term set forth
+in Article 28 of Law No. 18,046 has been met; and b) the amount of US$ 83,999,985 payable on December 20, 2022.
+As a consequence of said decrease, the capital stock was as follows: $2,095,634,136 dollars of the United States of
+America, divided into 10,376,645,776 shares, of one and the same series, without par value, fully subscribed and paid.
+As a result of the foregoing, the shareholders agreed to amend the fifth and first transitory articles of the Company's
+bylaws, both relating to capital stock.
+10
+Earnings Report - 3Q 23
+c. Resolutions of the Extraordinary Shareholders' Meeting held on April 21, 2023
+At the Extraordinary Shareholders' Meeting held on April 21, 2023, it was agreed to decrease the capital stock of AES
+Andes from US$2,095,634,136 to US$1,975,633,416, which is fully subscribed and paid. It was agreed that the
+decrease of US$120,000,720 will be payable on September 26, 2023.
+As a consequence of said decrease, the capital stock was as follows: $1,975,633,416 United States dollars, divided
+into 10,376,645,776 shares, of one and the same series, without par value, fully subscribed and paid. As a result of the
+foregoing, it was agreed to adjust the fifth and first transitory articles of the bylaws, both related to the capital stock.
+d. Resolutions of the Extraordinary Shareholders' Meeting held on August 10, 2023
+At the Extraordinary Shareholders' Meeting held on August 10, 2023, it was resolved to reduce the capital stock of
+AES Andes from of AES Andes from US$ 1,975,633,416 to US$ 1,843,633,143, which is fully subscribed and paid. It
+was agreed that the decrease of US$132,000,273 will be payable on December 19, 2023.
+The AES Corporation through Inversiones Cachagua acquisition of AES Andes shares
+Inversiones Cachagua SpA, through a tender offer for shares of AES Andes S.A. and through successive purchases in
+the stock market in 2022 and 2023, increased its shareholding to 99.5% as of September 30, 2023.
+Deconsolidation of Affiliate Alto Maipo
+On November 17, 2021, AES Andes issued a new Material Fact in which it refers to the fact that AES Andes became
+aware of the decision of its subsidiary Alto Maipo SpA (“Alto Maipo”), after reaching a pre-arranged agreement of
+financial restructuring with its creditors, to start a reorganization process in the United States of America in accordance
+with the regulations established in Chapter 11 of Title 11 of the United States Code. The entry application was
+presented that same day by Alto Maipo in the pre-arranged modality. The foregoing, in order to achieve a capital
+structure that is sustainable in the long term for Alto Maipo.
+Taking into consideration the initiation of the Chapter 11 Procedure and the characteristics of Alto Maipo's capital
+structure (including the existence of guarantees and subordination agreements for the benefit of Alto Maipo's senior
+creditors), in accordance with what is established in paragraph 8 of International Financial Reporting Standard No. 10
+(“IFRS 10”), the Company ceased to control Alto Maipo and, therefore, in accordance with what is established in
+paragraph 25 of IFRS 10, ceased to consolidate this subsidiary, proceeding to write off in its Consolidated Financial
+Statement, the assets and liabilities of the entity that has ceased to be a subsidiary. The Company recognized an
+extraordinary net accounting loss associated with the loss of control attributable to the former controlling interest, of
+approximately US$1,107 million dollars in the Consolidated Income Statement for the fourth quarter of 2021.
+On May 26, 2022, Alto Maipo concluded its restructuring process. This restructuring included the execution of several
+agreements and contractual modifications which main objective was to implement the Restructuring Agreement signed
+on November 16, 2021 between the shareholders, the creditors and the contractor, approved by the Court overseeing
+the Chapter 11 process.
+At the end of the restructuring process, the Administration determined that the decision power over matters that most
+significantly impact the economic performance of Alto Maipo is shared between lenders and shareholders, therefore
+AES Andes does not control the Company and will continue to deconsolidate Alto Maipo upon emerging of the
+reorganization process.
+AES Andes' investment in Alto Maipo is classified under the category of Financial Assets at Fair Value Through Profit
+or Loss in accordance with IFRS 9, paragraph 4.1.5. Based on the calculation developed by Management, considering
+the capital structure resulting from the reorganization process and the nature of the financial agreements entered into,
+the fair value of AES Andes' investment in Alto Maipo as of September 30, 2023 is zero.
+11
+Earnings Report - 3Q 23
+Credit Rating
+On February 3, 2023, Moody's reaffirmed the Baa3 investment grade rating for AES Andes with a "stable" outlook.
+On June 5, 2023, Fitch Ratings ratified the international long-term foreign and local currency issuer risk ratings of AES
+Andes S.A. ('BBB-'). The outlook of the ratings is "Stable".
+Finally, Standard & Poor's also reaffirmed AES Andes' BBB- rating in its January 4, 2023 report with a "Stable" outlook.
+Great Place to Work
+AES Andes was recognized by Great Place To Work as one of the best companies to work for in Chile, Argentina and
+Colombia. In the case of Chile, it was ranked 6th among the best companies to work for in 2022 among corporations
+with between 251 and 1,000 workers.
+Additionally, AES Chile has been recognized in fourth place in the Best Places to Work for Women 2022 Ranking.
+12
+Earnings Report - 3Q 23
+REVIEW OF OPERATIONS BY MARKET
+AES Andes operates a diverse portfolio of power generation and storage assets totaling 5.6GW in Chile, Colombia,
+and Argentina as of September 30, 2023.
+Chile
+Chile’s National Electric System or SEN, supplies a wide range of customer types, including Chile’s main population
+centers, in the center and mining operations in the north, with a diverse generation matrix including thermal, hydro and
+other renewables. The SEN runs from the northern part of Region I to Region X. AES Andes was one of the leading
+power producers on the SEN during the third quarter of 2023, operating 3.7GW of coal, hydro, biomass, wind and solar
+plants, and 174MW of batteries.
+Reservoir levels in the system at the end of the third quarter of 2023, were 102% higher, while hydrological inflows
+during the quarter increased by 50% compared to the same period of 2022. Hydro generation increased 38% and solar
+generation increased by 11%, while wind generation increased 1%. Average spot prices in the third quarter in Chile
+were impacted by better hydrology due to higher rainfalls, lower coal, diesel and natural gas prices, higher Argentine
+gas availability, in addition to the increase in renewable capacity in the system.
+Total energy demand grew 1.3% compared to the same period of 2022, for an average monthly demand of 6,479 GWh
+per month in the third quarter of 2023. The main reason for this increase is the 6.6% higher demand from unregulated
+customers in the third quarter of 2023 compared to the third quarter in 2022, while demand from regulated customers
+was 6.0% lower.
+These factors led to a 22% decrease in the average marginal costs in the north and a 17% decrease in the central part
+of the system compared to the third quarter of 2022.
+AES Andes and its subsidiaries, produced 12% of the electricity on the SEN in the third quarter of 2023, while it
+contributed 12% in the third quarter of 2022.
+The table below shows the main SEN variables as of September 30, 2023, and 2022.
+YTD 3Q
+2023 2022 2023 2022
+Demand growth (%) 1.6 % 2.6 % 1.3% 2.2%
+Average monthly consumption (GWh) 6,479 6,378 6,575 6,490
+Average spot price Northern Chile US$/MWh 91 103 103 132
+Average spot price Central Chile US$/MWh 96 116 121 145
+In the third quarter of 2023, AES Andes’ sales revenues to unregulated customers decreased US$53 million due to a
+decrease in contract prices partly offset by a 354GWh increase in sales volumes. Regulated customer contract
+revenues fell by US$49 million, as a result of lower sales volumes of 120GWh, in addition to lower coal prices which
+led to lower regulated contract prices. Meanwhile, revenues from the Spot market grew US$24 million as a result of a
+278GWh increase in sales volumes, in addition to higher capacity revenues.
+Transmission revenue increased US$4 million compared to the third quarter of 2022, which was offset by the increase
+in transmission costs of US$4 million.
+13
+Earnings Report - 3Q 23
+Other Operating revenue includes revenue from coal sales and services provided to companies within the AES Group.
+Other Operating Revenues fell US$7 million mainly attributable to lower coal sales, in addition to the effect from the
+valuation of derivatives associated with contracted energy sales. As a result of the drop in coal sales revenues in Other
+Operating revenue, the cost of fuel sales decreased US$3 million.
+During the third quarter of 2023, fuel consumption costs fell US$71 million compared to the same period of the
+previous year due a 38% decrease in coal prices to 191 US$/ton, partly offset by a 167GWh increase in coal-fired
+generation.
+The 10% increase in coal-fired generation is explained primarily due to higher availability of all AES Andes' coal plants
+in the third quarter of 2023 compared to the same period in 2022, partly offset by lower dispatch. Hydro generation
+decreased 19GWh due to certain unavailability at Volcán and Queltehues, despite the 18% increase in inflows
+compared to the third quarter of 2022. Wind generation increased 2GWh primarily due to the start of operations of a
+second stage at the Mesamávida wind farm during fourth quarter of 2022 and the start of operations at the Campo
+Lindo wind farm in 2023, while solar generation increased 99GWh, primarily due to the incorporation of Bolero solar to
+AES Andes assets and the start of operations at Andes Solar IIB in 2023.
+Purchases of energy and capacity decreased US$31 million due to lower spot prices in the system, partly offset by the
+162GWh increase in spot purchases volumes, in addition to the 101GWh increase in contracted purchases volumes
+from other generators.
+Other costs of fuel decreased US$2 million primarily due to lower coal handling costs.
+The US$22 million increase in other cost of sales relates to the negative effects from the valuation of fuel costs
+derivatives, higher charges from the system, higher maintenance costs, in addition to increased insurance premiums.
+Depreciation decreased US$3 million due to lower depreciation at Norgener after the impairment registered in the
+second quarter of 2023 as a consequence of the announcement of the disconnection of the plant as of December 31,
+2025, partly offset by depreciation associated to the start of operations of Mesamávida and Campo Lindo and Andes
+IIB.
+Gross Profit in Chile in the third quarter of 2023 grew by 3% to US$91 million. The main positive variations includes an
+increase in unregulated sales volumes and lower energy purchases costs in the third quarter of 2023 compared to the
+same quarter of 2022, which were partly offset by lower regulated sales volumes and lower contract prices in line with
+the decrease in coal prices which affect the price indexation of these contracts.
+14
+Earnings Report - 3Q 23
+Chile (ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Operating Revenue
+Regulated customer sales 296,864 340,135 (43,271) (13) % 83,283 131,802 (48,519) (37) %
+Unregulated customer sales 757,398 785,776 (28,378) (4) % 241,355 294,175 (52,820) (18) %
+Spot sales 367,847 263,796 104,051 39 % 96,164 71,764 24,400 34 %
+Transmission revenue 73,990 64,178 9,812 15 % 23,476 19,676 3,800 19 %
+Other operating revenues 11,050 46,459 (35,409) (76) % 4,103 10,620 (6,517) (61) %
+Total Operating Revenue 1,507,149 1,500,344 6,805 — % 448,381 528,037 (79,656) (15) %
+Cost of Sales
+Fuel consumption (687,034) (605,915) (81,119) 13 % (162,202) (233,460) 71,258 (31) %
+Fuel cost of sales (484) (33,748) 33,264 (99) % (117) (3,364) 3,247 (97) %
+Energy and capacity purchases (181,119) (188,899) 7,780 (4) % (50,313) (81,385) 31,072 (38) %
+Other fuel costs (59,273) (62,950) 3,677 (6) % (19,134) (20,790) 1,656 (8) %
+Transmission tolls (67,215) (59,111) (8,104) 14 % (20,559) (16,150) (4,409) 27 %
+Operation Personnel Expenses (47,036) (39,994) (7,042) 18 % (14,932) (13,098) (1,834) 14 %
+Other cost of sales (141,739) (100,106) (41,633) 42 % (54,518) (32,775) (21,743) 66 %
+Depreciation and amortization (110,804) (114,368) 3,564 (3) % (35,551) (38,563) 3,012 (8) %
+Total Cost of Sales (1,294,704) (1,205,091) (89,613) 7 % (357,326) (439,585) 82,259 (19) %
+Total Gross Profit 212,445 295,253 (82,808) (28) % 91,055 88,452 2,603 3 %
+Chile YTD 3Q
+Energy Sales (GWh) 2023 2022 Var Var (%) 2023 2022 Var Var (%)
+Distribution Companies 1,916 2,202 (286) (13) % 627 747 (120) (16) %
+Unregulated Customers 5,820 5,516 304 6 % 2,132 1,778 354 20 %
+Spot 537 238 299 126 % 200 47 153 326 %
+Spot Re-Routing 959 886 73 8 % 269 144 125 87 %
+Total Energy Sales 9,232 8,842 390 4 % 3,228 2,716 512 19 %
+Energy Purchases (GWh)
+Other Generators 983 778 205 26 % 393 292 101 35 %
+Spot 1,188 574 614 107 % 516 354 162 46 %
+Total Energy Purchases 2,171 1,352 819 61 % 909 646 263 41 %
+Chile YTD 3Q
+Net Generation (GWh) 2023 2022 Var Var (%) 2023 2022 Var Var (%)
+Coal 5,730 6,347 (617) (10) % 1,913 1,746 167 10 %
+Hydro 479 494 (15) (3) % 91 110 (19) (17) %
+Biomass 25 24 1 4 % 7 7 — — %
+Wind 578 450 128 28 % 154 152 2 1 %
+Solar 249 175 74 42 % 154 55 99 180 %
+Total Generation 7,061 7,490 (429) (6) % 2,319 2,070 249 12 %
+15
+Earnings Report - 3Q 23
+Colombia
+AES Andes’ subsidiary, AES Colombia, operates 1,020MW of hydro and 109 MW of solar capacity and is one of the
+main electric generators in the Colombian National Interconnected System or SIN, a predominantly hydro-based
+system.
+Affected by the El Niño weather pattern, system-wide inflows in Colombia during the third quarter of 2023 were lower
+than in the third quarter of 2022, while they were higher in the basin where AES Colombia operations are located,
+Chivor.
+System-wide inflows were 18% above the historical average in the third quarter of 2022, while in 2023, third-quarter
+inflows were 24% below average. Hydro conditions during the third quarter of the year, resulted in year-over-year
+reservoir levels to decrease to 74% at the end of September 2023, 12% below than reservoir levels at the end of
+September 2022.
+Inflows for the catchment basin of Chivor during the third quarter of 2023 were 2% above the historical average, while
+in 2022, third-quarter inflows were 15% below the historical average. The higher inflows between both quarters at
+Chivor led to a 403GWh or 31% increase in hydro generation between the third quarter of 2023 and the same period of
+2022.
+In the third quarter of 2023, average spot market prices went up 304% in local currency and 338% in US Dollars,
+compared to the same period in 2022 driven by system-wide lower inflows coupled with high hydrology volatility in the
+system and inflows expectations in the coming months afected by the El Niño Phenomenon, in addition to higher
+demand than expected and higher thermal generation.
+YTD 3Q
+2023 2022 2023 2022
+Demand growth (%) 3.7 % 4.4 % 5.4 % 3.0 %
+Average monthly consumption (GWh) 6,606 6,372 6,885 6,533
+Average spot price US$/MWh 117 49 171 39
+During the third quarter of 2023, hydro generation at AES Colombia increased 403GWh compared to the same period
+of 2022, as a result of wetter hydrology in the region Chivor plant is located and to take advantage of high spot prices
+in the system. Solar generation increased 9GWh driven by the start of operations at Brisas Solar plant in December
+2022.
+In the third quarter of 2023, revenues in Colombia increased by US$165 million due to a US$161 million increase in
+Spot revenue as a result of higher average spot prices, in addition to a 368GWh increase in spot sales volume.
+Contract sales increased US$15 million primarily explained by the 93GWh increase in contract sales volume in addition
+to the appreciation of the Colombian peso in the third quarter of 2023. Other revenues decreased US$11 million in the
+third quarter of 2023 compared to the same period in 2022 as a result of a lower positive valuation of implicit derivative
+instruments associated with contracted energy sales compared the third quarter of 2022.
+The cost of energy and capacity purchases increased US$81 million. Higher average spot prices was the main driver
+for this cost increase, in addition to a 52GWh increase in energy purchases under contract. Energy purchases from the
+spot decreased 3GWh.
+16
+Earnings Report - 3Q 23
+Transmission costs fell US$1 million due to a decrease in the allocation of auctions associated with transmission in the
+areas were customers are located. Other costs of sales increased US$5 million due to other market charges (Ley 99,
+FAZNI) as a consequence of the increase in generation, in addition to insurance and other fixed costs.
+Gross Profit in Colombia for the third quarter of 2023 increased US$79 million compared to the same period last year,
+primarily due to higher revenues from the spot market as a result of higher volume sales at higher average spot prices,
+in addition to the positive impact on energy prices of the appreciation of the Colombian peso. This positive effect was
+partly offset by a decrease in contract margins associated to higher energy purchases at higher prices.
+Colombia (ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Operating Revenue
+Contract sales 219,086 222,877 (3,791) (2) % 89,477 74,746 14,731 20 %
+Spot sales 327,301 76,543 250,758 328 % 186,821 25,928 160,893 621 %
+Other operating revenues 175 12,074 (11,899) (99) % 691 11,576 (10,885) (94) %
+Total Operating Revenue 546,562 311,494 235,068 75 % 276,989 112,250 164,739 147 %
+Cost of Sales
+Energy and capacity purchases (240,053) (89,999) (150,054) 167 % (109,524) (28,557) (80,967) 284 %
+Transmission Costs (12,591) (17,393) 4,802 (28) % (4,260) (5,494) 1,234 (22) %
+Operation Personnel Expenses (4,454) (4,100) (354) 9 % (1,556) (1,182) (374) 32 %
+Other cost of sales (28,578) (22,462) (6,116) 27 % (12,791) (7,859) (4,932) 63 %
+Depreciation and amortization (8,485) (8,897) 412 (5) % (3,077) (2,762) (315) 11 %
+Total Cost of Sales (294,161) (142,851) (151,310) 106 % (131,208) (45,854) (85,354) 186 %
+Total Gross Profit 252,401 168,643 83,758 50 % 145,781 66,396 79,385 120 %
+Colombia YTD 3Q
+Energy Sales (GWh) 2023 2022 Var Var (%) 2023 2022 Var Var (%)
+Contracts 3,183 2,962 221 7 % 1,241 1,148 93 8 %
+Spot 2,686 1,881 805 43 % 1,106 738 368 50 %
+Total Energy Sales 5,869 4,843 1,026 21 % 2,347 1,886 461 24 %
+Energy Purchases (GWh)
+Other purchases 363 200 163 82 % 121 69 52 75 %
+Spot 1,672 1,430 242 17 % 488 491 (3) (1) %
+Total Energy Purchases 2,035 1,630 405 25 % 609 560 49 9 %
+Net Generation (GWh)
+Hydro 3,721 3,133 588 19 % 1,698 1,295 403 31 %
+Solar 113 80 33 41 % 40 31 9 29 %
+Total Generation 3,834 3,213 621 19 % 1,738 1,326 412 31 %
+17
+Earnings Report - 3Q 23
+Argentina
+The Argentine Interconnected System or SADI is supplied primarily by natural gas-fired plants, in addition to hydro,
+coal and nuclear power plants, and an ever growing amount of non conventional renewables. AES Andes’ subsidiary,
+TermoAndes operates a 643MW gas-fired combined-cycle in northern Argentina selling electricity under two separate
+frameworks: Energía Plus to commercial and industrial customers under US Dollar denominated contracts, and the
+Energía Base regulated spot market framework. TermoAndes is also connected to The Andes solar hub on the SEN
+grid in northern Chile via AES Andes’ InterAndes transmission line.
+In February 2020, Argentina’s Secretariat of Energy issued Resolution 31/2020 establishing the current rates scheme.
+Energía Base rates were established in Argentine pesos with monthly adjustments by inflation. The monthly inflation
+adjustments were frozen in the early onset of the COVID pandemic. On May 29, 2021, Resolution 440/2021 was
+issued which's main modification was a 29% inflation related increase in energy and capacity prices under the Energía
+Base regime, retroactive from February 2021. On April 18, 2022, Resolution 238/2022 was issued, modifying the
+established energy and capacity prices of Resolution 440/2021, applying tariff average increases of 30% from February
+2022, and an additional 10% from June 2022 onwards. On December 12, 2022, Resolution 826/2022 was issued, once
+again modifying energy and capacity prices prices under the Energía Base regime, increasing tariffs by 20% and 10%
+since November 2022 and December 2022, respectively, in addition to establishing tariff increases in advance of 25%
+and 28% from February 2023 and August 2023, respectively. On September 6, 2023 and on October 27, 2023, the
+Ministry of Energy issued Resolutions 750/2023 and 869/2023, through which tariffs were increased by 23% and 28%
+from September and November 2023, respectively.
+On February 7, 2023, Resolution 59/2023 was issued allowing to convert part of combined cycles' remuneration to US
+dollars for up to 5 years. This portion would be paid in Argentine pesos at the official exchange rate. The new
+remuneration scheme is voluntary and the counterparty is the market administrator, CAMMESA, which requires an
+availability commitment of 85% from the units. TermoAndes agreed to adhere to this new scheme in March 2023.
+Updated capacity prices are 2,000 US$/MW-month plus 65% of capacity price set by Resolution 826/22 in winter and
+summer, and 85% of said prices during spring and autumn. The price of energy generated is established at the
+equivalent of 3.5 US$/MWh with natural gas and 6.1 US$/MWh with diesel.
+YTD 3Q
+2023 2022 2023 2022
+Demand growth (%) 3.3 % 3.8 % 1.4 % 0.7 %
+Average monthly consumption (GWh) 11,958 11,574 11,732 11,565
+During the third quarter of 2023, TermoAndes’ generation decreased 268GWh compared to the same period of 2022,
+as a result of lower dispatch, in addition to lower Bolivian gas availability in Argentina.
+Energía Plus contract revenues decreased US$1 million due to lower contract prices, while energy sales volumes grew
+64GWh.
+Energía Base spot market revenues decreased US$1 million as a result of 268GWh lower spot sales volume due to
+the lower generation mentioned earlier, partly offset by the increase in tariffs associated with Resolutions 826/2022,
+59/2023 and 750/2023.
+Energy and capacity purchases remained fairly stable at US$9 million, while energy purchases volumes increased
+64GWh in the third quarter of 2023 compared to the same period last year.
+18
+Earnings Report - 3Q 23
+A US$1 million negative variance was registered in the third quarter of 2023 compared to the the same period in 2022
+related to an insurance recovery recorded in 2022. Other costs of sales increased US$1 million primarily explained by
+higher maintenance costs, insurance costs and tax expenses compared to the third quarter of 2022.
+Quarterly Gross Profit in Argentina fell US$4 million driven by lower Energía Plus contract prices, lower Energía Base
+sales due to lower dispatch at Termoandes, higher other higher maintenance costs, insurance costs and tax expenses,
+partly offset by higher Energía Plus sales volumes.
+Argentina (ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Operating Revenue
+Contract sales 52,912 50,493 2,419 5 % 18,223 19,670 (1,447) (7) %
+Spot sales 24,059 24,068 (9) — % 8,542 9,408 (866) (9) %
+Other operating revenues 1,458 1,147 311 27 % 402 366 36 10 %
+Total Operating Revenue 78,429 75,708 2,721 4 % 27,167 29,444 (2,277) (8) %
+Cost of Sales
+Energy and capacity purchases (24,373) (27,166) 2,793 (10) % (8,816) (8,913) 97 (1) %
+Operation personnel expenses (3,351) (3,194) (157) 5 % (1,096) (1,076) (20) 2 %
+Insurance recovery — 17,222 (17,222) --- — 668 (668) ---
+Other cost of sales (16,795) (12,064) (4,731) 39 % (5,456) (4,004) (1,452) 36 %
+Depreciation and amortization (22,273) (20,972) (1,301) 6 % (7,043) (7,675) 632 (8) %
+Total cost of sales (66,792) (46,174) (20,618) 45 % (22,411) (21,000) (1,411) 7 %
+Total Gross Profit 11,637 29,534 (17,897) (61) % 4,756 8,444 (3,688) (44) %
+Argentina YTD 3Q
+Energy Sales (GWh) 2023 2022 Var Var (%) 2023 2022 Var Var (%)
+Contracts 818 706 112 16 % 291 227 64 28 %
+Spot 2,041 2,479 (438) (18) % 677 945 (268) (28) %
+Total Energy Sales 2,859 3,185 (326) (10) % 968 1,172 (204) (17) %
+Energy Purchases (GWh)
+Spot 818 706 112 16 % 291 227 64 28 %
+Total Energy Purchases 818 706 112 16 % 291 227 64 28 %
+Net Generation (GWh)
+Natural Gas 2,041 2,479 (438) (18) % 677 945 (268) (28) %
+Total Generation 2,041 2,479 (438) (18) % 677 945 (268) (28) %
+19
+Earnings Report - 3Q 23
+REVIEW OF CONSOLIDATED FINANCIAL RESULTS
+(ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Contract energy and capacity sales 1,326,260 1,399,281 (73,021) (5) % 432,338 520,393 (88,055) (17) %
+Spot energy and capacity sales 719,207 364,407 354,800 97 % 291,527 107,100 184,427 172 %
+Transmission revenue 73,990 64,178 9,812 15 % 23,476 19,676 3,800 19 %
+Other operating revenue 11,055 58,367 (47,312) (81) % 4,674 22,086 (17,412) (79) %
+Total Operating Revenue 2,130,512 1,886,233 244,279 13 % 752,015 669,255 82,760 12 %
+Fuel consumption (687,034) (605,915) (81,119) 13 % (162,202) (233,460) 71,258 (31) %
+Fuel cost of sales (484) (33,748) 33,264 (99) % (117) (3,364) 3,247 (97) %
+Energy and capacity purchases (445,545) (306,064) (139,481) 46 % (168,653) (118,855) (49,798) 42 %
+Other fuel costs (59,273) (62,950) 3,677 (6) % (19,134) (20,790) 1,656 (8) %
+Transmission tolls (79,806) (76,504) (3,302) 4 % (24,819) (21,644) (3,175) 15 %
+Operation personnel expenses (54,841) (47,288) (7,553) 16 % (17,584) (15,356) (2,228) 15 %
+Insurance recovery — 17,222 (17,222) --- — 668 (668) ---
+Other cost of sales (186,758) (134,212) (52,546) 39 % (72,618) (44,465) (28,153) 63 %
+Depreciation and amortization (141,562) (144,237) 2,675 (2) % (45,671) (49,000) 3,329 (8) %
+Total Cost of Sales (1,655,303) ( 1,393,696) (261,607) 19 % (510,798) (506,266) (4,532) 1 %
+Gross Profit 475,209 492,537 (17,328) (4) % 241,217 162,989 78,228 48 %
+Other operating revenues 1,045 1,667 (622) (37) % 331 466 (135) (29) %
+Selling, general and administrative
+expenses (67,846) (65,540) (2,306) 4 % (23,029) (21,307) (1,722) 8 %
+Other operating expense (12,755) (10,804) (1,951) 18 % (5,431) (3,089) (2,342) 76 %
+Other gains and losses (261,735) 6,593 (268,328) (4,070) % 966 2,080 (1,114) (54) %
+Financial income 58,220 13,001 45,219 348 % 24,724 5,938 18,786 316 %
+Financial expense (159,098) (111,732) (47,366) 42 % (60,095) (39,221) (20,874) 53 %
+Earnings impairments and losses
+reversal (NIIF 9) 130 (549) 679 (124) % 83 (799) 882 ---
+Foreign currency exchange
+differences (86,898) 872 (87,770) (10,065) % (43,706) 13,063 (56,769) (435) %
+Result by readjustment units (26,039) (24,483) (1,556) 6 % — (12,385) 12,385 (100) %
+Net Income Before Tax (79,767) 301,562 (381,329) (126) % 135,060 107,735 27,325 25 %
+Income tax (24,656) (99,012) 74,356 --- (61,328) (36,368) (24,960) ---
+Net Income After Tax (104,423) 202,550 (306,973) --- 73,732 71,367 2,365 ---
+Income Attributable to
+Shareholders of Parent (134,903) 180,312 (315,215) --- 64,883 63,311 1,572 ---
+Non-controlling interest 30,480 22,238 8,242 37 % 8,849 8,056 793 10 %
+Net Income (104,423) 202,550 (306,973) --- 73,732 71,367 2,365 ---
+20
+Earnings Report - 3Q 23
+Consolidated Operating Revenue
+Operating Revenue grew US$83 million in the third quarter of 2023, compared to the same period in 2022, reaching
+US$752 million. The increase was driven primarily by higher spot sales in Colombia and Chile, in addition to higher
+contract sales in Colombia. Lower contract sales to regulated and unregulated customers in Chile, lower coal sales in
+Chile, in addition to negative variations of the valuation of implicit derivative instruments associated with contracted
+energy sales in Chile and Colombia partly offset these positive variations.
+Consolidated Cost of Sales
+Cost of Sales increased US$5 million in the third quarter of 2023. Higher energy and capacity purchases in Colombia,
+along with increased insurance, IT and system charges in Chile, Colombia and Argentina, were the primary drivers for
+this increase. Lower coal prices which led to lower fuel costs in Chile despite the increase in coal generation, in
+addition to the decrease in Energy and capacity purchases in Chile as a result of lower spot prices, partly offset the
+negative variations.
+Consolidated Gross Profit
+Gross Profit increased 48% to US$241 million in the third quarter of 2023 compared to the third quarter of 2022. This
+quarterly performance is explained by increases of US$79 million in Colombia and US$3 million in Chile, partly offset
+by the US$4 million decrease in Argentina.
+(ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Operating Revenue
+Chile 1,507,149 1,500,344 6,805 —% 448,381 528,037 (79,656) (15)%
+Argentina 78,429 75,708 2,721 4% 27,167 29,444 (2,277) (8)%
+Colombia 546,562 311,494 235,068 75% 276,989 112,250 164,739 147%
+Consolidation adjustments (1,628) (1,313) (315) 24% (522) (476) (46) 10%
+Total Operating Revenue 2,130,512 1,886,233 244,279 13% 752,015 669,255 82,760 12%
+Cost of Sales
+Chile (1,294,704) (1,205,091) (89,613) 7% (357,326) (439,585) 82,259 (19)%
+Argentina (66,792) (46,174) (20,618) 45% (22,411) (21,000) (1,411) 7%
+Colombia (294,161) (142,851) (151,310) 106% (131,208) (45,854) (85,354) 186%
+Consolidation adjustments 354 420 (66) (16)% 147 173 (26) (15)%
+Total costs of sales (1,655,303) (1,393,696) (261,607) 19% (510,798) (506,266) (4,532) 1%
+Total Gross Profit 475,209 492,537 (17,328) (4)% 241,217 162,989 78,228 48%
+The Consolidation Adjustment line mainly accounts for intercompany operations between AES Andes in Chile and the
+Colombian subsidiary, AES Colombia.
+21
+Earnings Report - 3Q 23
+Selling, General and Administrative Expenses
+SG&A costs grew US$2 million in the third quarter of 2023 compared to the same period of 2022. Higher Personnel
+and travel expenses as well as increased IT costs were partly offset by lower legal and consulting costs.
+YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Personnel and travel expenses 21,695 24,842 (3,147) (13) % 7,488 6,364 1,124 18 %
+Legal and consulting costs 11,352 11,343 9 — % 4,280 5,105 (825) (16) %
+IT costs 20,687 17,334 3,353 19 % 6,800 5,745 1,055 18 %
+Stamp Taxes 5,769 3,315 2,454 74 % 1,259 1,458 (199) (14) %
+Leasing expenses 1,130 3,628 (2,498) (69) % 349 398 (49) (12) %
+Other 7,213 5,078 2,135 42 % 2,853 2,237 616 28 %
+Total SG&A 67,846 65,540 2,306 4 % 23,029 21,307 1,722 8 %
+EBITDA
+(ThUS$) YTD 3Q
+2023 2022 Var($) Var (%) 2023 2022 Var($) Var (%)
+Revenue 2,130,512 1,886,233 244,279 13 % 752,015 669,255 82,760 12 %
+Cost of Sales (1,655,303) (1,393,696) (261,607) 19 % (510,798) (506,266) (4,532) 1 %
+Gross Profit 475,209 492,537 (17,328) (4) % 241,217 162,989 78,228 48 %
+Depreciation (-) 141,562 144,237 (2,675) (2) % 45,671 49,000 (3,329) (7) %
+Operating Margin 616,771 636,774 (20,003) (3) % 286,888 211,989 74,899 35 %
+Other Operating Revenues 1,045 1,667 (622) (37) % 331 466 (135) (29) %
+Selling, General and
+Administrative Expenses (67,846) (65,540) (2,306) 4 % (23,029) (21,307) (1,722) 8 %
+Other Operating Expense (12,755) (10,804) (1,951) 18 % (5,431) (3,089) (2,342) 76 %
+Other (costs) income not
+included in EBITDA* 5,216 17,584 (12,368) (70) % 655 1,265 (610) (48) %
+EBITDA 542,431 579,681 (37,250) (6) % 259,414 189,324 70,090 37 %
+(*) Other (costs) income not included in EBITDA includes the increase in ARO Provisions and Non-financial derivative
+valuation. Non-financial derivative valuation refers to contracts in Colombia and Chile where there is no obligation to
+deliver energy under certain circumstances.
+AES Andes achieved an EBITDA of US$259 million in the third quarter of 2023, 37% higher that of the same period in
+2022.
+This positive variation is mainly explained by higher EBITDA contribution from Colombia, partly offset by lower
+contributions from Chile and Argentina.
+Chile’s quarterly EBITDA fell by US$3 million compared to the third quarter of 2022 due to lower regulated sales
+volumes and a decrease in contract prices, partly offset by higher profits from unregulated sales as a result of an
+increase in volume and lower energy purchase costs.
+22
+Earnings Report - 3Q 23
+Colombia’s quarterly EBITDA increased US$77 million due to higher spot sales volume at higher spot prices, in
+addition to the appreciation of the Colombian peso, partly offset by lower contract margins associated to increased
+costs of energy purchases.
+Argentina’s EBITDA fell US$4 million driven by lower Energía Plus contract prices, lower Energía Base sales due to
+lower dispatch at Termoandes, higher other higher maintenance costs, insurance costs and tax expenses, partly offset
+by higher Energía Plus sales volumes.
+(ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Chile 263,495 365,254 (101,759) (28) % 104,921 108,274 (3,353) (3) %
+Colombia 248,929 167,671 81,258 48 % 144,073 66,823 77,250 116 %
+Argentina 30,007 46,756 (16,749) (36) % 10,420 14,227 (3,807) (27) %
+Total EBITDA 542,431 579,681 (37,250) (6) % 259,414 189,324 70,090 37 %
+Non-Operating Results
+(ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Other gains and losses (261,735) 6,593 (268,328) --- 966 2,080 (1,114) ---
+Financial income 58,220 13,001 45,219 348 % 24,724 5,938 18,786 316 %
+Financial expense (159,098) (111,732) (47,366) 42 % (60,095) (39,221) (20,874) 53 %
+Earnings impairments and
+losses reversal (NIIF 9) 130 (549) 679 --- 83 (799) 882 ---
+Foreign currency exchange
+differences (86,898) 872 (87,770) --- (43,706) 13,063 (56,769) (435) %
+Result by readjustment units (26,039) (24,483) (1,556) 6 % — (12,385) 12,385 ---
+The Company reported US$1 million in Other Gains in the third quarter of 2023 compared to US$2 million of Other
+Gains in the same period of 2022, a US$1 million negative variance comparing both periods. The main driver for this
+negative variance relates to a positive effect registered in the third quarter of 2022 in relation to the stabilization fund.
+Financial Expenses grew US$21 million, primarily explained by higher financial debt at AES Colombia and AES Andes.
+Financial Income increased US$19 million primarily as a consequence of higher interest earned in Argentina due to an
+increase in financial investments at higher interest rates, and to a lesser extent, higher interests accrued in Chile from
+the stabilization fund mechanism (MPC).
+At AES Andes, Foreign currency exchange differences registered a US$57 million negative variation in the third quarter
+of 2023 compared to the same period of 2022. This variance is mostly related to the negative effect of the exchange
+rate variation in the debt in Colombian pesos held by AES Andes with its subsidiary AES Colombia, the valuation of
+derivatives, in addition to the effect from the depreciation of the exchange rate over the net asset position in Chilean
+pesos, and in Argentina, the negative effect of the depreciation of the Argentine peso over cash and accounts
+receivables.
+Results by readjustment units registered a positive variation of US$12 million between the third quarter of 2023
+compared to the same period of 2022, explained by the fact that no readjustment was applied as of July 2023 due to
+the change in functional currency from Argentine peso to US dollar at Termoandes in July 2023, as a consequence of
+the current market regulation.
+23
+Earnings Report - 3Q 23
+September 30, December 31, Var (%) September 30, December 31,
+2023 2022 2022 2021 Var (%)
+Chile ($/US$) $ 895.60 $ 855.86 5 % $ 960.24 $ 844.69 14 %
+Colombia (Col$/US$) $ 4,085.57 $ 4,810.20 (15) % $ 4,532.07 $ 3,981.16 14 %
+Argentina (Ar$/US$) $ 349.95 $ 177.16 98 % $ 147.32 $ 102.72 43 %
+Income Tax
+Between the third quarters of 2022 and 2023, income tax experienced a negative variance from an expense of US$36
+million in the third quarter of 2022 to an expense of US$61 million in the same period of 2023. This variation is in line
+with the increase in Pretax Income, in addition to the increase in the Income Tax Rate in Colombia from 35% to 38%.
+Net Income
+The Company reported a Net Income Attributable to AES Andes Shareholders of US$65 million for the third quarter of
+2023, up US2 million compared to the Net Income Attributable to Shareholders of Parent of US$63 million in the third
+quarter of 2022.
+Non-Controlling Interests in net income grew US$1 million primarily due to higher Net Income at Chile Renovables SpA
+which AES Andes co-owns with GIP.
+Cash Flow
+The ending balance of cash and cash equivalents as of September 30, 2023 was US$283 million, 70% above than at
+the end of the third quarter of 2022.
+AES Andes’ reported a net cash inflow of US$146 million in the nine months ended September 30, 2023, compared
+with the net cash inflow of US$74 million in the same period of 2022.
+(ThUS$) YTD
+2023 2022 Var Var (%)
+Net cash from operating activities 724,824 123,818 601,006 485 %
+Net cash from investing activities (442,576) (420,491) (22,085) 5 %
+Net cash from financing activities (136,095) 370,253 (506,348) (137) %
+Total Net Cash Flow for the Period 146,153 73,580 72,573 99 %
+Effects of Foreign Exchange Variations (49,234) (18,435) (30,799) 167 %
+Cash at the beginning of the period 186,070 111,733 74,337 67 %
+Total Cash at the End of the Period 282,989 166,878 116,111 70 %
+Net Operating Cash Flow totaled US$725 million as of September 30, 2023, up US$601 million year-over-year, mainly
+due to the positive effect of US$602 million higher collections from customers net from suppliers payments in 2023,
+including increased collections from the sale of credits related to the stabilization fund in Chile, and in Argentina higher
+collections of an additional US$32 in received from CAMMESA. These positive effects were partly offset by a US$53
+million increase in income taxes payments.
+24
+Earnings Report - 3Q 23
+Net Investment Activities Cash outflows experienced an increase of US$22 million compared to the first nine months of
+2022, totaling a US$443 million net outflow as of September 30, 2023. This was mainly due to the disbursement of
+US$111 million for the purchase of Bolero Solar in 2023, lower VAT recovery and Termoandes insurance payments
+received in 2022 for a total of US$23 million, in addition to lower proceeds form the sale of offices in Chile for US$10
+million in 2022, partly offset by lower Purchase of Property, Plant & Equipment in 2023 of US$119 million.
+Net Financing Cash outflows in the first nine months of 2023, totaled US$136 million as of September 30, 2023, which
+negatively compares to the US$370 million inflow in the same period of 2022. The main drivers for this variation were
+the US$542 million decrease in inflows from long-term borrowings compared to 2022, US$66 million higher interest
+payments, a decrease in proceeds associated to suppliers financing of US$52 million, US$67 million lower
+contributions from partners to the Company's renewable projects, and US$$29 million higher debt repayments
+compared to the first nine months of 2022. These negative variations were partly offset by a US$256 million increase in
+proceeds from short-term borrowings.
+Financial Debt
+As of September 30, 2023, AES Andes' debt totaled US$3,077 million, of which approximately 66% effectively had a
+fixed interest rate. The remaining 34% of the Company’s debt is subject to variable interest rates.
+As of September 30, 2023, approximately 84% of AES Andes’ debt was denominated in USD. Of the remaining debt,
+1% was denominated in Chilean UF (former Eléctrica Santiago’s bonds) and 15% in Colombian pesos (including the
+leasing executed by AES Colombia to finance the Tunjita Project, and corporate debt in Colombia).
+In the second quarter of 2022, AES Andes increased the size of its Green Loan Facility by US$150 million to a total of
+US$400 million. The Green Loan carries an interest rate of SOFR +175bps with semiannual amortizations and a final
+maturity in November 2026. The proceeded of the loan are being used to fund the construction of renewable energy
+projects.
+The following table shows the Company's debt in detail and maturities for the following years. Interest rates for debt in
+Colombian pesos (COP) are presented in original currency. Debt in Colombian pesos as well as debt subscribed in UF
+do not have exchange rate derivatives. For referential purposes, the 6.5% consolidated interest rate is calculated
+based on an estimate of the equivalent interest rate in US dollars.
+25
+Earnings Report - 3Q 23
+Schedule of Maturities as of
+Average
+Principal September 30, 2023
+Interest
+(US$mn) Rate 2023 2024 2025 2026 2027 2028 +
+US$ 550 M Junior Notes due 2079 516.0 7.13% — — — — — 516.0
+US$ 450 M Junior Green Notes due 2079 328.4 6.35% — — — — — 328.4
+US$ 409 M Senior Notes due 2025 117.5 5.00% — — 117.5 — — —
+UF$ 1.0 M Senior Notes due 2024 20.3 7.50% 5.3 15.0 — — — —
+AES Andes ST Loan 260.0 6.93% 185.0 75.0 — — — —
+Angamos US$ 800 M Notes due 2029 37.9 4.88% 3.2 6.3 6.3 6.3 6.3 9.4
+Cochrane US$ 430 M Notes due 2027 258.3 5.50% 32.9 60.1 65.6 67.4 32.4 —
+Cochrane US$ 485 M Local Notes
+due 2034 485.0 6.25% — — — — 12.0 473.1
+Colombia LT due 2027 (COP) —
+Total Fixed Rate 2,023.4 226.3 156.5 189.4 73.7 50.7 1,326.9
+AES Andes Green Loan 346.8 7.10% — 53.6 80.0 213.2 — —
+AES Andes Scotia 50.0 7.34% — — — — 50.0 —
+AES Andes SMBC-MIZ 2027 150.0 6.27% — — — — 150.0 —
+AES Andes Citi 35M due 2026 35.0 7.13% — — — 35.0 — —
+Colombia LT due 2027 (COP) 120.2 14.98% 7.1 28.3 28.3 28.3 28.3 —
+Colombia LT due 2025 (COP) 86.0 15.39% 4.1 32.9 45.0 4.1 — —
+Colombia LT due 2027 (COP) 244.8 18.10% — — — — 244.8 —
+Tunjita Leasing 21.1 18.30% 0.8 3.2 3.2 3.2 3.2 7.6
+Total Variable Rate 1,053.9 12.0 117.9 156.5 283.7 476.2 7.6
+Total 3,077.3 6.40% 238.3 274.4 345.9 357.4 526.9 1,334.4
+Amortization Schedule (US$ mn)
+1,500
+1,104
+1,000
+527
+500
+346 357
+274
+238
+77 78 76
+0
+2023 2024 2025 2026 2027 2028 2029 2030 2031 +
+26
+Earnings Report - 3Q 23
+RISK ANALYSIS
+MARKET AND FINANCIAL RISK
+Market risks refers to the risk that the fair value of future cash flows vary due to a change in market prices. Market risk
+include the following three categories: foreign currency risk, interest rate risk, and commodity price risk. Financial Risk
+relates to the potential occurrence of events, which could have a negative financial impact on the Company and
+specifically includes credit risk and liquidity risk.
+Foreign Currency Risk
+In Chile the functional currency is the US Dollar ("USD") given that its revenue, expenses, and investments in
+equipment and debt are mainly denominated in or linked to the USD. Also, the Company is authorized to file and pay
+its income taxes in Chile in USD. There is an exchange rate risk associated with any revenue, expenses, investments,
+and debt denominated in any currency other than USD. The main items denominated in Chilean pesos ("CLP") are
+some energy receivables and tax credits primarily associated with VAT.
+As of September 30, 2023, AES Andes maintained several currency forwards with banks to mitigate its exposure to
+foreign exchange variations related to the collection of energy sales. Even though most of the Company’s energy
+supply agreements have USD denominated prices, payments are made in CLP at an exchange rate that is fixed for a
+specific period of time.
+At September 30, 2023, and given the Company's net asset position held in Chilean pesos, the impact of a 10%
+devaluation in the exchange rate of the Chilean peso to the U.S. dollar at the end of the period would have generated a
+negative impact of approximately US$13 million; however the Company maintains a loan denominated in Colombian
+pesos and the impact of a 10% devaluation in the exchange rate of the Colombian peso to the U.S. dollar at the end of
+the period would have generated a positive impact of approximately US$32 million. In the period ended September 30,
+2023, approximately 76% of the Company's revenues and 75% of its cost of sales were denominated in U.S. dollars,
+while in the period ended September 30, 2023 approximately 79% of revenues and 81% of cost of sales were
+denominated in U.S. dollars.
+In relation to Colombia, it should be noted that the functional currency of AES Colombia is the Colombian peso since
+most of the subsidiary's revenues, particularly contract sales and spot market sales, and operating costs are mainly
+linked to the Colombian peso.
+As of September 30, 2023, contract and spot sales in Colombia represented 20% of the Company’s consolidated
+operating revenue, compared to 17% during the same period of 2022 Additionally, AES Colombia’s dividends are
+denominated in COP, although financial hedge instruments are used to fix the amount to be distributed in USD. Given
+AES Colombia's net liability position in USD as of the end of September 2023, a 10% devaluation in the COP/USD
+exchange rate would have generated a positive impact of approximately US$1 million to AES Andes’ net income.
+The functional currency of AES Andes' Argentine subsidiaries is the Argentine Pesos. Given TermoAndes' net asset
+position in USD as of September 30, 2023, a 10% devaluation in the ARS/USD exchange rate would have generated a
+negative impact of approximately US$7 million in AES Andes’ net income. A further weakening of the Argentine peso
+could cause a significant decrease in TermoAndes' operating results, cash flow, ability to pay dividends to AES Andes
+and the value of its assets. Further weakening of the Argentine peso could cause a significant decrease in
+TermoAndes' operating results, in its cash flow, in the ability to pay dividends to AES Andes and in the value of its
+assets.
+At the consolidated level, investments in new plants and maintenance equipment are mainly denominated in U.S.
+dollars. Short-term investments associated with cash management are mainly made in U.S. dollars. At September 30,
+2023,, 56% of investments and current account balances are denominated in U.S. dollars, 12% in Chilean pesos, 8%
+27
+Earnings Report - 3Q 23
+in Colombian pesos and 24% in Argentine pesos. Cash balances denominated in Argentinean pesos are subject to the
+volatility of the exchange rate of the Argentinean market. As of December 31, 2022, 48% of investments and current
+account balances were denominated in U.S. dollars, 11% in Chilean pesos, 7% in Colombian pesos and 34% in
+Argentine pesos.
+The following table shows the composition of the debt by currency based on principal to be repaid, as of September
+30, 2023, and December 31, 2022:
+September 30,
+2023 December 31, 2022
+USD 84.0 % 85.0 %
+U.F. 1.0 % 1.0 %
+COP 15.0 % 14.0 %
+Interest Rate Risk
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of
+changes in market interest rates. The Company’s exposure to the risk of changes in market interest rates relates
+primarily to the Company’s long-term debt obligations with variable interest rates.
+AES Andes manages its interest rate risk by having a significant percentage of its debt at a fixed rate or with interest
+rate swaps, to fix it.
+The following table shows the composition of debt by type of interest rate as of September 30, 2023, and December
+31, 2022.
+September 30,
+2023 December 31, 2022
+Fixed or with Swap 66.0 % 65.0 %
+Variable 34.0 % 35.0 %
+As of September 30, 2023, a 10% increase in variable interest rates would have a US$12 million negative impact on
+net income.
+Fuel Price Risk
+AES Andes is affected by the volatility of certain commodity prices. The fuels used by the Company, mainly coal is a
+commodity with international prices set by market factors outside of the Company’s control. The price of fuel is a key
+factor in plant dispatch and spot prices both in Chile and Colombia. Since AES Andes’ portfolio in Chile has a
+significant component of thermal generation, fuel costs represent a significant portion of the cost of sales.
+Currently, AES Andes’ contracted energy is balanced with energy generation of facilities with a high probability of
+dispatch (efficient generation). A portion of the Company’s PPAs in Chile include clauses that adjust prices based on
+variations in the price of coal according to index mechanisms and adjustment periods specified in each contract, in
+order to mitigate the risk of major changes in the cost of fuel.
+Based on the above exposed, a 10% increase in the cost of fuel is estimated to have not had a material impact on the
+Company's profits as of September 30, 2023.
+28
+Earnings Report - 3Q 23
+Credit Risk
+Credit risk relates to the credit quality of counterparties with which AES Andes and its subsidiaries establish
+relationships. These risks are reflected primarily in accounts receivables and financial assets, including bank and other
+deposits and other financial instruments.
+With regards to accounts receivable, AES Andes’ counterparties in Chile are mainly distribution companies and high
+solvency industrial customers, and a significant percentage of these customers or their parent companies have local
+and or international investment-grade credit ratings. Additionally, sales by the AES Andes Group companies on the spot
+market must be made to other generators, members of the National Electrical Coordinator, in accordance with the
+economic dispatch determined by this entity.
+In Colombia, AES Colombia performs risk assessments of its counterparties based on an internal credit quality
+evaluation, which in some cases may include guarantees. In Argentina, the main counterparties are CAMMESA
+(Compañía Administradora del Mercado Mayorista Eléctrico S.A.) Argentina’s wholesale electric market administrator,
+and large unregulated consumers with contracts under the Energía Plus program. TermoAndes carries out internal
+credit evaluations of its unregulated customers.
+Financial investments by AES Andes and its subsidiaries such as mutual funds, time deposits, and derivatives, are
+executed with local and foreign financial institutions, which have national and or international credit ratings greater than
+or equal to “A” under the S&P and Fitch scale and “A2” under the Moody’s scale. Similarly, derivatives for financial debt
+are executed with first-class international entities. Cash, investment, and treasury policies direct the management of
+the Company's cash portfolio and minimize credit risk.
+Liquidity Risk
+Liquidity risk relates to the funding requirements to meet payment obligations. The Company's objective is to maintain
+a balance between continuity of funding and financial flexibility, through internally generated cash flows, bank loans,
+bonds, short-term investments, committed credit lines, and uncommitted credit lines.
+As of September 30, 2023, AES Andes had US$283 million in available funds including, cash and cash equivalents.
+Meanwhile, as of December 31, 2022, AES Andes had a balance in liquid funds available of US$186, which includes
+cash and cash equivalents. It should be noted that the balance of cash and cash equivalents includes cash, time
+deposits with original maturity of less than three months, marketable securities, mutual funds corresponding to low-risk
+investments in U.S. dollars with immediate availability, rights with repurchase agreements and trust rights. As of
+September 30, 2023, AES Andes had US$200 million in committed lines of credit and approximately US$175
+million of uncommitted and unused lines of credit.
+29
+Earnings Report - 3Q 23
+OPERATIONAL RISKS
+Operational risks relate to the possibility of future outages or deficiencies that can negatively affect the Company’s
+strategic operational and or financial objectives.
+Hydrology
+AES Andes’ operations in Chile and Colombia may be affected by hydrological conditions, as hydrology is key to plant
+dispatch and prices on both grids.
+In Chile, the Company has identified specific mitigation measures in case the current hydrological situation is
+maintained over time. AES Andes uses proprietary statistical models to evaluate the risks associated with its
+contractual commitments. In general terms, AES Andes’ commercial strategy in Chile is to execute long-term contracts
+for its efficient generation plants, maintaining other more expensive units as a backup.
+In Colombia, the commercial strategy focuses on the optimal use of the reservoir with the general objective of
+contracting on between on average 75% to 85% of the expected generation.
+Currently, the efficient generation of AES Andes’ facilities is balanced with contracted volume, which mitigates most of
+the exposure to hydrology variations.
+Demand Risk
+Demand and electricity consumption of AES Andes' customers and in the systems in which the Company has
+operations are key variables for the Company's operating results and for determining market prices. AES Andes
+mitigates the risk of demand variations through the execution of contracts with large customers including committed
+levels of consumption ("Take or Pay"). Exposure to the demand of our customers is limited to the variation in
+consumption of small commercial and industrial customers.
+As previously mentioned, exposure to demand in the spot market is limited by the commercial strategy in Colombia
+and Chile. In Argentina, TermoAndes is an efficient base load plant that is within the order of merit even in hours of
+minimum system demand.
+In Chile, particularly, the increase in supply associated with the irruption of solar and wind energy projects determined
+during the last few years a significant drop in short (where particularly in 2022 they were affected by the rise in
+commodity prices) and long term energy prices. The installation costs of these technologies have decreased
+considerably in recent years, making them highly competitive with respect to traditional technologies. It is expected that
+the competitive dynamics and price trends will continue in the future.
+Risk on fuel supply
+Coal purchases are made through periodic tenders inviting important international suppliers, awarding the supply to
+competitive and backed companies. The purchases are made in advance in order to guarantee a substantial portion of
+coal needs for the following year, leaving a margin that provides flexibility in case of deviation in the expected plants'
+dispatch allowing the Company to capture market opportunities.
+Fuel purchase policy is complemented by an inventory management that substantially mitigates the risk of not having
+the fuel needed. Additionally, the policy implemented mitigates inventory devaluation risk, balancing timely supply and
+actual consumption.
+30
+Earnings Report - 3Q 23
+Operational Failures and Maintenance
+Mechanical failures, accidents, planned or unplanned maintenance that affect the availability of the Company’s efficient
+capacity could have a material adverse effect on results.
+Although the Company regularly performs maintenance and operational improvements to its plants to guarantee the
+commercial availability of all of them and maintains in force operational insurance policies, failures could eventually
+occur that result in commercial unavailability. A significant period of unavailability in the Company's efficient plants,
+either due to operational failures or maintenance (scheduled or unscheduled) could mean, in some hydrological
+scenarios, that the fulfillment of the supply contracts is made through the purchase of energy in the spot market,
+conditions that could increase operating costs, negatively affecting the results of AES Andes.
+Projects under construction
+The execution of the Company’s investment projects under development depends on numerous factors that could
+defer from the original projections. These factors include increases in costs of construction or investment in equipment,
+potential delays, difficulty in finding skilled labor, financing costs, and the effect of potential delays or difficulties in the
+regulatory authorization and permit process, including potential litigation or lawsuits.
+It should be noted that adequate project development includes making investments related to diverse project areas
+such as studies, easements, land preparation and construction of roads, among others, before the approval and final
+execution of the project.
+Currently, power generation projects are facing a high level of opposition from organized groups or local communities.
+The Company cannot ensure that this opposition will not affect projects under construction. In its interest of being a
+good neighbor and according to its “Policy for Relations with Local Communities,” AES Andes, works to be locally
+respected and valued by its excellent economic, social and environmental performance and its contribution to the
+sustainable development to the communities where it operates.
+Decoupling Risk
+Given certain transmission restrictions in Chile due to the concentration of renewable energy plants, there may be
+differences between injection and withdrawal prices (decoupling) that must be assumed by the generator, affecting the
+Company's operating margins. Currently, there are energy supply contracts in which this risk cannot be transferred;
+however, in new contracts with free customers, transfer clauses are included to mitigate this risk. It should be noted
+that the enabling of the Cardones-Polpaico transmission line has completed the interconnection process between the
+former SIC and the SING grids, contributing significantly to the leveling of prices in the North and Center of the country
+and to the reduction of transmission limitations that generated local prices for the different nodes of the System. All this
+contributes to a significant reduction of the risk associated with decoupling.
+31
+Earnings Report - 3Q 23
+Regulatory Risks
+AES Andes, its subsidiaries and related companies are subject to several different aspects of regulation in the
+countries in which they operate. The regulatory risk is related to potential modifications to the existing legislation that
+could adversely affect the Company’s financial results.
+AES Andes cannot guarantee that the laws or regulations in the countries in which it operates or has investments will
+not be modified or interpreted in a manner that could adversely affect the Company or guarantee that governmental
+authorities will grant any requested approval. AES Andes however actively participates in the development of the
+regulatory framework, submitting comments and proposals to the proposed regulations presented by authorities.
+Electricity Regulation
+As power generation companies, AES Andes, its subsidiaries, and related companies are subject to regulation in
+diverse aspects of their business. The current regulatory framework, which governs all electricity supply companies,
+has been in effect in Chile since 1982 and in Colombia since 1994, while in Argentina the regulatory framework was
+established by Law 15.336 from 1960 and Law 24.065 from 1992.
+CHILE
+Regulated Tariff Stabilization Mechanism
+On July 13, 2022, a Bill that creates a stabilization fund and establishes a new mechanism of temporary stabilization of
+electricity prices for customers under regulated contracts "MPC" (Client Protection Mechanism" also known as "PEC
+2") was approved by the Deputy Chamber. The new mechanism, unlike its predecessor, does not alter the prices of
+regulated supply contracts, nor allocates the financing cost to the supplier, but establishes a discount to the monthly
+invoicing made by the generation companies to the distribution companies. This discount will be returned to the
+supplier on a monthly basis by issuing a payment document "Transferable credit title", guaranteed by the Chilean
+Treasury. This transferable credit title must be issued by the Ministry of Finance, incorporating the Monetary Policy
+Rate published by the Central Bank of Chile plus 25 basis points, which must be adjusted by the Ministry of Finance in
+accordance with the market conditions in force at the time of issuance of the payment document.
+Likewise, the bill establishes different ranges of tariff stabilization, being the customers with lower regulated
+consumption in terms of kWh/month the most benefited, as well as the micro and small businesses up to a monthly
+consumption of 1,000kWh.
+The tariff stabilization fund will be financed by the establishment of a new single charge, for unregulated and regulated
+customers, with different value according to consumption levels, being exempt from this charge consumption lower
+than 350kWh/month. This Tariff Stabilization Fund, as well as the charges to finance it, will have a single validity that
+may not exceed December 31, 2032, and may not be extended beyond that period. Likewise, the law establishes that
+the balances generated by the stabilization of tariffs must be extinct no later than December 2032, being able to set for
+such purpose, additional charges in the regulated rate setting "MPC Charges" (Mechanism Charge for Customer
+Protection).
+Finally, it is established that the "MPC Charges" must be imputed as a priority to the payment of the uncollected
+balances of the previous price stabilization mechanism (of Law No. 21,185 or "PEC 1").
+Law No. 21,472 was published on August 2, 2022, however, the first payment documents of the MPC mechanism were
+not finalized until August 30, 2023, partly due to the significant delay in the issuance of Tariff Decrees. These delays, in
+addition to negatively affecting the implementation of the MPC mechanism, entail a significant accumulation of debt on
+the part of regulated customers, which will lead to inevitable future tariff increases, so the Ministry of Energy decided to
+postpone the publication of the tariff decrees of January 2023 and July 2023, pending the development of a new
+complementary mechanism to the MPC mechanism, which will allow mitigating the aforementioned increases.
+32
+Earnings Report - 3Q 23
+Discussion Complementary Mechanism for Stabilization of Regulated Rates and Subsidies
+On October 11, 2023, the Minister of Energy addressed in the Mining and Energy Commissions of both Chambers of
+Congress, the future increases in electricity tariffs and their implications, derived from an accelerated exhaustion of the
+MPC mechanism, and the delay in the timely issuance of tariff decrees.
+In this context, the Ministry of Energy and the Senate Mining and Energy Commission signed an agreement to work on
+a new electricity tariff stabilization mechanism. The commitment is to continue with the processing of the energy
+transition bill through the entry of a series of indications that, among other measures, will advance in the creation of a
+subsidy for vulnerable customers and will allow the execution of urgent expansion works for the electricity system.
+It is expected that during November 2023, the Ministry will present a new bill to address future tariff increases through
+a new tariff stabilization scheme and a targeted subsidy scheme for the most vulnerable regulated customers. The
+discussion will have among its main focuses 1. the origin of the financing of the new mechanism and 2. the financing of
+the subsidy required for vulnerable customers.
+Flexibility Strategy, reform of the power market.
+In November 2019, the Ministry of Energy presented the Flexibility Strategy with the objective of defining a regulatory
+work plan for the short and medium term related to the operational flexibility of the system. The strategy considers the
+development of a process with the following three work axes:
+a. Improvement of the market design for the development of a flexible system.
+b. Review of the regulatory framework for storage systems.
+c. Measures associated with the flexible operation of the system.
+The agenda of the process contemplated a regulatory discussion that would extend from January 2020 to May 2022.
+During this process, the review of the current remuneration mechanism and its price level was proposed.
+In September 2020, the Ministry of Energy restarted the regulatory work associated with the development of the
+Flexibility Strategy. Likewise, on October 15, discussions began on the strategy's axis: improvement of the market
+design for the development of a flexible system. The work contemplates the modernization of the capacity market with
+a view to the future flexibility needs of the system, foreseeing different impacts on the level of payment of various
+technologies. The participatory regulatory work, led by the Ministry of Energy, was completed during July 2021.
+On September 3, 2021, the Ministry published for public consultation a draft of the new power payment regulation,
+which was closed for comments on October 5, 2021. The document under consultation would contemplate a
+transitional period of approximately 9 years to fully migrate to the new power payment regime, counted from the date of
+publication of the new regulation. The document under consultation would contemplate methodological changes that
+would apply immediately after the new regulation is published and additionally a potential impact on the power
+remuneration price.
+On February 17, 2022, The Ministry of Energy entered Supreme Decree No. 3/2022 for processing by the Comptroller
+General of the Republic, which establishes a new regulation for the capacity market. However, on September 21, 2022,
+by means of Official Communication No. 1352 of the Ministry of Energy, the Regulation was withdrawn from the
+Comptroller's Office by the Undersecretary of Energy.
+In relation to the above, the Ministry of Energy after the conformation of work tables with the main unions of the sector,
+in order to address the assumptions of temporary application of the new power regulation, contained in Supreme
+Decree No. 3 of 2022 (withdrawn from comptroller's office), in a public presentation on January 24, 2023 has indicated
+the main changes that the new version of the transitional chapter of the regulation would contain. The Ministry of
+33
+Earnings Report - 3Q 23
+Energy points out in its presentation that the new version will include a mechanism that allows generation plants to opt,
+for one time only, subject to application conditions, to the recognition of sufficiency power based on the Supreme
+Decree N°62/2006 or to migrate to the mechanism of recognition of power based on the new methodology established
+in the proposed regulation. In this way, a plant that opts for the first scheme will be able to maintain said methodology
+of recognition of sufficiency power for 15 years from the date of entry into operation of the plant.
+Likewise, the Ministry has communicated that it will include an administrative recognition of payment for power to
+storage systems with or without a transitional renewable plant based on a table that will be in force for 10 years from
+the publication of the regulation. After the 10 years of application, a gradual transition mechanism of 5 years will be
+implemented, weighting the recognition rule of the table and the power recognition provided by the new methodology
+(probabilistic) of the regulation.
+Finally, on July 27, 2023, the Ministry of Energy has announced that it will desist from the processing of the New Power
+Regulation, starting the processing of changes limited to the current regulation Supreme Decree No. 62. The main
+implication is that the new ELCC probabilistic methodology will not be implemented to determine the sufficiency
+contribution of generating units and storage, which generated high uncertainty for renewable technologies and storage.
+The changes to the current power regulation are mainly framed in establishing an administrative recognition to the
+payment of power storage for 10 years from the publication of the changes in the official gazette. It also establishes the
+need for a technical study by the Coordinator that will serve as input for the regulator to then establish peak control
+schedules based on the most demanding times of the system. The document in public consultation of modification to
+the DS N°62 was in force from July 26 to August 28, 2023. In this context, on October 20, 2023, the Ministry of Energy
+responded to the comments made in the framework of the public consultation. The main changes and clarifications
+published are related to making viable the recognition of payment for power to storage systems, as well as redefining
+the percentages of payment recognition during the first ten years to storage systems, highlighting the contribution of
+storage between 3 and 5 hours of duration.
+The Ministry estimates that the new decree will begin to be processed by the Comptroller's Office during November
+2023.
+Portability Bill
+On September 10, 2020, the Ministry of Energy has presented the Electric Portability Bill to start the legislative
+process. The bill was referred to the Mining and Energy Commission and the Treasury Commission. The aim of the
+project is to enable all end users to choose their supplier of electricity, getting lower prices, differentiated and
+personalized offers, and better quality in customer service. Currently the project is not considered urgent and is in the
+first stage of legislative processing. To date, it has not been added to the Commissions' agenda for discussion.
+Bill that prohibits the installation and operation of coal-fired thermoelectric plants
+On January 9, 2020, a bill that prohibits the installation and operation of coal-fired thermoelectric plants throughout the
+country was presented by a parliamentary motion. This bill establishes the prohibition of installation and closure of
+coal-fired plants in Chile no later than December 31, 2025.
+On June 22, 2021, both the permanent article and the transitory article, which is the one that determines the deadline
+for the closure of the plants, have been approved in their first legislative procedure in a vote in the Chamber of
+Deputies of the Chamber of Deputies.
+On October 13, 2021, the Senate Chamber took note of the entry of the motion of a group of Senators, initiating a bill
+that promotes the generation of renewable energy (Bulletin No. 14,652-08), for discussion in the Mining and Energy
+Committee of the Senate. The bill prohibited the injection into the National Electric System, as from January 1, 2030, of
+34
+Earnings Report - 3Q 23
+electric energy whose primary source is the combustion of fossil substances. On March 15, 2022, the bill was
+approved in general by the Senate. The Senate Mining and Energy Commission of the Senate still has to approve the
+bill and then the House of the Senate to complete the first stage of the legislative process. As of the date of issuance of
+these Financial Statements, it has not been placed on the table of the Committees for discussion.
+Water Code Reform
+On April 6, 2022, Law No. 21,435 reforming the Water Code (the "Reform") was published in the Official Gazette and
+entered into force. Although the Reform reaffirms the nature of water use rights ("WURs") as a real right, it
+contemplates causes of expiration for non-use, introduces obligations for WURs owners, and establishes that the new
+WURs that are created will have time limits, up to 30 years, which can be automatically extended.
+Priority or preference is given to subsistence, human consumption and sanitation uses over other productive uses,
+both for the granting of WURs and for limitations on their exercise. The Reform also establishes the human right to
+water and sanitation. It also grants the General Water Directorate (DGA), among others:
+• powers to impose water redistribution measures, always guaranteeing the prioritization of human consumption,
+sanitation and domestic subsistence uses in certain areas in the event of insufficient water resources; new
+powers of the DGA in relation to declarations of water scarcity areas;
+• and the power to establish minimum ecological flows for new WURs, as well as in the case of transfers of the
+exercise of a WURs and with respect to existing WURs in areas declared under official biodiversity protection.
+The Reform establishes the creation of Strategic Water Resources Plans that seek to promote water security
+for each basin.
+The Reform establishes the creation of Strategic Water Resources Plans that seek to promote water security for each
+basin, which has begun to be implemented through the Basin Councils, generating a participatory stage in the
+Strategic Plans.
+On the other hand, the Reform also establishes restrictions to the exercise of an AD in case of affecting an aquifer or
+surface water source, and furthermore, that the MOP may expropriate rights both to satisfy domestic needs of a
+population and to satisfy the conservation of water resources, when there are no other means to obtain water. In
+addition, the reform prohibits the constitution of water rights in glaciers, establishes grounds for the extinction of water
+rights for non-use and creates in situ use for conservation or tourism purposes and finally, in the area of groundwater, it
+encourages the organization of water communities with respect to the declaration of prohibition and restriction zones.
+Law that "Regulates Wind Power Complexes and Photovoltaic Plants".
+On October 12, 2022, a parliamentary motion has been introduced to amend Law No. 19,300 and regulate in a special
+way the construction of wind turbine complexes and photovoltaic plants" (Bulletin No. 15412-12). The project seeks, on
+the one hand, greater citizen participation in the development of the projects, regulate the minimum distance between
+wind turbines and houses, regulate the flickering shadow effect in wind towers, as well as contemplate fines for non-
+compliance.
+On July 31, 2023, by means of Official Letter No. 18,632, the Chamber of Deputies approved the request of the
+Environment and Natural Resources Committee to merge the previous bill with another bill submitted which states:
+"Regulates the construction of wind turbine complexes and modifies the law on general environmental bases" (Bulletin
+No. 14443-12). As of the date of issuance of these Financial Statements, it has not been placed on the table of the
+Committees for discussion.
+35
+Earnings Report - 3Q 23
+National Electric System Chain of Payment
+On September 29, 2022 the company Maria Elena Solar (subsidiary of Solar Pack) informed the Coordinator that it
+would not be possible to meet its payment obligations in the short-term market from July onwards. Likewise, on
+October 6, Ibereolica Cabo Leones II informed that it was in the same situation for its obligations since August.
+Both companies have regulated contracts awarded in public auction processes in which their bids for solar and wind
+projects were awarded.
+The National Electric Coordinator (CEN) has taken the necessary steps to execute the short-term market guarantees
+mechanism established in the regulation to pay the amounts owed by the companies. The companies provided
+guarantees for US$3.7 million for the year 2022 to CEN.
+The situation that would cause the alleged insolvency of the companies would be related to the exposure to high
+marginal withdrawal costs for their contracts, and the impact on the valuation of their injections due to the congestion
+present in the system.
+Due to the high overall volume of regulated energy contracted and the low volume of these 2 suppliers (around 2% of
+regulated supply), the eventual early termination of these contracts would not represent a supply risk or the need for
+new short-term tenders, and would have a limited impact on regulated tariffs to end customers.
+Regarding the status of the regulated contracts of these companies, the distribution companies may terminate the
+contract in advance, prior authorization of the National Energy Commission. In this regard, on November 24, 2022,
+through official letter 736/2022 CNE has indicated that it does not approve the early termination of supply contracts, in
+response to the request made by the distribution company CGE. Likewise, CNE by means of official letter 752/2022
+indicates that the exclusion of supply allocation for the balance of transfers of suspended contracts of the Short Market
+does not represent the recognition of the termination of the validity of these contracts. It also mentions that the higher
+purchase costs, originated in the higher effective billings of the suppliers' contracts, will be recognized in the following
+Technical Reports of Average Node Prices. On the other hand, on January 3, 2023, the Superintendence of Electricity
+and Fuels through Ordinary Official Letter 154727, pointed out Ibereólica Cabo Leones II S.A. ("Ibereólica"), failed to
+comply with the instruction to deliver the information requested in relation to the payment chain in the short term
+market in the context of what is established in the electricity law, with which it formulates charges for the facts
+constituting an infraction.
+On July 12, 2023, Ibereólica Cabo Leones II returns to the short-term market by settling outstanding balances with the
+Coordinates and providing a new guarantee to the National Electric Coordinator in the amount of US$3.5 million.
+Also, on July 14, 2023, through Resolución Exenta No. 292, the CNE approved the early termination due to major force
+of the regulated supply contracts of Huemul Energía SpA (Mainstream) supported by the Ckani project. The contract
+involved an amount of 374 GWh/year at a current price of 52.1 USD/MWh, and was supposed to be supported by the
+109 MW Ckani wind project, which faced construction difficulties of the archaeological type cataloged as force majeure.
+In relation to the above, the Regulator has carried out three actions:
+• In the bases of the current auction for the Supply of Regulated Clients 2023/01, a series of modifications have
+been included with respect to the previous processes, with the purpose of minimizing the market risks that the
+future suppliers of these contracts will face. The main measures include a geographic segmentation of the
+amounts to be bid, in addition to the hourly segmentation of supply currently contemplated. Likewise, the
+transfer of systemic costs directly to the final customer is contemplated, such as, for example: payments for
+complementary services and cost overruns due to non-economic operations. Finally, the auction process
+includes direct incentives that favor the awarding of renewable energy offers that include energy storage
+capacity.
+36
+Earnings Report - 3Q 23
+• Within the framework of the energy transition bill, it is proposed to incorporate a new compensation mechanism
+in favor of regulated customers affected by the suspension of suppliers of regulated contracts of the Short-
+Term Market. The amount of the indemnity would be calculated by the CNE considering the projection of the
+tariff effect that the suspension in the energy and power balance would have on regulated customers for a
+period of 12 months following the suspension. Additionally, the payment of this indemnity would be a new
+condition for the supplier to be able to return to the short-term market, once all debts to the rest of the balance
+participants have been settled and a new guarantee to participate in the short-term market has been issued.
+• Likewise, within the framework of the energy transition bill, it is proposed to incorporate a new mechanism for
+the reallocation of Extraordinary Tariff Revenues for the benefit of contracted companies with higher price
+differentials between injection and withdrawal from the spot market.
+Additionally, the structure of the energy market and complementary services of the Chilean electricity sector will be
+analyzed, based on studies initiated by the National Energy Commission and the Ministry of Energy during the year
+2023.
+Green Taxes
+The Ministry of Finance has announced that it will present a corrective tax bill focused on modifying the current green
+tax regime. The reform would be presented during the month of May 2023 and would contemplate modifications to the
+current value of the tax, as well as its treatment in the electricity market.
+In relation to such reform, both AES Andes and the Generators Association have pointed out to the Ministry that the
+modification of the tax must contemplate an adequate gradualism regime and a known trajectory, in order to encourage
+the adaptation of the system in its transition to a green matrix. Likewise, the tax should be incorporated in the variable
+cost of the generating units, in order to minimize the short-term impact on the system, thus eliminating the need for the
+current compensation mechanism.
+Within the measures contained in the document "Initial Agenda for a second phase of the energy transition", the
+Ministry of Energy announced the elimination of the compensation called "Compensation B", which determines the
+hourly compensation in those hours in which by instruction of the Coordinator the generating units have injected
+energy to the system at a variable operating cost higher than the marginal cost, thus eliminating the largest proportion
+of current compensations, to the detriment of the inter-annual margin of the generating companies that must pay taxes
+on emissions.
+In this context, on March 18, 2023, the National Energy Commission issued Exempt Resolution N°149, by which it left
+without effect Resolution N°52, dated January 31, 2018, which complements and modifies Resolution N°659 of 2017,
+which establishes technical provisions for the implementation of Article 8° of Law N°20,780.
+It also establishes that the modification will be applicable from the preparation of the Balances of Offsets that the
+National Electric Coordinator must publish in 2024, with the purpose of making the calculations to determine the offsets
+for payment of the tax on emissions associated with the operation of the generating companies throughout the year
+2023.
+As of the date of this report, AES Andes and other generation companies are evaluating the legal remedies to be filed
+to challenge the decision of the authority, in order to reinstate the regulatory provisions that allow the proper
+implementation of the green tax compensation established in the final paragraph of Article 8 of Law 20,780.
+Draft Energy Transition Law
+On July 11, 2023, the "Energy Transition Bill" was introduced for discussion in the first legislative procedure in the
+Mining and Energy Commission of the Senate.
+37
+Earnings Report - 3Q 23
+The bill is part of a set of measures of the Ministry of Energy within the framework of the so-called "Initial Agenda for a
+second phase of the energy transition".
+Thus, the content of this bill is framed in three pillars:
+a. Efficient development of transmission works.
+b. Electricity Sector and Climate Change.
+c. Competition and promotion of storage.
+Among the main measures established in the bill are the following:
+a. Auction of a one-time large-scale Storage System, to be carried out by the National Energy Commission. The
+Storage System would be fully remunerated by end users, for a maximum term of 15 years, as established in
+the auction terms & conditions, which should be carried out during 2024 according to the terms of the bill.
+b. New Extraordinary Tariff Revenue Reallocation Mechanism for the benefit of contracted companies with higher
+price differentials between injection and withdrawal from the spot market.
+c. Enabling the participation of transmission companies in the generation segment, according to maximum
+participation thresholds to be defined by the Court for the Defense of Free Competition.
+d. New definition of Peak Demand, according to the electric demand in the period of highest power demand in the
+year, replacing the concept of maximum power in the annual load curve. With power impact on the
+determination of the size of the power market.
+e. New Compensation Mechanism for regulated customers due to the suspension of suppliers from the Short-
+Term Market. This would also be a new condition for the supplier to return to the short term market.
+f. New coordination principle: "Operation of a low-emission system".
+g. Modifications to the National Energy Planning and Modifications to the Transmission Planning process.
+National Energy Plan every 8 years including regional plans and Transmission Planning would be bi-annual
+(now annual), with expansion decrees every one year.
+On October 11, 2023, in the context of the discussion of future tariff increases, the Ministry of Energy and the Senate
+Mining and Energy Committee signed an agreement to work on a new electricity tariff stabilization mechanism. The
+commitment also addresses continuing with the processing of the energy transition bill through the entry of a series of
+indications that, among other measures, will advance in the creation of a subsidy for vulnerable customers and will
+allow the execution of urgent expansion works for the electricity system.
+Thus, the Ministry of Energy has proposed to restructure the energy transition project, prioritizing to legislate the
+following issues:
+a. Storage Tendering
+b. Improvements associated with the transmission segment
+c. Reallocation of Tariff Revenues
+d. Tariff protection mechanism for vulnerable customers.
+The specific discussion will be carried out, in a pre-legislative stage during October and November of this year, through
+a series of technical tables between the authorities and representatives of the sector.
+Renewable Quotas Law
+On October 26, 2022, the Ministry of Energy has restarted the discussion of the bill that "Promotes the participation of
+renewable energies in the national energy matrix", before the Mining and Energy Commission of the Chamber of
+Deputies. In this context, on December 13, 2022, the executive has formulated indications to the original bill increasing
+the annual quota of non-conventional renewable energy (NCRE) to 60% by 2030 (the current quota is 20% by 2025)
+and establishing a quota of NCRE compliance in temporary blocks with a goal of 40% by 2030. For both goals a
+38
+Earnings Report - 3Q 23
+gradual staggered compliance is established from 2023 to 2030 and would only apply to new supply contracts signed
+as of January 1, 2023, for which reason the risk of non-compliance is estimated to be low.
+Likewise, the bill establishes the obligation for CEN to maintain an energy tracking and registration system through
+public traceability of energy from origin to end, as well as increasing the limit for distributed generation up to 500kW
+(currently 300kW), increasing the potential for residential self-generation which could imply a lower energy
+consumption by regulated customers.
+On April 3, 2023, the bill was approved in general and particular in the Chamber of Deputies in its first legislative
+procedure. Regarding its second legislative procedure, on April 17, 2023, the Senate Mining and Energy Committee
+agreed to hold three sessions to analyze the bill, assigning the first session to the presentation of Minister Pardow, the
+second session to receive organizations that have requested a hearing and the third session to vote in general. As of
+the date of this report, it has not been placed on the table of the Committees for discussion, prioritizing the discussion
+of the "Energy Transition Bill" described at the end of this report.
+As of the date of issuance of these Financial Statements, it has not been placed on the table of the Committees for
+discussion, prioritizing the discussion of the "Energy Transition Bill" described at the end of this report.
+Bill that "Allows to ensure water certainty for the different productive uses of water"
+On November 16, 2020, a bill was presented to "Ensure water certainty for the different productive uses of
+water" (Bulletin No. 13,891-09), which amends the Water Code and the General Law on Electric Utilities.
+The bill seeks to prioritize the use of consumptive water rights for irrigation, sanitation and human consumption with
+respect to non-consumptive water rights, as well as to establish that the electric concessionaires of hydroelectric power
+plants must present within 5 years following the entry into force of the law, a plan for the transformation of their
+productive matrix in which they must consider the use of renewable sources, other than water, that ensure the
+sustainable use of the detained water reserves. It also establishes that the concessionaires will have to refrain from
+carrying out generation work when injecting energy or power to the system through the use of water as the basis of
+their activity, when this would be detrimental to the irrigators who obtain water from the same source or its tributaries.
+To this end, electricity generation must be coordinated with the irrigation activity.
+In the case of territories under a water shortage decree, concessionaires will not be able to generate unless they do so
+simultaneously with the holders of rights for human consumption, sanitation or irrigation or with the authorization of the
+users' organizations, and as long as it does not affect the future availability of the resource.
+The current drafting of the law project would be focused on regular conflicts occurring between the hydroelectric
+generation of reservoir and water rights for agricultural and residential use. The bill is currently in its first constitutional
+proceeding, without urgency, awaiting the first report of the Special Commission on Water Resources, Desertification
+and Drought, and it is expected that after the presentations made by the associations of the electric sector, the real
+meaning and scope of the provisions of the bill will be clarified.
+Watershed Governance
+According to the Public Account 2022, the Government of Chile is interested in Basin Governance through the Basin
+Councils, composed of a public-private board representing different stakeholders in the basins, whether or not they
+have water use rights. The objective of this is to establish basin planning, generate, promote and coordinate the
+integrated management of water resources.
+At the regulatory level, this has been framed within the Interministerial Committee for Just Water Transition (CITHJ),
+created by Decree 58/2022, led by the Ministry of the Environment. The pilot basins from north to south are: Codpa
+39
+Earnings Report - 3Q 23
+and Caleta Vitor, Pampa del Tamarugal, Salar de Atacama, Huasco, Choapa, Ligua, Maipo, Rapel, Maule, Biobío,
+Toltén, Valdivia, Maullín, Aysén, Coastal Basins between Seno Andrew and R. Hollemberg and islands to the east.
+The plan is currently divided into the following stages:
+• Preparation for the installation of the pilot Basin Councils, through the technical units and coordination of the
+regional governments.
+• The installation of pilot Basin Councils, through technical secretariats and Basin Council assemblies.
+• The preparation of the Basin Councils law, which is in the process of defining the methodology for the
+participation of the pilot Basin Councils with the greatest progress, on the verge of being introduced as a bill.
+Regarding progress, the councils continue to be promoted through meetings with relevant stakeholders.
+Constitutional Assembly
+On December 12, 2022, the main political parties signed the Agreement For Chile, which establishes the framework for
+the new constituent process and will conclude with a plebiscite in November 2023. The following bodies will participate
+in the constitutional process:
+a. Constitutional Commission: composed of 50 popularly elected members, which includes indigenous members
+and which, in order to approve, require a 2/3 quorum;
+b. Commission of Experts: Composed of 24 experts, of which 12 are appointed by the Senate and 12 by the
+Chamber of Deputies, which must prepare an initial draft of the new Constitution, acting with a quorum of 3/5 of
+its members.
+c. Admissibility Commission: Composed of 14 experts proposed by the Chamber of Deputies and appointed by
+the Senate, who may declare that a proposal is not in line with the basic principles of the constitutional
+agreement and require that a new proposal be drafted.
+The appointment of the members of the Commission of Experts took place in January 2023 and the election of the
+members of the Constitutional Council on May 7, 2023. The Expert Commission delivered the final text of the draft
+Constitution on June 5 to the Constitutional Council, which must review it by November 7 and then proceed to the
+mandatory plebiscite on December 17, 2023.
+The Company continues to monitor the evolution of the political process in order to assess regulatory risks that could
+affect the performance of its operations.
+COLOMBIA
+Transitional measures for the commercialization of energy for the regulated market.
+On September 18, 2023 Resolution CREG 701 021 of 2023 was published, where several adjustments are proposed:
+i) to reduce from 66 to 31 days the execution of the SICEP (Centralized Information System of Public Calls) ii) to
+establish a transitional contract in a 75% pay what is contracted mode that must be signed by generators that have
+surpluses between their firm energy and their contracts and may only be transferred to the end user at a regulated
+price of 1. 5 times the average of the contracting prices of the period, which provides relief so that the demand does
+not continue to buy energy at high exchange prices but would limit the opportunity income of the generators in critical
+periods such as the El Niño phenomenon.
+40
+Earnings Report - 3Q 23
+Procedures for monitoring spot market exchange offers
+On September 1, 2023, CREG Circular 068 of 2023 was published, where the procedures that make operable the
+scheme for "monitoring the exercise of market power in bid prices" were made public of article 3 of Resolution CREG
+101-018 of 2023. Once the procedures are published, the National Dispatch Center (CND) may start the application of
+tests.
+Change to CREG's internal regulations
+On September 26, 2023, Resolution CREG 105-003 of 2023 was published, which issued the new internal regulations
+of the CREG. This new regulation reduces the quorum required to meet and adopt decisions in the Commission; in
+addition, it allows commissioners who decide to save their vote to argue the reason for their decision. With respect to
+the Commission's decisions, the Minister or his delegate may submit observations to the CREG for review, in the case
+of formal, numerical or wording errors or requests for clarification of the approved modifications.
+Social dialogue to define the Roadmap for a Just Energy Transition
+The government program proposes a Just Energy Transition, with national goals and territorial vision. The main
+challenges recognized in this government program are three:
+1. the adaptation of energy systems to the adverse consequences of climate change,
+2. the transition from an extractive economy to a productive economy, and the
+3. the establishment of social and ecological justice, in which energy is established as a universal right.
+This seeks to turn Colombia into a global leader and benchmark in the adaptation of energy systems to meet the needs
+of the population and simultaneously address the environmental crisis caused by global warming. The Just Energy
+Transition is based on four principles: equity; gradualness, sovereignty and reliability; binding social participation; and
+knowledge.
+AES Colombia has had direct participation in the discussions before the national government and also through the
+representation of associations such as Acolgen, Andesco and Ser Colombia.
+National Development Plan 2022-2026
+The government enacted Law 2294 containing the National Development Plan 2022-2026 and where electricity
+transfers were increased from 1% to 6% of gross energy sales for generation from non-conventional renewable
+resources. It will be applied exclusively to those plants located in areas with higher solar radiation and wind speed as
+established by the Ministry of Mines and Energy. Through trade union intervention, the transfers for non-conventional
+renewable resources will remain at 4% for those projects that have previous commitments with the market either in the
+reliability charge or in long-term energy contracts.
+Regulated tariffs
+In view of the increase in public utilities above inflation, the Ministry of Mines and Energy, the Energy and Gas
+Regulatory Commission (CREG) and the Superintendency of Public Utilities have issued resolutions aimed at
+modifying some components of the tariff formula.
+Through Resolution CREG 101-027, energy distribution and transmission companies may adjust the value of the
+regulated charge by updating the indexation indicator (the minimum between CPI and PPI). Resolution CREG 101-028
+seeks to optimize the operation of thermal plants by dispatching them more efficiently and reducing the cost of
+41
+Earnings Report - 3Q 23
+electricity restrictions. Finally, Resolution CREG 101-029 established the guidelines for generating agents to voluntarily
+renegotiate current energy contracts by adjusting the indexation indicators.
+As a result of the contract negotiation process to date, end users will be able to see a reduction in the tariff between
+4% and 8% of its value due to the fact that only 69% of all contracts were renegotiated. AES Colombia voluntarily
+adjusted 100% of the regulated market contracts for the remainder of 2022 and until the third quarter of 2023, with the
+exception of its long-term contracts, which were not adjusted.
+In the medium term, it is expected that a new contract indexation indicator will be defined specifically for the electricity
+sector, which will allow for greater tariff stability in the country.
+Market Operation Code
+The objective with the issuance of the draft of the new operating code contained in Resolution CREG 143 of 2021 is to
+establish the applicable regulation for the proper functioning of the wholesale energy market and the interaction
+between the agents that participate in it, seeking that the transactions of electric energy and other products and
+services of the market respond to criteria of efficiency and free competition.
+The main proposed adjustments to the market are as follows:
+i. to have a market of binding commercial commitments that can be adjusted in sessions close to the operation;
+ii. implementing a co-optimization process for energy and ancillary services in the daily dispatch;
+iii. provide firm price signals for energy and other services before the operation in real time;
+iv. establish a scheme to regulate the behavior of generators;
+v. establish mechanisms for demand to actively participate in the market through bids;
+vi. establish competitive mechanisms for the allocation and remuneration of complementary services: secondary
+and tertiary regulation and autonomous start-up;
+vii. enable the participation of new technologies alongside conventional technologies in the energy and
+complementary services market.
+It is expected to have a period of adjustments and comments to the proposed schemes among all market participants
+given that there will be a year until the implementation once the final resolution is issued. AES Colombia is working with
+an expert consultant to analyze the impacts of the implementation of the regulation and training the teams to carry out
+simulations of binding and intraday dispatch.
+Calculation of firm energy for wind and photovoltaic solar plants
+The regulator issued a draft resolution to modify the methodology for calculating the firm energy from wind and
+photovoltaic solar resources, which contemplate requesting the basic parameters of these resources in order to obtain
+a centralized modeling that allows these projects to participate in allocations of firm energy obligations under the
+reliability charge scheme. In principle these projects would not affect the firm energy obligations already acquired by
+AES Colombia's projects.
+Adjustments in the start of operation dates for generation projects
+The CREG presented a regulatory proposal to modify CREG resolution 075 of 2021 in order to include a new condition
+that allows modifying a generation project start of operations date, if and only if, has an execution progress greater
+than 60%. This option can only be claimed once and the maximum additional term granted for the start of operation will
+be up to one year.
+42
+Earnings Report - 3Q 23
+With the current regulation and this new modification, the start of operations at the JK1 and JK2 projects could be
+deferred, whose main challenge lies in the delay of the transmission line developed by Grupo de Energia de Bogotá
+which will connect AES Colombia's wind projects in La Guajira with the National Interconnected System.
+Offshore Wind Generation Roadmap
+The government with the support of the World Bank launched the text of the roadmap to promote offshore wind energy
+production as it contributes to the development of the energy sector in the medium and long term in Colombia and
+provides recommendations on the next steps in terms of policy formulation, planning and development of bankable
+projects.
+The government is likely to formalize the process of how offshore wind project exploitation zones will be awarded and
+the maximum capacities that can be developed in each of these areas are yet to be defined. It is being evaluated
+whether the development of this type of resources would require an auction of long-term energy contracts, which could
+affect the price formation of the renewable auctions held in 2019 and 2021.
+Energy Regulatory Agenda 2023
+The Regulatory Agenda defined by the Energy and Gas Regulatory Commission (CREG) for 2023 establishes several
+of the issues contemplated in the Roadmap for a Just Energy Transition. The following aspects can be highlighted:
+• Review of the regulation of the reliability charge
+• Regulation for the development of the hydrogen market.
+• New MEM regulations (binding dispatch and intraday market).
+• New commercialization models (energy communities, distributed resources).
+• Adjustments to the Statute of Risk of Shortages.
+• Smart Metering
+• Updating of the SIN Networks Code (Operation, Planning and Connection Code).
+• Promotion of international connections
+ARGENTINA
+Update of electricity tariffs of distributors
+Within the framework of the Public Hearing held in February 2022, the Ente Nacional Regulador de la Electricidad
+(National Electricity Regulatory Entity) applied what was determined by the Energy Secretariat regarding the values
+defined for the Energy Price approved by Resolution SE N°105/2022 (average increase of 17%), and on the other
+hand, an average adjustment of 41% for transporters and 4% for distributors of national jurisdiction (metropolitan area
+of Buenos Aires).
+Work continues on the so-called "tariff segmentation" with users divided into groups according to their income level.
+Increases due to subsidy reductions and tariff chart updates continue with an 8% increase in the VAD (Distribution
+Added Value) approved by the ENRE through Resolution 554/2022 and 555/2022 for EDENOR and EDESUR
+distributors. The last tariff increase was in May 2023, through Resolution 398/2022 where the new tariff charts were
+published.
+Energia Base Regulatory Framework
+On April 18, 2022 the Secretariat of Energy modified the pricing scheme of the electric energy commercialized in the
+"Energia Base" regulatory framework established by Resolution 440/2021 by means of Resolution 238/2022, effective
+43
+Earnings Report - 3Q 23
+as from the economic transactions of the months of February and June 2022. Additionally, the application of the Usage
+Factor that could reduce the capacity payment based on the generation of the last 12 months was eliminated and a
+new charge "Remuneration to Exports" related to energy exports from Argentina to Brazil was created.
+In December 2022, the Energy Secretariat issued Resolution 826/2022, which updates the prices established in
+Resolution 238/2022. This Resolution was retroactively effective as from September 2022 and establishes the
+increases to be made in the remuneration of energy in the months of November and December 2022, and February
+and August 2023. To date, work continues on updating the price for the months after August 2023.
+Resolution 59/2023
+On February 7, 2023, the Energy Secretariat published Resolution 59/2023, which allows to dollarize part of the
+remuneration of combined cycle plants for a period of up to 5 years, to be paid in Argentine pesos at the official
+exchange rate with respect to the U.S. dollar. The new remuneration scheme is voluntary and the agreement has as
+counterpart the market administrator CAMMESA, which requires a unit availability commitment of 85%. TermoAndes
+agreed to adhere to this new scheme during March 2023. The updated power prices are 2,000 USD + 65% of the
+power price set by Resolution 826/22 in winter and summer, and 2,000 U$S + 85% of said prices for spring and
+autumn. The price of energy generated with natural gas is set at the equivalent of 3.5 U$S/MWh and with diesel oil at
+6.1 US$/MWh.
+Energía Plus Regulatory framework
+In relation to the Energy Plus Program, created by Resolution SE 1281/2006 and through which Termoandes was
+authorized to enter into contracts with Large Users to commercialize energy, a communication was received from
+CAMMESA dated July 3, 2020 informing that all contracts entered into under said program would have expired on
+October 31, 2020, due to the termination of the 10-year term defined in the original project. However, a subsequent
+notification was received from CAMMESA authorizing those contracts initiated on November 1, 2020 and at the same
+time allowing to continue entering into contracts on a conditional basis until the Energy Secretariat analyzes the
+background context of the Energy Plus Service.
+Natural gas commercialization
+On December 22, 2022, the Energy Secretariat published Resolution 860/2022, to implement the commercialization
+schemes between gas producing companies and CAMMESA or Generators as part of the "Plan for the reinsurance
+and enhancement of the federal production of hydrocarbons, internal self-supply, exports, import substitution and
+expansion of the transportation system for all hydrocarbon basins of the country 2023-2028" issued by Decree
+730/2022.
+Resolution 860/2022 establishes the firm volumes of natural gas for the Generation sector represented by CAMMESA
+and the Generating Agents. It also establishes the option to adhere to the centralized dispatch which implies the
+operational assignment to CAMMESA by the Generators of the product and the contracted transportation capacity, in
+addition to incorporating in the dispatch rules a priority order number defined for the Natural Gas according to its origin
+in order to minimize the total cost of supply considering the contractual obligations. Additionally, it establishes, for the
+Generators with contracts under the Energy Plus Service Program, the option of requesting CAMMESA to supply
+natural gas, so that such generation covers their contracts at the cost of supply of each generator.
+On January 6, 2023, the Energy Secretariat issued Resolution 6/2023, whereby it updates the terms of Resolution
+860/2022 and the tariff charts for consumers of the three groups. Likewise, it establishes a bonus on natural gas prices
+for General Service "P" users who are registered or will be registered in the Registry of MSMEs, created by Resolution
+No. 220/2019 of the former Secretariat of Entrepreneurs and Small and Medium Enterprises of the former Ministry of
+44
+Earnings Report - 3Q 23
+Production and Labor. Then, by means of Resolution 113/2023, the Energy Secretariat established a bonus in the
+natural gas tariff charts for beneficiaries of social programs.
+Environmental Regulation
+AES Andes, its subsidiaries, and associates are subject to environmental regulations, which, among others, require
+environmental impact studies for project development and regulatory permits previous to modifications of operational
+procedures that have environmental impacts not yet evaluated or new projects. AES Andes cannot guarantee that
+governmental authorities will effectively grant any requested environmental approval.
+New and increasingly demanding environmental regulations are continuously under development, which may modify
+operations and or require additional investments to comply with such regulation.
+CHILE
+Law No. 21,595 - Law on Economic and Environmental Crimes
+On August 17, 2023, Law No. 21,595, the Economic Crimes Law, was published in the Official Gazette, which seeks to
+expand the criminal liability of companies, systematize economic and environmental crimes and establish appropriate
+penalties. This law introduces amendments to the Criminal Code and to Law No. 20,393 on Criminal Liability of Legal
+Entities and seeks to effectively hold individuals and companies that commit crimes in the development of business
+activities.
+The project includes the regulation of crimes against the environment, establishing effective prison sentences, in
+addition to the patrimonial responsibility of companies and their controllers.
+Law N°21,600 creates the Biodiversity and Protected Areas Service
+On September 6, 2023, Law No. 21,600 was published in the Official Gazette, creating the Biodiversity and Protected
+Areas Service and the National System of Protected Areas. The purpose of this Law is the conservation of biological
+diversity and the protection of the country's natural heritage, through the preservation, restoration and sustainable use
+of genes, species and ecosystems, with emphasis on those of high environmental value or that, due to their threatened
+or degraded condition, require measures for their conservation.
+Law No. 21526 amends Law No. 19,300, on General Bases of the Environment, to establish restrictions on the
+evaluation of projects in areas declared latent or saturated.
+On May 29, 2023, this Law was published, which amends Law 19,300 on the Bases of the Environment, incorporating
+the obligation to enter by means of an Environmental Impact Study for projects with significant impact that want to
+enter a latent or saturated zone. In addition, the evaluation procedure may be terminated early when a critical impact is
+generated.
+Critical impact means an alteration to the environment, especially to health and/or environmental components, caused,
+directly or indirectly, by a project or activity that cannot be mitigated, repaired or adequately compensated.
+Revision of the Noise Emission Standard for Stationary Sources
+The Ministry of Environment (MMA), through Resolution No. 1195/2019, initiated the revision of the emission standard
+for thermoelectric power plants (DS38/2011 of the MMA).
+45
+Earnings Report - 3Q 23
+On March 10, 2023, Resolution Ex. 180/23 was issued by the Ministry of the Environment, which approves the
+Preliminary Project and submits it to Public Consultation for a period of 60 working days, which was in effect until June
+7, 2023, and in which the Company's observations were presented.
+Among the most relevant issues for our activities is the incorporation of specific conditions for Wind Farms:
+• Requirements for construction work.
+• The separation of background noise to correct the background noise to establish the regulatory limit in rural
+areas, being different its measurement method,
+◦ Concepts such as Acoustic Descriptor, change of Corrected Sound Pressure Level to Equivalent
+Sound Pressure Level,
+◦ Reduces the influence of occasional or unexpected noise are incorporated.
+◦
+The concept is maintained that the limits to be met by an emitting source are associated with the location of the
+receiver exposed to the noise generated by it and the mechanism to establish the limits considers the existing territorial
+planning instrument in the commune, and depending on the combination of land uses allowed in the location of the
+receiver, a homologation is generated to one of the zones defined in the Emission Standard. For the homologation it
+considers the internalization of the criteria currently established in a resolution of the SMA and incorporates them to the
+normative text.
+New emission standard for thermoelectric power plants
+The Ministry of Environment (MMA), through Resolution No. 130/2020, initiated the revision of the emission standard
+for thermoelectric power plants (DS13/2011 of the MMA).
+On June 13, 2023, Resolution Ex. 569/23 of the Ministry of the Environment was issued, which approves the
+Preliminary Project and submits it to Public Consultation for a period of 60 working days, ending on September 14,
+2023.
+The preliminary draft proposes a reduction in emission limits for PM, SO2 and NOx for existing sources 5 years after
+the standard is published (approximately 2030).
+Revision of the Regulation of the Environmental Impact Assessment System.
+This Proposal seeks to amend the Regulation of the Environmental Impact Assessment System (RSEIA) established
+by D.S. No. 40, of 2012, of the Ministry of the Environment with the objective of:
+i. Substantially incorporating the climate change variable in accordance with Article 40 of Law No. 21. 455,
+Framework Law on Climate Change.
+ii. An improvement in citizen participation in the framework of the environmental impact assessment procedure, in
+accordance with the "Regional Agreement on Access to Information, Public Participation and Access to Justice
+in Environmental Matters in Latin America and the Caribbean", also known as the "Escazú Agreement".
+iii. Duly harmonize its provisions with Law No. 20. 920, which Establishes a Framework for Waste Management,
+Extended Producer Responsibility and Promotion of Recycling (hereinafter, "REP Law").
+Additionally, the impact of the extension of the extraordinary review (25 Quinquies) for the Environmental Impact
+Statements (Days) and the extension of the possibility of Citizen Environmental Participation (PACs) for almost all
+types of EISs is highlighted. This proposed modification has been approved by the Ministry of the Environment under
+Decree No. 30 and has been reviewed by the Comptroller's Office for its legality control.
+46
+Earnings Report - 3Q 23
+Tax Regulation
+AES Andes, its subsidiaries, and affiliates are subject to existing tax legislation in each country where they operate.
+Amendments to laws or modifications in tax rates may have a direct impact on earnings.
+CHILE
+On February 4, 2022, Law No. 21,420 was enacted, the initial purpose of which is to finance a Universal Guaranteed
+Pension (PGU) by increasing the amount and coverage of certain pensions, modifying the tax regulations in several
+aspects, among which the following are noteworthy:
+– Single tax of 10% on capital gains on instruments with stock market presence (Article 107 of the Income Tax
+Law - LIR). The new regulation will tax the higher value obtained in the disposal of instruments and securities
+with stock market presence, which until now have been considered as income, with a single tax rate of 10%.
+Institutional investors, whether domestic or foreign, will continue to be exempt from taxation. The tax will be
+applied to transactions carried out 6 months after the month following the month of publication of the law in the
+Official Gazette.
+– VAT on the rendering of services as a general rule. The tax will not affect those service providers who issue fee
+slips and professional partnerships.
+– Repeal of the credit of Article 33 bis of the LIR (investments in fixed assets) for large companies. The
+taxpayers of the First Category Tax that during the fiscal year acquire new fixed assets, finished construction or
+taken in leasing, are entitled to apply a credit against such tax calculated on 4 to 6% of its value. As from
+January 1, 2023, such benefit will be eliminated with respect to taxpayers whose average annual sales in the
+last three years exceed UF 100,000.
+The Government is currently discussing a "new fiscal pact" through which it wants to retake some initiatives contained
+in the bill presented to Congress in July 2022 and which was rejected, but leaving out some of the initiatives that
+implied more structural reforms, focusing now on control and powers of the SII, as well as measures that seek to
+promote investment and productivity, such as semi-instantaneous depreciation and the transitory reduction of stamp
+tax, as well as to encourage the development of new industries such as green hydrogen.
+COLOMBIA
+On December 13, 2022, Law 2277 (tax reform) was approved, introducing significant changes to tax regulations. The
+following are the main issues included in the reform:
+1. Corporate Income Tax
+a. Tax rate
+• General rate: the current rate of 35% is maintained.
+• Minimum tax: a minimum effective income tax rate of 15% is established. A specific calculation
+formula has been designed for this purpose.
+• Surcharge: a surtax on income tax is established for taxpayers whose main economic activity
+is the generation of electricity through water resources, equivalent to 3% during the taxable
+years 2023, 2024, 2025 and 2026. Such surtax is subject to an advance payment of 100%.
+b. Deductions, benefits, tax credits
+• Limitation of the amount of income not constituting income, special deductions and tax credits
+to 3% of the net taxable income for the year (before including profits).
+47
+Earnings Report - 3Q 23
+• Profit derived from the sale of shares listed on the Colombian Stock Exchange will be exempt
+to the extent that the shares sold do not represent more than 3% of the outstanding shares
+(today the threshold is 10%).
+• The election to use the industry and commerce tax as (i) a tax credit (reduction of the income
+tax for the year) or (ii) a deduction (reduction of the taxable base) is eliminated. Taxpayers
+may only use option (ii).
+• Elimination of the special regime for mega investments and Special Economic and Social
+Zones (ZESE).
+• Increase of the tax credit for investments in science and technology to 30% (currently 25%).
+2. Occasional Earnings
+• The occasional profit rate is increased to 15% (currently 10%).
+3. Tax on dividends
+a. The withholding tax rate applicable on dividends distributed to non-residents from income that has
+been taxed at the level of the distributing company is increased to 20% (currently 10%). The special
+rates provided for in double taxation treaties ("DTA") will continue to be applicable.
+b. The withholding rate applicable on dividends distributed to domestic entities from the profit that has
+been taxed at the level of the distributing company is increased to 10% (currently 7.5%).
+4. Other relevant topics
+a. Reintroduction of the national stamp tax on real estate transactions. The applicable rate varies
+between 1.5% and 3.5% depending on the size of the transaction.
+b. Reduction of the tax interest rate and penalties. Under certain circumstances, those taxpayers who
+have omitted the obligation to file returns or who correct their national tax returns may apply a reduced
+interest rate and a penalty for untimeliness or inaccuracy (as applicable) reduced by 60%.
+c. VAT : elimination of "VAT free" days.
+d. Wealth tax
+• Introduction of a permanent wealth tax applicable to those who own assets in Colombia whose
+value is equivalent to or exceeds 72,000 UVT as of January 1 of each year.
+• Taxpayers (among others): (i) resident and non-resident individuals and (ii) non-resident legal
+entities, which are not income tax filers, that own assets in Colombia other than shares in
+Colombian entities, accounts receivable or portfolio investments that comply with the
+exchange regime in force in the country.
+e. Environmental taxes
+• Tax on single-use plastic products.
+• National carbon tax
+48
+Earnings Report - 3Q 23
+ARGENTINA
+On June 16, 2021, the National Executive Power enacted Law 27,630 through which it provided for a 7% withholding
+on dividends distributed to individuals and beneficiaries abroad and established a scale for the calculation of income
+tax as from fiscal years beginning on January 1, 2021 and subsequent years. The scale applicable for fiscal years
+beginning on January 1, 2023 is:
+Accumulated Net Taxable Profit (1)
+Since Up to Will Pay Plus % of On the surplus of
+— 14,301,209 — 25% —
+14,301,209 143,012,092 3,575,302 30% 14,301,209
+143,012,092 onwards 42,188,567 35% 143,012,092
+(1) Amounts expressed in Argentine pesos.
+On July 21, 2023, the Federal Administration of Public Revenues published in the Official Gazette General Resolution
+5391, by means of which, it was established the obligation to pay an extraordinary advance payment of Income Tax
+under the following premises:
+• 15% of the Tax Income before offsetting with tax losses from previous years, when such Tax Income is equal to
+or exceeds AR$ 600,000,000 without applying the deduction of tax losses from previous periods.
+• The companies have not determined Income Tax.
+The Argentine companies included in the aforementioned Resolution will comply with this obligation during the months
+of August, September and October 2023. None of the companies included in the Termoandes group were affected by
+the issuance of this Resolution.
+49
+Earnings Report - 3Q 23
+AES ANDES CONSOLIDATED BALANCE SHEET
+As of September 30, 2023, and December 31, 2022.
+International Financial Reporting Standards (IFRS).
+Amounts expressed in thousands of US dollars unless otherwise indicated,
+September 30,
+Assets (ThUS$) 2023 December 31, 2022 Var ($) Var (%)
+Current Assets
+Cash and Cash Equivalents 282,989 186,070 96,919 52 %
+Other Current Financial Assets 10,886 9,004 1,882 21 %
+Other Current Non-Financial Assets 49,915 15,548 34,367 221 %
+Trade and Other Receivables 741,816 781,521 (39,705) (5) %
+Related Party Receivables 25,744 16,015 9,729 61 %
+Inventory 228,435 530,036 (301,601) (57) %
+Taxes Receivables 13,671 13,875 (204) (1) %
+Total Current Assets 1,353,456 1,552,069 (198,613) (13) %
+Non-Current Assets
+Other Non-Current Financial Assets 9,864 13,268 (3,404) (26) %
+Other Non-Current Non-Financial
+Assets 6,399 13,247 (6,848) (52) %
+Trade and Other Receivables 63,399 42,794 20,605 48 %
+Related Parties Receivables 1,788 2,360 (572) (24) %
+Intangible Assets 79,536 79,388 148 — %
+Property, Plant and Equipment 3,524,808 3,395,834 128,974 4 %
+Assets for rights of use 55,428 57,306 (1,878) (3) %
+Net Current Tax assets, Non-Current 65,767 66,284 (517) (1) %
+Net Deferred Tax assets 313,951 190,510 123,441 65 %
+Total Non-current Assets 4,120,940 3,860,991 259,949 7 %
+Total Assets 5,474,396 5,413,060 61,336 1 %
+50
+Earnings Report - 3Q 23
+AES ANDES CONSOLIDATED BALANCE SHEET
+As of September 30, 2023, and December 31, 2022.
+International Financial Reporting Standards (IFRS).
+Amounts expressed in thousands of US dollars unless otherwise indicated,
+Liabilities and Shareholders' Equity
+September 30,
+(ThUS$) 2023 December 31, 2022 Var ($) Var (%)
+Current Liabilities
+Other Current Financial Liabilities 503,435 242,053 261,382 108 %
+Current Leasing Liabilities 6,779 5,858 921 16 %
+Trade and Other Payables 575,106 658,613 (83,507) (13) %
+Related Party Payables 29,092 16,295 12,797 79 %
+Provisions 13,471 5,315 8,156 153 %
+Current Tax Payable 62,285 40,915 21,370 52 %
+Employee Benefits 3,854 4,242 (388) (9) %
+Other Current Non-Financial Liabilities 25,194 27,345 (2,151) (8) %
+Total Current Liabilities 1,219,216 1,000,636 218,580 22 %
+Non-Current Liabilities
+Other Non-Current Financial Liabilities 2,620,938 2,649,353 (28,415) (1) %
+Non-Current Leasing Liabilities 77,187 76,863 324 — %
+Provisions 142,799 137,939 4,860 4 %
+Non- Current Deffered Tax Liabilities 190,205 155,226 34,979 23 %
+Employee Benefits 26,630 25,731 899 3 %
+Other Non-Current Non-Financial Liabilities 33,213 39,301 (6,088) (15) %
+Total Non-Current Liabilities 3,090,972 3,084,413 6,559 — %
+Total Liabilities 4,310,188 4,085,049 225,139 6 %
+Net Equity
+Issued Capital 1,975,422 2,095,925 (120,503) (6) %
+Retained Earnings (Losses) (948,745) (813,842) (134,903) 17 %
+Share premium 48,812 48,812 — — %
+Other Components of Equity 11,029 11,029 — — %
+Other Reserves (273,260) (304,297) 31,037 (10) %
+Total Equity Attributable to Shareholders
+of Parent 813,258 1,037,627 (224,369) (22) %
+Non-controlling interests 350,950 290,384 60,566 21 %
+Total Net Equity 1,164,208 1,328,011 (163,803) (12) %
+Total Liabilities and Equity 5,474,396 5,413,060 61,336 1 %
+51
+Earnings Report - 3Q 23
+AES ANDES CONSOLIDATED INCOME STATEMENT
+For the periods ended September 30, 2023, and September 30, 2022.
+International Financial Reporting Standards (IFRS).
+Amounts expressed in thousands of US dollars unless otherwise indicated,
+Income Statement
+(ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Operating Revenue 2,130,512 1,886,233 244,279 13 % 752,015 669,255 82,760 12 %
+Cost of Sales (1,655,303) (1,393,696) (261,607) 19 % (510,798) (506,266) (4,532) 1 %
+Gross Profit 475,209 492,537 (17,328) (4) % 241,217 162,989 78,228 48 %
+Other Operating Revenues 1,045 1,667 (622) (37) % 331 466 (135) (29) %
+Selling, general and
+administrative Expenses (67,846) (65,540) (2,306) 4 % (23,029) (21,307) (1,722) 8 %
+Other Operating Expenses (12,755) (10,804) (1,951) 18 % (5,431) (3,089) (2,342) 76 %
+Other Gains / Losses (261,735) 6,593 (268,328) --- 966 2,080 (1,114) (54) %
+Financial Income 58,220 13,001 45,219 348 % 24,724 5,938 18,786 316 %
+Financial Expense (159,098) (111,732) (47,366) 42 % (60,095) (39,221) (20,874) 53 %
+Earnings impairments and
+losses reversal (NIIF 9) 130 (549) 679 (124) % 83 (799) 882 (110) %
+Foreign Currency Exchange
+Differences (86,898) 872 (87,770) --- (43,706) 13,063 (56,769) (435) %
+Result by readjustment units (26,039) (24,483) (1,556) 6 % — $ (12,385) 12,385 ---
+Net Income before Taxes (79,767) 301,562 (381,329) (126) % 135,060 107,735 27,325 25 %
+Income Tax Expense (24,656) (99,012) 74,356 (75) % (61,328) (36,368) (24,960) 69 %
+Net Income (104,423) 202,550 (306,973) --- 73,732 71,367 2,365 3 %
+Income Attributable to
+Shareholders of Parent (134,903) 180,312 (315,215) --- 64,883 63,311 1,572 2 %
+Income Attributable to Non-
+Controlling Interests 30,480 22,238 8,242 37 % 8,849 8,056 793 10 %
+Net Income (Loss) (104,423) 202,550 (306,973) --- 73,732 71,367 2,365 3 %
+EBITDA 542,431 579,681 (37,250) (6) % 259,414 189,324 70,090 37 %
+52
+Earnings Report - 3Q 23
+AES ANDES CONSOLIDATED CASH FLOW STATEMENT
+For the periods ended September 30, 2023, and September 30, 2022.
+International Financial Reporting Standards (IFRS).
+Amounts expressed in thousands of US dollars unless otherwise indicated,
+September 30, September 30,
+Consolidated Cash Flow Statement (ThUS$) 2023 2022 Var ($) Var (%)
+Operating Activities
+Receipts from Customers 2,384,241 2,120,129 264,112 12 %
+Payments to Suppliers (1,461,763) (1,800,170) 338,407 (19) %
+Payments made to Employees (65,696) (60,724) (4,972) 8 %
+Other Payments for Operating Activities (104,795) (140,648) 35,853 (25) %
+Dividends Received 3,760 1,889 1,871 99 %
+Interests Received 40,972 9,098 31,874 350 %
+Income Tax Paid (84,810) (31,490) (53,320) 169 %
+Other Operating Outflows from Operating Activities 12,915 25,734 (12,819) (50) %
+Net Operating Activities Cash Flows 724,824 123,818 601,006 485 %
+Investing Activities
+Cash flows used to obtain control of subsidiaries or
+other businesses (110,925) — (110,925) ---
+Loans to Related Parties — (50,668) 50,668 ---
+Proceeds from de Sale of Property, Plant and
+Equipment — 9,533 (9,533) ---
+Purchases of Property, Plant and Equipment (331,491) (450,877) 119,386 (26) %
+Proceeds from Long-Term Assets (845) — (845) ---
+Other Outflows from Investing Activities 685 23,447 (22,762) (97) %
+Net Investing Activities Cash Flows (442,576) (420,491) (22,085) 5 %
+53
+Earnings Report - 3Q 23
+AES ANDES CONSOLIDATED CASH FLOW STATEMENT
+For the periods ended September 30, 2023, and September 30, 2022.
+International Financial Reporting Standards (IFRS).
+Amounts expressed in thousands of US dollars unless otherwise indicated,
+(Continuation)
+September 30, September 30,
+Consolidated Cash Flow Statement (ThUS$) 2023 2022 Var ($) Var (%)
+Financing Activities
+Proceeds from the sale of minority interests 49,514 116,476 (66,962) (57) %
+Proceeds from the issuance of other equity
+instruments — 2,128 (2,128) ---
+Payments for other participation in equity (120,001) (132,000) 11,999 (9) %
+Proceeds from Long –Term Borrowings 35,000 577,261 (542,261) (94) %
+Proceeds from Short –Term Borrowings 322,435 66,202 256,233 387 %
+Payments of Loans (221,344) (191,971) (29,373) 15 %
+Payments on Financial Leasing (4,813) (5,840) 1,027 (18) %
+Payments to non-controlling interests (30,588) (14,002) (16,586) 118 %
+Interest paid (165,688) (99,765) (65,923) 66 %
+Other Inflows (Outflows) of Cash and Cash
+Equivalent (108) 51,764 (51,872) (100) %
+Net Financing Activities Cash Flows (136,095) 370,253 (506,348) (137) %
+Increase in Net Cash and Cash Equivalent before
+Effects of Foreign Currency Exchange
+Differences 146,153 73,580 72,573 99 %
+Effects of Foreign Exchange Variations on Cash and
+Cash Equivalents (49,234) (18,435) (30,799) 167 %
+Increase (Decrease) in Net Cash and Cash
+Equivalents 96,919 55,145 41,774 76 %
+Cash and Cash Equivalents at the Beginning of
+Period 186,070 111,733 74,337 67 %
+Cash and Cash Equivalent at the End of Period 282,989 166,878 116,111 70 %
+54
+Earnings Report - 2Q 23
+Annex 1: Empresa Eléctrica Angamos SpA.
+Summarized income statement and balance sheet for the periods ended September 30, 2023, and September 30,
+2022.
+International Financial Reporting Standards (IFRS). Amounts expressed in thousands of US dollars unless otherwise
+indicated.
+Income Statement (ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Contract sales 214,351 199,392 14,959 8 % 54,098 66,603 (12,505) (19) %
+Spot sales 114,554 52,479 62,075 118 % 29,773 18,966 10,807 57 %
+Transmission revenue 3,222 753 2,469 328 % 2,770 224 2,546 1137 %
+Other operating revenues 11,815 27,795 (15,980) (57) % 3,795 9,073 (5,278) (58) %
+Operating Revenues 343,942 280,419 63,523 23 % 90,436 94,866 (4,430) (5) %
+Fuel consumption (228,943) (127,492) (101,451) 80 % (51,242) (55,431) 4,189 (8) %
+Energy and capacity purchases (6,104) (15,881) 9,777 (62) % (2,228) (4,872) 2,644 (54) %
+Transmission tolls (4,070) (4,081) 11 — % (1,422) (770) (652) 85 %
+Other cost of sales (39,103) (37,695) (1,408) 4 % (13,206) (13,655) 449 (3) %
+Other fuel costs (23,541) (21,656) (1,885) 9 % (7,849) (7,635) (214) 3 %
+Insurance recovery — --- — — — ---
+Depreciation and amortization (4,264) (4,148) (116) 3 % (1,460) (1,398) (62) 4 %
+Total Costs of Sales (306,025) (210,953) (95,072) 45 % (77,407) (83,761) 6,354 (8) %
+Total Gross Profit 37,917 69,466 (31,549) (45) % 13,029 11,105 1,924 17 %
+Administrative expenses (942) (645) (297) 46 % (370) (308) (62) 20 %
+Other income(Losses) 331 335 (4) (1) % 124 67 57 85 %
+Financial Income 98 164 (66) (40) % 45 3 42 1400 %
+Financial expenses (2,909) (2,248) (661) 29 % (533) (699) 166 (24) %
+Foreign currency exchange differences (611) (2,433) 1,822 (75) % (3,801) (1,100) (2,701) 246 %
+Net Income (Loss) before Taxes 33,884 64,639 (30,755) (48) % 8,494 9,068 (574) (6) %
+Income Tax Income (Expense) (9,387) (17,881) 8,494 (48) % (2,293) (2,890) 597 (21) %
+Net Income (Loss) 24,497 46,758 (22,261) (48) % 6,201 6,178 23 — %
+EBITDA 42,648 74,339 (31,691) (43) % 14,589 12,651 1,938 15 %
+55
+Earnings Report - 3Q 23
+September 30, December 31,
+Balance Sheet (ThUS$) 2023 2022 Var ($) Var (%)
+Assets......................................
+Current Assets......................... 248,730 207,472 41,258 20 %
+Non-Current Assets................. 49,773 59,591 (9,818) (16) %
+Total Assets............................ 298,503 267,063 31,440 12 %
+Liabilities.................................
+Current Liabilities..................... 113,029 103,750 9,279 9 %
+Non-Current Liabilities............ 81,590 84,161 (2,571) (3) %
+Total Liabilities...................... 194,619 187,911 6,708 4 %
+Total Net Equity..................... 103,884 79,152 24,732 31 %
+Total Liabilities and Equity. 298,503 267,063 31,440 12 %
+Angamos Amortization Schedule (US$ mn)
+7.5
+6.32 6.32 6.32 6.32 6.32
+5
+3.16 3.11
+2.5
+0
+2023 2024 2025 2026 2027 2028 2029
+56
+Earnings Report - 3Q 23
+Angamos Energy Generation, Purchases and Sales
+YTD 3Q
+Energy (GWh) 2023 2022 Var (GWh) Var (%) 2023 2022 Var (GWh) Var (%)
+Sales
+Unregulated 1,968 1,578 390 25 % 654 509 145 28 %
+Spot 185 17 168 --- 61 17 44 259 %
+Spot Re-Routing* — — — — — — ---
+Total Sales 2,153 1,595 558 35 % 715 526 189 36 %
+Purchases
+Spot — 7 (7) (100) % — 5 (5) ---
+Total Purchases — 7 (7) --- — 5 (5) ---
+Thermal Generation 2,153 1,588 565 36 % 715 521 194 37 %
+*Rerouted energy or Spot Re-Routing refers to the difference between the customer’s contracted energy and their
+actual energy withdrawal. When Angamos has the available generation capacity to cover this differential, the energy is
+sold on the spot market, and the margin is passed through to the customer. Rerouted energy is included as a discount
+on the monthly invoice to the customers (in contract sales) and is included as income from spot sales.
+Angamos generated 715GWh in the third quarter of 2023, up 194GWh from the third quarter of 2022, due to higher
+dispatch and higher availability compared to third quarter of 2022 when Angamos Unit 2 was offline for maintenance.
+Contract sales revenue for the third quarter was US$54 million, a decrease of 19% or US$13 million, due to lower
+coal costs compared to the third quarter of 2022.
+Spot energy sales increased by US$11 million, which is explained by an increase in physical sales of 44GWh, higher
+capacity revenues, complementary services and other compensations in the spot market.
+Fuel Consumption costs decreased 8%, which represented an decrease of US$4 million due to lower coal prices
+compared to the same quarter of the previous year, despite the increase in generation.
+Energy and Capacity purchase costs decreased due to lower energy purchases from the spot market of 5 GWh in the
+third quarter of 2023 compared to the same period in 2022.
+In relation to Other Cost of Sales there was no significant variation.
+On a quarterly basis, Angamos’s Gross Profit increased from US$11 million to US$13 million, while EBITDA increase
+from US$13 million to US$15 million. This variation is mainly explained by a higher margin on the sale of energy to
+AES Andes as a result of higher sales volume, lower fuel costs and lower energy and power purchases.
+The variance in Non-Operating results between the third quarter of 2023 and the third quarter of 2022 relates to the
+US$3 million negative effect from FX differentials which is mainly due to the depreciation of the Chilean peso during the
+third quarter of 2023 and its impact on account receivables in in this currency.
+Income tax expense decreased by US$1 million, mainly explained by a decrease in income before tax during the third
+quarter of 2023.
+57
+Earnings Report - 3Q 23
+Angamos achieved net income of US$6 million in the third quarter of 2023. There is no significant variation compared
+to the same period in 2022.
+As of September 30, 2023, Angamos had a total debt of US$38 million, corresponding to the balance of the 144/A bond
+denominated in USD maturing in 2029, which has a fixed rate and is denominated in US dollars.
+The cash and cash equivalent at the end of September 30, 2023 was US$9 million, US$8 million lower than the
+balance at September 30, 2022.
+58
+Earnings Report - 2Q 23
+Annex 2: Empresa Eléctrica Cochrane SpA.
+Summarized income statement and balance sheet for the periods ended September 30, 2023, and September 30,
+2022.
+International Financial Reporting Standards (IFRS). Amounts expressed in thousands of US dollars unless otherwise
+indicated.
+Income Statement (ThUS$) YTD 3Q
+2023 2022 Var ($) Var (%) 2023 2022 Var ($) Var (%)
+Contract sales 248,099 272,052 (23,953) (9) % 85,093 109,744 (24,651) (22) %
+Spot sales 177,635 133,528 44,107 33 % 41,219 39,004 2,215 6 %
+Transmission revenue 11,783 13,536 (1,753) (13) % 3,414 2,924 490 17 %
+Other operating revenues 71 32 39 122 % 57 5 52 ---
+Operating Revenues 437,588 419,148 18,440 4 % 129,783 151,677 (21,894) (14) %
+Fuel consumption (189,556) (191,516) 1,960 (1) % (49,467) (74,768) 25,301 (34) %
+Energy and capacity
+purchases (8,825) (13,623) 4,798 (35) % (2,264) (5,261) 2,997 (57) %
+Other fuel costs (11,833) (13,119) 1,286 (10) % (3,828) (4,479) 651 (15) %
+Transmission tolls (11,721) (10,853) (868) 8 % (4,641) (3,296) (1,345) 41 %
+Other cost of sales (52,209) (46,202) (6,007) 13 % (16,891) (14,234) (2,657) 19 %
+Depreciation (42,276) (43,034) 758 (2) % (14,125) (14,376) 251 (2) %
+Total Costs of Sales (316,420) (318,347) 1,927 (1) % (91,216) (116,414) 25,198 (22) %
+Total Gross Profit 121,168 100,801 20,367 20 % 38,567 35,263 3,304 9 %
+Administrative expenses (946) (1,237) 291 (24) % (165) (360) 195 (54) %
+Impairment gain (loss) IFRS9 (149) (7) (142) --- (89) — % --- ---
+Other income(Losses) (2) (131) 129 (98) % 1 54 (53) (98) %
+Financial Income 775 26 749 --- 322 23 299 ---
+Financial expenses (40,172) (42,240) 2,068 (5) % (13,023) (13,872) 849 (6) %
+Foreign currency exchange
+differences (2,269) (3,646) 1,377 --- (4,670) (149) (4,521) 3,034 %
+Net Income (Loss) before
+Taxes 78,405 53,566 24,839 46 % 20,943 20,959 (16) — %
+Income Tax Income
+(Expense) (21,161) (14,463) (6,698) 46 % (5,655) (5,647) (8) — %
+Net Income (Loss) 57,244 39,103 18,141 46 % 15,288 15,312 (24) — %
+EBITDA 163,795 143,859 19,936 14 % 52,959 49,700 3,259 7 %
+44
+Earnings Report - 2Q 23
+September 30, December 31,
+Balance Sheet (ThUS$) 2023 2022 Var ($) Var (%)
+Assets..................................................
+Current Assets..................................... 254,693 207,420 47,273 23 %
+Non-Current Assets............................. 799,847 839,473 (39,626) (5) %
+Total Assets........................................ 1,054,540 1,046,893 7,647 1 %
+Liabilities.............................................
+Current Liabilities................................. 134,350 131,722 2,628 2 %
+Non-Current Liabilities........................ 757,390 777,873 (20,483) (3) %
+Total Liabilities.................................. 891,740 909,595 (17,855) (2) %
+Total Net Equity................................. 162,800 137,298 25,502 19 %
+Total Liabilities and Equity............. 1,054,540 1,046,893 7,647 1 %
+Cochrane Amortization Schedule (US$ mn)
+600
+473
+400
+200
+60 66 67
+44
+33
+0
+2023 2024 2025 2026 2027 2028+
+Cochrane Energy Generation, Purchases and Sales
+YTD 3Q
+Energy (GWh) 2023 2022 Var Var (%) 2023 2022 Var Var (%)
+Sales
+Unregulated 827 1,133 (306) (27) % 374 390 (16) (4) %
+Spot Re-Routing 959 695 264 38 % 269 134 135 101 %
+Total Sales 1,786 1,828 (42) (2) % 643 524 119 23 %
+Purchases
+Spot — 79 (79) --- — (44) 44 44
+Total Purchases — 79 (79) --- — (44) 44 44
+Thermal Generation 1,786 1,749 37 2 % 643 480 163 34 %
+45
+Earnings Report - 2Q 23
+Rerouted energy or Spot Re-Routing refers to the difference between the customer’s contracted energy and their
+actual energy withdrawal. When Cochrane has the available generation capacity to cover this differential, the energy is
+sold on the spot market, and the margin is passed through to the customer. Rerouted energy is included as a discount
+on the monthly invoice to the customers (in contract sales) and is included as income from spot sales.
+Cochrane's generation increased by 163GWh in the third quarter of 2023 compared to the same period in 2022. The
+variation is due to an increase in sales to spot
+Revenues decrease US$22 million compared to the same period of the previous year, mainly explained by a decrease
+in revenues from energy sales of non-regulated contracts of US$25 million due to lower energy sales volumes of
+16GWh partially offset by higher prices of fixed charges of contracts denominated in US$ and indexed for US inflation.
+This effect was partially offset by an increase in spot market sales of US$2 million due to higher energy sales volumes
+of 135GWh.
+Transmission revenues slightly decreased by 17% respect the same period in 2022, mainly associated with lower
+customer withdrawals.
+Costs of sales decreased US$25 million which is mainly explained by a reduction in fuel consumption costs of US$25
+million, due to lower average coal prices, offset by higher physical consumption associated with a higher generation of
+163 GWh.
+On a quarterly basis, Cochrane’s Gross Profit reached US$39 million, a 9% increase from the third quarter of 2022,
+while EBITDA registered in the third quarter of 2023 was US$53 million, 7% up than the same period last year. The
+main reason behind these variations is due to the fixed charge associated with Cochrane's contract.
+Non-Operating results for the third quarter of 2023 totaled a negative US$17 million a variation of 25% compares to the
+US$14 million loss registered in the same period in 2022. This variation is mainly due to the negative variation of the
+foreign currency exchange differences. The foreign currency exchange differences recorded a negative variation of
+US$5 million in the third quarter of 2023 respect the same period of 2022, primarily due to the impact of the a
+depreciation of the Chilean peso in the quarter against the U.S. dollar on the company's local currency asset position
+for the period ended September 2023.
+Net income for the period ended September 2023 was US$15 million, there was no significant variation with respect to
+the compared to 15 million for September 30, 2022.
+Total debt for Cochrane as of September 30, 2023 was US$743 million and is comprised of (i) a local bond
+denominated in USD with a face value of US$485 million maturing in 2034, and (ii) a 144/A guaranteed bond
+denominated in USD for US$258 million, maturing in 2027.
+Cash and cash equivalent at the end of September 30, 2023 was US$125 million, a US$109 increase compared to
+US$16 million on September 30, 2022.
+46
+Earnings Report - 2Q 23
+ABOUT AES ANDES
+AES Andes generates and sells electricity in Chile, Colombia, and Argentina with the mission of improving lives by
+accelerating a more secure and sustainable energy future. The Company operates 5,635MW in the region along with
+an extensive portfolio of renewable energy projects under development. The Company is one of the main power
+generation companies in the region, with a diversified portfolio including hydro, wind, solar, energy storage, biomass,
+gas and coal-fired power plants.
+In Chile, AES Andes owns and operates 3,863MW, comprised of 2,129MW of thermoelectric, 771MW of hydroelectric,
+348MW of wind, 429MW of solar photovoltaic, 13MW of biomass capacity and 174MW of battery energy storage
+systems, in addition to seawater desalination plants and transmission lines. AES Andes also owns hydroelectric and
+solar plants in Colombia with a total capacity of 1,129 MW and a natural gas combined cycle plant in Argentina with an
+installed capacity of 643 MW. AES Andes is 99.5% owned by The AES Corporation.
+To learn more about AES Andes, please visit www.aesandes.com/en/investors
+ABOUT THE AES CORPORATION
+The AES Corporation (NYSE: AES) is a Fortune 500 global energy company accelerating the future of energy.
+Together with our many stakeholders, we’re improving lives by delivering the greener, smarter energy solutions the
+world needs. The company’s diverse workforce is committed to continuous innovation and operational excellence while
+partnering with our customers on their strategic energy transitions and continuing to meet their energy needs today.
+In 2022, The AES Corporation reported $13 billion in revenues and owned and managed $38 billion in total assets.
+To learn more, please visit www.aes.com
+47

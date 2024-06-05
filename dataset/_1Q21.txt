@@ -1,0 +1,377 @@
+Braskem Idesa Earnings Release 1Q21
+HIGHLIGHTS 1Q21
+✓ Following the interruption of its natural gas supply, on January 7th, Braskem Idesa partially
+resumed its operating activities, based on a work around while following all applicable safety
+standards
+✓ On March 1st, Braskem Idesa informed that it had signed:
+I. a memorandum of understanding ("MoU") with PEMEX for the discussion of
+potential amendments to the Ethane Supply Contract and the development of an
+ethane import terminal
+II. an agreement for the natural gas transportation service with CENAGAS, with a 15-
+year term, subject to signing the Definitive Documents established in the MOU,
+with the natural gas transportation service resuming as of that date
+✓ Mexico's demand for PE was 521,000 tons in 1Q21, a 4.1% reduction compared to 1Q20; Braskem
+Idesa reached 17.3% Market Share
+✓ The average ethane supply was 43.3 kbpd, 66% of Braskem Idesa’s total requirements for the
+quarter, with imported ethane amounting to an average 13.2 kbpd during the period
+✓ In December 2020, Braskem Idesa concluded the first expansion of the Fast Track imports capacity
+to up to 20 kbpd, contributing to a 17.4 kbpd ethane supply rate in January
+✓ The PE plants operated at a capacity utilization rate of 58% during 1Q21, with a total PE production
+of 150 kt
+✓ Total resin sales reached 132 kt, with 68% allocated to the domestic market to serve BI's local
+clients
+✓ Prices of PE rose 45% versus 4Q20, because of strong demand and supply restrictions, while ethane
+prices remained stable
+✓ Operating EBITDA was a robust US$ 100 million, with a 48% margin, notwithstanding the impact
+of the natural gas limitations on our production in January and February
+Braskem Idesa Earnings Release 1Q21
+OPERATING PERFORMANCE
+During the first quarter of 2021, operations were restored using natural gas substitutes due to the
+interruption of the natural gas transportation service in December.
+1Q2021 4Q2020 1Q2020 Chg. Chg.
+BRASKEM IDESA
+(A) (B) (C) (A) / (B) (A) / (C)
+Operating Overview
+Feedstock (kbpd)
+Ethane 43.26 35.15 55.12 23% -22%
+National 30.10 28.07 52.69 7% -43%
+Imported 13.16 7.08 2.43 86% 441%
+Supply Rate 66% 53% 84% 12 p.p -18 p.p
+Production (tons)
+PE 150,524 126,101 224,209 19% -33%
+Utilization Rate* 58% 48% 86% 10 p.p -28 p.p
+Sales (tons)
+PE 132,388 180,343 212,268 -27% -38%
+PP 3,119 3,141 2,108 -1% 48%
+PCR 1,786 2,383 -25% n.a.
+Total Sales 137,293 185,867 214,376 -26% -36%
+* Nominal capacity of 1,050 kt of PE Production
+Ethane Supply
+During 1Q21, the total ethane supply was 43.3 kbpd, representing 66% of Braskem Idesa’s total
+ethane requirements, which was an increase of 23% compared to the last quarter and a 22%
+decrease compared to 1Q20.
+• National Ethane – During 1Q21, the average supply from PEMEX was 30.1 kbpd a reduction
+of 43% compared to 1Q20. This reduction was due to the floods in PEMEX’s oil production
+fields in Tabasco in 4Q20, which subsequently reduced ethane output. Compared to 4Q20,
+supply increased 7%, despite the lack of supply in December.
+• Imported Ethane – The Fast-Track solution supplied 13.16 kbpd of ethane, representing 20%
+of the total supply needs. With this supply rate, the Fast-Track solution doubled the average
+amount supplied during 2020, which stood at 6.4 kbpd. Furthermore, compared with 4Q20
+and 1Q20, the supply of imported ethane increased by 6.1 kbpd and 10.7 kbpd, respectively,
+resulting from the expansion of the Fast-Track solution, achieving 17.4 kbpd in a single
+month, with peaks of 24 kbpd of supply in a single day.
+Braskem Idesa Earnings Release 1Q21
+PE Demand
+In 1Q21, North American demand increased 0.5% compared to 1Q20, due to the strong economic
+recovery and a sustained increase in demand for packaging products. However, in February, the
+North American market supply was impacted by Winter Storm Uri, on the Texas Gulf Coast,
+impacting North American producers' operations, which caused logistic constraints for the whole
+petrochemical industry.
+Despite the healthy demand for PE products, the demand in Mexico dropped in 1Q20 (-4%) due in
+good part to the low availability of products in the market from Braskem Idesa and other players,
+limiting purchases in the period.
+Average Utilization Rate of PE Plants
+Utilization rates in 1Q21 increased by 10p.p. compared with 4Q20, while there was a 38p.p.
+decrease compared to 1Q20. Production reached 150 kt during the period compared to 126 kt in
+4Q20 and 224kt in 1Q20, respectively, with the complex operating far below capacity due to the
+required adaptation in the production process following natural gas constraints.
+Sales Volume
+Total sales during 1Q21 decreased 26% compared with 4Q20 and 36% compared with 1Q20,
+respectively. Given the lack of production in December and the need to recover inventory levels,
+sales during 1Q21 were negatively impacted. The prioritization of the domestic market remained in
+place to attend to BI's local clients, which reached 68% of the total sales during the quarter.
+Braskem Idesa Earnings Release 1Q21
+Sales to the export market represented 32% of total sales, with a significant reduction in low-
+profitability markets, such as Overseas, while maintaining sales to our key customers in the other
+regions.
+Mexico 1Q2021 68% 16% 5% 11%
+Latin America*
+Europe 4Q2020 59% 17% 8% 5% 11%
+Overseas
+USA 1Q2020 52% 20% 13% 3% 12%
+*Latin America comprises Central America, the Caribbean, and South America
+In 1Q21, the PP resale operation’s sales volume reached 3.1 kton, a 48% increase compared to the
+same period of 2020. BI's post-consumer resin (PCR) reached 1.8 kton, representing close to half of
+all the total sales of PCR during 2020.
+OPERATING RESULTS
+Operating results in 1Q21 were positively influenced by higher spreads in the period, despite lower
+sales volume.
+1Q2021 4Q2020 1Q2020 Chg. Chg.
+BRASKEM IDESA
+(A) (B) (C) (A) / (B) (A) / (C)
+Financial Overview ( US$ million) *
+Net Revenues 213 207 184 3% 16%
+COGS ( 122) ( 162) ( 144) -25% -15%
+Gross Profit 90 44 40 n.a. n.a.
+Gross Margin 42% 21% 22% 21 p.p 20 p.p
+SG&A ( 21) ( 23) ( 23) -10% -10%
+Other Operating Income ( Expenses) ( 1) ( 116) 6 n.a. n.a.
+EBITDA 100 69 73 46% 38%
+Operational EBITDA Margin ** 47% 33% 39% 14 p.p 8 p.p
+*Managerial Information – using average FX Rate for each period and not considering the Revaluation of assets
+** Operating EBITDA Margin does not consider the delivery-or-pay provision related to feedstock supply agreement
+Braskem Idesa Earnings Release 1Q21
+Petrochemical Spreads
+Mexico International References 1Q2021 4Q2020 1Q2020 Chg. Chg.
+US$/t (A) (B) (C) (A) / (B) (A) / (C)
+PE (1) 1,583 1,088 773 45% 105%
+Ethane (2) 1 78 156 103 14% 72%
+PE - Ethane Spread (1-2) 1,406 932 670 51% 110%
+PE Spread - North America1 During 1Q21, spreads increased 51% and 110% compared to 4Q20 and
+1Q20, respectively, due to an extremely tight PE availability after Winter Storm Uri decreased US
+producers’ output during the period, reducing the already low inventories in the supply chain.
+1 USGC Reference Price for PE adjusted by Braskem Idesa capacity mix & Ethane North America Reference Price (Mont Belvieu)
+EBITDA
+EBITDA in 1Q21 reached US$ 100MM, representing a 45% and 38% increase compared to 4Q20 and
+1Q20. Meanwhile, the Operating EBITDA margin increased by 14p.p and 8p.p compared with 4Q20
+and 1Q20, respectively, favored by higher petrochemical spreads during the period despite
+unfavorable operating conditions.
+Revenues
+Net revenues increased by 3% and 16% compared to 4Q20 and 1Q20, respectively, due to favorable
+market conditions reflected in higher PE international reference prices.
+COGS
+Total COGS decreased compared to 4Q20 due to lower sales volume during the period, despite
+resumption of operations with the adapted production process. Additionally, during 4Q20, total
+COGS rose due the cost of idle capacity associated with this extraordinary event.
+Braskem Idesa Earnings Release 1Q21
+COGS 1Q2021
+National
+Depreciation/ Ethane, 18%
+Amortization, 27%
+Import
+Ethane, 22%
+Energy, 7%
+Fixed Cost,
+11% Natural Gas,
+Other
+Sales Freight, 5%
+Variable Cost,
+6%
+4%
+Other Income (Expenses), Net
+Other Net Income ( Expenses) 1Q2021 4Q2020 1Q2020 Chg. Chg.
+US$ Million (A) (B) (C) (A) / (B) (A) / (C)
+Other Revenues
+Liquidated Damages (0.1) ( 113.4) 6 .7 -100% n.a.
+Other Income (Expenses) (0.5) ( 3.8) (0.6) -88% -22%
+Total Other Net Income (Expenses), net (0.6) ( 117.2) 6 .1 -100% n.a.
+Other Income increased in 1Q21, when compared with 4Q20, mainly because in 4Q20 Braskem
+Idesa wrote off the Liquidated Damage pending amount associated with the ethane supply
+agreement for 2019 and 2020 in the Other Income results.
+FINANCIAL PERFORMANCE
+Financial Result 1Q2021 4Q2020 1Q2020 Chg. Chg.
+Ps. Million (A) (B) (C) (A) / (B) (A) / (C)
+Financial Expenses (1,401) (1,443) (1,549) -3% -10%
+Interest Expenses (1,233) (1,188) (1,444) 4% -15%
+Others ( 169) ( 255) ( 105) -34% 61%
+Financial Revenue 1 4 (46) 210 n.a -93%
+Interest 1 1 5 2 2 n.a -50%
+Others 3 (51) 188 n.a -98%
+Net Foreign Exchange Variation (1,805) 5 ,052 (9,843) n.a -82%
+Foreign Exchange Variation (Expense) (1,857) 5 ,594 ( 10,861) n.a -83%
+Passsive exchange rate variation (3,083) 11,999 ( 22,364) n.a -86%
+Hedge Accounting Realization 1 ,226 (6,406) 11,503 n.a -89%
+Foreign Exchange Variation (Revenues) 5 2 ( 542) 1 ,019 n.a -95%
+Net Financial Result (3,192) 3 ,563 ( 11,181) n0.%a -710%%
+Net Financial Result, w/out foreign exchange variation, net (1,387) (1,489) (1,338) -7% 4%
+Final Exchange Rate ( Dollar. Mexican Peso) 2 0.60 1 9.95 2 3.51 3% -12%
+Braskem Idesa Earnings Release 1Q21
+Financial Expenses
+The decrease in 1Q21 compared to 4Q20, can be explained by the impact of the depreciation of the
+Mexican peso against the U.S. dollar. Interest expenses were US$ 60 MM. Compared with 1Q20,
+there was a decrease in interest expenses associated with the impact of the appreciation of
+the Mexican peso against the U.S. dollar.
+Financial Income
+Financial Income increased in 1Q21 compared to 4Q20 and decreased compared to 1Q20. This can
+be explained in part by volatility in the long-term derivative instruments related to the interest rate
+swap operation associated with the Project Finance debt.
+Net Exchange Variation
+Net Exchange Variation decreased in 1Q21 compared to 4Q20. This was caused by the depreciation
+of the Mexican peso against the U.S. dollar on the outstanding balance of Braskem Idesa’s loan for
+US$2.359 billion. Regarding 1Q20, the variation is related to the appreciation of the Mexican peso
+against the U.S. dollar on the outstanding balance of Braskem Idesa’s loan.
+CASH FLOW GENERATION
+Cash Flow Generation 1Q2021 4Q2020 1Q2020 Chg. Chg.
+US$ million (A) (B) (C) (A) / (B) (A) / (C)
+EBITDA 1 00 6 9 73 46% 38%
+Changes in Working Capital (33) 2 9 ( 38) -213% -14%
+Investing activities ( 4) (4) (7) -11% -44%
+Cash Generation Before Debt Service 63 9 3 27 -32% 134%
+Free Cash Flow Generation
+The decrease in free cash flow compared with 4Q20 is associated with negative Working Capital
+change, mainly due to the increase in accounts receivable and recovery of inventory levels. In
+relation to 1Q20, the cash flow increase is explained by higher EBITDA generation driven by
+increased PE reference prices during 1Q21.
+Braskem Idesa Earnings Release 1Q21
+LIQUIDITY & CAPITAL RESOURCES
+At the end of March 31st, 2021, the average debt maturity was around 5 years, with 39% of debt
+maturing after 2029. And the weighted average cost of the Company's debt was equivalent to 5.3%.
+Debt Mar-21 Dec-20
+US$ Million (A) (B)
+Gross Debt
+In MXN 4 7,174 46,204
+In US$ 2,289 2,476
+Cash and Cash Equivalents
+In MXN 3,572 3,465
+In US$ 173 1 74
+Net Debt
+In MXN 4 3,602 42,739
+In US$ 2,116 2,302
+EBITDA (LTM) 317 2 95
+Net Debt/EBITDA* 6.7 7 .8
+*Net Debt/EBITDA considering amounts in US$
+Debt Amoritzation Profile (US$ MM) as of March 2021
+915
+Balance EoP
+DSRA
+1Q21
+576 915
+DSRA 194 900
+Contingent
+208
+Equity
+231 252 228
+Cash 173 162 183 193
+90 71
+15
+2021 2022 2023 2024 2025 2026 2027 2028 2029
+Project Finance Bond
+Braskem Idesa Earnings Release 1Q21
+Cash and Liquidity
+At the end of 1Q21, Braskem Idesa held a cash balance of US$ 173 million, a Debt Service Reserve
+Account in the form of a Letter of Credit equivalent to US$ 198 million, and, in addition, a
+Contingent Equity Account for US$ 208 million. The cash position is held 80% in USD in low-risk
+investments and 20% in Mexican Pesos.
+INVESTMENTS & VALUE CREATION
+During 1Q21, Braskem Idesa invested US$ 3.8 million in projects such as the Fast Track expansion,
+operating projects, and royalties related with HDPE licenses
+Investments 1Q21
+Ps. Million US$ MM
+Strategic 1 5.2 0.7
+Operational 6 3.9 3.1
+Total 7 9.1 3.8
+Braskem Idesa Earnings Release 1Q21
+FINANCIAL STATEMENTS:
+EXHIBIT I: Braskem Idesa - Income Statement 12
+EXHIBIT II: Braskem Idesa - Balance Sheet 13
+EXHIBIT III: Braskem Idesa - Cash Flow Statement 14
+FORWARD-LOOKING STATEMENTS
+This release contains forward-looking statements. These forward-looking statements are not solely historical data but
+reflect Braskem IDESA's management's targets and expectations. Words such as "anticipate," "wish," "expect," "foresee,"
+"intend," "plan," "predict," "project," "aim," and similar terms seek to identify statements that necessarily involve known
+and unknown risks. Braskem does not undertake any liability for transactions or investment decisions based on the
+information contained in this document.
+Braskem Idesa Earnings Release 1Q21
+EXHIBIT I
+Braskem Idesa - Income Statement
+Income Statement 1Q2021 4Q2020 1Q2020 Chg. Chg.
+( Ps. million) (A) (B) (C) (A) / (B) (A) / (C)
+Revenue 3 ,956 4 ,512 3 ,450 -12% 15%
+Cost of Good Sold (2,636) (3,775) (3,216) -30% -18%
+Gross Profit 1 ,320 737 234 79% n.a.
+Selling Expenses ( 188) ( 176) ( 251) 7% -25%
+Administrative Expenses ( 226) ( 264) ( 251) -14% -10%
+Other Income 1 (2,315) 140 n.a. n.a.
+Other Expenses (12) (83) (14) -85% -14%
+Operating Profit (Loss) Before Financial Result 895 (2,101) ( 142) n.a. n.a.
+Net Financial Result (3,192) 3 ,563 ( 11,181) n.a. -71%
+Financial Expenses (1,401) (1,443) (1,549) -3% -10%
+Financial Income 1 4 (46) 210 n.a. n.a.
+Exchange rate effect (1,805) 5 ,052 (9,843) n.a. -82%
+Loss Before Tax (2,297) 1 ,461 ( 11,323) n.a. -80%
+Income Tax Benefit 579 ( 780) 3 ,209 n.a. -82%
+Net Profit (Loss) for the Period (1,718) 681 (8,114) n.a. -79%
+Braskem Idesa Earnings Release 1Q21
+EXHIBIT II
+Braskem Idesa - Balance Sheet
+ASSETS Mar, 2021 Dec, 2020 Change
+( US$ million) (A) (B) (A) / (B)
+Current 4 46.2 4 15.2 7%
+Cash and cash equivalents 173.4 173.7 0%
+Accounts receivable, net 109.2 90.2 21%
+Inventories 122.6 100.4 22%
+Income taxes 1.7 2.0 -18%
+Other recoverable taxes - 5.4 n.a.
+Prepaid expenses 7.0 10.9 -36%
+Related parties 20.6 20.2 2%
+Other assets 11.8 12.3 -4%
+Non Current 3 ,553.9 3 ,667.9 -3%
+Property, plant and equipment, net 3,143.9 3,293.5 -5%
+Right of use 70.4 75.5 -7%
+Intangible assets 48.0 50.0 -4%
+Deferred income tax 247.1 205.6 20%
+Other recoverable taxes 44.4 43.3 3%
+Other assets 0.1 0.1 0%
+Total Assets 4 ,000.1 4 ,083.2 -2%
+LIABILITIES AND SHAREHOLDERS´EQUITY Change
+( US$ million) (A) / (B)
+Current 1 ,590.2 1 ,608.9 -1%
+Suppliers 56.5 47.8 18%
+Bank loans, current portion 1,441.2 1,471.2 -2%
+Derivative financial instruments 9.7 10.3 -6%
+Related parties 42.6 34.8 22%
+Payroll and related charges 4.9 7.3 -32%
+Other payable taxes 0.8 - n.a.
+Long term incentive 0.2 0.1 121%
+Accounts payable and other accrued expenses 20.2 23.3 -13%
+Lease liability 14.1 14.1 0%
+Non Current 3 ,333.1 3 ,309.3 1%
+Employee benefits 3.4 3.3 2%
+Bank loans 848.3 844.9 0%
+Derivative financial instruments 12.3 19.6 -37%
+Related parties 2,403.3 2,374.2 1%
+Long term incentive 0.4 0.3 57%
+Lease liability 65.3 67.1 -3%
+Equity ( 923.2) ( 835.1) 0%
+Capital Stock 2 80.3 289.5 -3%
+Other comprehensive results 6 3.1 97.6 -35%
+Accumulated losses (1,266.6) (1,222.2) 4%
+Total Liabilities and Equity 4 ,000.1 4 ,083.2 -2%
+Braskem Idesa Earnings Release 1Q21
+EXHIBIT III
+Braskem Idesa - Cash Flow Statement
+Cash Flow 1Q2021 1Q2020 Chg.
+( US$ million) (A) (C) (A) / (B)
+Cash flow from operating activities 9 4.3 9 0.3 4%
+Loss before income tax (111.5) ( 481.6) n.a.
+Adjustments for reconciliation of profit (loss)
+Depreciation and amortization 49.7 6 5.6 32%
+Right of use amortization 2 .7 2.8 1%
+Employees' benefits cost 0 .2 0.1 -18%
+Borrowing accrued interest 31.8 3 6.5 15%
+Related parties interest 28.0 2 4.9 -11%
+Leasing interest accrued 1 .0 0.5 -52%
+Unrealized exchange rate fluctuations - Net 69.5 434.1 n.a.
+Donation of property, plant and equipment
+Derivative financial instruments 38.5 164.3 n.a.
+Deferred Income tax ( 15.7) ( 157.0) n.a.
+Changes in working capital: ( 20.1) (17.5) -13%
+Accounts receivable ( 19.5) (5.6) -71%
+Inventories ( 25.4) (3.3) -87%
+Recoverable taxes 3 .9 (10.9) n.a.
+Prepaid expenses 3 .6 2.2 39%
+Related parties 8 .3 (14.2) n.a.
+Other assets 0 .0 (7.1) n.a.
+Suppliers 9 .7 6.4 -34%
+Long term incentive 0 .3 (0.3) n.a.
+Accounts payable and other liabilities (1.0) 1 5.2 n.a.
+Net cash flow from operating activities 74.1 7 2.8 2%
+Cash flows from investing activities
+Capitalized borrowing costs
+Investing activities:
+Acquisition of property, plant and equipment and intangible assets (4.6) (4.8) 0%
+Proceeds associated with sales of property, plant and equipment
+Net cash flow from investing activities (4.6) (4.8) 0%
+Financing activities:
+Loans received from related parties
+Bank loans received
+Bank loans paid ( 45.9) (33.2) -28%
+Interest bank loans paid ( 15.1) (17.2) 15%
+Payments for the principal portion of the lease liabilities (2.3) (3.7) 58%
+Leasing interest paid (1.0) (0.5) -52%
+Interest bond paid
+Equity contributions
+Net cash flows from financing activities ( 64.3) (54.6) -15%
+Increase in cash and cash equivalents 5 .2 1 3.4 -61%
+Cash and cash equivalents at the begining for the year 168.2 202.7 -17%
+Cash and cash equivalents at the end for the year 173.4 216.1 -20%

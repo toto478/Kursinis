@@ -1,0 +1,1489 @@
+Braskem Idesa 2Q22 Earnings Release
+Index
+2Q22 HIGHLIGHTS .................................................................................................. 3
+MARKET OUTLOOK ................................................................................................ 4
+OPERATING PERFORMANCE ................................................................................... 5
+ESG PERFORMANCE ............................................................................................... 7
+OPERATING RESULTS ............................................................................................. 8
+LIQUIDITY & RATIOS ............................................................................................ 10
+FINANCIAL STATEMENTS ...................................................................................... 14
+2
+Braskem Idesa 2Q22 Earnings Release
+2Q22 HIGHLIGHTS
+✓ Demand in the Mexican market grew by 17% compared to the same period of last year. Braskem
+Idesa’s commercial strategy remains prioritizing its sales in North America
+✓ Polyethylene prices increased in the period due to an increase in oil prices, on the other hand,
+ethane prices increased, driven by a spike in natural gas prices. PE-ethane spreads remained in
+line with 1Q22
+✓ Total ethane supply was 44 kbpd, a 67% supply rate. PEMEX ethane supply decreased in the
+quarter to 22 kbpd due to operational issues while Fast-Track reported an 88% utilization rate
+for the quarter
+✓ The overall utilization rate decreased to 67%, in line with the supply rate, with 174 kt of
+polyethylene produced
+✓ EBITDA generation reached US$ 96 million with a 72% operating cash conversion rate.
+✓ Braskem Idesa’s Net Debt/EBITDA ratio stood at 3.2x supported by a strong cash conversion and
+a solid cash balance by the end of the quarter of US$ 407 million and the Company prepaid US$10
+million of the outstanding amount of the Term Loan
+✓ In May, Braskem Idesa distributed US$10 million to its shareholder Grupo Idesa
+✓ In June, Braskem Idesa signed agreements with Advario B.V, a leading global company in the
+storage sector based in the Netherlands, to divest a 50% stake in Terminal Química Puerto
+México (“TQPM”), a BI’s subsidiary responsible for the development and operation of the ethane
+import terminal project in Mexico
+3
+Braskem Idesa 2Q22 Earnings Release
+MARKET OUTLOOK
+Petrochemical Spreads
+PE Spread – North America1 2Q22 spreads were similar to 1Q22’s, as rising ethane prices during
+the period were offset by increased polyethylene prices, driven by high oil prices. Compared to
+2Q21, spreads decreased 36% as supply constraints during the first half of 2021, as weather related
+supply constraints led to a rapid increase in PE prices and pushed spreads to record high levels.
+1 USGC Reference Price for PE adjusted by Braskem Idesa capacity mix & North America Ethane Reference Price (Mont Belvieu)
+PE Demand
+In 2Q22, the North American and Mexican polyethylene markets recorded a demand growth of 1%
+and 17%, respectively, compared to 2Q21. For the second quarter in a row, the Mexican Market
+registered double digit growth as consumption remained stable across consumer good products
+while the durable applications for sectors such as infrastructure and construction drove an
+additional the growth during the period.
+*NAM comprises the United States and Canada
+4
+P
+E
+P
+M e x
+E (1 )
+th a n e (2 )
+E - E th a n e
+ic
+S
+o
+p
+In
+re
+te
+a d
+rn a tio n a
+U S $ / t
+(1 -2 )
+l R e fe re n c e s 2 Q 2 0 2
+(A )
+1 ,5
+4
+1 ,1
+2
+3
+3
+0
+5
+4
+1
+1 Q 2 0 2
+(B )
+1 ,4
+2
+1 ,1
+2
+0
+9
+0
+7
+7
+9
+2 Q 2 0 2
+(C )
+1 ,9
+1
+1 ,7
+1
+2
+9
+3
+4
+2
+3
+(A
+C h g .
+) / (B )
+9
+4 6
+-1
+%
+%
+%
+(A
+C h g .
+) / (C
+-2
+1 2
+-3
+)
+0
+7
+6
+%
+%
+%
+1 H 2 0 2 2
+(D )
+1 ,4 7 1
+3 6 6
+1 ,1 0 5
+1 H 2 0 2 1
+(E )
+1 ,7 5 4
+1 8 5
+1 ,5 6 9
+C
+(D
+h g .
+)/ (E )
+-1 6
+9 8
+-3 0
+%
+%
+%
+Braskem Idesa 2Q22 Earnings Release
+OPERATING PERFORMANCE
+In the second quarter of 2022, production and utilization rates decreased compared to 1Q22 due
+to a reduction in PEMEX’s ethane supply and an un-scheduled stoppage at Braskem Idesa’s
+petrochemical complex.
+Ethane Supply
+During 2Q22, total ethane supply averaged around 44 kbpd, representing 67% of Braskem Idesa’s
+total ethane requirements, a 12% decrease compared to last quarter’s supply. Compared to 2Q21,
+total ethane supply increased 10%.
+• National Ethane – During 2Q22, the average supply from PEMEX was 22.1 kbpd, a 34% and
+29% decrease compared to the previous quarter and second quarter of 2021, respectively.
+During the quarter, operational issues and maintenance at PEMEX facilities decreased
+overall ethane production, and therefore the supply to Braskem Idesa.
+• Imported Ethane – During 2Q22, the Fast-Track solution increased its supply rate, reaching
+close to 22 kbpd of ethane (around 90% of the current capacity), a 35% and a 149% increase
+compared to 1Q22 and 2Q22, respectively. The Fast-Track supply represented 50% of
+Braskem Idesa’s total ethane supply for the period.
+The imported ethane operation achieved a monthly record in June, with a supply rate of 24.1 kbpd,
+representing 96% utilization of its nominal capacity.
+5
+OFE
+PP
+SPPPT
+*
+B R A S K E M ID E S
+p e r a t in g O v e r v ie we
+e d s t o c k (k b p d )t
+h a n eN
+a t io n a lIm
+p o r t e dS
+u p p ly R a t e
+r o d u c t io n (k t )E
+U t iliz a t io n R a t e *
+a le s (k t )EPC
+Ro
+t a l S a le s
+N o m in a l c a p a c it y o
+A
+f 1 ,0 5 0 k
+2 Q 2 0 2 2
+(A )
+4 3 .9
+2 2 .1
+2 1 .86
+7 %
+1 7 4 .46
+7 %
+1 8 7 .1
+3 .5
+2 .3
+1 9 2 .9
+t o f P E P r o d
+1 Q 2 0 2 2
+(B )
+4 9 .7
+3 3 .5
+1 6 .27
+5 %
+2 0 7 .98
+0 %
+2 1 6 .3
+4 .3
+2 .0
+2 2 2 .6
+u c t io n
+2 Q 2 0 2 1
+(C )
+3 9 .7
+3 1 .0
+8 .86
+0 %
+1 5 0 .75
+8 %
+1 5 2 .7
+2 .6
+1 .5
+1 5 6 .8
+C h g .
+(A ) / (B )
+-1 2 %-3
+4 %3
+5 %-9
+p .p
+-1 6 %-1
+4 p .p
+-1 4 %-1
+8 %1
+8 %-1
+3 %
+C
+(A
+h g .
+) / (C )
+1 0 %-2
+9 %1
+4 9 %6
+p .p
+1 6 %9
+p .p
+2 3 %3
+4 %5
+2 %2
+3 %
+1 H 2 0 2 2
+(D )
+4 6 .8
+2 7 .8
+1 9 .07
+1 %
+3 8 2 .37
+6 %
+4 0 3 .4
+7 .8
+4 .3
+4 1 5 .5
+1 H 2 0 2 1
+(E )
+4 1 .5
+3 0 .6
+1 1 .06
+3 %
+3 0 1 .25
+8 %
+2 8 5 .1
+5 .7
+3 .3
+2 9 4 .1
+C h g .
+(D ) / (E )
+1 3 %-9
+%7
+3 %8
+p .p
+2 7 %1
+8 p .p
+4 2 %3
+5 %3
+0 %4
+1 %
+Braskem Idesa 2Q22 Earnings Release
+Average Utilization Rate of PE Plants
+The utilization rate in 2Q22 was 67%, in line with the supply rate, with a production of 174.4 kt, a
+decrease of 13p.p compared to 1Q22. Compared to 2Q21, the utilization rate increased 9p.p. due
+to higher ethane supply from Fast Track in 2Q22.
+During the quarter, the utilization rate was negatively impacted by a un-scheduled stoppage at the
+complex, caused by instability on the national electrical grid.
+Sales Volume
+Total PE sales in 2Q22 were 193kt, a 13% decrease compared to 1Q22 which was due to lower
+production and partially offset by inventories’ usage. Compared to 2Q21, PE sale were up by 23%
+due to higher product availability. Sales to Mexico and North America represented 71% of total
+sales for the quarter.
+1% 2%
+10% 7%
+18% 21%
+12%
+15%
+59%
+55%
+2Q2022 1Q2022
+Mexico USA Latin America* Europe Overseas
+*Latin America comprises Central America, the Caribbean, and South America
+Regarding the PP resale operation, sales volume was 3.5 kt, an 18% reduction compared to the
+previous quarter, and a 34% increase compared to 2Q21.
+6
+Braskem Idesa 2Q22 Earnings Release
+ESG PERFORMANCE
+The Company’s carbon footprint for 2Q22 was 409 kt of CO2 Scope 1 and 2 emissions, a 7% increase
+compared to the same period of 2021, related to the increase in production during the quarter.
+Compared to 1Q22, emissions decreased by 3% due to lower production during the period.
+Carbon Footprint:kton of CO equivalent, Scopes 1 & 2
+2
+421
+409
+381
+2Q2022 1Q2022 2Q2021
+During the period, Braskem Idesa sold 2.3 kt of post-consumer recycled resin (PCR), an 18% and
+52% increase compared to 1Q22 and 2Q21, respectively.
+PCR Sales (kton)
+2.3
+2.0
+1.5
+2Q2022 1Q2022 2Q2021
+7
+Braskem Idesa 2Q22 Earnings Release
+OPERATING RESULTS
+Operating results for 2Q22 were down compared to 1Q22, due to lower sales and higher COGS.
+EBITDA
+In 2Q22, Braskem Idesa achieved an EBITDA of US$ 96 million with a 29% EBITDA margin. This was
+a 29% decrease in EBITDA compared to the previous quarter and was due to increased variable
+costs from higher natural gas prices, which increased by over 98% since the beginning of the year
+as a result of the tight market. Compared to 2Q21, Braskem Idesa’s EBITDA decreased 51% due to
+lower spreads in the period.
+Revenues
+2Q22 revenues were similar to the previous quarter and benefited from higher selling prices despite
+decreased sales volume. Compared to 2Q21, revenues were aligned associated with higher sales
+volume during the period, despite the decrease in selling prices.
+COGS
+In 2Q22, COGS increased 12% and 72% compared to 1Q22 and 2Q21, respectively, associated with
+higher natural gas and ethane costs in the period, which increased significantly associated to supply
+concerns, driven by the ban on Russian commodities.
+8
+FNCGSE
+*
+B R A S K
+in a n c ia l O v e rv ie we
+t R e v e n u e sO
+G Sro
+s s P ro fitG
+& AB
+IT D A *
+E B IT D A M a rg in *
+M a n a g e ria l In fo rm
+E M ID
+( U S $
+a tio n
+E S A
+m illio
+– u s in
+n
+g
+) *
+a v e ra g e F X
+2 Q 2 0 2 2(A
+)
+3 2 9
+(2 4 7 )
+8 3
+(2 5 )
+9 6
+2 9 %
+R a te fo r e a c
+1 Q 2 0 2 2(B
+)
+3 3
+(2 2
+1 1
+(2
+1 3
+4 0
+h p e rio d a n
+90916
+%
+d
+)
+)
+n
+2 Q 2 0 2 1(C
+)
+3 2 2
+(1 4 3
+1 7 9
+(2 1
+1 9 4
+6 0 %
+o t c o n s id
+)
+)
+e rin g
+C h g .(A
+) / (B )
+-3 %1
+2 %-3
+0 %1
+7 %-2
+9 %
+-1 1 p .p
+th e re v a lu a tio
+C h g .(A
+) / (C )
+2 %7
+2 %-5
+4 %1
+4 %-5
+1 %
+-7 p .p
+n o f a s s e ts
+1 H 2 0 2 2(D
+)
+6 6
+(4 6
+2 0
+(4
+2 3
+3 5
+87151
+%
+)
+)
+1 H 2 0 2 1(E)
+5 3
+(2 6
+2 6
+(4
+2 9
+5 5
+45924
+%
+)
+)
+C h g .(D
+) / (E)
+2 57
+6-1
+0 08-2
+1
+-2 0 p
+%%%%%
+.p
+Braskem Idesa 2Q22 Earnings Release
+COGS 2Q2022
+Depreciation/
+Amortization
+14%
+Ethane
+39%
+Energy
+1%
+Fixed Cost
+7%
+Other Variable
+Cost
+18%
+Natural Gas
+Sales Freight 13%
+8%
+Financial Results
+Net Financial Results for 2Q22 were down compared to 1Q22 and 2Q21, due to i) the hedge
+accounting realization associated with the $10 MM Term Loan prepayment, ii) higher exchange rate
+variation due to the depreciation of the Mexican peso against the U.S. dollar on the outstanding
+balance of Braskem Idesa’s loan compared to 2021 and iii) the amortization of the transaction costs
+associated with the full refinancing of the Project Finance debt.
+9
+F
+N
+N
+F
+in
+e
+e
+in
+F in a n c ia l R e suP
+s. M illio n
+a n c ia l R e v e n u e s + (E x p e n se s)
+t F o re ig n E x c h a n g e V a ria tio n
+t F in a n c ia l R e su lt
+a l E x c h a n g e R a te ( D o lla r. M e x ic a
+lt
+n P e so )
+2 Q 2 0 2 2(A
+)
+(1 ,5 7
+(4 4
+(2 ,0 2
+1 9 .9
+5
+6
+1
+8
+)
+)
+)
+1 Q 2 0 2 2(B
+)
+(1 ,4 2
+9 8
+(4 4
+1 9 .9
+5
+5
+0
+9
+)
+)
+2 Q 2 0 2 1(C
+)
+(1 ,3 8
+1 ,4 6
+8
+1 9 .8
+0
+2
+2
+0
+)
+(A
+C h g .)
+/ (B )
+1 0 %
+n .a
+n .a
+0 %
+.
+.
+C h g .(A
+) / (C )
+1 4 %
+n .a
+n .a
+1 %
+.
+.
+1 H 2 0 2 2(D
+)
+(3 ,0 0
+5 3
+(2 ,4 6
+1 9 .9
+0
+9
+1
+9
+)
+)
+1 H 2 0 2 1(E
+)
+(3 ,3 0
+(1 ,1 1
+(4 ,4 2
+2 0 .2
+8
+9
+6
+0
+)
+)
+)
+C h g .(D
+) / (E )
+-9 %
+n .a
+-4 4 %0 %
+-1 %
+.
+Braskem Idesa 2Q22 Earnings Release
+LIQUIDITY & RATIOS
+Free Cash Flow Generation
+For 2Q22, the operating cash generation decreased compared to 1Q22 and 2Q21 due to a decrease
+in EBITDA and higher investing activities during the period related to the ethane import terminal.
+Debt Profile
+For 2Q22, the average term debt was around of 8.3 years with 94% of maturity coming due after
+2029. Braskem Idesa's weighted average debt cost was +7.2%.
+During May, Braskem Idesa prepaid US$ 10 million of the Term Loan, decreasing the loan’s
+outstanding debt to US$ 140 million.
+Debt Amortization Profile (US$ MM) as of June 2022
+1200
+900
+407
+82.5
+12.5 22.5 22.5
+2022 2023 2024 2025 2026 2027 2028 2029 - 2032
+Cash Term Loan 2029 Notes 2032 Notes
+*Debt profile does not consider accrued interest for 2022
+10
+E
+CC
+B
+aa
+C a sh F lo w G e n e ra
+U S $ m illio nIT
+D AC
+h a n g e s in W o rk in g C a p ita lIn
+v e stin g a c tiv itie ssh
+G e n e ra tio nsh
+C o n v e rsio n (% )
+tio n 2 Q 2 0 2 2(A
+)
+9 6
+1 4
+(4 0
+6 97
+2 %
+)
+1 Q 2 0 2 2(B
+)
+1 3 6
+(2 0
+(9
+1 0 77
+9 %
+))
+2 Q 2 0 2 1(C
+)
+1 9 4
+(6 2
+(5
+1 2 76
+5 %
+))
+(A
+C h g .)
+/ (B )-2
+9 %n
+.an
+.a-3
+5 %-9
+%
+..
+(A
+C h g .)
+/ (C )-5
+1 %n
+.an
+.a-4
+5 %1
+1 %
+..
+1 H 2 0 2 2(D
+)
+2 3 1
+(6
+(4 9
+1 7 77
+6 %
+))
+1 H 2 0 2 1(E
+)
+2 9 4
+(9 2
+(1 0
+1 9 26
+5 %
+))
+(D
+C h g .)
+/ (E )-2
+1 %n
+.a .n
+.a .0
+%1
+1 p .p
+Braskem Idesa 2Q22 Earnings Release
+Cash and Liquidity
+At the end of 2Q22, Braskem Idesa held a cash balance of US$ 407 million. The cash position is held
+95% in USD, in low-risk investments, and 5% in Mexican Pesos.
+In May, Braskem Idesa distributed US$10 million to its shareholder Idesa.
+Ratios
+For 2Q22, Braskem Idesa’s Net Debt/EBITDA ratio was 3.2x backed by a strong cash generation and
+solid cash position at the end of the period.
+Agency Rating Perspective
+Fitch BB- Stable
+S&P B+ Stable
+11
+D e b t
+U S D M illio n
+G r o s s D e b t
+In M X N
+In U S D
+C a s h a n d C a s h E q u iv a
+In M X N
+In U S D
+N e t D e b t
+In M X N
+In U S D
+E B IT D A ( L T M )
+N e t D e b t / E B IT D A
+* N e t D e b t / E B I T D A a
+le
+m
+n
+o
+t
+u
+s
+n t s a r
+J u n - 2 2
+( A )
+4 3 ,9 2 9
+2 ,1 9 8
+8 ,1 4 1
+4 0 7
+3 5 ,7 8 9
+1 ,7 9 1
+5 5 8
+3 .2
+e in U S D
+D e c - 2 1
+( B )
+4 5 ,0 9 7
+2 ,1 9 1
+6 ,4 9 6
+3 1 6
+3 8 ,6 0 1
+1 ,8 7 5
+6 2 1
+3 .0
+Braskem Idesa 2Q22 Earnings Release
+INVESTMENTS & VALUE CREATION
+Projects Pipeline
+Imported Capacity
+CAPEX Description
+Ethane Projects (kbpd)
+Fast Track 3.0 35 kbpd ~US$20
+• Project to add containers, increase discharge stations and the
+Expansion million
+number of trucks to grow the current installed capacity of Fast
+Track from a monthly average of 25 kbpd to 35 kbpd
+• Project progress: 70%
+• Start-up: 4Q22e
+Ethane Import Up to ~US$400
+• Braskem Idesa began the ethane import terminal project to
+Terminal 80kbpd million
+complement the supply from PEMEX and guarantee the
+complex’s long-term full utilization
+• Agreement in place with PEMEX and Mexican government
+entities for administrative support to be provided for the
+development of the terminal including licenses and permits,
+land purchase, etc. to avoid delays
+• The project is included within the government’s program
+“Corredor Interoceánico” to develop the southeastern region of
+the country
+• Terminal Química Puerto México SAPI de CV was constituted
+under the Mexican law in October 2021
+• Investment approved by BI’s shareholders in December 2021
+• Licenses and permits process ongoing
+• EPC early works led by ICA Fluor
+• Engineering phase progress is 68% progress
+• Critical equipment already being purchased
+• Subsequent events: In July, the construction phase began at the
+site of the ethane import terminal
+• Total disbursement as of June 30th, 2022: US$ 26.1 million
+• Project progress: 15%
+• Start-up: 2H24e
+12
+Braskem Idesa 2Q22 Earnings Release
+CAPEX
+In 2Q22, Braskem Idesa invested US$ 40 million, mainly in Strategic Projects (Ethane Import
+Terminal and Fast Track 3.0), reliability expenditures, and royalties related to HDPE licenses.
+13
+T
+S
+O
+o
+In
+t r a
+p e
+t a
+v e
+t e
+r a
+l
+s
+g
+t
+t m
+ic
+io n
+e
+a
+n
+l
+t s 2
+P s . M illio
+6 3
+1 7
+8 0
+Q
+n
+5
+2
+7
+2 0 2 2
+U S $ M M
+3 2
+9
+4 0
+P
+Y T D
+s . M illio
+6 5 3
+3 3 1
+9 8 4
+n
+2 0 2 2
+U S $ M M
+3
+1
+4
+3
+7
+9
+Braskem Idesa 2Q22 Earnings Release
+FINANCIAL STATEMENTS:
+EXHIBIT I: Braskem Idesa - Income Statement 12
+EXHIBIT II: Braskem Idesa - Balance Sheet 13
+EXHIBIT III: Braskem Idesa - Cash Flow Statement 14
+For more information, do not hesitate to contact Braskem Idesa’s Investor Relations Department by calling +52 55 6234-
+1112 or by sending an e-mail irbraskemidesa@braskem.com .
+FORWARD-LOOKING STATEMENTS
+This release contains forward-looking statements. These forward-looking statements are not solely historical data but
+reflect Braskem IDESA's management's targets and expectations. Words such as "anticipate," "wish," "expect," "foresee,"
+"intend," "plan," "predict," "project," "aim," and similar terms seek to identify statements that necessarily involve known
+and unknown risks. Braskem does not undertake any liability for transactions or investment decisions based on the
+information contained in this document.
+14
+Braskem Idesa 2Q22 Earnings Release
+EXHIBIT I
+Braskem Idesa - Income Statement
+15
+RCG
+ON
+L
+N
+In c o m e S t a t e m e n t
+( P s . m illio n )e
+v e n u eo
+s t o f G o o d S o ldr
+o s s P r o fitS
+e llin g E x p e n s e sA
+d m in is tr a tiv e E x p e n s e sO
+th e r In c o m eO
+th e r E x p e n s e sp
+e r a t in g P r o fit (L o s s ) B e fo r e F in a n c ia l R ee
+t F in a n c ia l R e s u ltF
+in a n c ia l E x p e n s e sF
+in a n c ia l In c o m eE
+x c h a n g e r a te e ffe c to
+s s B e fo r e T a x
+In c o m e T a x B e n e fit
+e t P r o fit (L o s s ) fo r t h e P e r io d
+s u lt
+2 Q 2 0 2 2(A
+)
+6 ,7 0 9
+(5 ,0 1 6
+1 ,6 9 3
+(2 1 8
+(2 1 2
+9
+(6 4
+1 ,2 0 8
+(2 ,0 2 1
+(1 ,5 9 3
+1 8
+(4 4 6
+(8 1 3
+5 7
+(7 5 6
+)
+))
+)
+))
+))
+)
+1 Q 2 0 2 2(B
+)
+7 ,1 0
+(4 ,6 1
+2 ,4 9
+(2 5
+(2 0
+4
+(1
+2 ,0 7
+(4 4
+(1 ,4 3
+1
+9 8
+1 ,6 3
+(7 1
+9 1
+85354920072507
+3
+)
+))
+)
+))
+)
+2 Q 2 0 2 1(C
+)
+6 ,5 7 3
+(3 ,2 2 5
+3 ,3 4 9
+(1 7 3
+(2 2 2
+(1 9
+(4
+2 ,9 3 2
+8 2
+(1 ,3 8 5
+4
+1 ,4 6 2
+3 ,0 1 3
+(9 9 7
+2 ,0 1 7
+)
+))))
+)
+)
+(A
+C h)
+/
+g .
+(B )-6
+%9
+%-3
+2 %-1
+4 %4
+%-8
+1 %n
+.a-4
+2 %n
+.a1
+1 %5
+8 %n
+.an
+.an
+.a
+n .a
+.
+.
+...
+.
+(A
+C h)
+/
+g .
+(C )2
+%5
+6 %-4
+9 %2
+6 %-4
+%n
+.an
+.a-5
+9 %n
+.a1
+5 %n
+.an
+.an
+.an
+.a
+n .a
+..
+.
+....
+.
+Braskem Idesa 2Q22 Earnings Release
+EXHIBIT II
+Braskem Idesa - Balance Sheet
+16
+C
+N
+T
+C
+N
+E
+T
+u
+o
+o
+u
+o
+q
+o
+A S S E T S(
+P s . m illio n )r
+r e n t
+C a s h a n d c a s h e q u iv a le n tsA
+c c o u n ts r e c e iv a b le , n e tIn
+v e n to r ie sIn
+c o m e ta x e sO
+th e r r e c o v e r a b le ta x e sP
+r e p a id e x p e n s e sO
+th e r a c c o u n ts r e c e iv a b le s -r e la te d p a r tie sO
+th e r a s s e ts
+n C u r r e n t
+P r o p e r ty , p la n t a n d e q u ip m e n t, n e tR
+ig h t o f u s eIn
+ta n g ib le a s s e ts
+D e fe r r e d in c o m e ta xO
+th e r r e c o v e r a b le ta x e sO
+th e r a c c o u n ts r e c e iv a b le s -r e la te d p a r tie sO
+th e r a s s e ts
+t a l A s s e t s
+L IA B IL IT IE S A N D S H A R E H O L D E R(
+P s . m illio n )r
+r e n t
+S u p p lie r sB
+a n k lo a n s , c u r r e n t p o r tio nO
+th e r a c c o u n ts p a y a b le s -r e la te d p a r tie sP
+a y r o ll a n d r e la te d c h a r g e sT
+a x e s p a y a b leL
+o n g te r m in c e n tiv eA
+c c o u n ts p a y a b le a n d o th e r a c c r u e d e x p e nL
+e a s e lia b ility
+n C u r r e n t lia b ilit ie s
+E m p lo y e e s ’ b e n e fitsB
+a n k lo a n sO
+th e r a c c o u n ts p a y a b le s -r e la te d p a r tie sL
+o n g te r m in c e n tiv eL
+e a s e lia b ility
+u it y
+C a p ita l S to c kO
+th e r c o m p r e h e n s iv e r e s u ltsA
+c c u m u la te d lo s s e s
+t a l L ia b ilit ie s a n d E q u it y
+S
+s
+´E
+e s
+Q U IT Y
+J u n e ,2 0 2 2(A
+)
+1 6 ,3 5 1 ,2 4
+8 ,1 4 0 ,5 1
+2 ,6 4 9 ,5 2
+3 ,9 5 6 ,5 4
+5 5 ,8 1
+1 3 4 ,1 0
+2 5 5 ,9 0
+1 ,0 0 4 ,6 9
+1 5 4 ,1 4
+6 6 ,2 2 0 ,8 7
+5 8 ,9 2 8 ,7 9
+1 ,1 8 2 ,8 5
+1 ,1 2 3 ,9 2
+3 ,3 2 4 ,3 1
+9 9 6 ,0 4
+-
+6 6 4 ,9 5
+8 2 ,5 7 2 ,1 2
+5 ,1 4 5 ,4 0
+2 ,0 5 6 ,5 8
+5 8 6 ,1 9
+1 ,8 8 8 ,3 3
+1 0 7 ,1 2
+-
+-
+2 5 4 ,7 2
+2 5 2 ,4 4
+9 4 ,4 6 7 ,0 3
+8 8 ,5 6
+4 3 ,3 4 3 ,1 9
+4 9 ,9 4 7 ,0 8
+1 8 ,6 6
+1 ,0 6 9 ,5 2
+(1 7 ,0 4 0 ,3 2
+5 ,7 7 4 ,5 1
+2 ,8 5 5 ,3 6
+(2 5 ,6 7 0 ,1 9
+8 2 ,5 7 2 ,1 2
+4
+66241168
+8
+10524
+6
+2
+7
+6843
+06
+5
+9
+4
+1
+2
+9
+0
+808
+2
+)
+)
+D e c e m b e r , 2 0 2 1(B
+)
+1 5 ,2 0 9 ,5 6
+6 ,4 9 5 ,7 1
+3 ,1 1 6 ,1 2
+3 ,7 5 7 ,2 7
+5 5 ,4 8
+2 7 6 ,7 2
+1 ,3 6 0 ,4 6
+1 4 7 ,7 7
+6 7 ,6 4 3 ,5 5
+5 9 ,6 1 6 ,9 9
+1 ,2 9 0 ,3 2
+1 ,1 1 6 ,3 7
+4 ,5 3 3 ,8 5
+9 8 2 ,8 5
+-
+1 0 3 ,1 5
+8 2 ,8 5 3 ,1 1
+4 ,9 5 3 ,5 8
+2 ,5 7 0 ,2 0
+3 1 7 ,8 2
+1 ,2 7 3 ,5 7
+2 7 1 ,4 4
+1 9 ,4 0
+4 ,4 0
+2 1 5 ,2 6
+2 8 1 ,4 7
+9 6 ,5 5 5 ,7 9
+8 0 ,4 7
+4 4 ,7 7 9 ,3 7
+5 0 ,4 7 5 ,0 4
+2 0 ,4 7
+1 ,2 0 0 ,4 2
+(1 8 ,6 5 6 ,2 6
+5 ,7 7 4 ,5 1
+1 ,3 9 6 ,1 8
+(2 5 ,8 2 6 ,9 6
+8 2 ,8 5 3 ,1 1
+1
+9605
+218
+8
+32663
+8
+9
+8
+50214475
+1
+56901
+0
+831
+9
+)
+)
+C h(A
+C h(A
+a n g e)
+/ (B )
+8
+2 5-1
+551n-8-2
+64
+-2
+-1-81-2
+71nn
+0
+a n g e)
+/ (B )
+4
+-2 08
+44
+8-6
+1nn1
+8-1
+0
+-2
+1 0-3-1-9-1
+1
+-9
+0n-1
+0
+%
+%%%%.a%%%
+%
+%%%%%.a.a
+%
+%
+%%%%.a.a%%
+%
+%%%%%
+%
+%.a%
+%
+Braskem Idesa 2Q22 Earnings Release
+EXHIBIT III
+Braskem Idesa - Cash Flow Statement
+17
+N
+N
+N
+C
+C a sh Flo w(
+P s. m illio n )
+C a sh flo w fro m o p e ra tin g a ctivitie sP
+ro fit (lo ss) b e fo re in co m e ta xA
+d ju stm e n ts fo r re co n cilia tio n o f p ro fit (lo ss)D
+e p re cia tio n a n d a m o rtiza tio nR
+igh t o f u se a m o rtiza tio nE
+m p lo ye e s' b e n e fits co stB
+o rro w in g a ccru e d in te re stR
+e la te d p a rtie s in te re stLe
+a sin g in te re st a ccru e dU
+n re a lize d e xch a n ge ra te flu ctu a tio n s - N e tD
+o n a tio n o f p ro p e rty, p la n t a n d e q u ip m e n tD
+e riva tive fin a n cia l in stru m e n tsD
+e fe rre d In co m e ta xC
+h a n ge s in w o rk in g ca p ita l:A
+cco u n ts re ce iva b leIn
+ve n to rie sR
+e co ve ra b le ta xe sP
+re p a id e xp e n se sR
+e la te d p a rtie sO
+th e r a sse tsSu
+p p lie rsLo
+n g te rm in ce n tiveA
+cco u n ts p a ya b le a n d o th e r lia b ilitie se
+t ca sh flo w fro m o p e ra tin g a ctivitie s
+C a sh flo w s fro m in ve stin g a ctivitie sC
+a p ita lize d b o rro w in g co stsIn
+ve stin g a ctivitie s:A
+cq u isitio n o f p ro p e rty, p la n t a n d e q u ip m e n t a n d in ta n gib le a sse tsP
+ro ce e d s a sso cia te d w ith sa le s o f p ro p e rty, p la n t a n d e q u ip m e n te
+t ca sh flo w fro m in ve stin g a ctivitie s
+Fin a n cin g a ctivitie s:B
+a n k lo a n s p a idIn
+te re st b a n k lo a n s p a idIn
+te re st b o n d p a idP
+a ym e n ts fo r th e p rin cip a l p o rtio n o f th e le a se lia b ilitie sLe
+a sin g in te re st p a idE
+q u ity co n trib u tio n se
+t ca sh flo w s fro m fin a n cin g a ctivitie s
+In cre a se in ca sh a n d ca sh e q u iva le n tsC
+a sh a n d ca sh e q u iva le n ts a t th e b e gin in g fo r th e p e rio d
+a sh a n d ca sh e q u iva le n ts a t th e e n d fo r th e p e rio d
+2 Q 2 0 2 2(A
+)
+1 ,8 3 3 ,5 7
+(8 1 2 ,7 0
+8 4 3 ,5 1
+5 3 ,5 4
+4 ,0 4
+8 0 0 ,5 1
+5 5 7 ,3 1
+1 7 ,7 6
+(1 0 0 ,6 0
+-
+3 2 3 ,9 0
+1 4 6 ,2 8
+2 2 1 ,2 0
+8 3 2 ,9 6
+(3 0 1 ,7 5
+(1 7 1 ,9 1
+6 3 ,4 9
+4 9 2 ,7 8
+(5 6 0 ,0 6
+(4 2 ,8 6
+(7 ,3 9
+(8 4 ,0 3
+2 ,0 5 4 ,7 7
+(8 1 0 ,8 3
+(8 1 0 ,8 3
+(2 0 3 ,7 7
+(6 8 1 ,2 2
+(5 0 ,0 7
+(1 7 ,7 6
+(9 5 2 ,8 3
+2 9 1 ,1 0
+7 ,8 4 9 ,4 1
+8 ,1 4 0 ,5 1
+07
+7572558
+0424895788822
+6
+6
+2815
+6
+15
+6
+)
+)
+))
+))))
+)
+)
+))))
+)
+1 Q 2 0 2 2(B
+)
+2 ,6 9 9 ,0 9
+1 ,6 2 9 ,9 5
+8 3 8 ,9 8
+5 3 ,9 2
+4 ,0 4
+7 8 0 ,9 7
+5 6 3 ,8 0
+1 8 ,4 0
+(1 ,3 8 5 ,0 9
+-
+(2 6 1 ,9 2
+4 5 5 ,9 9
+(4 8 5 ,3 1
+(3 4 0 ,3 9
+1 0 4 ,0 5
+4 ,8 9
+(4 2 ,6 7
+3 6 0 ,8 8
+(8 ,6 3
+(4 6 3 ,8 5
+1 ,1 8
+(1 0 0 ,7 8
+2 ,2 1 3 ,7 7
+(1 9 1 ,0 1
+(1 9 1 ,0 1
+(3 2 ,3 1
+(5 6 8 ,5 2
+(4 9 ,8 1
+(1 8 ,4 0
+(6 6 9 ,0 6
+1 ,3 5 3 ,6 9
+6 ,4 9 5 ,7 1
+7 ,8 4 9 ,4 1
+29
+8776750
+6985044761604
+6
+6
+3595
+2
+69
+5
+)
+)
+))
+)
+))
+)
+)
+)
+))))
+)
+2 Q 2 0 2 1(C
+)
+3 ,8 6 6 ,6
+3 ,0 1 3 ,1
+1 ,0 2 3 ,5
+5 7 ,0
+3 ,5
+6 1 2 ,0
+5 6 4 ,5
+2 0 ,1
+(1 ,9 9 0 ,6
+8
+(1 3 7 ,5
+6 9 9 ,8
+(1 ,3 9 9 ,8
+(9 2 7 ,2
+1 7 3 ,6
+2 9 7 ,1
+7 0 ,3
+(7 6 6 ,9
+(1 9 4 ,5
+9 7 ,3
+(1 ,3
+(1 4 8 ,3
+2 ,4 6 6 ,8
+(5 9 ,7
+(5 9 ,7
+(1 ,0 4 7 ,3
+(2 9 2 ,2
+(6 7 2 ,1
+(4 8 ,6
+(2 0 ,1
+(2 ,0 8 0 ,5
+3 2 6 ,5
+3 ,5 7 2 ,3
+3 ,8 9 8 ,9
+56
+452347162812993165444
+2
+2
+14537
+2
+93
+2
+77
+897400597548990392503
+3
+3
+64970
+6
+41
+5
+)
+)
+))
+))
+))
+)
+)
+)))))
+)
+C h g.(A
+) / (B )
+-3 2 %n
+.a .
+1 %-1
+%0
+%3
+%-1
+%-3
+%-9
+3 %n
+.a .n
+.a .-6
+8 %n
+.a .n
+.a .n
+.a .n
+.a .n
+.a .3
+7 %n
+.a .-9
+1 %n
+.a .-1
+7 %-7
+%
+n .a .
+n .a .
+n .a .n
+.a .n
+.a .1
+%-3
+%
+4 2 %
+-7 8 %2
+1 %
+4 %
+C h g.(A
+) / (C )
+-5 3 %n
+.a .
+-1 8 %-6
+%1
+5 %3
+1 %-1
+%-1
+2 %-9
+5 %n
+.a .n
+.a .-7
+9 %n
+.a .n
+.a .n
+.a .n
+.a .-1
+0 %n
+.a .n
+.a .n
+.a .n
+.a .-4
+3 %-1
+7 %
+n .a .
+n .a .
+n .a .n
+.a .n
+.a .3
+%-1
+2 %
+-5 4 %
+-1 1 %n
+.a .
+n .a .
